@@ -1,0 +1,52 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.page-hero {
+  background: linear-gradient(135deg, var(--primary-color) 0%, #2a5f2e 100%);
+  color: white;
+  padding: 8rem 0 4rem;
+  text-align: center;
+}
+
+.page-hero-content h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.page-hero-content p {
+  font-size: 1.2rem;
+  opacity: 0.9;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 0 1rem;
+  }
+
+  .page-hero {
+    padding: 6rem 0 3rem;
+  }
+
+  .page-hero-content h1 {
+    font-size: 2.5rem;
+  }
+
+  .page-hero-content p {
+    font-size: 1.1rem;
+  }
+}

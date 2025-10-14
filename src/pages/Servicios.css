@@ -1,0 +1,311 @@
+.servicios {
+  width: 100%;
+}
+
+.servicios-intro {
+  padding: 5rem 0;
+  background-color: var(--accent-color);
+  text-align: center;
+}
+
+.servicios-intro h2 {
+  font-size: 2.5rem;
+  color: var(--primary-color);
+  margin-bottom: 1.5rem;
+}
+
+.servicios-intro p {
+  font-size: 1.2rem;
+  color: #666;
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.8;
+}
+
+.servicios-grid-section {
+  padding: 5rem 0;
+  background-color: white;
+}
+
+.servicios-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 2.5rem;
+}
+
+.servicio-card {
+  background-color: white;
+  border: 2px solid #f0f0f0;
+  border-radius: 15px;
+  padding: 2.5rem;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.servicio-card:hover {
+  transform: translateY(-10px);
+  border-color: var(--primary-color);
+  box-shadow: 0 15px 40px rgba(35, 79, 39, 0.1);
+}
+
+.servicio-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  background: linear-gradient(90deg, var(--primary-color), #2a5f2e);
+  transform: scaleX(0);
+  transition: transform 0.3s ease;
+}
+
+.servicio-card:hover::before {
+  transform: scaleX(1);
+}
+
+.servicio-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+.servicio-icono {
+  font-size: 3rem;
+  margin-right: 1rem;
+  filter: grayscale(100%);
+  transition: filter 0.3s ease;
+}
+
+.servicio-card:hover .servicio-icono {
+  filter: grayscale(0%);
+}
+
+.servicio-header h3 {
+  font-size: 1.8rem;
+  color: var(--primary-color);
+  margin: 0;
+}
+
+.servicio-descripcion {
+  font-size: 1.1rem;
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+}
+
+.servicio-caracteristicas h4 {
+  color: var(--primary-color);
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+}
+
+.servicio-caracteristicas ul {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 2rem;
+}
+
+.servicio-caracteristicas li {
+  position: relative;
+  padding: 0.5rem 0 0.5rem 1.5rem;
+  color: #555;
+}
+
+.servicio-caracteristicas li::before {
+  content: '✓';
+  position: absolute;
+  left: 0;
+  color: var(--primary-color);
+  font-weight: 700;
+}
+
+.solicitar-btn {
+  width: 100%;
+  background-color: var(--primary-color);
+  color: white;
+  border: none;
+  padding: 1rem;
+  border-radius: 8px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: 1rem;
+}
+
+.solicitar-btn:hover {
+  background-color: #1a3d1e;
+  transform: translateY(-2px);
+}
+
+.metodologia-section {
+  padding: 5rem 0;
+  background: linear-gradient(135deg, var(--primary-color) 0%, #2a5f2e 100%);
+  color: white;
+}
+
+.metodologia-section h2 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 3rem;
+  color: white;
+}
+
+.metodologia-pasos {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+}
+
+.paso {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+  padding: 2rem;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 15px;
+  transition: transform 0.3s ease;
+}
+
+.paso:hover {
+  transform: translateY(-5px);
+}
+
+.paso-numero {
+  background-color: white;
+  color: var(--primary-color);
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+.paso-content h3 {
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+  color: white;
+}
+
+.paso-content p {
+  color: rgba(255, 255, 255, 0.9);
+  line-height: 1.6;
+}
+
+.cta-servicios {
+  padding: 5rem 0;
+  background-color: var(--accent-color);
+  text-align: center;
+}
+
+.cta-servicios h2 {
+  font-size: 2.5rem;
+  color: var(--primary-color);
+  margin-bottom: 1rem;
+}
+
+.cta-servicios p {
+  font-size: 1.2rem;
+  color: #666;
+  margin-bottom: 2.5rem;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cta-buttons {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.cta-button {
+  display: inline-block;
+  padding: 1rem 2rem;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 700;
+  transition: all 0.3s ease;
+  border: 2px solid var(--primary-color);
+}
+
+.cta-button.primary {
+  background-color: var(--primary-color);
+  color: white;
+}
+
+.cta-button.primary:hover {
+  background-color: #1a3d1e;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(35, 79, 39, 0.3);
+}
+
+.cta-button.secondary {
+  background-color: transparent;
+  color: var(--primary-color);
+}
+
+.cta-button.secondary:hover {
+  background-color: var(--primary-color);
+  color: white;
+  transform: translateY(-2px);
+}
+
+@media (max-width: 768px) {
+  .servicios-intro h2 {
+    font-size: 2rem;
+  }
+
+  .servicios-grid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .servicio-card {
+    padding: 2rem;
+  }
+
+  .servicio-header {
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+  }
+
+  .servicio-icono {
+    margin-right: 0;
+    margin-bottom: 1rem;
+  }
+
+  .metodologia-section h2 {
+    font-size: 2rem;
+  }
+
+  .metodologia-pasos {
+    grid-template-columns: 1fr;
+  }
+
+  .paso {
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+  }
+
+  .cta-servicios h2 {
+    font-size: 2rem;
+  }
+
+  .cta-buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .cta-button {
+    width: 250px;
+  }
+}
