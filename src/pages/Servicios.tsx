@@ -1,114 +1,122 @@
-import React from 'react';
+﻿import React from 'react';
 import './Servicios.css';
 
 const Servicios: React.FC = () => {
   const servicios = [
     {
       id: 1,
-      titulo: "Formación y Liderazgo",
-      descripcion: "Diseño e implementación de programas educativos de capacitación en liderazgo transformacional con énfasis en formulación de proyectos.",
-      icono: "👨‍💼",
+      titulo: 'Formación y Liderazgo',
+      descripcion:
+        'Diseño e implementación de programas educativos de capacitación en liderazgo transformacional con énfasis en formulación de proyectos.',
+      icono: '👨‍💼',
       caracteristicas: [
-        "Liderazgo Transformacional",
-        "Formulación de Proyectos",
-        "Programas Educativos",
-        "Capacitación Gerencial"
+        'Liderazgo Transformacional',
+        'Formulación de Proyectos',
+        'Programas Educativos',
+        'Capacitación Gerencial'
       ]
     },
     {
       id: 2,
-      titulo: "Educación Innovadora",
-      descripcion: "Formulación y ejecución de proyectos orientados al fortalecimiento de capacidades institucionales en el marco de estrategias como Universidad en tu Colegio.",
-      icono: "🎓",
+      titulo: 'Educación Innovadora',
+      descripcion:
+        'Formulación y ejecución de proyectos orientados al fortalecimiento de capacidades institucionales en el marco de estrategias como Universidad en tu Colegio.',
+      icono: '🎓',
       caracteristicas: [
-        "Universidad en tu Colegio",
-        "Fortalecimiento Institucional",
-        "Capacidades Educativas",
-        "Innovación Pedagógica"
+        'Universidad en tu Colegio',
+        'Fortalecimiento Institucional',
+        'Capacidades Educativas',
+        'Innovación Pedagógica'
       ]
     },
     {
       id: 3,
-      titulo: "Infraestructura Modular",
-      descripcion: "Suministro e implementación de sistemas modulares para espacios educativos.",
-      icono: "🏗️",
+      titulo: 'Infraestructura Modular',
+      descripcion: 'Suministro e implementación de sistemas modulares para espacios educativos.',
+      icono: '🏗️',
       caracteristicas: [
-        "Sistemas Modulares",
-        "Espacios Educativos",
-        "Construcción Flexible",
-        "Diseño Funcional"
+        'Sistemas Modulares',
+        'Espacios Educativos',
+        'Construcción Flexible',
+        'Diseño Funcional'
       ]
     },
     {
       id: 4,
-      titulo: "Infraestructura Tecnológica y Energías Alternativas",
-      descripcion: "Diseño e implementación de soluciones para dotación tecnológica, conectividad rural, entornos digitales educativos, y proyectos de energías limpias.",
-      icono: "⚡",
+      titulo: 'Infraestructura Tecnológica y Energías Alternativas',
+      descripcion:
+        'Diseño e implementación de soluciones para dotación tecnológica, conectividad rural, entornos digitales educativos, y proyectos de energías limpias.',
+      icono: '⚡',
       caracteristicas: [
-        "Dotación Tecnológica",
-        "Conectividad Rural",
-        "Entornos Digitales Educativos",
-        "Sistemas Solares Autónomos"
+        'Dotación Tecnológica',
+        'Conectividad Rural',
+        'Entornos Digitales Educativos',
+        'Sistemas Solares Autónomos'
       ]
     },
     {
       id: 5,
-      titulo: "Tecnología Aplicada al Desarrollo",
-      descripcion: "Desarrollo de soluciones digitales para la visualización y análisis de indicadores que orienten decisiones de alto impacto en planes y proyectos territoriales.",
-      icono: "💻",
+      titulo: 'Tecnología Aplicada al Desarrollo',
+      descripcion:
+        'Desarrollo de soluciones digitales para la visualización y análisis de indicadores que orienten decisiones de alto impacto en planes y proyectos territoriales.',
+      icono: '💻',
       caracteristicas: [
-        "Soluciones Digitales",
-        "Análisis de Indicadores",
-        "Visualización de Datos",
-        "Decisiones de Alto Impacto"
+        'Soluciones Digitales',
+        'Análisis de Indicadores',
+        'Visualización de Datos',
+        'Decisiones de Alto Impacto'
       ]
     },
     {
       id: 6,
-      titulo: "Educación y Tecnologías Emergentes",
-      descripcion: "Diseño e implementación de programas educativos de capacitación en tecnologías para la agricultura de precisión como IoT y drones.",
-      icono: "🚁",
+      titulo: 'Educación y Tecnologías Emergentes',
+      descripcion:
+        'Diseño e implementación de programas educativos de capacitación en tecnologías para la agricultura de precisión como IoT y drones.',
+      icono: '🚁',
       caracteristicas: [
-        "Agricultura de Precisión",
-        "Internet de las Cosas (IoT)",
-        "Tecnología de Drones",
-        "Territorios Productivos"
+        'Agricultura de Precisión',
+        'Internet de las Cosas (IoT)',
+        'Tecnología de Drones',
+        'Territorios Productivos'
       ]
     },
     {
       id: 7,
-      titulo: "Medio Ambiente y Gestión del Riesgo",
-      descripcion: "Diseño e implementación de sistemas de alertas tempranas, gestión del riesgo, cambio climático, sostenibilidad ambiental y agricultura sostenible.",
-      icono: "🌍",
+      titulo: 'Medio Ambiente y Gestión del Riesgo',
+      descripcion:
+        'Diseño e implementación de sistemas de alertas tempranas, gestión del riesgo, cambio climático, sostenibilidad ambiental y agricultura sostenible.',
+      icono: '🌍',
       caracteristicas: [
-        "Sistemas de Alertas Tempranas",
-        "Gestión del Riesgo Climático",
-        "Caracterización Biofísica",
-        "Agricultura Sostenible"
+        'Sistemas de Alertas Tempranas',
+        'Gestión del Riesgo Climático',
+        'Caracterización Biofísica',
+        'Agricultura Sostenible'
       ]
     },
     {
       id: 8,
-      titulo: "Intervención Social y Acompañamiento Comunitario",
-      descripcion: "Formulación e intervención para la atención y fortalecimiento de poblaciones vulnerables, incluyendo comunidades rurales, étnicas, jóvenes, mujeres y víctimas del conflicto.",
-      icono: "🤝",
+      titulo: 'Intervención Social y Acompañamiento Comunitario',
+      descripcion:
+        'Formulación e intervención para la atención y fortalecimiento de poblaciones vulnerables, incluyendo comunidades rurales, étnicas, jóvenes, mujeres y víctimas del conflicto.',
+      icono: '🤝',
       caracteristicas: [
-        "Poblaciones Vulnerables",
-        "Comunidades Étnicas",
-        "Enfoque Territorial",
-        "Desarrollo Social Integral"
+        'Poblaciones Vulnerables',
+        'Comunidades Étnicas',
+        'Enfoque Territorial',
+        'Desarrollo Social Integral'
       ]
     },
     {
       id: 9,
-      titulo: "Comunicación Estratégica",
-      descripcion: "Diseño de campañas y piezas comunicativas que fortalecen la relación entre instituciones y ciudadanía, visibilizando los impactos de la gestión pública.",
-      icono: "📢",
+      titulo: 'Comunicación Estratégica',
+      descripcion:
+        'Diseño de campañas y piezas comunicativas que fortalecen la relación entre instituciones y ciudadanía, visibilizando los impactos de la gestión pública.',
+      icono: '📢',
       caracteristicas: [
-        "Campañas Comunicativas",
-        "Relación Institucional",
-        "Visibilización de Impactos",
-        "Gestión Pública Efectiva"
+        'Campañas Comunicativas',
+        'Relación Institucional',
+        'Visibilización de Impactos',
+        'Gestión Pública Efectiva'
       ]
     }
   ];
@@ -126,7 +134,7 @@ const Servicios: React.FC = () => {
         <div className="container">
           <h2>Servicios especializados para el desarrollo territorial</h2>
           <p>
-            En FUNPDETER ofrecemos una amplia gama de servicios diseñados para
+            En FUNDETER ofrecemos una amplia gama de servicios diseñados para
             responder a las necesidades específicas de cada territorio y comunidad.
             Nuestro enfoque integral combina experiencia técnica con compromiso social.
           </p>
@@ -151,7 +159,7 @@ const Servicios: React.FC = () => {
                     ))}
                   </ul>
                 </div>
-                <button className="solicitar-btn">Solicitar información</button>
+                <a href="/contactos" className="solicitar-btn">Solicitar información</a>
               </div>
             ))}
           </div>

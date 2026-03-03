@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+﻿import React, { useState } from 'react';
 import './Contactos.css';
 
 const Contactos: React.FC = () => {
@@ -9,6 +9,8 @@ const Contactos: React.FC = () => {
     asunto: '',
     mensaje: ''
   });
+  const [isSubmitting, setIsSubmitting] = useState(false);
+  const [submitStatus, setSubmitStatus] = useState<{ type: 'success' | 'error'; message: string } | null>(null);
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
     setFormData({
@@ -17,40 +19,60 @@ const Contactos: React.FC = () => {
     });
   };
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+    setSubmitStatus(null);
+    setIsSubmitting(true);
 
-    // Crear el asunto del email
-    const subject = `Contacto desde web - ${formData.asunto}`;
+    try {
+      const response = await fetch('https://formsubmit.co/ajax/info@fundeter.org', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          Accept: 'application/json'
+        },
+        body: JSON.stringify({
+          nombre: formData.nombre,
+          email: formData.email,
+          telefono: formData.telefono || 'No proporcionado',
+          asunto: formData.asunto,
+          mensaje: formData.mensaje,
+          _subject: `Contacto desde web - ${formData.asunto}`,
+          _template: 'table',
+          _captcha: 'false'
+        })
+      });
 
-    // Crear el cuerpo del email
-    const body = `
-Nombre: ${formData.nombre}
-Email: ${formData.email}
-Teléfono: ${formData.telefono || 'No proporcionado'}
-Asunto: ${formData.asunto}
+      if (!response.ok) {
+        throw new Error('No se pudo enviar el formulario.');
+      }
 
-Mensaje:
-${formData.mensaje}
+      const data = await response.json();
 
----
-Enviado desde el formulario de contacto de FUNPDETER
-    `;
+      if (data.success !== 'true' && data.success !== true) {
+        throw new Error('El servicio de correo no confirmó el envío.');
+      }
 
-    // Crear el enlace mailto
-    const mailtoLink = `mailto:funpdeter@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+      setSubmitStatus({
+        type: 'success',
+        message: 'Mensaje enviado correctamente. Te responderemos pronto.'
+      });
 
-    // Abrir el cliente de email
-    window.location.href = mailtoLink;
-
-    // Resetear el formulario
-    setFormData({
-      nombre: '',
-      email: '',
-      telefono: '',
-      asunto: '',
-      mensaje: ''
-    });
+      setFormData({
+        nombre: '',
+        email: '',
+        telefono: '',
+        asunto: '',
+        mensaje: ''
+      });
+    } catch (error) {
+      setSubmitStatus({
+        type: 'error',
+        message: 'No fue posible enviar el mensaje. Intenta nuevamente en unos minutos.'
+      });
+    } finally {
+      setIsSubmitting(false);
+    }
   };
 
   return (
@@ -68,22 +90,22 @@ Enviado desde el formulario de contacto de FUNPDETER
             <div className="contacto-info">
               <h2>Conversemos sobre tu proyecto</h2>
               <p>
-                En FUNPDETER estamos comprometidos con el desarrollo territorial
+                En FUNDETER estamos comprometidos con el desarrollo territorial
                 y el fortalecimiento de las comunidades. Contáctanos para conocer
                 cómo podemos ayudarte.
               </p>
 
               <div className="info-cards">
                 <div className="info-card">
-                  <div className="info-icon">📧</div>
+                  <div className="info-icon">✉️</div>
                   <div className="info-content">
                     <h3>Email</h3>
-                    <p>funpdeter@gmail.com</p>
+                    <p>info@fundeter.org</p>
                   </div>
                 </div>
 
                 <div className="info-card">
-                  <div className="info-icon">📱</div>
+                  <div className="info-icon">📞</div>
                   <div className="info-content">
                     <h3>Teléfono</h3>
                     <p>+57 313 744 9160</p>
@@ -94,7 +116,7 @@ Enviado desde el formulario de contacto de FUNPDETER
                   <div className="info-icon">📍</div>
                   <div className="info-content">
                     <h3>Ubicación</h3>
-                    <p>Santa Marta – Magdalena</p>
+                    <p>Santa Marta - Magdalena</p>
                     <p>Servicio en todo el territorio nacional</p>
                   </div>
                 </div>
@@ -181,9 +203,14 @@ Enviado desde el formulario de contacto de FUNPDETER
                   ></textarea>
                 </div>
 
-                <button type="submit" className="submit-btn">
-                  Enviar mensaje
+                <button type="submit" className="submit-btn" disabled={isSubmitting}>
+                  {isSubmitting ? 'Enviando...' : 'Enviar mensaje'}
                 </button>
+                {submitStatus && (
+                  <p className={`form-status ${submitStatus.type}`}>
+                    {submitStatus.message}
+                  </p>
+                )}
               </form>
             </div>
           </div>

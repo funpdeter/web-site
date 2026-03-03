@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 import './QuienesSomos.css';
 
 const QuienesSomos: React.FC = () => {
@@ -6,7 +6,7 @@ const QuienesSomos: React.FC = () => {
     <div className="quienes-somos">
       <section className="page-hero">
         <div className="page-hero-content">
-          <h1>Quienes Somos</h1>
+          <h1>¿Quiénes Somos?</h1>
           <p>Conoce nuestra historia, misión y el equipo que trabaja por el desarrollo territorial</p>
         </div>
       </section>
@@ -17,8 +17,8 @@ const QuienesSomos: React.FC = () => {
             <div className="content-text">
               <h2>¿Quiénes Somos?</h2>
               <p>
-                Somos la Fundación para la Planeación y el Desarrollo Territorial – FUNPDETER,
-                una entidad sin ánimo de lucro con sede en Santa Marta – Magdalena, con más de
+                Somos la Fundación para la Planeación y el Desarrollo Territorial - FUNDETER,
+                una entidad sin ánimo de lucro con sede en Santa Marta - Magdalena, con más de
                 10 años de trayectoria institucional.
               </p>
               <p>
@@ -28,7 +28,7 @@ const QuienesSomos: React.FC = () => {
               </p>
             </div>
             <div className="content-image">
-              <img src="/foto 2.jpeg" alt="Equipo trabajando" />
+              <img src="/foto 1.jpeg" alt="Equipo trabajando" />
             </div>
           </div>
         </div>
@@ -69,9 +69,7 @@ const QuienesSomos: React.FC = () => {
               sostenibilidad y eficiencia.
             </p>
             <p className="purpose-highlight">
-              En FUNPDETER, impulsamos proyectos y soluciones estratégicas que conectan la
-              planeación con la acción transformadora, sostenible y con sentido social en
-              los territorios.
+              En FUNDETER, conectamos la planeación con la acción, generando rutas estratégicas que transforman territorios de manera responsable, sostenible y con sentido social.
             </p>
           </div>
         </div>
@@ -83,16 +81,10 @@ const QuienesSomos: React.FC = () => {
             <h2>Objeto</h2>
             <div className="object-content">
               <p>
-                Asesorar en la formulación, administración, seguimiento y evaluación de proyectos
-                de inversión pública y privada a entidades del Estado, territoriales, así como a
-                entidades privadas y mixtas en temas como investigación, ciencia, tecnología e
-                innovación, planificación y desarrollo con el fin de aprovechar y canalizar recursos
-                a nivel nacional e internacional para el desarrollo de las regiones.
+                Asesorar en la formulación, administración, seguimiento y evaluación de proyectos de inversión pública y privada a entidades del Estado, territoriales, así como a entidades privadas y mixtas en temas como investigación, ciencia, tecnología e innovación, planificación y desarrollo con el fin de aprovechar y canalizar recursos a nivel nacional e internacional para el desarrollo de las regiones. Orientar a los entes territoriales para gestionar recursos del Sistema General de Regalías para generar resultados de alto impacto. Difundir conocimiento acerca de metodologías para la estructuración de proyectos, programas y planes.
               </p>
               <p>
-                Orientar a los entes territoriales para gestionar recursos del Sistema General de
-                Regalías para generar resultados de alto impacto. Difundir conocimiento acerca de
-                metodologías para la estructuración de proyectos, programas y planes.
+                Ejecución de obras civiles y proyectos de infraestructura exclusivamente cuando estas se desarrollen en el marco del cumplimiento del objeto social meritorio y en desarrollo de convenios, contratos o alianzas relacionadas con el desarrollo social, territorial, ambiental y educativo.
               </p>
               <p>
                 Establecer alianzas, convenios y relaciones de cooperación con entidades y
@@ -114,7 +106,8 @@ const QuienesSomos: React.FC = () => {
                 <div className="area-item">• Fortalecimiento institucional</div>
                 <div className="area-item">• Participación ciudadana</div>
                 <div className="area-item">• Cultura, recreación y deporte</div>
-                <div className="area-item">• Ejecución de contratos de obras civiles</div>
+                <div className="area-item">• Ejecución de obras civiles</div>
+                <div className="area-item">• Proyectos de infraestructura</div>
               </div>
               <p className="object-conclusion">
                 Contribuyendo así al cumplimiento de los planes de desarrollo territoriales y a
@@ -162,3 +155,6 @@ const QuienesSomos: React.FC = () => {
 };
 
 export default QuienesSomos;
+
+
+

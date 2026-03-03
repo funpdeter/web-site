@@ -135,6 +135,32 @@
   box-shadow: 0 4px 15px rgba(35, 79, 39, 0.3);
 }
 
+.submit-btn:disabled {
+  opacity: 0.75;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
+}
+
+.form-status {
+  margin-top: 1rem;
+  padding: 0.9rem 1rem;
+  border-radius: 8px;
+  font-weight: 700;
+}
+
+.form-status.success {
+  background-color: #e6f4ea;
+  border: 1px solid #b7dfbb;
+  color: #1b5e20;
+}
+
+.form-status.error {
+  background-color: #fdecea;
+  border: 1px solid #f3b5b5;
+  color: #8a1f1f;
+}
+
 .colaboracion-section {
   padding: 5rem 0;
   background: linear-gradient(135deg, var(--primary-color) 0%, #2a5f2e 100%);

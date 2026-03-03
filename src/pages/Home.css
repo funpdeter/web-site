@@ -1,4 +1,4 @@
-.home {
+﻿.home {
   width: 100%;
 }
 
@@ -10,21 +10,23 @@
   background-attachment: fixed;
   color: white;
   display: flex;
-  align-items: center;
+  align-items: flex-end;
   justify-content: center;
   text-align: center;
   padding: 2rem;
 }
 
 .hero-content {
-  max-width: 800px;
+  max-width: 720px;
   z-index: 2;
   position: relative;
   background: rgba(0, 0, 0, 0.3);
-  padding: 3rem;
+  padding: 2.7rem;
   border-radius: 15px;
   backdrop-filter: blur(5px);
   border: 1px solid rgba(255, 255, 255, 0.1);
+  margin-top: 0;
+  margin-bottom: clamp(30px, 8vh, 90px);
 }
 
 .hero-title {
@@ -156,13 +158,20 @@
 }
 
 .aliados-grid {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(280px, 1fr));
+  gap: 2rem;
+  align-items: stretch;
 }
 
 .aliado-simple {
-  max-width: 400px;
+  width: 100%;
+  min-height: 230px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.25rem;
+  background-color: #f8faf8;
   border-radius: 15px;
   overflow: hidden;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
@@ -176,13 +185,43 @@
 
 .aliado-simple img {
   width: 100%;
-  height: auto;
+  height: 180px;
+  object-fit: contain;
   display: block;
   transition: transform 0.3s ease;
 }
 
 .aliado-simple:hover img {
   transform: scale(1.05);
+}
+
+.home-footer-bottom {
+  background-color: var(--primary-color);
+  color: #ffffff;
+  padding: 2.25rem 0;
+}
+
+.home-footer-bottom-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2.5rem;
+  align-items: start;
+}
+
+.home-footer-col h4 {
+  font-size: 1.35rem;
+  margin-bottom: 0.9rem;
+  color: #ffffff;
+}
+
+.home-footer-col p {
+  margin: 0;
+  line-height: 1.7;
+  color: #ffffff;
+}
+
+.home-footer-col p + p {
+  margin-top: 0.5rem;
 }
 
 @media (max-width: 768px) {
@@ -192,7 +231,9 @@
   }
 
   .hero-content {
-    padding: 2rem;
+    padding: 1.8rem;
+    margin-top: 0;
+    margin-bottom: clamp(18px, 6vh, 42px);
   }
 
   .hero-title {
@@ -231,6 +272,20 @@
 
   .aliado-simple {
     max-width: 100%;
+  }
+
+  .aliados-grid {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+
+  .home-footer-bottom {
+    padding: 1.75rem 0;
+  }
+
+  .home-footer-bottom-content {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
   }
 
   .container {

@@ -1,4 +1,4 @@
-.proyectos {
+﻿.proyectos {
   width: 100%;
 }
 
@@ -77,14 +77,16 @@
   text-transform: uppercase;
 }
 
-.estado.completado {
+
+
+.estado.finalizado {
   background-color: #28a745;
   color: white;
 }
 
-.estado.en-ejecución {
+.estado.en-ejecucion {
   background-color: #ffc107;
-  color: #333;
+  color: #1f6b2d;
 }
 
 .proyecto-content {
@@ -286,12 +288,14 @@
   color: white;
 }
 
-.estado-badge.en-ejecución {
+.estado-badge.en-ejecucion {
   background-color: #ffc107;
-  color: #333;
+  color: #1f6b2d;
 }
 
-.estado-badge.completado {
+
+
+.estado-badge.finalizado {
   background-color: #28a745;
   color: white;
 }
@@ -302,10 +306,88 @@
   color: #555;
 }
 
+.articulos-section {
+  margin-top: 2rem;
+}
+
+.articulos-section h3 {
+  color: var(--primary-color);
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.articulos-list {
+  display: grid;
+  gap: 1.25rem;
+}
+
+.articulo-item {
+  background-color: #f4f5f7;
+  border-left: 5px solid #2f6b43;
+  border-radius: 12px;
+  padding: 1.5rem 1.8rem;
+}
+
+.articulo-titulo {
+  margin: 0 0 0.9rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: #1f2a3a;
+}
+
+.articulo-revista {
+  margin: 0 0 1rem;
+  font-size: 1.3rem;
+  font-style: italic;
+  font-weight: 600;
+  color: #5d6570;
+}
+
+.articulo-doi {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+}
+
+.articulo-doi-icon {
+  font-size: 1.2rem;
+  line-height: 1;
+}
+
+.articulo-doi a {
+  color: #0f4b2d;
+  font-size: 1.2rem;
+  font-weight: 700;
+  text-decoration: none;
+  display: inline-block;
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  vertical-align: bottom;
+}
+
+.articulo-doi a:hover {
+  text-decoration: underline;
+}
+
 .evidencias-section h3 {
   color: var(--primary-color);
   font-size: 1.5rem;
   margin-bottom: 1rem;
+}
+
+.evidencias-listado {
+  margin: 0 0 1.2rem;
+  padding-left: 1.2rem;
+  color: #4f5b66;
+  line-height: 1.7;
+}
+
+.evidencias-listado li {
+  margin-bottom: 0.35rem;
 }
 
 .evidencias-grid {
@@ -374,6 +456,26 @@
   .modal-content h2 {
     font-size: 1.5rem;
     margin-right: 2rem;
+  }
+
+  .articulos-section h3 {
+    font-size: 1.5rem;
+  }
+
+  .articulo-item {
+    padding: 1.2rem 1.1rem;
+  }
+
+  .articulo-titulo {
+    font-size: 1.6rem;
+  }
+
+  .articulo-revista {
+    font-size: 1.1rem;
+  }
+
+  .articulo-doi a {
+    font-size: 1.05rem;
   }
 
   .evidencias-grid {
