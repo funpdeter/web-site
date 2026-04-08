@@ -291,6 +291,31 @@
       "url": "https://www.grants.gov/search-results-detail/353413",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "hfcecc9fe": {
+      "at": "2026-04-08T19:01:28.263Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/eventos/convocatoria-fundacion-suiza-para-la-solidaridad-en-el-turismo",
+      "viable": false
+    },
+    "h503dbc86": {
+      "at": "2026-04-08T19:01:29.213Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/node/1352",
+      "viable": false
+    },
+    "h8b78ba8a": {
+      "at": "2026-04-08T19:01:40.954Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-propertyvalue-133112.html",
+      "viable": false
+    },
+    "hfaf7eaa1": {
+      "at": "2026-04-08T19:02:58.988Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/comunicaciones/noticias/fundacion-carolina-abrio-la-xxvi-convocatoria-de-becas-2026-2027-para",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
@@ -299,6 +324,14 @@
       "endedAt": "2026-04-08T16:15:21.934Z",
       "scannedCandidates": 9,
       "viableCandidates": 1,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-08T19:01:25.698Z",
+      "endedAt": "2026-04-08T19:02:58.991Z",
+      "scannedCandidates": 10,
+      "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
     }

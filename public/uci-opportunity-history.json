@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-04-08T16:15:21.933Z",
+  "updatedAt": "2026-04-08T19:02:58.990Z",
   "opportunities": [
+    {
+      "id": "h1e0187a1",
+      "sourceId": "apc-colombia",
+      "title": "Fundación Carolina abrió la XXVI convocatoria de becas 2026–2027 para estudios en España | Agencia Presidencial de Cooperación Internacional",
+      "source": "APC Colombia",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-04-09T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 19,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://www.apccolombia.gov.co/comunicaciones/noticias/fundacion-carolina-abrio-la-xxvi-convocatoria-de-becas-2026-2027-para",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-04-08T19:02:58.990Z",
+      "lastSeenAt": "2026-04-08T19:02:58.990Z",
+      "lastPublishedAt": "2026-04-08T19:02:58.990Z",
+      "isArchived": false
+    },
     {
       "id": "he37b2cef",
       "sourceId": "ted-europa",
@@ -21,7 +42,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-08T16:15:21.933Z",
       "lastPublishedAt": "2026-04-08T16:15:21.933Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd42464ed",
@@ -42,7 +63,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-08T16:15:21.933Z",
       "lastPublishedAt": "2026-04-08T16:15:21.933Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h40b35418",
@@ -63,7 +84,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-08T16:15:21.933Z",
       "lastPublishedAt": "2026-04-08T16:15:21.933Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf62832f9",
@@ -84,7 +105,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-08T16:15:21.933Z",
       "lastPublishedAt": "2026-04-08T16:15:21.933Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd73a8268",
@@ -105,7 +126,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-08T16:15:21.933Z",
       "lastPublishedAt": "2026-04-08T16:15:21.933Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha3225c08",
@@ -126,7 +147,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-08T16:15:21.933Z",
       "lastPublishedAt": "2026-04-08T16:15:21.933Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h779a81d4",
@@ -147,7 +168,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-08T16:15:21.933Z",
       "lastPublishedAt": "2026-04-08T16:15:21.933Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h85a3a119",
@@ -168,7 +189,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-08T16:15:21.933Z",
       "lastPublishedAt": "2026-04-08T16:15:21.933Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hcdd21647",
@@ -189,8 +210,8 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-08T16:15:21.933Z",
       "lastPublishedAt": "2026-04-08T16:15:21.933Z",
-      "isArchived": false
+      "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 9 | Archivadas: 0"
+  "message": "Historico acumulado del agente UCI-F. Total: 10 | Archivadas: 9"
 }
