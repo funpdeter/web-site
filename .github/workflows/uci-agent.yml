@@ -4,6 +4,17 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 */6 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/uci-agent.yml"
+      - ".env.uci-agent.example"
+      - "package.json"
+      - "package-lock.json"
+      - "automation/uci-agent/*.cjs"
+      - "automation/uci-agent/*.ps1"
+      - "automation/uci-agent/README.md"
 
 permissions:
   contents: write
