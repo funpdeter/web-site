@@ -292,6 +292,12 @@
       "url": "https://www.grants.gov/search-results-detail/353413",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "h87d62019": {
+      "at": "2026-04-08T05:17:54.028Z",
+      "sourceId": "apc-colombia",
+      "url": "https://apccolombia.gov.co/index.php/eventos/convocatoria-para-becas-de-la-fundacion-carolina",
+      "viable": false
     }
   },
   "scans": [
@@ -300,6 +306,14 @@
       "endedAt": "2026-04-08T05:11:24.555Z",
       "scannedCandidates": 10,
       "viableCandidates": 1,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-08T05:17:50.086Z",
+      "endedAt": "2026-04-08T05:19:49.206Z",
+      "scannedCandidates": 9,
+      "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
     }
