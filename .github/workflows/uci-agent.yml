@@ -54,13 +54,13 @@ jobs:
       RESEND_FROM: ${{ secrets.RESEND_FROM }}
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           fetch-depth: 0
           ref: ${{ github.ref_name }}
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
           node-version: "20"
           cache: npm
@@ -86,7 +86,7 @@ jobs:
 
       - name: Upload generated packages
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: uci-agent-output-${{ github.run_number }}
           path: automation/uci-agent/output/
