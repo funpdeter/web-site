@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# FUNDETER Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a Create React App site for `www.fundeter.org`.
 
 ## Available Scripts
 
@@ -8,105 +8,102 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Runs the app in development mode at `http://localhost:3000`.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Launches the test runner in interactive watch mode.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Builds the app for production in the `build` folder.
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Copies the build configuration into the repository. This action is not reversible.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## UCI-F Agent
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+This repository includes an automation agent in `automation/uci-agent` that:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-## UCI-F Agent (Automation)
-
-This repository now includes an automation agent at `automation/uci-agent` that:
-
-- scans opportunities online (national + international sources),
+- scans national and international opportunity sources,
 - applies FUNDETER automatic filters,
 - scores opportunities with the eligibility matrix,
-- generates 3 files per viable opportunity,
-- notifies `info@fundeter.org` by email,
-- updates `public/uci-opportunity.json` for the Gestión-UCI section.
+- generates supporting files for detected opportunities,
+- notifies `info@fundeter.org` by email when configured,
+- updates `public/uci-opportunity.json`,
+- updates `public/uci-opportunity-history.json`,
+- persists deduplication in `automation/uci-agent/state/processed-opportunities.json`.
 
-### Run once
+### Run Once
 
 ```bash
 npm run uci-agent:once
 ```
 
-### Run continuously
+### Run Continuously
 
 ```bash
 npm run uci-agent:watch
 ```
 
-### Environment file
+### Environment File
 
 1. Copy `.env.uci-agent.example` to `.env.uci-agent`.
 2. Set the mail transport:
-   - `UCI_MAIL_TRANSPORT=console` (no real email),
-   - `UCI_MAIL_TRANSPORT=smtp` (requires `SMTP_*`),
-   - `UCI_MAIL_TRANSPORT=resend` (requires `RESEND_*`).
-3. Optional: limit sources with `UCI_SOURCE_IDS=usaid,minciencias`.
-4. Optional (Windows): register scheduled execution:
+   - `UCI_MAIL_TRANSPORT=console`
+   - `UCI_MAIL_TRANSPORT=smtp`
+   - `UCI_MAIL_TRANSPORT=resend`
+3. Optionally limit sources with `UCI_SOURCE_IDS=usaid,minciencias`.
+4. Optionally register scheduled execution on Windows:
 
 ```powershell
 powershell -ExecutionPolicy Bypass -File automation/uci-agent/register-scheduled-task.ps1 -IntervalHours 6
 ```
 
-### GitHub Actions automation
+## GitHub Actions
 
-This repository can also run the agent automatically from GitHub Actions through
-`.github/workflows/uci-agent.yml`.
+### UCI Agent Automation
 
-What the workflow does:
+`.github/workflows/uci-agent.yml`:
 
-- runs every 6 hours and also allows manual execution,
-- installs dependencies and executes `npm run uci-agent:once`,
-- updates `public/uci-opportunity.json`,
-- persists deduplication in `automation/uci-agent/state/processed-opportunities.json`,
-- uploads generated opportunity packages as workflow artifacts,
-- commits the updated snapshot and state back to `main`.
+- runs every 6 hours and also supports manual execution,
+- installs dependencies and runs `npm run uci-agent:once`,
+- updates the public UCI snapshot and history files,
+- uploads generated packages as workflow artifacts,
+- commits updated state back to `main`.
 
 Recommended repository variables:
 
-- `UCI_MAIL_TRANSPORT=console|smtp|resend`
-- `UCI_NOTIFY_EMAIL=info@fundeter.org`
-- `UCI_SOURCE_IDS=` for optional source filtering
-- optional tuning variables such as `UCI_MAX_DAYS_AHEAD`, `UCI_MIN_AMOUNT_USD`, `UCI_MAX_AMOUNT_USD`
+- `UCI_MAIL_TRANSPORT`
+- `UCI_NOTIFY_EMAIL`
+- `UCI_SOURCE_IDS`
+- `UCI_MAX_DAYS_AHEAD`
+- `UCI_MIN_AMOUNT_USD`
+- `UCI_MAX_AMOUNT_USD`
 
-Required secrets only when using real email delivery:
+Optional email secrets:
 
-- SMTP mode: `SMTP_HOST`, `SMTP_PORT`, `SMTP_SECURE`, `SMTP_USER`, `SMTP_PASS`, `SMTP_FROM`
-- Resend mode: `RESEND_API_KEY`, `RESEND_FROM`
+- `SMTP_HOST`, `SMTP_PORT`, `SMTP_SECURE`, `SMTP_USER`, `SMTP_PASS`, `SMTP_FROM`
+- `RESEND_API_KEY`, `RESEND_FROM`
 
-If your production site rebuilds from GitHub on each push, the updated
-`public/uci-opportunity.json` will be published automatically after every workflow run.
+### Vercel Production Deployment
+
+`www.fundeter.org` is currently served by Vercel.
+
+`.github/workflows/deploy-vercel.yml` deploys the frontend on every push to `main`,
+including the automatic commits produced by the UCI agent.
+
+Required GitHub repository secrets:
+
+- `VERCEL_TOKEN`
+- `VERCEL_ORG_ID`
+- `VERCEL_PROJECT_ID`
+
+How to obtain them:
+
+1. Link the project locally with `npx vercel link`, or open the Vercel dashboard.
+2. Read `orgId` and `projectId` from `.vercel/project.json` after linking, or copy them from the Vercel project settings.
+3. Add the values as GitHub Actions secrets in this repository.
+
+Once those secrets are configured, every push to `main` will deploy the latest frontend bundle and the updated `public/uci-opportunity*.json` files to production.
