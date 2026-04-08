@@ -1,3 +1,4 @@
+const fs = require("fs");
 const { SOURCE_CATALOG, DISCOVERY_KEYWORDS, OPPORTUNITY_URL_HINTS } = require("./sources.cjs");
 const { fetchText, sleep } = require("./http.cjs");
 const {
@@ -13,7 +14,11 @@ const {
 const { repairText } = require("./text.cjs");
 const { evaluateFilters, evaluateMatrix, isViable } = require("./eligibility.cjs");
 const { loadState, saveState, hasSeen, markSeen } = require("./state.cjs");
-const { writeOpportunityPackage, writePublicOpportunitySnapshot } = require("./generator.cjs");
+const {
+  writeOpportunityPackage,
+  writePublicOpportunitySnapshot,
+  writePublicOpportunityHistory,
+} = require("./generator.cjs");
 const { sendOpportunityEmail } = require("./mailer.cjs");
 
 const TED_API_URL = "https://api.ted.europa.eu/v3/notices/search";
@@ -22,6 +27,7 @@ const MINCIENCIAS_ACTEI_PLAN_URL =
   "https://minciencias.gov.co/plan-convocatorias-actei-2025-2026-0";
 const SNAPSHOT_TARGET_REGIONS = ["COLOMBIA", "USA", "EUROPA"];
 const MAX_PUBLISHED_OPPORTUNITIES = 10;
+const MAX_HISTORY_OPPORTUNITIES = 250;
 const MIN_REGION_QUOTAS = {
   COLOMBIA: 3,
   USA: 1,
@@ -542,7 +548,7 @@ function rankSnapshotCandidates(candidates) {
   });
 }
 
-function toPublicSnapshotOpportunity(candidate) {
+function toPublicOpportunityRecord(candidate) {
   const hasDetectedAmount =
     candidate.opportunity.detectedAmount !== null &&
     candidate.opportunity.detectedAmount !== undefined;
@@ -555,6 +561,8 @@ function toPublicSnapshotOpportunity(candidate) {
     detectedCurrency || (Number.isFinite(amountUsd) ? "USD" : "");
 
   return {
+    id: candidate.opportunity.id,
+    sourceId: candidate.opportunity.sourceId,
     title: repairText(candidate.opportunity.title),
     source: repairText(candidate.opportunity.sourceName),
     sourceTier: candidate.opportunity.sourceTier,
@@ -573,6 +581,34 @@ function toPublicSnapshotOpportunity(candidate) {
     url: candidate.opportunity.url,
     publicationNumber: candidate.opportunity.publicationNumber || null,
   };
+}
+
+function toPublicSnapshotOpportunity(candidate) {
+  return toPublicOpportunityRecord(candidate);
+}
+
+function getPublicOpportunityKey(record) {
+  if (!record || typeof record !== "object") {
+    return "";
+  }
+  return String(
+    record.id ||
+      record.publicationNumber ||
+      record.url ||
+      `${record.source || ""}|${record.title || ""}`
+  ).trim();
+}
+
+function readPublicOpportunityHistory(filePath) {
+  try {
+    if (!fs.existsSync(filePath)) {
+      return null;
+    }
+    const raw = fs.readFileSync(filePath, "utf-8");
+    return JSON.parse(raw);
+  } catch (_error) {
+    return null;
+  }
 }
 
 function buildPublicSnapshot(candidates) {
@@ -675,6 +711,84 @@ function buildPublicSnapshot(candidates) {
       selected.length > 0
         ? `Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. ${regionSummary}`
         : "No se encontraron oportunidades evaluadas en este ciclo.",
+  };
+}
+
+function buildPublicHistory(candidates, historyFilePath) {
+  const updatedAt = new Date().toISOString();
+  const previousHistory = readPublicOpportunityHistory(historyFilePath);
+  const previousRecords = Array.isArray(previousHistory?.opportunities)
+    ? previousHistory.opportunities
+    : [];
+  const merged = new Map();
+
+  for (const record of previousRecords) {
+    const key = getPublicOpportunityKey(record);
+    if (!key) {
+      continue;
+    }
+    merged.set(key, {
+      ...record,
+      title: repairText(record.title),
+      source: repairText(record.source),
+      firstSeenAt: record.firstSeenAt || record.lastSeenAt || record.updatedAt || updatedAt,
+      lastSeenAt: record.lastSeenAt || record.updatedAt || updatedAt,
+      lastPublishedAt: record.lastPublishedAt || record.lastSeenAt || record.updatedAt || updatedAt,
+      isArchived: record.isArchived !== undefined ? Boolean(record.isArchived) : true,
+    });
+  }
+
+  const currentKeys = new Set();
+  const ranked = rankSnapshotCandidates(candidates);
+
+  for (const candidate of ranked) {
+    const record = toPublicOpportunityRecord(candidate);
+    const key = getPublicOpportunityKey(record);
+    if (!key) {
+      continue;
+    }
+    currentKeys.add(key);
+    const previousRecord = merged.get(key);
+    merged.set(key, {
+      ...previousRecord,
+      ...record,
+      firstSeenAt: previousRecord?.firstSeenAt || updatedAt,
+      lastSeenAt: updatedAt,
+      lastPublishedAt: updatedAt,
+      isArchived: false,
+    });
+  }
+
+  const opportunities = Array.from(merged.values())
+    .map((record) => {
+      const key = getPublicOpportunityKey(record);
+      return {
+        ...record,
+        isArchived: !currentKeys.has(key),
+      };
+    })
+    .sort((a, b) => {
+      const lastSeenA = new Date(a.lastSeenAt || a.firstSeenAt || 0).getTime();
+      const lastSeenB = new Date(b.lastSeenAt || b.firstSeenAt || 0).getTime();
+      if (lastSeenA !== lastSeenB) {
+        return lastSeenB - lastSeenA;
+      }
+      const firstSeenA = new Date(a.firstSeenAt || 0).getTime();
+      const firstSeenB = new Date(b.firstSeenAt || 0).getTime();
+      return firstSeenB - firstSeenA;
+    })
+    .slice(0, MAX_HISTORY_OPPORTUNITIES);
+
+  const archivedCount = opportunities.filter((record) => record.isArchived).length;
+
+  return {
+    hasOpportunities: opportunities.length > 0,
+    updatedAt,
+    opportunities,
+    message:
+      opportunities.length > 0
+        ? `Historico acumulado del agente UCI-F. Total: ${opportunities.length} | Archivadas: ${archivedCount}`
+        : "Aun no hay historico de oportunidades publicado.",
   };
 }
 
@@ -1496,6 +1610,18 @@ async function runAgentCycle(config, logger) {
     });
   }
 
+  try {
+    writePublicOpportunityHistory(
+      config.publicOpportunityHistoryFile,
+      buildPublicHistory(snapshotCandidates, config.publicOpportunityHistoryFile)
+    );
+  } catch (error) {
+    logger.warn("No se pudo actualizar el historico publico de oportunidades.", {
+      file: config.publicOpportunityHistoryFile,
+      error: error.message,
+    });
+  }
+
   state.scans.push({
     startedAt,
     endedAt: new Date().toISOString(),
@@ -1530,4 +1656,5 @@ module.exports = {
   dedupeLinks,
   inferOpportunityRegion,
   buildPublicSnapshot,
+  buildPublicHistory,
 };

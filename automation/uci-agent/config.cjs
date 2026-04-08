@@ -62,6 +62,9 @@ const config = {
   publicOpportunityFile:
     process.env.UCI_PUBLIC_OPPORTUNITY_FILE ||
     path.resolve(__dirname, "..", "..", "public", "uci-opportunity.json"),
+  publicOpportunityHistoryFile:
+    process.env.UCI_PUBLIC_OPPORTUNITY_HISTORY_FILE ||
+    path.resolve(__dirname, "..", "..", "public", "uci-opportunity-history.json"),
   stateFile:
     process.env.UCI_STATE_FILE ||
     path.resolve(__dirname, "state", "processed-opportunities.json"),

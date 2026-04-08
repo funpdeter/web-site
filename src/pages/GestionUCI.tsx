@@ -2,6 +2,8 @@ import React, { useEffect, useMemo, useState } from 'react';
 import './GestionUCI.css';
 
 interface OpportunityCardData {
+  id?: string;
+  sourceId?: string;
   title?: string;
   source?: string;
   sourceTier?: string;
@@ -14,6 +16,11 @@ interface OpportunityCardData {
   recommendation?: string;
   isViable?: boolean;
   url?: string;
+  publicationNumber?: string | null;
+  firstSeenAt?: string;
+  lastSeenAt?: string;
+  lastPublishedAt?: string;
+  isArchived?: boolean;
 }
 
 interface OpportunitySnapshot {
@@ -100,6 +107,15 @@ function formatDate(dateIso?: string): string {
   return date.toISOString().slice(0, 10);
 }
 
+function makeOpportunityKey(opportunity: OpportunityCardData): string {
+  return String(
+    opportunity.id ||
+      opportunity.publicationNumber ||
+      opportunity.url ||
+      `${opportunity.source || ''}|${opportunity.title || ''}`
+  ).trim();
+}
+
 function formatAmount(opportunity: OpportunityCardData): string {
   const currency = String(opportunity.currency || '').toUpperCase();
   const amount = opportunity.amount;
@@ -146,6 +162,8 @@ function normalizeLegacySnapshot(data: OpportunitySnapshot): OpportunityCardData
 
 const GestionUCI: React.FC = () => {
   const [snapshot, setSnapshot] = useState<OpportunitySnapshot | null>(null);
+  const [historySnapshot, setHistorySnapshot] = useState<OpportunitySnapshot | null>(null);
+  const [showHistory, setShowHistory] = useState(false);
 
   useEffect(() => {
     let mounted = true;
@@ -167,6 +185,26 @@ const GestionUCI: React.FC = () => {
       } catch (_error) {
         // Fallback silencioso al contenido base.
       }
+
+      try {
+        const historyResponse = await fetch(
+          `${process.env.PUBLIC_URL}/uci-opportunity-history.json?ts=${Date.now()}`,
+          {
+            cache: 'no-store',
+          }
+        );
+
+        if (!historyResponse.ok) {
+          return;
+        }
+
+        const historyData = (await historyResponse.json()) as OpportunitySnapshot;
+        if (mounted && historyData && typeof historyData === 'object') {
+          setHistorySnapshot(historyData);
+        }
+      } catch (_error) {
+        // Fallback silencioso al contenido base.
+      }
     };
 
     loadSnapshot();
@@ -176,7 +214,7 @@ const GestionUCI: React.FC = () => {
     };
   }, []);
 
-  const opportunities = useMemo(() => {
+  const liveOpportunities = useMemo(() => {
     const fromSnapshot = Array.isArray(snapshot?.opportunities)
       ? snapshot?.opportunities || []
       : snapshot
@@ -206,8 +244,12 @@ const GestionUCI: React.FC = () => {
       .slice()
       .sort((a, b) => priority(a.region) - priority(b.region));
 
-    if (prioritized.length) {
-      const output: OpportunityCardData[] = prioritized.slice();
+    return prioritized;
+  }, [snapshot]);
+
+  const opportunities = useMemo(() => {
+    if (liveOpportunities.length) {
+      const output: OpportunityCardData[] = liveOpportunities.slice();
       if (!output.some((item) => normalizeRegion(item.region) === 'Colombia')) {
         output.unshift(fallbackColombia);
       }
@@ -221,7 +263,32 @@ const GestionUCI: React.FC = () => {
     }
 
     return [fallbackColombia, fallbackUSA, fallbackEurope];
-  }, [snapshot]);
+  }, [liveOpportunities]);
+
+  const historyOpportunities = useMemo(() => {
+    const historyItems = historySnapshot?.opportunities;
+
+    if (!Array.isArray(historyItems)) {
+      return [];
+    }
+
+    return historyItems.map((item) => ({
+      ...item,
+      region: normalizeRegion(item.region),
+    }));
+  }, [historySnapshot]);
+
+  const archivedOpportunities = useMemo(() => {
+    const currentKeys = new Set(liveOpportunities.map(makeOpportunityKey).filter(Boolean));
+
+    return historyOpportunities.filter((item) => {
+      const key = makeOpportunityKey(item);
+      if (!key) {
+        return false;
+      }
+      return Boolean(item.isArchived) || !currentKeys.has(key);
+    });
+  }, [historyOpportunities, liveOpportunities]);
 
   return (
     <div className="gestion-uci">
@@ -240,6 +307,17 @@ const GestionUCI: React.FC = () => {
             <p>
               Aquí publicaremos oportunidades reales detectadas y evaluadas por nuestros agentes especializados
             </p>
+            <div className="hero-actions uci-heading-actions">
+              <button
+                type="button"
+                className="cta-button history-toggle-button"
+                onClick={() => setShowHistory((current) => !current)}
+              >
+                {showHistory
+                  ? 'Ocultar histórico'
+                  : `Ver histórico de convocatorias${archivedOpportunities.length ? ` (${archivedOpportunities.length})` : ''}`}
+              </button>
+            </div>
           </div>
 
           <div className="opportunity-list">
@@ -289,6 +367,69 @@ const GestionUCI: React.FC = () => {
               </article>
             ))}
           </div>
+
+          {showHistory ? (
+            <div className="uci-history-shell">
+              <div className="uci-history-heading">
+                <h3>Histórico de convocatorias</h3>
+                <p>
+                  Aquí puedes consultar oportunidades que ya salieron del listado principal pero quedaron
+                  registradas por el agente UCI-F.
+                </p>
+              </div>
+
+              {archivedOpportunities.length ? (
+                <div className="uci-history-list">
+                  {archivedOpportunities.map((opportunity, index) => (
+                    <article className="uci-history-card" key={`${makeOpportunityKey(opportunity)}-${index}`}>
+                      <div className="uci-history-status">Convocatoria archivada</div>
+                      <h3>{opportunity.title || 'Sin título disponible'}</h3>
+
+                      <div className="uci-history-meta">
+                        <p>
+                          <strong>Región:</strong> {normalizeRegion(opportunity.region)}
+                        </p>
+                        <p>
+                          <strong>Fuente:</strong> {opportunity.source || 'No identificada'}
+                        </p>
+                        <p>
+                          <strong>Fecha límite:</strong> {formatDate(opportunity.deadline)}
+                        </p>
+                        <p>
+                          <strong>Monto detectado:</strong> {formatAmount(opportunity)}
+                        </p>
+                        <p>
+                          <strong>Resultado:</strong> {opportunity.recommendation || 'No disponible'}
+                        </p>
+                        <p>
+                          <strong>Última aparición:</strong> {formatDate(opportunity.lastSeenAt)}
+                        </p>
+                      </div>
+
+                      <div className="hero-actions opportunity-actions history-actions">
+                        {opportunity.url ? (
+                          <a
+                            href={opportunity.url}
+                            className="cta-button"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                          >
+                            Ver convocatoria
+                          </a>
+                        ) : (
+                          <span className="cta-button secondary disabled">Enlace no disponible</span>
+                        )}
+                      </div>
+                    </article>
+                  ))}
+                </div>
+              ) : (
+                <div className="uci-history-empty">
+                  Aún no hay convocatorias archivadas fuera del listado principal.
+                </div>
+              )}
+            </div>
+          ) : null}
         </div>
       </section>
 

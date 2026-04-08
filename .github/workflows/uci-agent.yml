@@ -100,6 +100,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
           git add public/uci-opportunity.json
+          git add public/uci-opportunity-history.json
           git add -f automation/uci-agent/state/processed-opportunities.json
 
           if git diff --cached --quiet; then

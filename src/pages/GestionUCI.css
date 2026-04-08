@@ -58,11 +58,110 @@
   color: #4e5d52;
 }
 
+.uci-heading-actions {
+  margin-top: 1.5rem;
+  justify-content: center;
+}
+
+.uci-heading-actions .history-toggle-button {
+  border-radius: 8px;
+  background-color: var(--primary-color);
+  color: #ffffff;
+  border: 2px solid var(--primary-color);
+  font-weight: 700;
+  min-width: 270px;
+  cursor: pointer;
+}
+
+.uci-heading-actions .history-toggle-button:hover {
+  background-color: transparent;
+  color: var(--primary-color);
+  box-shadow: 0 10px 24px rgba(35, 79, 39, 0.14);
+}
+
 .opportunity-list {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   gap: 1.55rem;
   align-items: stretch;
+}
+
+.uci-history-shell {
+  margin-top: 2rem;
+  padding: 2rem;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.82);
+  border: 1px solid rgba(35, 79, 39, 0.1);
+  box-shadow: 0 14px 32px rgba(35, 79, 39, 0.08);
+}
+
+.uci-history-heading {
+  max-width: 760px;
+  margin-bottom: 1.5rem;
+}
+
+.uci-history-heading h3 {
+  margin-bottom: 0.55rem;
+  color: var(--primary-color);
+}
+
+.uci-history-heading p {
+  margin: 0;
+  line-height: 1.7;
+  color: #4e5d52;
+}
+
+.uci-history-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.35rem;
+}
+
+.uci-history-card {
+  border-radius: 18px;
+  padding: 1.6rem;
+  background: linear-gradient(180deg, #ffffff 0%, #f6faf6 100%);
+  border: 1px solid rgba(35, 79, 39, 0.12);
+  box-shadow: 0 12px 26px rgba(35, 79, 39, 0.08);
+}
+
+.uci-history-status {
+  display: inline-block;
+  margin-bottom: 0.9rem;
+  padding: 0.38rem 0.8rem;
+  border-radius: 999px;
+  background: rgba(35, 79, 39, 0.1);
+  color: var(--primary-color);
+  font-weight: 700;
+  font-size: 0.86rem;
+}
+
+.uci-history-card h3 {
+  margin-bottom: 1rem;
+  color: #1c3a21;
+  font-size: 1.26rem;
+}
+
+.uci-history-meta p {
+  margin: 0 0 0.5rem;
+  line-height: 1.6;
+  color: #2f4133;
+}
+
+.uci-history-meta strong {
+  color: #1c3a21;
+}
+
+.history-actions .cta-button {
+  min-width: 210px;
+}
+
+.uci-history-empty {
+  padding: 1.2rem 1.3rem;
+  border-radius: 14px;
+  background: rgba(35, 79, 39, 0.07);
+  color: #2f4133;
+  border: 1px dashed rgba(35, 79, 39, 0.18);
 }
 
 .opportunity-card {
@@ -207,6 +306,14 @@
     padding: 1.45rem;
   }
 
+  .uci-history-shell {
+    padding: 1.4rem;
+  }
+
+  .uci-history-list {
+    grid-template-columns: 1fr;
+  }
+
   .opportunity-card h3 {
     font-size: 1.26rem;
   }
@@ -216,6 +323,10 @@
   }
 
   .gestion-uci .opportunity-actions .cta-button {
+    min-width: 100%;
+  }
+
+  .uci-heading-actions .history-toggle-button {
     min-width: 100%;
   }
 }

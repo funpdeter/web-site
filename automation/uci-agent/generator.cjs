@@ -197,7 +197,13 @@ function writePublicOpportunitySnapshot(filePath, snapshot) {
   fs.writeFileSync(filePath, JSON.stringify(snapshot, null, 2), "utf-8");
 }
 
+function writePublicOpportunityHistory(filePath, history) {
+  ensureDir(path.dirname(filePath));
+  fs.writeFileSync(filePath, JSON.stringify(history, null, 2), "utf-8");
+}
+
 module.exports = {
   writeOpportunityPackage,
   writePublicOpportunitySnapshot,
+  writePublicOpportunityHistory,
 };
