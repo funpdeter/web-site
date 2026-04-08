@@ -19,7 +19,7 @@ const QuienesSomos: React.FC = () => {
               <p>
                 Somos la Fundación para la Planeación y el Desarrollo Territorial - FUNDETER,
                 una entidad sin ánimo de lucro con sede en Santa Marta - Magdalena, con más de
-                10 años de trayectoria institucional.
+                12 años de trayectoria institucional.
               </p>
               <p>
                 Contamos con un equipo profesional altamente calificado en ingeniería, gerencia
@@ -147,6 +147,23 @@ const QuienesSomos: React.FC = () => {
               <h4>Eficiencia</h4>
               <p>Optimizamos el uso de recursos nacionales e internacionales para maximizar el impacto.</p>
             </div>
+          </div>
+        </div>
+      </section>
+
+      <section className="quienes-footer-bottom">
+        <div className="container home-footer-bottom-content">
+          <div className="home-footer-col">
+            <h4>FUNDETER-ORG</h4>
+            <p>
+              Somos una entidad sin ánimo de lucro con sede en Santa Marta - Magdalena, con más de 12 años de trayectoria institucional. Planeamos y transformamos territorios con sentido social.
+            </p>
+          </div>
+          <div className="home-footer-col">
+            <h4>Información de contacto</h4>
+            <p>✉️ info@fundeter.org</p>
+            <p>📲+57 313 744 9160</p>
+            <p>📍 Carrera 66 # 48 - 106 Casa M3 Urbanización San Lorenzo, Santa Marta D.T.C.H. - Colombia.</p>
           </div>
         </div>
       </section>

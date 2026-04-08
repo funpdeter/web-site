@@ -162,39 +162,65 @@
 }
 
 .colaboracion-section {
+  position: relative;
   padding: 5rem 0;
   background: linear-gradient(135deg, var(--primary-color) 0%, #2a5f2e 100%);
   color: white;
   text-align: center;
 }
 
-.colaboracion-section h2 {
+.colaboracion-section::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 0;
+  width: min(1200px, calc(100% - 4rem));
+  height: 1px;
+  background: rgba(255, 255, 255, 0.35);
+}
+
+.colaboracion-hero-content {
+  max-width: 1080px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 2;
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 2.7rem;
+  border-radius: 15px;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.colaboracion-hero-content h2 {
   font-size: 2.5rem;
   margin-bottom: 1.5rem;
   color: white;
 }
 
-.colaboracion-section > p {
+.colaboracion-hero-content > p {
   font-size: 1.2rem;
-  margin-bottom: 3rem;
+  margin-bottom: 2.6rem;
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
   opacity: 0.9;
+  line-height: 1.8;
 }
 
 .colaboracion-items {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem;
-  margin-top: 3rem;
+  gap: 1.5rem;
+  margin-top: 2rem;
 }
 
 .colaboracion-item {
   background-color: rgba(255, 255, 255, 0.1);
-  padding: 2.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 2.15rem;
   border-radius: 15px;
-  transition: transform 0.3s ease;
+  transition: transform 0.3s ease, background-color 0.3s ease;
 }
 
 .colaboracion-item:hover {
@@ -211,6 +237,35 @@
 .colaboracion-item p {
   opacity: 0.9;
   line-height: 1.6;
+}
+
+.home-footer-bottom {
+  background-color: var(--primary-color);
+  color: #ffffff;
+  padding: 2.25rem 0;
+}
+
+.home-footer-bottom-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2.5rem;
+  align-items: start;
+}
+
+.home-footer-col h4 {
+  font-size: 1.35rem;
+  margin-bottom: 0.9rem;
+  color: #ffffff;
+}
+
+.home-footer-col p {
+  margin: 0;
+  line-height: 1.7;
+  color: #ffffff;
+}
+
+.home-footer-col p + p {
+  margin-top: 0.5rem;
 }
 
 @media (max-width: 768px) {
@@ -242,7 +297,11 @@
     transform: translateY(-5px);
   }
 
-  .colaboracion-section h2 {
+  .colaboracion-hero-content {
+    padding: 1.9rem;
+  }
+
+  .colaboracion-hero-content h2 {
     font-size: 2rem;
   }
 
@@ -253,6 +312,15 @@
 
   .colaboracion-item {
     padding: 2rem;
+  }
+
+  .home-footer-bottom {
+    padding: 1.75rem 0;
+  }
+
+  .home-footer-bottom-content {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
   }
 }
 

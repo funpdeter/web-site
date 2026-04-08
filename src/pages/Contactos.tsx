@@ -105,7 +105,7 @@ const Contactos: React.FC = () => {
                 </div>
 
                 <div className="info-card">
-                  <div className="info-icon">📞</div>
+                  <div className="info-icon">📲</div>
                   <div className="info-content">
                     <h3>Teléfono</h3>
                     <p>+57 313 744 9160</p>
@@ -219,24 +219,43 @@ const Contactos: React.FC = () => {
 
       <section className="colaboracion-section">
         <div className="container">
-          <h2>Trabajemos juntos</h2>
-          <p>
-            Estamos abiertos a establecer alianzas estratégicas con organizaciones
-            que compartan nuestro compromiso con el desarrollo territorial sostenible.
-          </p>
-          <div className="colaboracion-items">
-            <div className="colaboracion-item">
-              <h3>Entidades Públicas</h3>
-              <p>Acompañamos a alcaldías, gobernaciones y entidades públicas en sus procesos de planeación y desarrollo.</p>
+          <div className="hero-content colaboracion-hero-content">
+            <h2>Trabajemos juntos</h2>
+            <p>
+              Estamos abiertos a establecer alianzas estratégicas con organizaciones
+              que compartan nuestro compromiso con el desarrollo territorial sostenible.
+            </p>
+            <div className="colaboracion-items">
+              <div className="colaboracion-item">
+                <h3>Entidades Públicas</h3>
+                <p>Acompañamos a alcaldías, gobernaciones y entidades públicas en sus procesos de planeación y desarrollo.</p>
+              </div>
+              <div className="colaboracion-item">
+                <h3>Organizaciones Sociales</h3>
+                <p>Trabajamos con fundaciones, asociaciones y organizaciones comunitarias en proyectos de impacto social.</p>
+              </div>
+              <div className="colaboracion-item">
+                <h3>Sector Privado</h3>
+                <p>Desarrollamos alianzas con empresas comprometidas con la responsabilidad social empresarial.</p>
+              </div>
             </div>
-            <div className="colaboracion-item">
-              <h3>Organizaciones Sociales</h3>
-              <p>Trabajamos con fundaciones, asociaciones y organizaciones comunitarias en proyectos de impacto social.</p>
-            </div>
-            <div className="colaboracion-item">
-              <h3>Sector Privado</h3>
-              <p>Desarrollamos alianzas con empresas comprometidas con la responsabilidad social empresarial.</p>
-            </div>
+          </div>
+        </div>
+      </section>
+
+      <section className="home-footer-bottom">
+        <div className="container home-footer-bottom-content">
+          <div className="home-footer-col">
+            <h4>FUNDETER-ORG</h4>
+            <p>
+              Somos una entidad sin ánimo de lucro con sede en Santa Marta - Magdalena, con más de 12 años de trayectoria institucional. Planeamos y transformamos territorios con sentido social.
+            </p>
+          </div>
+          <div className="home-footer-col">
+            <h4>Información de contacto</h4>
+            <p>✉️ info@fundeter.org</p>
+            <p>📲+57 313 744 9160</p>
+            <p>📍 Carrera 66 # 48 - 106 Casa M3 Urbanización San Lorenzo, Santa Marta D.T.C.H. - Colombia.</p>
           </div>
         </div>
       </section>

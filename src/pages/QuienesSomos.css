@@ -242,6 +242,35 @@
   line-height: 1.6;
 }
 
+.quienes-footer-bottom {
+  background-color: var(--primary-color);
+  color: #ffffff;
+  padding: 2.25rem 0;
+}
+
+.quienes-footer-bottom .home-footer-bottom-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2.5rem;
+  align-items: start;
+}
+
+.quienes-footer-bottom .home-footer-col h4 {
+  font-size: 1.35rem;
+  margin-bottom: 0.9rem;
+  color: #ffffff;
+}
+
+.quienes-footer-bottom .home-footer-col p {
+  margin: 0;
+  line-height: 1.7;
+  color: #ffffff;
+}
+
+.quienes-footer-bottom .home-footer-col p + p {
+  margin-top: 0.5rem;
+}
+
 @media (max-width: 768px) {
   .page-hero-content h1 {
     font-size: 2.5rem;
@@ -301,6 +330,15 @@
 
   .area-item {
     padding: 0.75rem;
+  }
+
+  .quienes-footer-bottom {
+    padding: 1.75rem 0;
+  }
+
+  .quienes-footer-bottom .home-footer-bottom-content {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
   }
 }
 .object-content p.object-conclusion {

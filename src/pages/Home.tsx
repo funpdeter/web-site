@@ -35,13 +35,13 @@ const Home: React.FC = () => {
           <div className="home-footer-col">
             <h4>FUNDETER-ORG</h4>
             <p>
-              Somos una entidad sin ánimo de lucro con sede en Santa Marta - Magdalena, con más de 10 años de trayectoria institucional. Planeamos y transformamos territorios con sentido social.
+              Somos una entidad sin ánimo de lucro con sede en Santa Marta - Magdalena, con más de 12 años de trayectoria institucional. Planeamos y transformamos territorios con sentido social.
             </p>
           </div>
           <div className="home-footer-col">
             <h4>Información de contacto</h4>
             <p>✉️ info@fundeter.org</p>
-            <p>📞+57 313 744 9160</p>
+            <p>📲+57 313 744 9160</p>
             <p>📍 Carrera 66 # 48 - 106 Casa M3 Urbanización San Lorenzo, Santa Marta D.T.C.H. - Colombia.</p>
           </div>
         </div>
