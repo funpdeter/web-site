@@ -11,6 +11,7 @@
     "@types/node": "^16.18.126",
     "@types/react": "^19.1.13",
     "@types/react-dom": "^19.1.9",
+    "nodemailer": "^7.0.9",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-router-dom": "^7.9.1",
@@ -22,7 +23,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "uci-agent:once": "node automation/uci-agent/index.cjs",
+    "uci-agent:watch": "node automation/uci-agent/index.cjs --watch",
+    "uci-agent:schedule": "powershell -ExecutionPolicy Bypass -File automation/uci-agent/register-scheduled-task.ps1",
+    "uci-agent:unschedule": "powershell -ExecutionPolicy Bypass -File automation/uci-agent/remove-scheduled-task.ps1"
   },
   "eslintConfig": {
     "extends": [

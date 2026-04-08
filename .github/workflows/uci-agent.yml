@@ -1,0 +1,100 @@
+name: UCI Agent
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: uci-agent
+  cancel-in-progress: false
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    env:
+      UCI_AGENT_ENABLED: "true"
+      UCI_SCAN_INTERVAL_MINUTES: "360"
+      UCI_MAX_DAYS_AHEAD: ${{ vars.UCI_MAX_DAYS_AHEAD != '' && vars.UCI_MAX_DAYS_AHEAD || '120' }}
+      UCI_MIN_AMOUNT_USD: ${{ vars.UCI_MIN_AMOUNT_USD != '' && vars.UCI_MIN_AMOUNT_USD || '5000' }}
+      UCI_MAX_AMOUNT_USD: ${{ vars.UCI_MAX_AMOUNT_USD != '' && vars.UCI_MAX_AMOUNT_USD || '5000000' }}
+      UCI_COP_TO_USD_RATE: ${{ vars.UCI_COP_TO_USD_RATE != '' && vars.UCI_COP_TO_USD_RATE || '4000' }}
+      UCI_EUR_TO_USD_RATE: ${{ vars.UCI_EUR_TO_USD_RATE != '' && vars.UCI_EUR_TO_USD_RATE || '1.08' }}
+      UCI_MAX_LINKS_PER_SOURCE: ${{ vars.UCI_MAX_LINKS_PER_SOURCE != '' && vars.UCI_MAX_LINKS_PER_SOURCE || '8' }}
+      UCI_MAX_SOURCES_PER_CYCLE: ${{ vars.UCI_MAX_SOURCES_PER_CYCLE != '' && vars.UCI_MAX_SOURCES_PER_CYCLE || '20' }}
+      UCI_ALWAYS_INCLUDE_COLOMBIA: ${{ vars.UCI_ALWAYS_INCLUDE_COLOMBIA != '' && vars.UCI_ALWAYS_INCLUDE_COLOMBIA || 'true' }}
+      UCI_SOURCE_IDS: ${{ vars.UCI_SOURCE_IDS }}
+      UCI_HTTP_TIMEOUT_MS: ${{ vars.UCI_HTTP_TIMEOUT_MS != '' && vars.UCI_HTTP_TIMEOUT_MS || '20000' }}
+      UCI_USE_SEARCH_ENGINE: ${{ vars.UCI_USE_SEARCH_ENGINE != '' && vars.UCI_USE_SEARCH_ENGINE || 'true' }}
+      UCI_SEARCH_QUERIES_PER_SOURCE: ${{ vars.UCI_SEARCH_QUERIES_PER_SOURCE != '' && vars.UCI_SEARCH_QUERIES_PER_SOURCE || '2' }}
+      UCI_NOTIFY_EMAIL: ${{ vars.UCI_NOTIFY_EMAIL != '' && vars.UCI_NOTIFY_EMAIL || 'info@fundeter.org' }}
+      UCI_MAIL_TRANSPORT: ${{ vars.UCI_MAIL_TRANSPORT != '' && vars.UCI_MAIL_TRANSPORT || 'console' }}
+      SMTP_HOST: ${{ secrets.SMTP_HOST }}
+      SMTP_PORT: ${{ secrets.SMTP_PORT }}
+      SMTP_SECURE: ${{ secrets.SMTP_SECURE }}
+      SMTP_USER: ${{ secrets.SMTP_USER }}
+      SMTP_PASS: ${{ secrets.SMTP_PASS }}
+      SMTP_FROM: ${{ secrets.SMTP_FROM }}
+      RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+      RESEND_FROM: ${{ secrets.RESEND_FROM }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.ref_name }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Ensure persistent state file exists
+        shell: bash
+        run: |
+          mkdir -p automation/uci-agent/state
+          if [ ! -f automation/uci-agent/state/processed-opportunities.json ]; then
+            cat <<'EOF' > automation/uci-agent/state/processed-opportunities.json
+          {
+            "seen": {},
+            "scans": []
+          }
+          EOF
+          fi
+
+      - name: Run UCI agent
+        run: npm run uci-agent:once
+
+      - name: Upload generated packages
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: uci-agent-output-${{ github.run_number }}
+          path: automation/uci-agent/output/
+          if-no-files-found: ignore
+          retention-days: 14
+
+      - name: Commit updated snapshot and state
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          git add public/uci-opportunity.json
+          git add -f automation/uci-agent/state/processed-opportunities.json
+
+          if git diff --cached --quiet; then
+            echo "No snapshot or state changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore(uci-agent): update published opportunities"
+          git push origin HEAD:${GITHUB_REF_NAME}

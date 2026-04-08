@@ -2,3 +2,12 @@ node_modules
 build/
 *.yaml
 *.yml
+!.github/
+!.github/workflows/
+!.github/workflows/*.yaml
+!.github/workflows/*.yml
+.env.uci-agent
+automation/uci-agent/output/
+automation/uci-agent/state/
+devserver.out.log
+devserver.err.log

@@ -44,3 +44,69 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## UCI-F Agent (Automation)
+
+This repository now includes an automation agent at `automation/uci-agent` that:
+
+- scans opportunities online (national + international sources),
+- applies FUNDETER automatic filters,
+- scores opportunities with the eligibility matrix,
+- generates 3 files per viable opportunity,
+- notifies `info@fundeter.org` by email,
+- updates `public/uci-opportunity.json` for the Gestión-UCI section.
+
+### Run once
+
+```bash
+npm run uci-agent:once
+```
+
+### Run continuously
+
+```bash
+npm run uci-agent:watch
+```
+
+### Environment file
+
+1. Copy `.env.uci-agent.example` to `.env.uci-agent`.
+2. Set the mail transport:
+   - `UCI_MAIL_TRANSPORT=console` (no real email),
+   - `UCI_MAIL_TRANSPORT=smtp` (requires `SMTP_*`),
+   - `UCI_MAIL_TRANSPORT=resend` (requires `RESEND_*`).
+3. Optional: limit sources with `UCI_SOURCE_IDS=usaid,minciencias`.
+4. Optional (Windows): register scheduled execution:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File automation/uci-agent/register-scheduled-task.ps1 -IntervalHours 6
+```
+
+### GitHub Actions automation
+
+This repository can also run the agent automatically from GitHub Actions through
+`.github/workflows/uci-agent.yml`.
+
+What the workflow does:
+
+- runs every 6 hours and also allows manual execution,
+- installs dependencies and executes `npm run uci-agent:once`,
+- updates `public/uci-opportunity.json`,
+- persists deduplication in `automation/uci-agent/state/processed-opportunities.json`,
+- uploads generated opportunity packages as workflow artifacts,
+- commits the updated snapshot and state back to `main`.
+
+Recommended repository variables:
+
+- `UCI_MAIL_TRANSPORT=console|smtp|resend`
+- `UCI_NOTIFY_EMAIL=info@fundeter.org`
+- `UCI_SOURCE_IDS=` for optional source filtering
+- optional tuning variables such as `UCI_MAX_DAYS_AHEAD`, `UCI_MIN_AMOUNT_USD`, `UCI_MAX_AMOUNT_USD`
+
+Required secrets only when using real email delivery:
+
+- SMTP mode: `SMTP_HOST`, `SMTP_PORT`, `SMTP_SECURE`, `SMTP_USER`, `SMTP_PASS`, `SMTP_FROM`
+- Resend mode: `RESEND_API_KEY`, `RESEND_FROM`
+
+If your production site rebuilds from GitHub on each push, the updated
+`public/uci-opportunity.json` will be published automatically after every workflow run.

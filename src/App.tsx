@@ -5,6 +5,7 @@ import Home from './pages/Home';
 import QuienesSomos from './pages/QuienesSomos';
 import Proyectos from './pages/Proyectos';
 import Servicios from './pages/Servicios';
+import GestionUCI from './pages/GestionUCI';
 import Contactos from './pages/Contactos';
 import './App.css';
 
@@ -19,6 +20,7 @@ function App() {
             <Route path="/quienes-somos" element={<QuienesSomos />} />
             <Route path="/proyectos" element={<Proyectos />} />
             <Route path="/servicios" element={<Servicios />} />
+            <Route path="/gestion-uci" element={<GestionUCI />} />
             <Route path="/contactos" element={<Contactos />} />
           </Routes>
         </main>

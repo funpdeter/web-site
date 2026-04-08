@@ -22,6 +22,7 @@ const Header: React.FC<HeaderProps> = () => {
           <a href="/quienes-somos" className="nav-link">¿Quiénes Somos?</a>
           <a href="/proyectos" className="nav-link">Proyectos</a>
           <a href="/servicios" className="nav-link">Servicios</a>
+          <a href="/gestion-uci" className="nav-link">Gestión-UCI</a>
           <a href="/contactos" className="nav-link">Contactos</a>
         </nav>
 
