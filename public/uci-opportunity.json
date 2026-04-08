@@ -1,13 +1,13 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-04-07T17:10:56.483Z",
+  "updatedAt": "2026-04-08T05:11:24.555Z",
   "opportunities": [
     {
       "title": "ENERGÍA SOSTENIBLE PARA EL TERRITORIO",
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-05-08T17:08:31.315Z",
+      "deadline": "2026-05-08T05:09:57.293Z",
       "amount": 377639957602,
       "currency": "COP",
       "amountUsd": 94409989.4005,
@@ -22,7 +22,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-05-08T17:08:26.198Z",
+      "deadline": "2026-05-08T05:09:52.981Z",
       "amount": 100000000000,
       "currency": "COP",
       "amountUsd": 25000000,
@@ -37,7 +37,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-04-23T17:08:33.061Z",
+      "deadline": "2026-04-23T05:09:58.684Z",
       "amount": 446515026467,
       "currency": "COP",
       "amountUsd": 111628756.61675,
@@ -93,6 +93,21 @@
       "publicationNumber": null
     },
     {
+      "title": "Fundación Carolina abrió la XXVI convocatoria de becas 2026–2027 para estudios en España | Agencia Presidencial de Cooperación Internacional",
+      "source": "APC Colombia",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-04-09T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 19,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://www.apccolombia.gov.co/comunicaciones/noticias/fundacion-carolina-abrio-la-xxvi-convocatoria-de-becas-2026-2027-para",
+      "publicationNumber": null
+    },
+    {
       "title": "Italy – Social services – GARA A PROCEDURA APERTA EX ART. 71 D.LGS. 36/2023 PER L'INDIVIDUAZIONE DEL SOGGETTO ATTUATORE DEL PROGETTO SAI CATEGORIA MSNA DI CATANIA, PER N. 320 POSTI. TRIENNIO 2026-2028.",
       "source": "TED Europa",
       "sourceTier": "internacional",
@@ -138,5 +153,5 @@
       "publicationNumber": "159755-2026"
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 3 | USA: 3 | EUROPA: 3"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 4 | USA: 3 | EUROPA: 3"
 }

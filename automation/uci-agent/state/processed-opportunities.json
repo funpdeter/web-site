@@ -1,0 +1,307 @@
+{
+  "seen": {
+    "h5d776aa2": {
+      "at": "2026-04-08T05:09:47.368Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/modalidades-de-cooperacion/convocatorias",
+      "viable": false
+    },
+    "h8af5c05b": {
+      "at": "2026-04-08T05:09:47.791Z",
+      "sourceId": "apc-colombia",
+      "url": "https://apccolombia.gov.co/modalidades-de-cooperacion/convocatorias",
+      "viable": false
+    },
+    "h75c5e6dc": {
+      "at": "2026-04-08T05:09:48.103Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/taxonomy/term/2160",
+      "viable": false
+    },
+    "hfcecc9fe": {
+      "at": "2026-04-08T05:09:48.421Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/eventos/convocatoria-fundacion-suiza-para-la-solidaridad-en-el-turismo",
+      "viable": false
+    },
+    "hf1ce4495": {
+      "at": "2026-04-08T05:09:49.123Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/buscador?search_api_fulltext=8/&f%5B0%5D=tipo_de_contenido%3Acursooconvocatoria",
+      "viable": false
+    },
+    "h503dbc86": {
+      "at": "2026-04-08T05:09:50.271Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/node/1352",
+      "viable": false
+    },
+    "h72d175d2": {
+      "at": "2026-04-08T05:09:50.767Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/node/2191",
+      "viable": false
+    },
+    "hc967978f": {
+      "at": "2026-04-08T05:10:05.273Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-article-382083.html",
+      "viable": false
+    },
+    "hfed3568": {
+      "at": "2026-04-08T05:10:07.387Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-article-400339.html",
+      "viable": false
+    },
+    "h9f730302": {
+      "at": "2026-04-08T05:10:09.213Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/micrositios/conectividad-para-cambiar-vidas/835/articles-418631_convocatoria_007_2025_20251203_0000000000006.pdf",
+      "viable": false
+    },
+    "h9c445e9b": {
+      "at": "2026-04-08T05:10:10.219Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-article-401090.html",
+      "viable": false
+    },
+    "h2898848": {
+      "at": "2026-04-08T05:10:11.270Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/micrositios/convocatoriastv2025/866/w3-channel.html",
+      "viable": false
+    },
+    "h5964f26a": {
+      "at": "2026-04-08T05:10:13.322Z",
+      "sourceId": "minambiente",
+      "url": "https://www.minambiente.gov.co/convocatorias",
+      "viable": false
+    },
+    "ha5c1f11d": {
+      "at": "2026-04-08T05:10:13.463Z",
+      "sourceId": "minambiente",
+      "url": "https://www.google.com/maps/dir//Cl.+37+%238-40+Bogot%C3%A1/@4.6250695,-74.0671264,19z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f9987bb8a31b3:0x78e34434fd1f2281!2m2!1d-74.0671264!2d4.6250695",
+      "viable": false
+    },
+    "h20fc7260": {
+      "at": "2026-04-08T05:10:13.594Z",
+      "sourceId": "minambiente",
+      "url": "https://www.google.com/maps/place/Calle%2037%20N%C2%BA%208-40,Bogot%C3%A1%20DC+Bogot%C3%A1/@4.6254091,-74.069593,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f99879828af3f:0x4bfc5c693c3b2e4!8m2!3d4.6254038!4d-74.0673989?hl=es",
+      "viable": false
+    },
+    "h6f85fb42": {
+      "at": "2026-04-08T05:10:14.638Z",
+      "sourceId": "dps",
+      "url": "https://prosperidadsocial.gov.co/contratacion/convocatorias",
+      "viable": false
+    },
+    "h3bb11cef": {
+      "at": "2026-04-08T05:10:14.702Z",
+      "sourceId": "dps",
+      "url": "https://iq-dps-webcallback.inconcert.cloud/",
+      "viable": false
+    },
+    "hf45b0dc2": {
+      "at": "2026-04-08T05:10:14.930Z",
+      "sourceId": "dps",
+      "url": "https://webrtc.inconcertcc.com/iq/dps/videocall/index.html",
+      "viable": false
+    },
+    "hd66c9e37": {
+      "at": "2026-04-08T05:10:17.000Z",
+      "sourceId": "sgr",
+      "url": "https://www.sgr.gov.co/Inversi%C3%B3n/OCADPAZ/Proyectospostuladosconvocatoria2.aspx",
+      "viable": false
+    },
+    "h7ff89616": {
+      "at": "2026-04-08T05:10:21.013Z",
+      "sourceId": "findeter",
+      "url": "https://www.findeter.gov.co/convocatorias",
+      "viable": false
+    },
+    "hf223a98d": {
+      "at": "2026-04-08T05:10:22.256Z",
+      "sourceId": "findeter",
+      "url": "https://www.findeter.gov.co/noticias/comunicados/gobierno-nacional-abre-convocatorias-para-fortalecer-el-acceso-al-agua-potable-en-novita-y-medio-baudo-choco",
+      "viable": false
+    },
+    "h77fe8e9f": {
+      "at": "2026-04-08T05:11:07.136Z",
+      "sourceId": "europeaid",
+      "url": "https://international-partnerships.ec.europa.eu/funding-and-technical-assistance/looking-funding/grants_en",
+      "viable": false
+    },
+    "hd2f82d3a": {
+      "at": "2026-04-08T05:11:07.447Z",
+      "sourceId": "europeaid",
+      "url": "https://international-partnerships.ec.europa.eu/funding_en",
+      "viable": false
+    },
+    "h69707689": {
+      "at": "2026-04-08T05:11:07.523Z",
+      "sourceId": "europeaid",
+      "url": "https://international-partnerships.ec.europa.eu/funding-and-technical-assistance_en",
+      "viable": false
+    },
+    "h705f386d": {
+      "at": "2026-04-08T05:11:08.002Z",
+      "sourceId": "europeaid",
+      "url": "https://international-partnerships.ec.europa.eu/funding-and-technical-assistance_bg",
+      "viable": false
+    },
+    "h64706eaa": {
+      "at": "2026-04-08T05:11:08.513Z",
+      "sourceId": "europeaid",
+      "url": "https://international-partnerships.ec.europa.eu/funding-and-technical-assistance_es",
+      "viable": false
+    },
+    "h5c615788": {
+      "at": "2026-04-08T05:11:08.833Z",
+      "sourceId": "europeaid",
+      "url": "https://international-partnerships.ec.europa.eu/funding-and-technical-assistance_cs",
+      "viable": false
+    },
+    "h4e6e0d71": {
+      "at": "2026-04-08T05:11:09.382Z",
+      "sourceId": "europeaid",
+      "url": "https://international-partnerships.ec.europa.eu/funding-and-technical-assistance_da",
+      "viable": false
+    },
+    "h526e13bd": {
+      "at": "2026-04-08T05:11:09.517Z",
+      "sourceId": "europeaid",
+      "url": "https://international-partnerships.ec.europa.eu/funding-and-technical-assistance_de",
+      "viable": false
+    },
+    "h609d3fd6": {
+      "at": "2026-04-08T05:11:12.362Z",
+      "sourceId": "world-bank",
+      "url": "https://projects.banquemondiale.org/fr/projects-operations/procurement?",
+      "viable": false
+    },
+    "hf63db1bb": {
+      "at": "2026-04-08T05:11:12.565Z",
+      "sourceId": "world-bank",
+      "url": "https://projects.albankaldawli.org/ar/projects-operations/procurement?",
+      "viable": false
+    },
+    "h6ce47f81": {
+      "at": "2026-04-08T05:11:12.620Z",
+      "sourceId": "world-bank",
+      "url": "https://projects.vsemirnyjbank.org/ru/projects-operations/procurement?",
+      "viable": false
+    },
+    "hd0baa81f": {
+      "at": "2026-04-08T05:11:12.731Z",
+      "sourceId": "world-bank",
+      "url": "https://projects.shihang.org/zh/projects-operations/procurement?",
+      "viable": false
+    },
+    "hd68c8245": {
+      "at": "2026-04-08T05:11:13.300Z",
+      "sourceId": "world-bank",
+      "url": "https://projects.worldbank.org/pt/projects-operations/procurement?",
+      "viable": false
+    },
+    "h3be6dbd4": {
+      "at": "2026-04-08T05:11:13.606Z",
+      "sourceId": "world-bank",
+      "url": "https://projects.bancomundial.org/es/projects-operations/procurement?",
+      "viable": false
+    },
+    "h996e3c4c": {
+      "at": "2026-04-08T05:11:13.648Z",
+      "sourceId": "world-bank",
+      "url": "https://www.worldbank.org/en/projects-operations/procurement",
+      "viable": false
+    },
+    "h92603de4": {
+      "at": "2026-04-08T05:11:13.808Z",
+      "sourceId": "world-bank",
+      "url": "https://projects.worldbank.org/en/projects-operations/opportunities?srce=both",
+      "viable": false
+    },
+    "hfaf7eaa1": {
+      "at": "2026-04-08T05:11:24.533Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/comunicaciones/noticias/fundacion-carolina-abrio-la-xxvi-convocatoria-de-becas-2026-2027-para",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "habc83333": {
+      "at": "2026-04-08T05:11:24.534Z",
+      "sourceId": "minciencias",
+      "url": "https://minciencias.gov.co/node/9322",
+      "viable": false,
+      "reason": "Aplicar inmediatamente"
+    },
+    "hacc834c6": {
+      "at": "2026-04-08T05:11:24.535Z",
+      "sourceId": "minciencias",
+      "url": "https://minciencias.gov.co/node/9321",
+      "viable": false,
+      "reason": "Aplicar inmediatamente"
+    },
+    "hadc83659": {
+      "at": "2026-04-08T05:11:24.536Z",
+      "sourceId": "minciencias",
+      "url": "https://minciencias.gov.co/node/9320",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hde15c4ae": {
+      "at": "2026-04-08T05:11:24.538Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/159755-2026",
+      "viable": false,
+      "reason": "No aplicar"
+    },
+    "hc7585ba": {
+      "at": "2026-04-08T05:11:24.553Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/162072-2026",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-08T05-11-24-538Z_ted-europa_italy-social-work-services-with-accommodation-gara"
+    },
+    "h77aea755": {
+      "at": "2026-04-08T05:11:24.553Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/163472-2026",
+      "viable": false,
+      "reason": "No aplicar"
+    },
+    "hffae671f": {
+      "at": "2026-04-08T05:11:24.553Z",
+      "sourceId": "usaid",
+      "url": "https://www.grants.gov/search-results-detail/344124",
+      "viable": false,
+      "reason": "No aplicar"
+    },
+    "hbbb27da6": {
+      "at": "2026-04-08T05:11:24.554Z",
+      "sourceId": "usaid",
+      "url": "https://www.grants.gov/search-results-detail/361760",
+      "viable": false,
+      "reason": "No aplicar"
+    },
+    "h66d5262e": {
+      "at": "2026-04-08T05:11:24.554Z",
+      "sourceId": "usaid",
+      "url": "https://www.grants.gov/search-results-detail/353413",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    }
+  },
+  "scans": [
+    {
+      "startedAt": "2026-04-08T05:09:44.521Z",
+      "endedAt": "2026-04-08T05:11:24.555Z",
+      "scannedCandidates": 10,
+      "viableCandidates": 1,
+      "sentNotifications": 0,
+      "transport": "console"
+    }
+  ]
+}
