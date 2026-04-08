@@ -1,13 +1,13 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-04-08T07:08:04.373Z",
+  "updatedAt": "2026-04-08T12:58:29.445Z",
   "opportunities": [
     {
       "title": "ENERGÍA SOSTENIBLE PARA EL TERRITORIO",
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-05-08T07:06:20.621Z",
+      "deadline": "2026-05-08T12:56:02.017Z",
       "amount": 377639957602,
       "currency": "COP",
       "amountUsd": 94409989.4005,
@@ -22,7 +22,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-05-08T07:06:15.670Z",
+      "deadline": "2026-05-08T12:55:57.500Z",
       "amount": 100000000000,
       "currency": "COP",
       "amountUsd": 25000000,
@@ -37,7 +37,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-04-23T07:06:22.413Z",
+      "deadline": "2026-04-23T12:56:03.619Z",
       "amount": 446515026467,
       "currency": "COP",
       "amountUsd": 111628756.61675,

@@ -304,6 +304,48 @@
       "sourceId": "apc-colombia",
       "url": "https://www.apccolombia.gov.co/convocatorias",
       "viable": false
+    },
+    "h7518ad76": {
+      "at": "2026-04-08T12:58:12.104Z",
+      "sourceId": "gef-small-grants",
+      "url": "https://undp.shorthandstories.com/gef-small-grants-programme/index.html",
+      "viable": false
+    },
+    "h8ea9270d": {
+      "at": "2026-04-08T12:58:12.951Z",
+      "sourceId": "gef-small-grants",
+      "url": "https://sgp.undp.org/innovation-library/item/2660-gef-small-grants-programme-annual-monitoring-report-2024---2025-(summary-infographic).html",
+      "viable": false
+    },
+    "h7d00daf": {
+      "at": "2026-04-08T12:58:13.350Z",
+      "sourceId": "gef-small-grants",
+      "url": "https://sgp.undp.org/innovation-library/item/2627-gef-small-grants-programme-annual-monitoring-report-2023-2024-summary-infographic.html",
+      "viable": false
+    },
+    "hded626e": {
+      "at": "2026-04-08T12:58:13.831Z",
+      "sourceId": "gef-small-grants",
+      "url": "https://sgp.undp.org/innovation-library/item/2458-gef-small-grants-programme-annual-monitoring-report-2022---2023-(summary-infographic).html",
+      "viable": false
+    },
+    "ha3542e48": {
+      "at": "2026-04-08T12:58:14.476Z",
+      "sourceId": "gef-small-grants",
+      "url": "https://sgp.undp.org/about-us-157/our-grantees.html",
+      "viable": false
+    },
+    "hde4ca598": {
+      "at": "2026-04-08T12:58:15.221Z",
+      "sourceId": "gef-small-grants",
+      "url": "https://sgp.undp.org/about-us-157/grant-eligibility.html",
+      "viable": false
+    },
+    "hbbae1151": {
+      "at": "2026-04-08T12:58:15.863Z",
+      "sourceId": "gef-small-grants",
+      "url": "https://sgp.undp.org/about-us-157/opportunities.html",
+      "viable": false
     }
   },
   "scans": [
@@ -326,6 +368,14 @@
     {
       "startedAt": "2026-04-08T07:06:08.283Z",
       "endedAt": "2026-04-08T07:08:04.374Z",
+      "scannedCandidates": 9,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-08T12:55:52.314Z",
+      "endedAt": "2026-04-08T12:58:29.446Z",
       "scannedCandidates": 9,
       "viableCandidates": 0,
       "sentNotifications": 0,
