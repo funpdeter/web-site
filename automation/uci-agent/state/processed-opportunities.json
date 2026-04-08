@@ -298,6 +298,12 @@
       "sourceId": "apc-colombia",
       "url": "https://apccolombia.gov.co/index.php/eventos/convocatoria-para-becas-de-la-fundacion-carolina",
       "viable": false
+    },
+    "he94b5797": {
+      "at": "2026-04-08T07:06:13.210Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/convocatorias",
+      "viable": false
     }
   },
   "scans": [
@@ -312,6 +318,14 @@
     {
       "startedAt": "2026-04-08T05:17:50.086Z",
       "endedAt": "2026-04-08T05:19:49.206Z",
+      "scannedCandidates": 9,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-08T07:06:08.283Z",
+      "endedAt": "2026-04-08T07:08:04.374Z",
       "scannedCandidates": 9,
       "viableCandidates": 0,
       "sentNotifications": 0,
