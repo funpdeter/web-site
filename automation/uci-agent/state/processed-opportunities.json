@@ -406,6 +406,12 @@
       "sourceId": "gef-small-grants",
       "url": "https://sgp.undp.org/about-us-157/opportunities.html",
       "viable": false
+    },
+    "h87d62019": {
+      "at": "2026-04-09T12:57:56.831Z",
+      "sourceId": "apc-colombia",
+      "url": "https://apccolombia.gov.co/index.php/eventos/convocatoria-para-becas-de-la-fundacion-carolina",
+      "viable": false
     }
   },
   "scans": [
@@ -436,6 +442,14 @@
     {
       "startedAt": "2026-04-09T07:10:00.305Z",
       "endedAt": "2026-04-09T07:11:36.592Z",
+      "scannedCandidates": 6,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-09T12:57:53.344Z",
+      "endedAt": "2026-04-09T12:59:45.375Z",
       "scannedCandidates": 6,
       "viableCandidates": 0,
       "sentNotifications": 0,
