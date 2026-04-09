@@ -316,6 +316,48 @@
       "url": "https://www.apccolombia.gov.co/comunicaciones/noticias/fundacion-carolina-abrio-la-xxvi-convocatoria-de-becas-2026-2027-para",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "hf3b9fcf3": {
+      "at": "2026-04-09T01:10:44.860Z",
+      "sourceId": "minambiente",
+      "url": "https://www.minambiente.gov.co/minambiente-abre-convocatoria-de-regalias-por-423-000-millones-para-proyectos-ambientales/",
+      "viable": false
+    },
+    "hfc5e7b2e": {
+      "at": "2026-04-09T01:10:45.514Z",
+      "sourceId": "minambiente",
+      "url": "https://www.minambiente.gov.co/convocatoria-abierta-para-organizaciones-comunitarias-de-la-mojana/",
+      "viable": false
+    },
+    "h13bd2c85": {
+      "at": "2026-04-09T01:10:46.224Z",
+      "sourceId": "minambiente",
+      "url": "https://www.minambiente.gov.co/convocatoria-publica-abierta-para-el-control-de-la-gestion-ambiental/",
+      "viable": false
+    },
+    "h43396d4c": {
+      "at": "2026-04-09T01:10:46.534Z",
+      "sourceId": "minambiente",
+      "url": "https://regalias.minambiente.gov.co/wp-content/uploads/2026/02/TDR-CONVOCATORIA-NUEVA-25-26_VFirm.pdf",
+      "viable": false
+    },
+    "h2314a9ef": {
+      "at": "2026-04-09T01:10:46.967Z",
+      "sourceId": "minambiente",
+      "url": "https://regalias.minambiente.gov.co/wp-content/uploads/2025/11/TDR-CONVOCATORIA-INDIGENAS-25-26.pdf",
+      "viable": false
+    },
+    "h3e258f53": {
+      "at": "2026-04-09T01:10:47.311Z",
+      "sourceId": "minambiente",
+      "url": "https://regalias.minambiente.gov.co/wp-content/uploads/2025/11/TDR-CONVOCATORIA-NARP-25-26_.pdf",
+      "viable": false
+    },
+    "h7575ce08": {
+      "at": "2026-04-09T01:10:47.634Z",
+      "sourceId": "minambiente",
+      "url": "https://regalias.minambiente.gov.co/wp-content/uploads/2025/11/TDR-CONVOCATORIA-CAAELCD-25-26.pdf",
+      "viable": false
     }
   },
   "scans": [
@@ -331,6 +373,14 @@
       "startedAt": "2026-04-08T19:01:25.698Z",
       "endedAt": "2026-04-08T19:02:58.991Z",
       "scannedCandidates": 10,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-09T01:10:23.067Z",
+      "endedAt": "2026-04-09T01:12:20.311Z",
+      "scannedCandidates": 6,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
