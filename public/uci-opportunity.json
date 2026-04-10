@@ -1,24 +1,24 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-04-10T07:16:49.568Z",
+  "updatedAt": "2026-04-10T12:45:28.062Z",
   "opportunities": [
     {
-      "id": "he69c4641",
-      "sourceId": "usaid",
-      "title": "Tribal Colleges and Universities Program",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-06-01T00:00:00.000Z",
-      "amount": 3500000,
+      "id": "h5bc97182",
+      "sourceId": "mintic",
+      "title": "Cultura Latinoamérica - Fundación SURA",
+      "source": "MinTIC",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-05-11T00:00:00.000Z",
+      "amount": 100000,
       "currency": "USD",
-      "amountUsd": 3500000,
-      "scoreTotal": 16,
+      "amountUsd": 100000,
+      "scoreTotal": 18,
       "recommendation": "Aplicar con alianza",
       "isViable": true,
-      "url": "https://www.grants.gov/search-results-detail/334326",
+      "url": "https://www.fundacionsura.com/iniciativas/convocatoria-cultura-latinoamerica/",
       "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 1 | EUROPA: 0"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 1 | USA: 0 | EUROPA: 0"
 }

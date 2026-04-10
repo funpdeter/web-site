@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-04-10T07:16:49.569Z",
+  "updatedAt": "2026-04-10T12:45:28.062Z",
   "opportunities": [
+    {
+      "id": "h5bc97182",
+      "sourceId": "mintic",
+      "title": "Cultura Latinoamérica - Fundación SURA",
+      "source": "MinTIC",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-05-11T00:00:00.000Z",
+      "amount": 100000,
+      "currency": "USD",
+      "amountUsd": 100000,
+      "scoreTotal": 18,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://www.fundacionsura.com/iniciativas/convocatoria-cultura-latinoamerica/",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-04-10T12:45:28.062Z",
+      "lastSeenAt": "2026-04-10T12:45:28.062Z",
+      "lastPublishedAt": "2026-04-10T12:45:28.062Z",
+      "isArchived": false
+    },
     {
       "id": "he69c4641",
       "sourceId": "usaid",
@@ -21,7 +42,7 @@
       "firstSeenAt": "2026-04-10T07:16:49.569Z",
       "lastSeenAt": "2026-04-10T07:16:49.569Z",
       "lastPublishedAt": "2026-04-10T07:16:49.569Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd42464ed",
@@ -234,5 +255,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 11 | Archivadas: 10"
+  "message": "Historico acumulado del agente UCI-F. Total: 12 | Archivadas: 11"
 }
