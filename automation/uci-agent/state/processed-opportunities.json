@@ -412,6 +412,18 @@
       "sourceId": "apc-colombia",
       "url": "https://apccolombia.gov.co/index.php/eventos/convocatoria-para-becas-de-la-fundacion-carolina",
       "viable": false
+    },
+    "h91042507": {
+      "at": "2026-04-10T01:21:50.576Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/micrositios/convocatoriastv2026/894/articles-428118_Analisis_de_Sector_Territorios_al_Aire_2026.pdf",
+      "viable": false
+    },
+    "h54ebca4c": {
+      "at": "2026-04-10T01:21:53.128Z",
+      "sourceId": "dps",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10189973&",
+      "viable": false
     }
   },
   "scans": [
@@ -458,6 +470,14 @@
     {
       "startedAt": "2026-04-09T18:47:22.193Z",
       "endedAt": "2026-04-09T18:48:33.414Z",
+      "scannedCandidates": 6,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-10T01:21:23.094Z",
+      "endedAt": "2026-04-10T01:23:22.478Z",
       "scannedCandidates": 6,
       "viableCandidates": 0,
       "sentNotifications": 0,
