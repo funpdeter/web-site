@@ -424,6 +424,20 @@
       "sourceId": "dps",
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10189973&",
       "viable": false
+    },
+    "hde1ba8d": {
+      "at": "2026-04-10T07:15:16.937Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/micrositios/conectividad-para-cambiar-vidas/835/articles-405119_convocatoria_005_2025_20250908_0000000007.pdf",
+      "viable": false
+    },
+    "hda7670d2": {
+      "at": "2026-04-10T07:16:49.568Z",
+      "sourceId": "usaid",
+      "url": "https://www.grants.gov/search-results-detail/334326",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-10T07-16-49-554Z_usaid_tribal-colleges-and-universities-program"
     }
   },
   "scans": [
@@ -480,6 +494,14 @@
       "endedAt": "2026-04-10T01:23:22.478Z",
       "scannedCandidates": 6,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-10T07:15:01.331Z",
+      "endedAt": "2026-04-10T07:16:49.570Z",
+      "scannedCandidates": 7,
+      "viableCandidates": 1,
       "sentNotifications": 0,
       "transport": "console"
     }
