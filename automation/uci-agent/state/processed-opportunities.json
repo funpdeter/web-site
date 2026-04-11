@@ -464,6 +464,138 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-10T12-45-28-047Z_mintic_cultura-latinoamerica-fundacion-sura"
+    },
+    "h1a9355e7": {
+      "at": "2026-04-11T01:16:04.539Z",
+      "sourceId": "mintic",
+      "url": "https://minciencias.gov.co/convocatorias/plan-convocatorias-asctei-2025-2026/convocatoria-energia-sostenible-para-el-territorio",
+      "viable": false
+    },
+    "h8aa87c2d": {
+      "at": "2026-04-11T01:17:33.202Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10188261",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hae6c10b6": {
+      "at": "2026-04-11T01:17:33.202Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10183575",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h16866833": {
+      "at": "2026-04-11T01:17:33.216Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10167646",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-11T01-17-33-202Z_secop-ii_suministro-e-instalacion-de-generadores-de-energia"
+    },
+    "ha067f187": {
+      "at": "2026-04-11T01:17:33.216Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10187882",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hab8b0691": {
+      "at": "2026-04-11T01:17:33.216Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10187048",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hd3be938a": {
+      "at": "2026-04-11T01:17:33.217Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10101241",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h918ccc9a": {
+      "at": "2026-04-11T01:17:33.217Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10133428",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-11T01-17-33-217Z_secop-ii_aseo-y-cafeteria-2026"
+    },
+    "h14a592dc": {
+      "at": "2026-04-11T01:17:33.217Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10147043",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-11T01-17-33-217Z_secop-ii_prestacion-de-servicios-para-la-ejecucion-del-plan"
+    },
+    "h78512aef": {
+      "at": "2026-04-11T01:17:33.218Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10189826",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h7af257d2": {
+      "at": "2026-04-11T01:17:33.218Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10142958",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-11T01-17-33-218Z_secop-ii_interventoria-tecnica-administrativa-ambiental-jur"
+    },
+    "h29178c36": {
+      "at": "2026-04-11T01:17:33.218Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10161302",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h33724a64": {
+      "at": "2026-04-11T01:17:33.219Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10181438",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-11T01-17-33-218Z_secop-ii_mejoramientos-de-vivienda-en-el-marco-del-convenio"
+    },
+    "hc3cf4f4": {
+      "at": "2026-04-11T01:17:33.219Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10158616",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-11T01-17-33-219Z_secop-ii_adquisicion-de-banderas-para-las-diferentes-sedes-"
+    },
+    "h86ca3746": {
+      "at": "2026-04-11T01:17:33.219Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10192164",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hf2054b86": {
+      "at": "2026-04-11T01:17:33.220Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/STS/Users/Login/Index",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-11T01-17-33-219Z_secop-ii_prestar-el-servicio-de-operador-logistico-integral"
+    },
+    "heec0d287": {
+      "at": "2026-04-11T01:17:33.220Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10181826",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hef6c2cd": {
+      "at": "2026-04-11T01:17:33.220Z",
+      "sourceId": "mintic",
+      "url": "https://minciencias.gov.co/convocatorias/convocatoria-colombia-inteligente-2026",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
@@ -544,6 +676,14 @@
       "endedAt": "2026-04-10T18:39:59.202Z",
       "scannedCandidates": 7,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-11T01:15:43.558Z",
+      "endedAt": "2026-04-11T01:17:33.222Z",
+      "scannedCandidates": 24,
+      "viableCandidates": 7,
       "sentNotifications": 0,
       "transport": "console"
     }
