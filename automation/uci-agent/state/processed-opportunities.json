@@ -686,6 +686,14 @@
       "viableCandidates": 7,
       "sentNotifications": 0,
       "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-11T06:48:45.824Z",
+      "endedAt": "2026-04-11T06:50:32.986Z",
+      "scannedCandidates": 23,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
     }
   ]
 }

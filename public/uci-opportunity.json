@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-04-11T01:17:33.220Z",
+  "updatedAt": "2026-04-11T06:50:32.983Z",
   "opportunities": [
     {
       "id": "h125c4e11",
@@ -52,6 +52,57 @@
       "isViable": true,
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10133428",
       "publicationNumber": null
+    },
+    {
+      "id": "he69c4641",
+      "sourceId": "usaid",
+      "title": "Tribal Colleges and Universities Program",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-06-01T00:00:00.000Z",
+      "amount": 3500000,
+      "currency": "USD",
+      "amountUsd": 3500000,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://www.grants.gov/search-results-detail/334326",
+      "publicationNumber": null
+    },
+    {
+      "id": "hf62832f9",
+      "sourceId": "minciencias",
+      "title": "ENERGÍA SOSTENIBLE PARA EL TERRITORIO",
+      "source": "Minciencias",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-05-08T06:48:56.301Z",
+      "amount": 377639957602,
+      "currency": "COP",
+      "amountUsd": 94409989.4005,
+      "scoreTotal": 21,
+      "recommendation": "Aplicar inmediatamente",
+      "isViable": false,
+      "url": "https://minciencias.gov.co/node/9321",
+      "publicationNumber": "49"
+    },
+    {
+      "id": "hd73a8268",
+      "sourceId": "minciencias",
+      "title": "FORTALECIMIENTO DE CAPACIDADES TERRITORIALES EN SITUACIONES DE EMERGENCIA",
+      "source": "Minciencias",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-05-08T06:48:51.315Z",
+      "amount": 100000000000,
+      "currency": "COP",
+      "amountUsd": 25000000,
+      "scoreTotal": 20,
+      "recommendation": "Aplicar inmediatamente",
+      "isViable": false,
+      "url": "https://minciencias.gov.co/node/9322",
+      "publicationNumber": "52"
     },
     {
       "id": "h8231eae2",
@@ -120,58 +171,7 @@
       "isViable": true,
       "url": "https://community.secop.gov.co/STS/Users/Login/Index",
       "publicationNumber": null
-    },
-    {
-      "id": "h918b0866",
-      "sourceId": "mintic",
-      "title": "CONVOCATORIA COLOMBIA INTELIGENTE 2026 | Convocatoria 976 | Minciencias",
-      "source": "MinTIC",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-04-13T00:00:00.000Z",
-      "amount": 24000000000,
-      "currency": "USD",
-      "amountUsd": 24000000000,
-      "scoreTotal": 19,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://minciencias.gov.co/convocatorias/convocatoria-colombia-inteligente-2026",
-      "publicationNumber": null
-    },
-    {
-      "id": "h6c3df1ff",
-      "sourceId": "secop-ii",
-      "title": "Contratar un integrador de servicios que brinde a la SecretarIa de Hacienda del Departamento de Cundinamarca los siguientes servicios: Colocation y Hosting; Canales de Comunicaciones y....",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-04-13T00:00:00.000Z",
-      "amount": 25690850037,
-      "currency": "COP",
-      "amountUsd": 6422712.50925,
-      "scoreTotal": 17,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10101241",
-      "publicationNumber": null
-    },
-    {
-      "id": "he64fe4dc",
-      "sourceId": "secop-ii",
-      "title": "EQUIPOS DE INTERMEDIA TECNOLOGIA Y ELECTROMECANICOS",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-04-12T00:00:00.000Z",
-      "amount": null,
-      "currency": "",
-      "amountUsd": null,
-      "scoreTotal": 16,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10187048",
-      "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 10 | USA: 0 | EUROPA: 0"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 9 | USA: 1 | EUROPA: 0"
 }
