@@ -673,6 +673,12 @@
       "url": "https://es.linkedin.com/posts/sandra-milena-garcia-molina-b2763383_convocatoria-nacional-laboratorios-de-innovaci%C3%B3n-activity-7431788668329136129-QC_A",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "h1d5daef": {
+      "at": "2026-04-12T07:03:29.355Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-article-428125.html",
+      "viable": false
     }
   },
   "scans": [
@@ -793,6 +799,14 @@
       "endedAt": "2026-04-12T01:26:26.716Z",
       "scannedCandidates": 26,
       "viableCandidates": 3,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-12T07:03:09.310Z",
+      "endedAt": "2026-04-12T07:04:56.167Z",
+      "scannedCandidates": 24,
+      "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
     }
