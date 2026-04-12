@@ -603,6 +603,76 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/170900-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "h1f64bae0": {
+      "at": "2026-04-12T01:25:25.601Z",
+      "sourceId": "mintic",
+      "url": "https://www.integracionsocial.gov.co/index.php/noticias/93-noticias-infancia-y-adolescencia/7823-bogota-abre-convocatoria-para-que-entidades-sin-animo-de-lucro-operen-jardines-infantiles-en-2026",
+      "viable": false
+    },
+    "h8b65e465": {
+      "at": "2026-04-12T01:25:26.465Z",
+      "sourceId": "mintic",
+      "url": "https://www.colciencias.gov.co/sites/default/files/nota_aclaratoria_no._1_convocatoria_976_colombia_inteligente_2026.pdf",
+      "viable": false
+    },
+    "h464d4d33": {
+      "at": "2026-04-12T01:25:26.531Z",
+      "sourceId": "mintic",
+      "url": "https://www.cundinamarca.gov.co/atencion-y-servicio-a-la-ciudadania/convocatorias/",
+      "viable": false
+    },
+    "hb74c375d": {
+      "at": "2026-04-12T01:26:26.711Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10188922",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-12T01-26-26-696Z_secop-ii_prestar-el-servicio-de-transporte-para-la-alcaldes"
+    },
+    "hc023b2de": {
+      "at": "2026-04-12T01:26:26.711Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10161355",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h29058ce1": {
+      "at": "2026-04-12T01:26:26.711Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10184672",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-12T01-26-26-711Z_secop-ii_prestacion-de-servicios-de-destruccion"
+    },
+    "hc5efb3e1": {
+      "at": "2026-04-12T01:26:26.712Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10094722",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-12T01-26-26-712Z_secop-ii_proceso-vigilancia"
+    },
+    "hb0b11e2": {
+      "at": "2026-04-12T01:26:26.712Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10156968",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h526e4413": {
+      "at": "2026-04-12T01:26:26.713Z",
+      "sourceId": "mintic",
+      "url": "https://www.apccolombia.gov.co/modalidades-de-cooperacion/convocatorias/otras-convocatorias/convocatoria-plataforma-triangular",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hf385828": {
+      "at": "2026-04-12T01:26:26.714Z",
+      "sourceId": "mintic",
+      "url": "https://es.linkedin.com/posts/sandra-milena-garcia-molina-b2763383_convocatoria-nacional-laboratorios-de-innovaci%C3%B3n-activity-7431788668329136129-QC_A",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
@@ -715,6 +785,14 @@
       "endedAt": "2026-04-11T18:30:29.838Z",
       "scannedCandidates": 24,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-12T01:25:12.210Z",
+      "endedAt": "2026-04-12T01:26:26.716Z",
+      "scannedCandidates": 26,
+      "viableCandidates": 3,
       "sentNotifications": 0,
       "transport": "console"
     }

@@ -1,7 +1,154 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-04-11T18:30:29.837Z",
+  "updatedAt": "2026-04-12T01:26:26.715Z",
   "opportunities": [
+    {
+      "id": "had90e954",
+      "sourceId": "secop-ii",
+      "title": "PROCESO VIGILANCIA",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-04-13T00:00:00.000Z",
+      "amount": 4583810326,
+      "currency": "COP",
+      "amountUsd": 1145952.5815,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10094722",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-04-12T01:26:26.715Z",
+      "lastSeenAt": "2026-04-12T01:26:26.715Z",
+      "lastPublishedAt": "2026-04-12T01:26:26.715Z",
+      "isArchived": false
+    },
+    {
+      "id": "hc90158a4",
+      "sourceId": "secop-ii",
+      "title": "PRESTACION DE SERVICIOS DE DESTRUCCION",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-04-13T00:00:00.000Z",
+      "amount": 120000000,
+      "currency": "COP",
+      "amountUsd": 30000,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10184672",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-04-12T01:26:26.715Z",
+      "lastSeenAt": "2026-04-12T01:26:26.715Z",
+      "lastPublishedAt": "2026-04-12T01:26:26.715Z",
+      "isArchived": false
+    },
+    {
+      "id": "h60dda978",
+      "sourceId": "secop-ii",
+      "title": "PRESTAR EL SERVICIO DE TRANSPORTE PARA LA ALCALDESA DEL  MUNICIPIO DE LÍBANO TOLIMA",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-04-13T00:00:00.000Z",
+      "amount": 47534333,
+      "currency": "COP",
+      "amountUsd": 11883.58325,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10188922",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-04-12T01:26:26.715Z",
+      "lastSeenAt": "2026-04-12T01:26:26.715Z",
+      "lastPublishedAt": "2026-04-12T01:26:26.715Z",
+      "isArchived": false
+    },
+    {
+      "id": "hdf08aaf4",
+      "sourceId": "mintic",
+      "title": "Convocatoria Nacional Laboratorios de Innovación GEN:RE 2026 | Sandra Milena Garcia Molina | 15 comentarios",
+      "source": "MinTIC",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-05-21T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 19,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://es.linkedin.com/posts/sandra-milena-garcia-molina-b2763383_convocatoria-nacional-laboratorios-de-innovaci%C3%B3n-activity-7431788668329136129-QC_A",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-04-12T01:26:26.715Z",
+      "lastSeenAt": "2026-04-12T01:26:26.715Z",
+      "lastPublishedAt": "2026-04-12T01:26:26.715Z",
+      "isArchived": false
+    },
+    {
+      "id": "h9dec259f",
+      "sourceId": "mintic",
+      "title": "Convocatoria Plataforma Triangular para el Desarrollo TriNova | Agencia Presidencial de Cooperación Internacional",
+      "source": "MinTIC",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-05-08T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 17,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://www.apccolombia.gov.co/modalidades-de-cooperacion/convocatorias/otras-convocatorias/convocatoria-plataforma-triangular",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-04-12T01:26:26.715Z",
+      "lastSeenAt": "2026-04-12T01:26:26.715Z",
+      "lastPublishedAt": "2026-04-12T01:26:26.715Z",
+      "isArchived": false
+    },
+    {
+      "id": "hf97a257",
+      "sourceId": "secop-ii",
+      "title": "GIRAS TECNICAS CFC SENA - 2026",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-04-13T00:00:00.000Z",
+      "amount": 16771741,
+      "currency": "COP",
+      "amountUsd": 4192.93525,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10156968",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-04-12T01:26:26.715Z",
+      "lastSeenAt": "2026-04-12T01:26:26.715Z",
+      "lastPublishedAt": "2026-04-12T01:26:26.715Z",
+      "isArchived": false
+    },
+    {
+      "id": "h44a051b",
+      "sourceId": "secop-ii",
+      "title": "ARRENDAMIENTO EQUIPOS DE CÓMPUTO E IMPRESORAS",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-04-13T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10161355",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-04-12T01:26:26.715Z",
+      "lastSeenAt": "2026-04-12T01:26:26.715Z",
+      "lastPublishedAt": "2026-04-12T01:26:26.715Z",
+      "isArchived": false
+    },
     {
       "id": "h80ab774a",
       "sourceId": "ted-europa",
@@ -21,7 +168,7 @@
       "firstSeenAt": "2026-04-11T12:34:53.790Z",
       "lastSeenAt": "2026-04-11T18:30:29.837Z",
       "lastPublishedAt": "2026-04-11T18:30:29.837Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h125c4e11",
@@ -42,7 +189,7 @@
       "firstSeenAt": "2026-04-11T01:17:33.221Z",
       "lastSeenAt": "2026-04-11T18:30:29.837Z",
       "lastPublishedAt": "2026-04-11T18:30:29.837Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha163ccc9",
@@ -63,7 +210,7 @@
       "firstSeenAt": "2026-04-11T01:17:33.221Z",
       "lastSeenAt": "2026-04-11T18:30:29.837Z",
       "lastPublishedAt": "2026-04-11T18:30:29.837Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hdc73a617",
@@ -84,7 +231,7 @@
       "firstSeenAt": "2026-04-11T01:17:33.221Z",
       "lastSeenAt": "2026-04-11T18:30:29.837Z",
       "lastPublishedAt": "2026-04-11T18:30:29.837Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h8231eae2",
@@ -105,7 +252,7 @@
       "firstSeenAt": "2026-04-11T01:17:33.221Z",
       "lastSeenAt": "2026-04-11T18:30:29.837Z",
       "lastPublishedAt": "2026-04-11T18:30:29.837Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hec8cc045",
@@ -126,7 +273,7 @@
       "firstSeenAt": "2026-04-11T01:17:33.221Z",
       "lastSeenAt": "2026-04-11T18:30:29.837Z",
       "lastPublishedAt": "2026-04-11T18:30:29.837Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd7f812ab",
@@ -147,7 +294,7 @@
       "firstSeenAt": "2026-04-11T01:17:33.221Z",
       "lastSeenAt": "2026-04-11T18:30:29.837Z",
       "lastPublishedAt": "2026-04-11T18:30:29.837Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h8343e902",
@@ -168,7 +315,7 @@
       "firstSeenAt": "2026-04-11T01:17:33.221Z",
       "lastSeenAt": "2026-04-11T18:30:29.837Z",
       "lastPublishedAt": "2026-04-11T18:30:29.837Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h6c3df1ff",
@@ -189,7 +336,7 @@
       "firstSeenAt": "2026-04-11T01:17:33.221Z",
       "lastSeenAt": "2026-04-11T18:30:29.837Z",
       "lastPublishedAt": "2026-04-11T18:30:29.837Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he64fe4dc",
@@ -210,7 +357,7 @@
       "firstSeenAt": "2026-04-11T01:17:33.221Z",
       "lastSeenAt": "2026-04-11T18:30:29.837Z",
       "lastPublishedAt": "2026-04-11T18:30:29.837Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hb4151dee",
@@ -231,7 +378,7 @@
       "firstSeenAt": "2026-04-11T01:17:33.221Z",
       "lastSeenAt": "2026-04-11T18:30:29.837Z",
       "lastPublishedAt": "2026-04-11T18:30:29.837Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hc044ba9b",
@@ -252,7 +399,7 @@
       "firstSeenAt": "2026-04-11T01:17:33.221Z",
       "lastSeenAt": "2026-04-11T18:30:29.837Z",
       "lastPublishedAt": "2026-04-11T18:30:29.837Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h7d6dc3c0",
@@ -273,7 +420,7 @@
       "firstSeenAt": "2026-04-11T01:17:33.221Z",
       "lastSeenAt": "2026-04-11T18:30:29.837Z",
       "lastPublishedAt": "2026-04-11T18:30:29.837Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h7de3fa23",
@@ -294,7 +441,7 @@
       "firstSeenAt": "2026-04-11T01:17:33.221Z",
       "lastSeenAt": "2026-04-11T18:30:29.837Z",
       "lastPublishedAt": "2026-04-11T18:30:29.837Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h40558706",
@@ -315,7 +462,7 @@
       "firstSeenAt": "2026-04-11T01:17:33.221Z",
       "lastSeenAt": "2026-04-11T18:30:29.837Z",
       "lastPublishedAt": "2026-04-11T18:30:29.837Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h73426513",
@@ -336,7 +483,7 @@
       "firstSeenAt": "2026-04-11T01:17:33.221Z",
       "lastSeenAt": "2026-04-11T18:30:29.837Z",
       "lastPublishedAt": "2026-04-11T18:30:29.837Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h3df52836",
@@ -357,7 +504,7 @@
       "firstSeenAt": "2026-04-11T01:17:33.221Z",
       "lastSeenAt": "2026-04-11T18:30:29.837Z",
       "lastPublishedAt": "2026-04-11T18:30:29.837Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he69c4641",
@@ -378,7 +525,7 @@
       "firstSeenAt": "2026-04-10T07:16:49.569Z",
       "lastSeenAt": "2026-04-11T18:30:29.837Z",
       "lastPublishedAt": "2026-04-11T18:30:29.837Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd42464ed",
@@ -399,7 +546,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-11T18:30:29.837Z",
       "lastPublishedAt": "2026-04-11T18:30:29.837Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h40b35418",
@@ -420,7 +567,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-11T18:30:29.837Z",
       "lastPublishedAt": "2026-04-11T18:30:29.837Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf62832f9",
@@ -441,7 +588,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-11T18:30:29.837Z",
       "lastPublishedAt": "2026-04-11T18:30:29.837Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd73a8268",
@@ -462,7 +609,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-11T18:30:29.837Z",
       "lastPublishedAt": "2026-04-11T18:30:29.837Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha3225c08",
@@ -483,7 +630,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-11T18:30:29.837Z",
       "lastPublishedAt": "2026-04-11T18:30:29.837Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h85a3a119",
@@ -504,7 +651,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-11T18:30:29.837Z",
       "lastPublishedAt": "2026-04-11T18:30:29.837Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h918b0866",
@@ -633,5 +780,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 30 | Archivadas: 6"
+  "message": "Historico acumulado del agente UCI-F. Total: 37 | Archivadas: 30"
 }
