@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-04-12T12:38:20.505Z",
+  "updatedAt": "2026-04-12T18:34:57.574Z",
   "opportunities": [
     {
       "id": "had90e954",
@@ -94,7 +94,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-05-08T12:37:05.292Z",
+      "deadline": "2026-05-08T18:32:53.598Z",
       "amount": 377639957602,
       "currency": "COP",
       "amountUsd": 94409989.4005,
@@ -111,7 +111,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-05-08T12:37:01.691Z",
+      "deadline": "2026-05-08T18:32:48.642Z",
       "amount": 100000000000,
       "currency": "COP",
       "amountUsd": 25000000,
