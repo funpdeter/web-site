@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-04-12T18:34:57.576Z",
+  "updatedAt": "2026-04-13T01:29:21.156Z",
   "opportunities": [
+    {
+      "id": "h7e4da635",
+      "sourceId": "ted-europa",
+      "title": "France – Bakery products – Fourniture et livraison de pains et autres produits boulangers pour l'EFS PACA-Corse",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-05-18T00:00:00.000Z",
+      "amount": 307040,
+      "currency": "EUR",
+      "amountUsd": 331603.2,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/177883-2026",
+      "publicationNumber": "177883-2026",
+      "firstSeenAt": "2026-04-13T01:29:21.156Z",
+      "lastSeenAt": "2026-04-13T01:29:21.156Z",
+      "lastPublishedAt": "2026-04-13T01:29:21.156Z",
+      "isArchived": false
+    },
     {
       "id": "had90e954",
       "sourceId": "secop-ii",
@@ -21,7 +42,7 @@
       "firstSeenAt": "2026-04-12T01:26:26.715Z",
       "lastSeenAt": "2026-04-12T18:34:57.576Z",
       "lastPublishedAt": "2026-04-12T18:34:57.576Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hc90158a4",
@@ -42,7 +63,7 @@
       "firstSeenAt": "2026-04-12T01:26:26.715Z",
       "lastSeenAt": "2026-04-12T18:34:57.576Z",
       "lastPublishedAt": "2026-04-12T18:34:57.576Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h60dda978",
@@ -63,7 +84,7 @@
       "firstSeenAt": "2026-04-12T01:26:26.715Z",
       "lastSeenAt": "2026-04-12T18:34:57.576Z",
       "lastPublishedAt": "2026-04-12T18:34:57.576Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf97a257",
@@ -84,7 +105,7 @@
       "firstSeenAt": "2026-04-12T01:26:26.715Z",
       "lastSeenAt": "2026-04-12T18:34:57.576Z",
       "lastPublishedAt": "2026-04-12T18:34:57.576Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h44a051b",
@@ -105,7 +126,7 @@
       "firstSeenAt": "2026-04-12T01:26:26.715Z",
       "lastSeenAt": "2026-04-12T18:34:57.576Z",
       "lastPublishedAt": "2026-04-12T18:34:57.576Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h80ab774a",
@@ -126,7 +147,7 @@
       "firstSeenAt": "2026-04-11T12:34:53.790Z",
       "lastSeenAt": "2026-04-12T18:34:57.576Z",
       "lastPublishedAt": "2026-04-12T18:34:57.576Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h125c4e11",
@@ -147,7 +168,7 @@
       "firstSeenAt": "2026-04-11T01:17:33.221Z",
       "lastSeenAt": "2026-04-12T18:34:57.576Z",
       "lastPublishedAt": "2026-04-12T18:34:57.576Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha163ccc9",
@@ -168,7 +189,7 @@
       "firstSeenAt": "2026-04-11T01:17:33.221Z",
       "lastSeenAt": "2026-04-12T18:34:57.576Z",
       "lastPublishedAt": "2026-04-12T18:34:57.576Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hdc73a617",
@@ -189,7 +210,7 @@
       "firstSeenAt": "2026-04-11T01:17:33.221Z",
       "lastSeenAt": "2026-04-12T18:34:57.576Z",
       "lastPublishedAt": "2026-04-12T18:34:57.576Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hec8cc045",
@@ -210,7 +231,7 @@
       "firstSeenAt": "2026-04-11T01:17:33.221Z",
       "lastSeenAt": "2026-04-12T18:34:57.576Z",
       "lastPublishedAt": "2026-04-12T18:34:57.576Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd7f812ab",
@@ -231,7 +252,7 @@
       "firstSeenAt": "2026-04-11T01:17:33.221Z",
       "lastSeenAt": "2026-04-12T18:34:57.576Z",
       "lastPublishedAt": "2026-04-12T18:34:57.576Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h8343e902",
@@ -252,7 +273,7 @@
       "firstSeenAt": "2026-04-11T01:17:33.221Z",
       "lastSeenAt": "2026-04-12T18:34:57.576Z",
       "lastPublishedAt": "2026-04-12T18:34:57.576Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h6c3df1ff",
@@ -273,7 +294,7 @@
       "firstSeenAt": "2026-04-11T01:17:33.221Z",
       "lastSeenAt": "2026-04-12T18:34:57.576Z",
       "lastPublishedAt": "2026-04-12T18:34:57.576Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hb4151dee",
@@ -294,7 +315,7 @@
       "firstSeenAt": "2026-04-11T01:17:33.221Z",
       "lastSeenAt": "2026-04-12T18:34:57.576Z",
       "lastPublishedAt": "2026-04-12T18:34:57.576Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hc044ba9b",
@@ -315,7 +336,7 @@
       "firstSeenAt": "2026-04-11T01:17:33.221Z",
       "lastSeenAt": "2026-04-12T18:34:57.576Z",
       "lastPublishedAt": "2026-04-12T18:34:57.576Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h73426513",
@@ -336,7 +357,7 @@
       "firstSeenAt": "2026-04-11T01:17:33.221Z",
       "lastSeenAt": "2026-04-12T18:34:57.576Z",
       "lastPublishedAt": "2026-04-12T18:34:57.576Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h3df52836",
@@ -357,7 +378,7 @@
       "firstSeenAt": "2026-04-11T01:17:33.221Z",
       "lastSeenAt": "2026-04-12T18:34:57.576Z",
       "lastPublishedAt": "2026-04-12T18:34:57.576Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he69c4641",
@@ -378,7 +399,7 @@
       "firstSeenAt": "2026-04-10T07:16:49.569Z",
       "lastSeenAt": "2026-04-12T18:34:57.576Z",
       "lastPublishedAt": "2026-04-12T18:34:57.576Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd42464ed",
@@ -399,7 +420,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-12T18:34:57.576Z",
       "lastPublishedAt": "2026-04-12T18:34:57.576Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h40b35418",
@@ -420,7 +441,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-12T18:34:57.576Z",
       "lastPublishedAt": "2026-04-12T18:34:57.576Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf62832f9",
@@ -441,7 +462,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-12T18:34:57.576Z",
       "lastPublishedAt": "2026-04-12T18:34:57.576Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd73a8268",
@@ -462,7 +483,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-12T18:34:57.576Z",
       "lastPublishedAt": "2026-04-12T18:34:57.576Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha3225c08",
@@ -483,7 +504,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-12T18:34:57.576Z",
       "lastPublishedAt": "2026-04-12T18:34:57.576Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h85a3a119",
@@ -504,7 +525,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-12T18:34:57.576Z",
       "lastPublishedAt": "2026-04-12T18:34:57.576Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hdf08aaf4",
@@ -780,5 +801,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 37 | Archivadas: 13"
+  "message": "Historico acumulado del agente UCI-F. Total: 38 | Archivadas: 37"
 }
