@@ -58,12 +58,12 @@
   color: #4e5d52;
 }
 
-.uci-heading-actions {
-  margin-top: 1.5rem;
+.uci-footer-actions {
+  margin-top: 2rem;
   justify-content: center;
 }
 
-.uci-heading-actions .history-toggle-button {
+.history-toggle-button {
   border-radius: 8px;
   background-color: var(--primary-color);
   color: #ffffff;
@@ -73,7 +73,7 @@
   cursor: pointer;
 }
 
-.uci-heading-actions .history-toggle-button:hover {
+.history-toggle-button:hover {
   background-color: transparent;
   color: var(--primary-color);
   box-shadow: 0 10px 24px rgba(35, 79, 39, 0.14);
@@ -326,7 +326,7 @@
     min-width: 100%;
   }
 
-  .uci-heading-actions .history-toggle-button {
+  .history-toggle-button {
     min-width: 100%;
   }
 }

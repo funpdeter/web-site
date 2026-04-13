@@ -307,17 +307,6 @@ const GestionUCI: React.FC = () => {
             <p>
               Aquí publicaremos oportunidades reales detectadas y evaluadas por nuestros agentes especializados
             </p>
-            <div className="hero-actions uci-heading-actions">
-              <button
-                type="button"
-                className="cta-button history-toggle-button"
-                onClick={() => setShowHistory((current) => !current)}
-              >
-                {showHistory
-                  ? 'Ocultar histórico'
-                  : `Ver histórico de convocatorias${archivedOpportunities.length ? ` (${archivedOpportunities.length})` : ''}`}
-              </button>
-            </div>
           </div>
 
           <div className="opportunity-list">
@@ -430,6 +419,18 @@ const GestionUCI: React.FC = () => {
               )}
             </div>
           ) : null}
+
+          <div className="hero-actions uci-footer-actions">
+            <button
+              type="button"
+              className="cta-button history-toggle-button"
+              onClick={() => setShowHistory((current) => !current)}
+            >
+              {showHistory
+                ? 'Ocultar histórico'
+                : `Ver histórico de convocatorias${archivedOpportunities.length ? ` (${archivedOpportunities.length})` : ''}`}
+            </button>
+          </div>
         </div>
       </section>
 
