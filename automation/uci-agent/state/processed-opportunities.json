@@ -686,6 +686,12 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/177883-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "hc8189169": {
+      "at": "2026-04-13T07:47:32.993Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/modalidades-de-cooperacion/cooperacion-triangular",
+      "viable": false
     }
   },
   "scans": [
@@ -836,6 +842,14 @@
     {
       "startedAt": "2026-04-13T01:27:18.965Z",
       "endedAt": "2026-04-13T01:29:21.157Z",
+      "scannedCandidates": 8,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-13T07:47:29.832Z",
+      "endedAt": "2026-04-13T07:49:34.810Z",
       "scannedCandidates": 8,
       "viableCandidates": 0,
       "sentNotifications": 0,
