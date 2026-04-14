@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-04-13T19:01:43.529Z",
+  "updatedAt": "2026-04-14T01:26:31.529Z",
   "opportunities": [
     {
       "id": "hf62832f9",
@@ -9,7 +9,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-05-08T19:00:15.949Z",
+      "deadline": "2026-05-08T01:25:18.279Z",
       "amount": 377639957602,
       "currency": "COP",
       "amountUsd": 94409989.4005,
@@ -26,7 +26,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-05-08T19:00:12.539Z",
+      "deadline": "2026-05-08T01:25:14.304Z",
       "amount": 100000000000,
       "currency": "COP",
       "amountUsd": 25000000,
@@ -43,7 +43,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-04-23T19:00:17.248Z",
+      "deadline": "2026-04-23T01:25:19.602Z",
       "amount": 446515026467,
       "currency": "COP",
       "amountUsd": 111628756.61675,
@@ -88,23 +88,6 @@
       "publicationNumber": "177883-2026"
     },
     {
-      "id": "hd42464ed",
-      "sourceId": "usaid",
-      "title": "IUSE/Professional Formation of Engineers:  Revolutionizing Engineering Departments",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-04-14T00:00:00.000Z",
-      "amount": 2000000,
-      "currency": "USD",
-      "amountUsd": 2000000,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/353413",
-      "publicationNumber": null
-    },
-    {
       "id": "h40b35418",
       "sourceId": "usaid",
       "title": "Improving Undergraduate STEM Education: Directorate for STEM Education",
@@ -139,5 +122,5 @@
       "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 3 | USA: 4 | EUROPA: 1"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 3 | USA: 3 | EUROPA: 1"
 }
