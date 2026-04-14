@@ -699,6 +699,12 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/186326-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "h5d33a921": {
+      "at": "2026-04-14T18:58:12.830Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/micrositios/convocatoriastv2026/894/articles-428913_Resolucion_FuTIC_00140_del_2026.pdf",
+      "viable": false
     }
   },
   "scans": [
@@ -897,6 +903,14 @@
     {
       "startedAt": "2026-04-14T12:59:35.865Z",
       "endedAt": "2026-04-14T13:01:33.324Z",
+      "scannedCandidates": 7,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-14T18:57:56.661Z",
+      "endedAt": "2026-04-14T18:59:31.961Z",
       "scannedCandidates": 7,
       "viableCandidates": 0,
       "sentNotifications": 0,
