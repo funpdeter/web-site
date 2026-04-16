@@ -705,17 +705,15 @@
       "sourceId": "mintic",
       "url": "https://mintic.gov.co/micrositios/convocatoriastv2026/894/articles-428913_Resolucion_FuTIC_00140_del_2026.pdf",
       "viable": false
+    },
+    "hb7190e6b": {
+      "at": "2026-04-16T01:27:39.960Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.grupo-epm.com/site/fundacionepm/ofertas-de-empleo/convocatorias/",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-04-08T16:12:54.676Z",
-      "endedAt": "2026-04-08T16:15:21.934Z",
-      "scannedCandidates": 9,
-      "viableCandidates": 1,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-04-08T19:01:25.698Z",
       "endedAt": "2026-04-08T19:02:58.991Z",
@@ -944,6 +942,14 @@
       "startedAt": "2026-04-15T18:59:45.873Z",
       "endedAt": "2026-04-15T19:01:11.525Z",
       "scannedCandidates": 7,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-16T01:27:36.363Z",
+      "endedAt": "2026-04-16T01:29:17.719Z",
+      "scannedCandidates": 6,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"

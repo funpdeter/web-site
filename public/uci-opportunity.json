@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-04-15T19:01:11.522Z",
+  "updatedAt": "2026-04-16T01:29:17.717Z",
   "opportunities": [
     {
       "id": "hf62832f9",
@@ -9,7 +9,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-05-08T18:59:54.082Z",
+      "deadline": "2026-05-08T01:27:46.203Z",
       "amount": 377639957602,
       "currency": "COP",
       "amountUsd": 94409989.4005,
@@ -26,7 +26,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-05-08T18:59:50.321Z",
+      "deadline": "2026-05-08T01:27:42.037Z",
       "amount": 100000000000,
       "currency": "COP",
       "amountUsd": 25000000,
@@ -43,7 +43,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-04-23T18:59:55.477Z",
+      "deadline": "2026-04-23T01:27:47.541Z",
       "amount": 446515026467,
       "currency": "COP",
       "amountUsd": 111628756.61675,
@@ -69,23 +69,6 @@
       "isViable": true,
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null
-    },
-    {
-      "id": "h7e4da635",
-      "sourceId": "ted-europa",
-      "title": "France – Bakery products – Fourniture et livraison de pains et autres produits boulangers pour l'EFS PACA-Corse",
-      "source": "TED Europa",
-      "sourceTier": "internacional",
-      "region": "EUROPA",
-      "deadline": "2026-05-18T00:00:00.000Z",
-      "amount": 307040,
-      "currency": "EUR",
-      "amountUsd": 331603.2,
-      "scoreTotal": 13,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/177883-2026",
-      "publicationNumber": "177883-2026"
     },
     {
       "id": "h40b35418",
@@ -122,5 +105,5 @@
       "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 3 | USA: 3 | EUROPA: 1"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 3 | USA: 3 | EUROPA: 0"
 }
