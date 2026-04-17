@@ -1,7 +1,70 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-04-16T18:59:13.206Z",
+  "updatedAt": "2026-04-17T01:27:08.378Z",
   "opportunities": [
+    {
+      "id": "hb279b651",
+      "sourceId": "ted-europa",
+      "title": "Italy – Architectural, engineering and surveying services – PROCEDURA APERTA PER L'AFFIDAMENTO DI SERVIZI PER L'ARCHITETTURA E L'INGEGNERIA",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-04-29T00:00:00.000Z",
+      "amount": 2314472.78,
+      "currency": "EUR",
+      "amountUsd": 2499630.6023999997,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/185374-2026",
+      "publicationNumber": "185374-2026",
+      "firstSeenAt": "2026-04-17T01:27:08.378Z",
+      "lastSeenAt": "2026-04-17T01:27:08.378Z",
+      "lastPublishedAt": "2026-04-17T01:27:08.378Z",
+      "isArchived": false
+    },
+    {
+      "id": "h49b53239",
+      "sourceId": "ted-europa",
+      "title": "Italy – Insurance services – GARA EUROPEA A PROCEDURA TELEMATICA APERTA PER L’APPALTO DEI SERVIZI ASSICURATIVI DEL COMUNE DI RONCADE (TV) DAL 30/06/2026 AL 30/06/2029",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-04-22T00:00:00.000Z",
+      "amount": 762500.14,
+      "currency": "EUR",
+      "amountUsd": 823500.1512000001,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/185420-2026",
+      "publicationNumber": "185420-2026",
+      "firstSeenAt": "2026-04-17T01:27:08.378Z",
+      "lastSeenAt": "2026-04-17T01:27:08.378Z",
+      "lastPublishedAt": "2026-04-17T01:27:08.378Z",
+      "isArchived": false
+    },
+    {
+      "id": "ha3b89f50",
+      "sourceId": "ted-europa",
+      "title": "Italy – Social work services with accommodation – Gara europea volta alla conclusione di un accordo quadro con piu soggetti economici senza riapertura del confronto competitivo per l affidamento dei servizi di accoglienza per la durata di 36 mesi e dei servizi connessi ai cittadini stranieri richiedenti protezione internazionale presso centri collettivi con capacita ricettiva fino a 50 posti ubicati nella provincia di Enna per totale 400 posti",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-04-30T00:00:00.000Z",
+      "amount": 40142440.8,
+      "currency": "EUR",
+      "amountUsd": 43353836.064,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/188633-2026",
+      "publicationNumber": "188633-2026",
+      "firstSeenAt": "2026-04-17T01:27:08.378Z",
+      "lastSeenAt": "2026-04-17T01:27:08.378Z",
+      "lastPublishedAt": "2026-04-17T01:27:08.378Z",
+      "isArchived": false
+    },
     {
       "id": "he69c4641",
       "sourceId": "usaid",
@@ -21,7 +84,7 @@
       "firstSeenAt": "2026-04-10T07:16:49.569Z",
       "lastSeenAt": "2026-04-16T18:59:13.206Z",
       "lastPublishedAt": "2026-04-16T18:59:13.206Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h40b35418",
@@ -42,7 +105,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-16T18:59:13.206Z",
       "lastPublishedAt": "2026-04-16T18:59:13.206Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf62832f9",
@@ -63,7 +126,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-16T18:59:13.206Z",
       "lastPublishedAt": "2026-04-16T18:59:13.206Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd73a8268",
@@ -84,7 +147,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-16T18:59:13.206Z",
       "lastPublishedAt": "2026-04-16T18:59:13.206Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha3225c08",
@@ -105,7 +168,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-16T18:59:13.206Z",
       "lastPublishedAt": "2026-04-16T18:59:13.206Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h85a3a119",
@@ -126,7 +189,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-16T18:59:13.206Z",
       "lastPublishedAt": "2026-04-16T18:59:13.206Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h7e4da635",
@@ -822,5 +885,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 39 | Archivadas: 33"
+  "message": "Historico acumulado del agente UCI-F. Total: 42 | Archivadas: 39"
 }

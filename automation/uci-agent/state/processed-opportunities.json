@@ -711,17 +711,30 @@
       "sourceId": "apc-colombia",
       "url": "https://www.grupo-epm.com/site/fundacionepm/ofertas-de-empleo/convocatorias/",
       "viable": false
+    },
+    "hf77eff2c": {
+      "at": "2026-04-17T01:27:08.377Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/185374-2026",
+      "viable": false,
+      "reason": "No aplicar"
+    },
+    "hd8b684e8": {
+      "at": "2026-04-17T01:27:08.377Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/185420-2026",
+      "viable": false,
+      "reason": "No aplicar"
+    },
+    "h76d92d71": {
+      "at": "2026-04-17T01:27:08.377Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/188633-2026",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-04-09T12:57:53.344Z",
-      "endedAt": "2026-04-09T12:59:45.375Z",
-      "scannedCandidates": 6,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-04-09T18:47:22.193Z",
       "endedAt": "2026-04-09T18:48:33.414Z",
@@ -950,6 +963,14 @@
       "startedAt": "2026-04-16T18:57:37.254Z",
       "endedAt": "2026-04-16T18:59:13.207Z",
       "scannedCandidates": 6,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-17T01:24:56.066Z",
+      "endedAt": "2026-04-17T01:27:08.379Z",
+      "scannedCandidates": 9,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
