@@ -732,17 +732,15 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/188633-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "hb236a55a": {
+      "at": "2026-04-17T12:54:52.662Z",
+      "sourceId": "apc-colombia",
+      "url": "https://apccolombia.gov.co/index.php/modalidades-de-cooperacion/convocatorias/convocatoria-portafolio-de-oferta/convocatoria-portafolio",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-04-10T01:21:23.094Z",
-      "endedAt": "2026-04-10T01:23:22.478Z",
-      "scannedCandidates": 6,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-04-10T07:15:01.331Z",
       "endedAt": "2026-04-10T07:16:49.570Z",
@@ -970,6 +968,14 @@
     {
       "startedAt": "2026-04-17T07:18:31.763Z",
       "endedAt": "2026-04-17T07:19:57.416Z",
+      "scannedCandidates": 9,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-17T12:54:49.424Z",
+      "endedAt": "2026-04-17T12:56:28.301Z",
       "scannedCandidates": 9,
       "viableCandidates": 0,
       "sentNotifications": 0,
