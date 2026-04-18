@@ -738,17 +738,142 @@
       "sourceId": "apc-colombia",
       "url": "https://apccolombia.gov.co/index.php/modalidades-de-cooperacion/convocatorias/convocatoria-portafolio-de-oferta/convocatoria-portafolio",
       "viable": false
+    },
+    "h44c8e859": {
+      "at": "2026-04-18T01:19:05.369Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/micrositios/asignacionemisorascomunitariasetnicas2023/821/articles-333604_recurso_1.pdf",
+      "viable": false
+    },
+    "hfd7259d7": {
+      "at": "2026-04-18T01:20:05.881Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10193854",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h93177a53": {
+      "at": "2026-04-18T01:20:05.896Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10194266",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-18T01-20-05-881Z_secop-ii_interventoria-transporte"
+    },
+    "h8b7aaf10": {
+      "at": "2026-04-18T01:20:05.896Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10171626",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-18T01-20-05-896Z_secop-ii_63600c1131-realizar-mejoramiento-de-la-subestacion"
+    },
+    "hd188c3ca": {
+      "at": "2026-04-18T01:20:05.897Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10120749",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-18T01-20-05-897Z_secop-ii_construccion-del-recreodeportivo-san-jose-en-la-co"
+    },
+    "hb1fac3c0": {
+      "at": "2026-04-18T01:20:05.898Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10154142",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-18T01-20-05-897Z_secop-ii_suministro-de-cigarrillos-para-la-venta-a-traves-d"
+    },
+    "hcd4f9ad6": {
+      "at": "2026-04-18T01:20:05.898Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10152803",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-18T01-20-05-898Z_secop-ii_operacion-y-mantenimiento-de-la-plantas-de-tratami"
+    },
+    "h6877e8e7": {
+      "at": "2026-04-18T01:20:05.899Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10167831",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-18T01-20-05-899Z_secop-ii_servicio-de-edicion-publicacion-y-difusion-de-la-r"
+    },
+    "h7f42f1f9": {
+      "at": "2026-04-18T01:20:05.899Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10145406",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-18T01-20-05-899Z_secop-ii_contratar-la-interventoria-juridica-tecnica-financ"
+    },
+    "he8e82c5f": {
+      "at": "2026-04-18T01:20:05.900Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10187338",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-18T01-20-05-900Z_secop-ii_suministro-llantas-2026-presentacion-de-oferta"
+    },
+    "he78034b1": {
+      "at": "2026-04-18T01:20:05.901Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10179319",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-18T01-20-05-900Z_secop-ii_suministro-de-materiales-de-ferreteria-y-construcc"
+    },
+    "hafa48132": {
+      "at": "2026-04-18T01:20:05.901Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10188725",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-18T01-20-05-901Z_secop-ii_363-adquisicion-de-papeleria-utiles-de-oficina-y-e"
+    },
+    "hf3cf9ad": {
+      "at": "2026-04-18T01:20:05.901Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10158615",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-18T01-20-05-901Z_secop-ii_adquisicion-soat"
+    },
+    "hbe265bc6": {
+      "at": "2026-04-18T01:20:05.902Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10169823",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-18T01-20-05-902Z_secop-ii_contratar-la-prestacion-de-servicios-de-aseo-rocer"
+    },
+    "hbc37cbe4": {
+      "at": "2026-04-18T01:20:05.902Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10184125",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-18T01-20-05-902Z_secop-ii_solucion-de-comunicacion-de-red-para-el-instituto-"
+    },
+    "hd85c3d": {
+      "at": "2026-04-18T01:20:05.903Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10158581",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-18T01-20-05-902Z_secop-ii_incineracion-de-retamo"
+    },
+    "h475db3e7": {
+      "at": "2026-04-18T01:20:05.903Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10189224",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-18T01-20-05-903Z_secop-ii_mantenimiento-preventivo-y-correctivo-a-todo-costo"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-04-10T12:43:57.424Z",
-      "endedAt": "2026-04-10T12:45:28.063Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 1,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-04-10T18:38:29.864Z",
       "endedAt": "2026-04-10T18:39:59.202Z",
@@ -978,6 +1103,14 @@
       "endedAt": "2026-04-17T18:43:47.103Z",
       "scannedCandidates": 9,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-18T01:18:44.527Z",
+      "endedAt": "2026-04-18T01:20:05.906Z",
+      "scannedCandidates": 25,
+      "viableCandidates": 15,
       "sentNotifications": 0,
       "transport": "console"
     }
