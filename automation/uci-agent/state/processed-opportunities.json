@@ -893,17 +893,27 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-19T01-30-09-781Z_secop-ii_suministro-de-productos-de-aseo-y-limpieza-para-la"
+    },
+    "hec64b785": {
+      "at": "2026-04-19T07:06:27.634Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/micrositios/convocatoriastv2026/894/articles-428905_Plan_de_Produccion__ANEXO_2__Territorios_al_Aire_2026.docx",
+      "viable": false
+    },
+    "h4f51d05d": {
+      "at": "2026-04-19T07:06:28.099Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/micrositios/convocatoriastv2026/894/articles-428907_Respuesta_de_Observaciones_al_Borrador_de_Condiciones.pdf",
+      "viable": false
+    },
+    "hc0bf249a": {
+      "at": "2026-04-19T07:06:28.752Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/micrositios/convocatoriastv2026/894/articles-427734_Resolucion_FuTIC_00112_del_2026.pdf",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-04-11T18:28:55.759Z",
-      "endedAt": "2026-04-11T18:30:29.838Z",
-      "scannedCandidates": 24,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-04-12T01:25:12.210Z",
       "endedAt": "2026-04-12T01:26:26.716Z",
@@ -1133,6 +1143,14 @@
       "endedAt": "2026-04-19T01:30:09.783Z",
       "scannedCandidates": 23,
       "viableCandidates": 2,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-19T07:06:08.189Z",
+      "endedAt": "2026-04-19T07:07:38.377Z",
+      "scannedCandidates": 23,
+      "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
     }
