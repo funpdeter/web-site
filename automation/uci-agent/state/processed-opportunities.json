@@ -871,17 +871,31 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-18T01-20-05-903Z_secop-ii_mantenimiento-preventivo-y-correctivo-a-todo-costo"
+    },
+    "ha0b4f10f": {
+      "at": "2026-04-19T01:28:40.789Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-article-277480.html",
+      "viable": false
+    },
+    "hf3e39929": {
+      "at": "2026-04-19T01:30:09.781Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10179250",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-19T01-30-09-770Z_secop-ii_materiales-de-formacion-campesena"
+    },
+    "he5418a11": {
+      "at": "2026-04-19T01:30:09.781Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10157597",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-19T01-30-09-781Z_secop-ii_suministro-de-productos-de-aseo-y-limpieza-para-la"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-04-11T12:33:37.047Z",
-      "endedAt": "2026-04-11T12:34:53.791Z",
-      "scannedCandidates": 24,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-04-11T18:28:55.759Z",
       "endedAt": "2026-04-11T18:30:29.838Z",
@@ -1111,6 +1125,14 @@
       "endedAt": "2026-04-18T18:33:53.642Z",
       "scannedCandidates": 7,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-19T01:28:18.591Z",
+      "endedAt": "2026-04-19T01:30:09.783Z",
+      "scannedCandidates": 23,
+      "viableCandidates": 2,
       "sentNotifications": 0,
       "transport": "console"
     }
