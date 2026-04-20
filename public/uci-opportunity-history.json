@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-04-19T18:35:33.517Z",
+  "updatedAt": "2026-04-20T01:29:56.913Z",
   "opportunities": [
+    {
+      "id": "hb929f444",
+      "sourceId": "ted-europa",
+      "title": "Italy – Social work services with accommodation – Progetto SAI del Comune di Mascalucia - categoria ORDINARI - famiglie",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-04-27T00:00:00.000Z",
+      "amount": 999304.54,
+      "currency": "EUR",
+      "amountUsd": 1079248.9032,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/196335-2026",
+      "publicationNumber": "196335-2026",
+      "firstSeenAt": "2026-04-20T01:29:56.913Z",
+      "lastSeenAt": "2026-04-20T01:29:56.913Z",
+      "lastPublishedAt": "2026-04-20T01:29:56.913Z",
+      "isArchived": false
+    },
     {
       "id": "h3d56a964",
       "sourceId": "secop-ii",
@@ -21,7 +42,7 @@
       "firstSeenAt": "2026-04-19T01:30:09.782Z",
       "lastSeenAt": "2026-04-19T18:35:33.517Z",
       "lastPublishedAt": "2026-04-19T18:35:33.517Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h16104ac8",
@@ -42,7 +63,7 @@
       "firstSeenAt": "2026-04-19T01:30:09.782Z",
       "lastSeenAt": "2026-04-19T18:35:33.517Z",
       "lastPublishedAt": "2026-04-19T18:35:33.517Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h58361bca",
@@ -63,7 +84,7 @@
       "firstSeenAt": "2026-04-18T01:20:05.904Z",
       "lastSeenAt": "2026-04-19T18:35:33.517Z",
       "lastPublishedAt": "2026-04-19T18:35:33.517Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h768d3107",
@@ -84,7 +105,7 @@
       "firstSeenAt": "2026-04-18T01:20:05.904Z",
       "lastSeenAt": "2026-04-19T18:35:33.517Z",
       "lastPublishedAt": "2026-04-19T18:35:33.517Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h9106da54",
@@ -105,7 +126,7 @@
       "firstSeenAt": "2026-04-18T01:20:05.904Z",
       "lastSeenAt": "2026-04-19T18:35:33.517Z",
       "lastPublishedAt": "2026-04-19T18:35:33.517Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h1cbf2ed7",
@@ -126,7 +147,7 @@
       "firstSeenAt": "2026-04-18T01:20:05.904Z",
       "lastSeenAt": "2026-04-19T18:35:33.517Z",
       "lastPublishedAt": "2026-04-19T18:35:33.517Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hc3d6ea0e",
@@ -147,7 +168,7 @@
       "firstSeenAt": "2026-04-18T01:20:05.904Z",
       "lastSeenAt": "2026-04-19T18:35:33.517Z",
       "lastPublishedAt": "2026-04-19T18:35:33.517Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha5abd145",
@@ -168,7 +189,7 @@
       "firstSeenAt": "2026-04-18T01:20:05.904Z",
       "lastSeenAt": "2026-04-19T18:35:33.517Z",
       "lastPublishedAt": "2026-04-19T18:35:33.517Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha14acbf8",
@@ -189,7 +210,7 @@
       "firstSeenAt": "2026-04-18T01:20:05.904Z",
       "lastSeenAt": "2026-04-19T18:35:33.517Z",
       "lastPublishedAt": "2026-04-19T18:35:33.517Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he98cbb8c",
@@ -210,7 +231,7 @@
       "firstSeenAt": "2026-04-18T01:20:05.904Z",
       "lastSeenAt": "2026-04-19T18:35:33.517Z",
       "lastPublishedAt": "2026-04-19T18:35:33.517Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hcdbed411",
@@ -231,7 +252,7 @@
       "firstSeenAt": "2026-04-18T01:20:05.904Z",
       "lastSeenAt": "2026-04-19T18:35:33.517Z",
       "lastPublishedAt": "2026-04-19T18:35:33.517Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf5dd52b0",
@@ -252,7 +273,7 @@
       "firstSeenAt": "2026-04-18T01:20:05.904Z",
       "lastSeenAt": "2026-04-19T18:35:33.517Z",
       "lastPublishedAt": "2026-04-19T18:35:33.517Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hdf28a2e7",
@@ -273,7 +294,7 @@
       "firstSeenAt": "2026-04-18T01:20:05.904Z",
       "lastSeenAt": "2026-04-19T18:35:33.517Z",
       "lastPublishedAt": "2026-04-19T18:35:33.517Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h982c02d1",
@@ -294,7 +315,7 @@
       "firstSeenAt": "2026-04-18T01:20:05.904Z",
       "lastSeenAt": "2026-04-19T18:35:33.517Z",
       "lastPublishedAt": "2026-04-19T18:35:33.517Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hb14b77e2",
@@ -315,7 +336,7 @@
       "firstSeenAt": "2026-04-18T01:20:05.904Z",
       "lastSeenAt": "2026-04-19T18:35:33.517Z",
       "lastPublishedAt": "2026-04-19T18:35:33.517Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he04dd843",
@@ -336,7 +357,7 @@
       "firstSeenAt": "2026-04-18T01:20:05.904Z",
       "lastSeenAt": "2026-04-19T18:35:33.517Z",
       "lastPublishedAt": "2026-04-19T18:35:33.517Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha3b89f50",
@@ -357,7 +378,7 @@
       "firstSeenAt": "2026-04-17T01:27:08.378Z",
       "lastSeenAt": "2026-04-19T18:35:33.517Z",
       "lastPublishedAt": "2026-04-19T18:35:33.517Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he69c4641",
@@ -378,7 +399,7 @@
       "firstSeenAt": "2026-04-10T07:16:49.569Z",
       "lastSeenAt": "2026-04-19T18:35:33.517Z",
       "lastPublishedAt": "2026-04-19T18:35:33.517Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h40b35418",
@@ -399,7 +420,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-19T18:35:33.517Z",
       "lastPublishedAt": "2026-04-19T18:35:33.517Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf62832f9",
@@ -420,7 +441,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-19T18:35:33.517Z",
       "lastPublishedAt": "2026-04-19T18:35:33.517Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd73a8268",
@@ -441,7 +462,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-19T18:35:33.517Z",
       "lastPublishedAt": "2026-04-19T18:35:33.517Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha3225c08",
@@ -462,7 +483,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-19T18:35:33.517Z",
       "lastPublishedAt": "2026-04-19T18:35:33.517Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h85a3a119",
@@ -483,7 +504,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-19T18:35:33.517Z",
       "lastPublishedAt": "2026-04-19T18:35:33.517Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha32e0f52",
@@ -1263,5 +1284,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 60 | Archivadas: 37"
+  "message": "Historico acumulado del agente UCI-F. Total: 61 | Archivadas: 60"
 }
