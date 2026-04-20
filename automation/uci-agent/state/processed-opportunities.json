@@ -918,17 +918,27 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/196335-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "h8e35ebe4": {
+      "at": "2026-04-20T07:49:47.520Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/cooperacion-col-col",
+      "viable": false
+    },
+    "h15cc097b": {
+      "at": "2026-04-20T07:49:47.807Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/comunicaciones/boletin-cooperacion-para-la-vida",
+      "viable": false
+    },
+    "h808aae21": {
+      "at": "2026-04-20T07:49:49.034Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/sites/default/files/2021-02/AVISO%20CONVOCATORIA%20%28LP-APC-006-2021%29.pdf",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-04-12T18:32:43.412Z",
-      "endedAt": "2026-04-12T18:34:57.577Z",
-      "scannedCandidates": 24,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-04-13T01:27:18.965Z",
       "endedAt": "2026-04-13T01:29:21.157Z",
@@ -1156,6 +1166,14 @@
     {
       "startedAt": "2026-04-20T01:28:04.393Z",
       "endedAt": "2026-04-20T01:29:56.914Z",
+      "scannedCandidates": 7,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-20T07:49:45.781Z",
+      "endedAt": "2026-04-20T07:51:16.071Z",
       "scannedCandidates": 7,
       "viableCandidates": 0,
       "sentNotifications": 0,
