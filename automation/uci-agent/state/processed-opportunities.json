@@ -936,17 +936,15 @@
       "sourceId": "apc-colombia",
       "url": "https://www.apccolombia.gov.co/sites/default/files/2021-02/AVISO%20CONVOCATORIA%20%28LP-APC-006-2021%29.pdf",
       "viable": false
+    },
+    "hfce596ed": {
+      "at": "2026-04-20T13:04:14.645Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-article-400514.html",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-04-13T01:27:18.965Z",
-      "endedAt": "2026-04-13T01:29:21.157Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-04-13T07:47:29.832Z",
       "endedAt": "2026-04-13T07:49:34.810Z",
@@ -1174,6 +1172,14 @@
     {
       "startedAt": "2026-04-20T07:49:45.781Z",
       "endedAt": "2026-04-20T07:51:16.071Z",
+      "scannedCandidates": 7,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-20T13:03:59.191Z",
+      "endedAt": "2026-04-20T13:05:22.925Z",
       "scannedCandidates": 7,
       "viableCandidates": 0,
       "sentNotifications": 0,
