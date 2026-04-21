@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-04-20T18:52:40.200Z",
+  "updatedAt": "2026-04-21T01:26:10.971Z",
   "opportunities": [
     {
       "id": "hb929f444",
@@ -19,8 +19,8 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/196335-2026",
       "publicationNumber": "196335-2026",
       "firstSeenAt": "2026-04-20T01:29:56.913Z",
-      "lastSeenAt": "2026-04-20T18:52:40.200Z",
-      "lastPublishedAt": "2026-04-20T18:52:40.200Z",
+      "lastSeenAt": "2026-04-21T01:26:10.971Z",
+      "lastPublishedAt": "2026-04-21T01:26:10.971Z",
       "isArchived": false
     },
     {
@@ -40,8 +40,8 @@
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null,
       "firstSeenAt": "2026-04-10T07:16:49.569Z",
-      "lastSeenAt": "2026-04-20T18:52:40.200Z",
-      "lastPublishedAt": "2026-04-20T18:52:40.200Z",
+      "lastSeenAt": "2026-04-21T01:26:10.971Z",
+      "lastPublishedAt": "2026-04-21T01:26:10.971Z",
       "isArchived": false
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.grants.gov/search-results-detail/344124",
       "publicationNumber": null,
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
-      "lastSeenAt": "2026-04-20T18:52:40.200Z",
-      "lastPublishedAt": "2026-04-20T18:52:40.200Z",
+      "lastSeenAt": "2026-04-21T01:26:10.971Z",
+      "lastPublishedAt": "2026-04-21T01:26:10.971Z",
       "isArchived": false
     },
     {
@@ -72,7 +72,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-05-08T18:51:08.464Z",
+      "deadline": "2026-05-09T01:24:57.575Z",
       "amount": 377639957602,
       "currency": "COP",
       "amountUsd": 94409989.4005,
@@ -82,8 +82,8 @@
       "url": "https://minciencias.gov.co/node/9321",
       "publicationNumber": "49",
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
-      "lastSeenAt": "2026-04-20T18:52:40.200Z",
-      "lastPublishedAt": "2026-04-20T18:52:40.200Z",
+      "lastSeenAt": "2026-04-21T01:26:10.971Z",
+      "lastPublishedAt": "2026-04-21T01:26:10.971Z",
       "isArchived": false
     },
     {
@@ -93,7 +93,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-05-08T18:51:05.116Z",
+      "deadline": "2026-05-09T01:24:53.796Z",
       "amount": 100000000000,
       "currency": "COP",
       "amountUsd": 25000000,
@@ -103,8 +103,8 @@
       "url": "https://minciencias.gov.co/node/9322",
       "publicationNumber": "52",
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
-      "lastSeenAt": "2026-04-20T18:52:40.200Z",
-      "lastPublishedAt": "2026-04-20T18:52:40.200Z",
+      "lastSeenAt": "2026-04-21T01:26:10.971Z",
+      "lastPublishedAt": "2026-04-21T01:26:10.971Z",
       "isArchived": false
     },
     {
@@ -114,7 +114,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-04-23T18:51:09.622Z",
+      "deadline": "2026-04-24T01:24:59.037Z",
       "amount": 446515026467,
       "currency": "COP",
       "amountUsd": 111628756.61675,
@@ -124,8 +124,8 @@
       "url": "https://minciencias.gov.co/node/9320",
       "publicationNumber": "47",
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
-      "lastSeenAt": "2026-04-20T18:52:40.200Z",
-      "lastPublishedAt": "2026-04-20T18:52:40.200Z",
+      "lastSeenAt": "2026-04-21T01:26:10.971Z",
+      "lastPublishedAt": "2026-04-21T01:26:10.971Z",
       "isArchived": false
     },
     {
@@ -145,8 +145,8 @@
       "url": "https://www.grants.gov/search-results-detail/361760",
       "publicationNumber": null,
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
-      "lastSeenAt": "2026-04-20T18:52:40.200Z",
-      "lastPublishedAt": "2026-04-20T18:52:40.200Z",
+      "lastSeenAt": "2026-04-21T01:26:10.971Z",
+      "lastPublishedAt": "2026-04-21T01:26:10.971Z",
       "isArchived": false
     },
     {
