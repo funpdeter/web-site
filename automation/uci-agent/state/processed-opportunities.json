@@ -977,17 +977,15 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/200028-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "hbd0c31b": {
+      "at": "2026-04-23T12:59:31.658Z",
+      "sourceId": "mintic",
+      "url": "https://gestiondelconocimiento.mintic.gov.co/714/w3-article-326747.html",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-04-16T01:27:36.363Z",
-      "endedAt": "2026-04-16T01:29:17.719Z",
-      "scannedCandidates": 6,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-04-16T07:18:18.742Z",
       "endedAt": "2026-04-16T07:19:59.102Z",
@@ -1215,6 +1213,14 @@
     {
       "startedAt": "2026-04-23T07:21:19.177Z",
       "endedAt": "2026-04-23T07:23:19.279Z",
+      "scannedCandidates": 8,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-23T12:59:11.511Z",
+      "endedAt": "2026-04-23T13:01:09.625Z",
       "scannedCandidates": 8,
       "viableCandidates": 0,
       "sentNotifications": 0,
