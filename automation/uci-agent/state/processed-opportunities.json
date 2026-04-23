@@ -955,17 +955,24 @@
       "sourceId": "mintic",
       "url": "https://mintic.gov.co/portal/715/w3-article-437041.html",
       "viable": false
+    },
+    "h1ff1943a": {
+      "at": "2026-04-23T01:30:18.919Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/209034-2026",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-23T01-30-18-905Z_ted-europa_italy-social-work-services-with-accommodation-serv"
+    },
+    "h2bc7d649": {
+      "at": "2026-04-23T01:30:18.920Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/202021-2026",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-04-15T12:58:34.063Z",
-      "endedAt": "2026-04-15T13:00:25.477Z",
-      "scannedCandidates": 7,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-04-15T18:59:45.873Z",
       "endedAt": "2026-04-15T19:01:11.525Z",
@@ -1195,6 +1202,14 @@
       "endedAt": "2026-04-22T18:59:19.116Z",
       "scannedCandidates": 8,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-23T01:28:35.152Z",
+      "endedAt": "2026-04-23T01:30:18.923Z",
+      "scannedCandidates": 9,
+      "viableCandidates": 1,
       "sentNotifications": 0,
       "transport": "console"
     }
