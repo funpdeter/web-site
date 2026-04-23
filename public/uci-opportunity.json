@@ -1,41 +1,24 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-04-23T01:30:18.920Z",
+  "updatedAt": "2026-04-23T07:23:19.277Z",
   "opportunities": [
     {
-      "id": "h29e2f00f",
+      "id": "hd846fe3b",
       "sourceId": "ted-europa",
-      "title": "Italy – Social work services with accommodation – Servizio di Gestione dell’accoglienza, integrazione e tutela di n. 27 minori stranieri non accompagnati nell'ambito del sistema di accoglienza integrata - PROGETTO SAI cat. MSNA",
+      "title": "France – Preventive maintenance services – Maintenance de la production de froid du Centre de Traitement Informatique Strasbourg",
       "source": "TED Europa",
       "sourceTier": "internacional",
       "region": "EUROPA",
-      "deadline": "2026-04-30T00:00:00.000Z",
-      "amount": 1931674.38,
-      "currency": "EUR",
-      "amountUsd": 2086208.3304,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://ted.europa.eu/en/notice/-/detail/209034-2026",
-      "publicationNumber": "209034-2026"
-    },
-    {
-      "id": "hc130e260",
-      "sourceId": "ted-europa",
-      "title": "France – Test and evaluation – Réalisation de prestations de certification en langue anglaise et espagnole à destination des élèves suivant des parcours linguistiques renforcés spécifiques, et prestations de formation associées pour le ministère chargé de l’éducation nationale.",
-      "source": "TED Europa",
-      "sourceTier": "internacional",
-      "region": "EUROPA",
-      "deadline": "2026-04-27T00:00:00.000Z",
-      "amount": 2000000,
-      "currency": "EUR",
-      "amountUsd": 2160000,
+      "deadline": "2026-04-24T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
       "scoreTotal": 14,
       "recommendation": "No aplicar",
       "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/202021-2026",
-      "publicationNumber": "202021-2026"
+      "url": "https://ted.europa.eu/en/notice/-/detail/200028-2026",
+      "publicationNumber": "200028-2026"
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 0 | EUROPA: 2"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 0 | EUROPA: 1"
 }

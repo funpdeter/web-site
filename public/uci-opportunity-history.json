@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-04-23T01:30:18.921Z",
+  "updatedAt": "2026-04-23T07:23:19.278Z",
   "opportunities": [
+    {
+      "id": "hd846fe3b",
+      "sourceId": "ted-europa",
+      "title": "France – Preventive maintenance services – Maintenance de la production de froid du Centre de Traitement Informatique Strasbourg",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-04-24T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/200028-2026",
+      "publicationNumber": "200028-2026",
+      "firstSeenAt": "2026-04-23T07:23:19.278Z",
+      "lastSeenAt": "2026-04-23T07:23:19.278Z",
+      "lastPublishedAt": "2026-04-23T07:23:19.278Z",
+      "isArchived": false
+    },
     {
       "id": "h29e2f00f",
       "sourceId": "ted-europa",
@@ -21,7 +42,7 @@
       "firstSeenAt": "2026-04-23T01:30:18.921Z",
       "lastSeenAt": "2026-04-23T01:30:18.921Z",
       "lastPublishedAt": "2026-04-23T01:30:18.921Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hc130e260",
@@ -42,7 +63,7 @@
       "firstSeenAt": "2026-04-23T01:30:18.921Z",
       "lastSeenAt": "2026-04-23T01:30:18.921Z",
       "lastPublishedAt": "2026-04-23T01:30:18.921Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd9b192b7",
@@ -1347,5 +1368,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 64 | Archivadas: 62"
+  "message": "Historico acumulado del agente UCI-F. Total: 65 | Archivadas: 64"
 }
