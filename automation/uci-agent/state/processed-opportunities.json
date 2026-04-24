@@ -983,17 +983,29 @@
       "sourceId": "mintic",
       "url": "https://gestiondelconocimiento.mintic.gov.co/714/w3-article-326747.html",
       "viable": false
+    },
+    "h515711a1": {
+      "at": "2026-04-24T01:28:02.557Z",
+      "sourceId": "minambiente",
+      "url": "https://www.minambiente.gov.co/alerta-por-mi-ambiente-2026-convocatoria-abierta-para-impulsar-150-procesos-de-control-a-la-gestion-ambiental",
+      "viable": false
+    },
+    "h28ac9379": {
+      "at": "2026-04-24T01:29:07.931Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/203541-2026",
+      "viable": false,
+      "reason": "No aplicar"
+    },
+    "h899b8945": {
+      "at": "2026-04-24T01:29:07.932Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/203552-2026",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-04-16T13:03:38.195Z",
-      "endedAt": "2026-04-16T13:05:35.486Z",
-      "scannedCandidates": 6,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-04-16T18:57:37.254Z",
       "endedAt": "2026-04-16T18:59:13.207Z",
@@ -1222,6 +1234,14 @@
       "startedAt": "2026-04-23T18:54:24.405Z",
       "endedAt": "2026-04-23T18:56:14.499Z",
       "scannedCandidates": 8,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-24T01:27:45.544Z",
+      "endedAt": "2026-04-24T01:29:07.935Z",
+      "scannedCandidates": 9,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
