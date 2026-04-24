@@ -1,41 +1,24 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-04-24T01:29:07.932Z",
+  "updatedAt": "2026-04-24T07:49:26.923Z",
   "opportunities": [
     {
-      "id": "hdc583970",
+      "id": "hd01530f6",
       "sourceId": "ted-europa",
-      "title": "France – Hire of industrial vehicles with driver – Prestations de location de véhicules et matériels de chantier dans le cadre d’une lutte contre une pollution sur le littoral de la zone de défense et de sécurité Nord",
+      "title": "Poland – Horticultural services – Bieżące utrzymanie miejskich terenów zieleni należących do Gminy Miejskiej Tczew w 2026 roku",
       "source": "TED Europa",
       "sourceTier": "internacional",
       "region": "EUROPA",
-      "deadline": "2026-05-05T00:00:00.000Z",
-      "amount": 5000000,
-      "currency": "EUR",
-      "amountUsd": 5400000,
-      "scoreTotal": 13,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/203552-2026",
-      "publicationNumber": "203552-2026"
-    },
-    {
-      "id": "hbc813c40",
-      "sourceId": "ted-europa",
-      "title": "France – Computer-related services – Prestation d’hébergement physique des équipements informatiques du CHU de Toulouse dans un datacenter externalisé, incluant la mise à disposition de l’infrastructure, l’hébergement sécurisé et les services associés",
-      "source": "TED Europa",
-      "sourceTier": "internacional",
-      "region": "EUROPA",
-      "deadline": "2026-04-27T00:00:00.000Z",
+      "deadline": "2026-04-29T00:00:00.000Z",
       "amount": null,
       "currency": "",
       "amountUsd": null,
-      "scoreTotal": 14,
+      "scoreTotal": 13,
       "recommendation": "No aplicar",
       "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/203541-2026",
-      "publicationNumber": "203541-2026"
+      "url": "https://ted.europa.eu/en/notice/-/detail/203514-2026",
+      "publicationNumber": "203514-2026"
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 0 | EUROPA: 2"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 0 | EUROPA: 1"
 }
