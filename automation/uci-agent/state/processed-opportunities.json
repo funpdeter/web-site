@@ -1138,17 +1138,15 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-25T01-22-55-693Z_secop-ii_mantenimiento-de-la-infraestructura-del-componente"
+    },
+    "h6d308bd1": {
+      "at": "2026-04-25T18:35:23.604Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-article-403371.html",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-04-18T06:55:48.195Z",
-      "endedAt": "2026-04-18T06:57:15.185Z",
-      "scannedCandidates": 23,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-04-18T12:37:06.183Z",
       "endedAt": "2026-04-18T12:38:57.139Z",
@@ -1376,6 +1374,14 @@
     {
       "startedAt": "2026-04-25T12:38:17.863Z",
       "endedAt": "2026-04-25T12:40:12.100Z",
+      "scannedCandidates": 26,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-25T18:35:06.721Z",
+      "endedAt": "2026-04-25T18:36:38.095Z",
       "scannedCandidates": 26,
       "viableCandidates": 0,
       "sentNotifications": 0,
