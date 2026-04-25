@@ -1010,17 +1010,137 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/203514-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "hb3105af8": {
+      "at": "2026-04-25T01:22:55.685Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10170346",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-25T01-22-55-670Z_secop-ii_contratar-la-mano-de-obra-equipos-y-transportes-pa"
+    },
+    "h7ec05fe0": {
+      "at": "2026-04-25T01:22:55.685Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10185610",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-25T01-22-55-685Z_secop-ii_suministro-de-insumos-para-radiologia-intervencion"
+    },
+    "hd8865cdb": {
+      "at": "2026-04-25T01:22:55.686Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10185332",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-25T01-22-55-686Z_secop-ii_hidro-147-prestar-el-servicio-de-transporte-integr"
+    },
+    "h27251ad8": {
+      "at": "2026-04-25T01:22:55.687Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10193792",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-25T01-22-55-686Z_secop-ii_interventoria"
+    },
+    "h5454ec89": {
+      "at": "2026-04-25T01:22:55.687Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10152864",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-25T01-22-55-687Z_secop-ii_mantenimiento-rutinario-de-la-malla-vial-terciaria"
+    },
+    "h915837c6": {
+      "at": "2026-04-25T01:22:55.688Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10160459",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-25T01-22-55-687Z_secop-ii_adquisicion-pinturas-aeronauticas"
+    },
+    "hb3f0808e": {
+      "at": "2026-04-25T01:22:55.689Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10189506",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-25T01-22-55-688Z_secop-ii_suministro-de-alimentos-preparados-desayuno-almuer"
+    },
+    "hed136c41": {
+      "at": "2026-04-25T01:22:55.689Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10193935",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-25T01-22-55-689Z_secop-ii_samc-spds-003-2026"
+    },
+    "he4478574": {
+      "at": "2026-04-25T01:22:55.690Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10164750",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-25T01-22-55-689Z_secop-ii_seguros"
+    },
+    "h563bfd2": {
+      "at": "2026-04-25T01:22:55.690Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10189771",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-25T01-22-55-690Z_secop-ii_suministro-de-elementos-de-papeleria-utiles-de-ofi"
+    },
+    "hbca7f24e": {
+      "at": "2026-04-25T01:22:55.691Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10171307",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-25T01-22-55-690Z_secop-ii_vigilancia-y-seguridad-privada"
+    },
+    "hb387ca3a": {
+      "at": "2026-04-25T01:22:55.691Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10194359",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-25T01-22-55-691Z_secop-ii_contratar-la-prestacion-del-servicio-de-acceso-a-i"
+    },
+    "h3aafac1d": {
+      "at": "2026-04-25T01:22:55.692Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10192738",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-25T01-22-55-691Z_secop-ii_viveres-y-abarrotes-centro-vida"
+    },
+    "hbf69fbbf": {
+      "at": "2026-04-25T01:22:55.692Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10179634",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-25T01-22-55-692Z_secop-ii_prestar-el-servicio-a-todo-costo-fumigacion"
+    },
+    "h93bc3d4e": {
+      "at": "2026-04-25T01:22:55.693Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10154597",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-25T01-22-55-692Z_secop-ii_contratar-por-el-sistema-de-precios-unitarios-fijo"
+    },
+    "h39bcf384": {
+      "at": "2026-04-25T01:22:55.693Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10118533",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-25T01-22-55-693Z_secop-ii_mantenimiento-de-la-infraestructura-del-componente"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-04-17T12:54:49.424Z",
-      "endedAt": "2026-04-17T12:56:28.301Z",
-      "scannedCandidates": 9,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-04-17T18:42:23.810Z",
       "endedAt": "2026-04-17T18:43:47.103Z",
@@ -1250,6 +1370,14 @@
       "endedAt": "2026-04-24T18:37:41.650Z",
       "scannedCandidates": 10,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-25T01:21:12.832Z",
+      "endedAt": "2026-04-25T01:22:55.696Z",
+      "scannedCandidates": 26,
+      "viableCandidates": 16,
       "sentNotifications": 0,
       "transport": "console"
     }
