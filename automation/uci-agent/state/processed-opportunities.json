@@ -1144,17 +1144,16 @@
       "sourceId": "mintic",
       "url": "https://mintic.gov.co/portal/715/w3-article-403371.html",
       "viable": false
+    },
+    "h673c2d67": {
+      "at": "2026-04-27T19:05:19.999Z",
+      "sourceId": "usaid",
+      "url": "https://www.grants.gov/search-results-detail/362076",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-04-20T07:49:45.781Z",
-      "endedAt": "2026-04-20T07:51:16.071Z",
-      "scannedCandidates": 7,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-04-20T13:03:59.191Z",
       "endedAt": "2026-04-20T13:05:22.925Z",
@@ -1383,6 +1382,14 @@
       "startedAt": "2026-04-27T13:15:56.645Z",
       "endedAt": "2026-04-27T13:17:52.155Z",
       "scannedCandidates": 6,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-27T19:03:23.838Z",
+      "endedAt": "2026-04-27T19:05:20.003Z",
+      "scannedCandidates": 7,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
