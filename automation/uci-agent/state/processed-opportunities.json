@@ -1151,17 +1151,51 @@
       "url": "https://www.grants.gov/search-results-detail/362076",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "h9037a471": {
+      "at": "2026-04-28T01:54:01.181Z",
+      "sourceId": "gef-small-grants",
+      "url": "https://www.thegef.org/projects-operations/projects/11285",
+      "viable": false
+    },
+    "hd070efb9": {
+      "at": "2026-04-28T01:54:01.268Z",
+      "sourceId": "gef-small-grants",
+      "url": "https://www.thegef.org/projects-operations/projects/10123",
+      "viable": false
+    },
+    "hc32ef93c": {
+      "at": "2026-04-28T01:54:03.444Z",
+      "sourceId": "gef-small-grants",
+      "url": "https://sgp.undp.org/component/countrypages/?view=countrypage&country=76&Itemid=0",
+      "viable": false
+    },
+    "h55f00986": {
+      "at": "2026-04-28T01:54:04.125Z",
+      "sourceId": "gef-small-grants",
+      "url": "https://www.sgp.undp.org/innovation-library/item/2632-gef-small-grants-programme-undp-operational-guidelines-for-operational-phase-8.html",
+      "viable": false
+    },
+    "h3e9b103f": {
+      "at": "2026-04-28T01:54:17.207Z",
+      "sourceId": "giz",
+      "url": "https://www.giz.de/sites/default/files/media/els-document/2026-01/pisoigual-convocatoria-de-practica-profesionales2026_0.pdf",
+      "viable": false
+    },
+    "hc0586763": {
+      "at": "2026-04-28T01:54:18.112Z",
+      "sourceId": "giz",
+      "url": "https://www.giz.de/en/partner/funding",
+      "viable": false
+    },
+    "h4e207ff5": {
+      "at": "2026-04-28T01:54:19.301Z",
+      "sourceId": "giz",
+      "url": "https://www.giz.de/sites/default/files/media/els-document/2026-02/tors-call-participation-deporte-para-la-paz-2026.pdf",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-04-20T13:03:59.191Z",
-      "endedAt": "2026-04-20T13:05:22.925Z",
-      "scannedCandidates": 7,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-04-20T18:51:01.052Z",
       "endedAt": "2026-04-20T18:52:40.202Z",
@@ -1389,6 +1423,14 @@
     {
       "startedAt": "2026-04-27T19:03:23.838Z",
       "endedAt": "2026-04-27T19:05:20.003Z",
+      "scannedCandidates": 7,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-28T01:52:33.426Z",
+      "endedAt": "2026-04-28T01:54:20.825Z",
       "scannedCandidates": 7,
       "viableCandidates": 0,
       "sentNotifications": 0,
