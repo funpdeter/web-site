@@ -1193,17 +1193,41 @@
       "sourceId": "giz",
       "url": "https://www.giz.de/sites/default/files/media/els-document/2026-02/tors-call-participation-deporte-para-la-paz-2026.pdf",
       "viable": false
+    },
+    "h459f1f5a": {
+      "at": "2026-04-29T01:57:02.480Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10188897",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-29T01-57-02-466Z_secop-ii_prestacion-del-servicio-de-vigilancia-y-seguridad-"
+    },
+    "he55d6a6e": {
+      "at": "2026-04-29T01:57:02.481Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10184347",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-29T01-57-02-480Z_secop-ii_prestar-el-servicio-de-vigilancia-en-sedes-educati"
+    },
+    "h6c3ceef8": {
+      "at": "2026-04-29T01:57:02.482Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10174207",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-29T01-57-02-481Z_secop-ii_mantenimiento-a-todo-costo-de-un-edificio-de-apart"
+    },
+    "hd48a4e71": {
+      "at": "2026-04-29T01:57:02.482Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10188038",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-29T01-57-02-482Z_secop-ii_samc-008-2026"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-04-21T12:58:35.721Z",
-      "endedAt": "2026-04-21T13:00:56.817Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-04-21T18:56:37.761Z",
       "endedAt": "2026-04-21T18:58:07.098Z",
@@ -1433,6 +1457,14 @@
       "endedAt": "2026-04-28T19:19:39.603Z",
       "scannedCandidates": 7,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-29T01:55:14.327Z",
+      "endedAt": "2026-04-29T01:57:02.486Z",
+      "scannedCandidates": 11,
+      "viableCandidates": 4,
       "sentNotifications": 0,
       "transport": "console"
     }

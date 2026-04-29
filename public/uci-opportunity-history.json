@@ -1,7 +1,91 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-04-28T19:19:39.601Z",
+  "updatedAt": "2026-04-29T01:57:02.483Z",
   "opportunities": [
+    {
+      "id": "h261c580b",
+      "sourceId": "secop-ii",
+      "title": "PRESTAR EL SERVICIO DE VIGILANCIA EN SEDES EDUCATIVAS OFICIALES DE LOS 28 MUNICIPIOS NO CERTIFICADOS EN EL DEPARTAMENTO DEL META; PARA CONTINUAR CON EL SERVICIO EN LA VIGENCIA 2026; MITIGANDO LOS RIES",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-04-30T00:00:00.000Z",
+      "amount": 3621485039,
+      "currency": "COP",
+      "amountUsd": 905371.25975,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10184347",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-04-29T01:57:02.483Z",
+      "lastSeenAt": "2026-04-29T01:57:02.483Z",
+      "lastPublishedAt": "2026-04-29T01:57:02.483Z",
+      "isArchived": false
+    },
+    {
+      "id": "hc86c1079",
+      "sourceId": "secop-ii",
+      "title": "MANTENIMIENTO A TODO COSTO DE UN EDIFICIO DE APARTAMENTOS DE  VIVIENDA FISCAL PARA EL PERSONAL DE SUBOFICIALES EN LA SECCIONAL DE  GUASIMAL; ANTIOQUIA; DEL INSTITUTO DE CASAS FISCALES DEL EJÉRCITO",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-04-30T00:00:00.000Z",
+      "amount": 3601920536,
+      "currency": "COP",
+      "amountUsd": 900480.134,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10174207",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-04-29T01:57:02.483Z",
+      "lastSeenAt": "2026-04-29T01:57:02.483Z",
+      "lastPublishedAt": "2026-04-29T01:57:02.483Z",
+      "isArchived": false
+    },
+    {
+      "id": "h4259d4ff",
+      "sourceId": "secop-ii",
+      "title": "Prestación del servicio de vigilancia y seguridad integral para la permanente y adecuada protección de los bienes muebles e inmuebles ubicados en las instalaciones del DADEP.",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-04-30T00:00:00.000Z",
+      "amount": 330500000,
+      "currency": "COP",
+      "amountUsd": 82625,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10188897",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-04-29T01:57:02.483Z",
+      "lastSeenAt": "2026-04-29T01:57:02.483Z",
+      "lastPublishedAt": "2026-04-29T01:57:02.483Z",
+      "isArchived": false
+    },
+    {
+      "id": "hb1ffd49c",
+      "sourceId": "secop-ii",
+      "title": "SAMC-008-2026",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-04-30T00:00:00.000Z",
+      "amount": 50215620,
+      "currency": "COP",
+      "amountUsd": 12553.905,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10188038",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-04-29T01:57:02.483Z",
+      "lastSeenAt": "2026-04-29T01:57:02.483Z",
+      "lastPublishedAt": "2026-04-29T01:57:02.483Z",
+      "isArchived": false
+    },
     {
       "id": "ha1a0e4f0",
       "sourceId": "usaid",
@@ -21,7 +105,7 @@
       "firstSeenAt": "2026-04-27T19:05:20.001Z",
       "lastSeenAt": "2026-04-28T19:19:39.601Z",
       "lastPublishedAt": "2026-04-28T19:19:39.601Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd9b192b7",
@@ -42,7 +126,7 @@
       "firstSeenAt": "2026-04-21T07:22:35.840Z",
       "lastSeenAt": "2026-04-28T19:19:39.601Z",
       "lastPublishedAt": "2026-04-28T19:19:39.601Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he69c4641",
@@ -63,7 +147,7 @@
       "firstSeenAt": "2026-04-10T07:16:49.569Z",
       "lastSeenAt": "2026-04-28T19:19:39.601Z",
       "lastPublishedAt": "2026-04-28T19:19:39.601Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h40b35418",
@@ -84,7 +168,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-28T19:19:39.601Z",
       "lastPublishedAt": "2026-04-28T19:19:39.601Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf62832f9",
@@ -105,7 +189,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-28T19:19:39.601Z",
       "lastPublishedAt": "2026-04-28T19:19:39.601Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd73a8268",
@@ -126,7 +210,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-28T19:19:39.601Z",
       "lastPublishedAt": "2026-04-28T19:19:39.601Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h85a3a119",
@@ -147,7 +231,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-28T19:19:39.601Z",
       "lastPublishedAt": "2026-04-28T19:19:39.601Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h3c6dc021",
@@ -1788,5 +1872,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 85 | Archivadas: 78"
+  "message": "Historico acumulado del agente UCI-F. Total: 89 | Archivadas: 85"
 }
