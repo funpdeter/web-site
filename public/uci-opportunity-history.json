@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-04-29T01:57:02.483Z",
+  "updatedAt": "2026-04-29T08:00:27.261Z",
   "opportunities": [
+    {
+      "id": "h21b9b356",
+      "sourceId": "usaid",
+      "title": "Alumni Engagement Innovation Fund 2026 Call for Proposals",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-05-30T00:00:00.000Z",
+      "amount": 35000,
+      "currency": "USD",
+      "amountUsd": 35000,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://www.grants.gov/search-results-detail/362096",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-04-29T08:00:27.261Z",
+      "lastSeenAt": "2026-04-29T08:00:27.261Z",
+      "lastPublishedAt": "2026-04-29T08:00:27.261Z",
+      "isArchived": false
+    },
     {
       "id": "h261c580b",
       "sourceId": "secop-ii",
@@ -21,7 +42,7 @@
       "firstSeenAt": "2026-04-29T01:57:02.483Z",
       "lastSeenAt": "2026-04-29T01:57:02.483Z",
       "lastPublishedAt": "2026-04-29T01:57:02.483Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hc86c1079",
@@ -42,7 +63,7 @@
       "firstSeenAt": "2026-04-29T01:57:02.483Z",
       "lastSeenAt": "2026-04-29T01:57:02.483Z",
       "lastPublishedAt": "2026-04-29T01:57:02.483Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h4259d4ff",
@@ -63,7 +84,7 @@
       "firstSeenAt": "2026-04-29T01:57:02.483Z",
       "lastSeenAt": "2026-04-29T01:57:02.483Z",
       "lastPublishedAt": "2026-04-29T01:57:02.483Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hb1ffd49c",
@@ -84,7 +105,7 @@
       "firstSeenAt": "2026-04-29T01:57:02.483Z",
       "lastSeenAt": "2026-04-29T01:57:02.483Z",
       "lastPublishedAt": "2026-04-29T01:57:02.483Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha1a0e4f0",
@@ -1872,5 +1893,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 89 | Archivadas: 85"
+  "message": "Historico acumulado del agente UCI-F. Total: 90 | Archivadas: 89"
 }
