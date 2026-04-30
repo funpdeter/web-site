@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-04-29T19:09:03.430Z",
+  "updatedAt": "2026-04-30T01:55:27.119Z",
   "opportunities": [
+    {
+      "id": "hb19f2168",
+      "sourceId": "ted-europa",
+      "title": "France – Benefit services – Réalisation de services numériques au travers du déploiement d’une plateforme d’intermédiation visant à faire réaliser un sourcing d’expertises pénuriques",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-05-04T00:00:00.000Z",
+      "amount": 23700000,
+      "currency": "EUR",
+      "amountUsd": 25596000,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/222661-2026",
+      "publicationNumber": "222661-2026",
+      "firstSeenAt": "2026-04-30T01:55:27.119Z",
+      "lastSeenAt": "2026-04-30T01:55:27.119Z",
+      "lastPublishedAt": "2026-04-30T01:55:27.119Z",
+      "isArchived": false
+    },
     {
       "id": "h21b9b356",
       "sourceId": "usaid",
@@ -21,7 +42,7 @@
       "firstSeenAt": "2026-04-29T08:00:27.261Z",
       "lastSeenAt": "2026-04-29T19:09:03.430Z",
       "lastPublishedAt": "2026-04-29T19:09:03.430Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h261c580b",
@@ -42,7 +63,7 @@
       "firstSeenAt": "2026-04-29T01:57:02.483Z",
       "lastSeenAt": "2026-04-29T19:09:03.430Z",
       "lastPublishedAt": "2026-04-29T19:09:03.430Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hc86c1079",
@@ -63,7 +84,7 @@
       "firstSeenAt": "2026-04-29T01:57:02.483Z",
       "lastSeenAt": "2026-04-29T19:09:03.430Z",
       "lastPublishedAt": "2026-04-29T19:09:03.430Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h4259d4ff",
@@ -84,7 +105,7 @@
       "firstSeenAt": "2026-04-29T01:57:02.483Z",
       "lastSeenAt": "2026-04-29T19:09:03.430Z",
       "lastPublishedAt": "2026-04-29T19:09:03.430Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hb1ffd49c",
@@ -105,7 +126,7 @@
       "firstSeenAt": "2026-04-29T01:57:02.483Z",
       "lastSeenAt": "2026-04-29T19:09:03.430Z",
       "lastPublishedAt": "2026-04-29T19:09:03.430Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha1a0e4f0",
@@ -126,7 +147,7 @@
       "firstSeenAt": "2026-04-27T19:05:20.001Z",
       "lastSeenAt": "2026-04-29T19:09:03.430Z",
       "lastPublishedAt": "2026-04-29T19:09:03.430Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd9b192b7",
@@ -147,7 +168,7 @@
       "firstSeenAt": "2026-04-21T07:22:35.840Z",
       "lastSeenAt": "2026-04-29T19:09:03.430Z",
       "lastPublishedAt": "2026-04-29T19:09:03.430Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he69c4641",
@@ -168,7 +189,7 @@
       "firstSeenAt": "2026-04-10T07:16:49.569Z",
       "lastSeenAt": "2026-04-29T19:09:03.430Z",
       "lastPublishedAt": "2026-04-29T19:09:03.430Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h40b35418",
@@ -189,7 +210,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-29T19:09:03.430Z",
       "lastPublishedAt": "2026-04-29T19:09:03.430Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf62832f9",
@@ -210,7 +231,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-29T19:09:03.430Z",
       "lastPublishedAt": "2026-04-29T19:09:03.430Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd73a8268",
@@ -231,7 +252,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-29T19:09:03.430Z",
       "lastPublishedAt": "2026-04-29T19:09:03.430Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h85a3a119",
@@ -252,7 +273,7 @@
       "firstSeenAt": "2026-04-08T16:08:56.072Z",
       "lastSeenAt": "2026-04-29T19:09:03.430Z",
       "lastPublishedAt": "2026-04-29T19:09:03.430Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h3c6dc021",
@@ -1893,5 +1914,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 90 | Archivadas: 78"
+  "message": "Historico acumulado del agente UCI-F. Total: 91 | Archivadas: 90"
 }

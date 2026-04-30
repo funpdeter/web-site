@@ -1233,17 +1233,16 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-04-29T08-00-27-246Z_usaid_alumni-engagement-innovation-fund-2026-call-for-pr"
+    },
+    "h77741af1": {
+      "at": "2026-04-30T01:55:27.117Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/222661-2026",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-04-22T12:59:15.213Z",
-      "endedAt": "2026-04-22T13:00:45.260Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-04-22T18:57:51.200Z",
       "endedAt": "2026-04-22T18:59:19.116Z",
@@ -1472,6 +1471,14 @@
       "startedAt": "2026-04-29T19:07:41.599Z",
       "endedAt": "2026-04-29T19:09:03.432Z",
       "scannedCandidates": 12,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-04-30T01:54:01.780Z",
+      "endedAt": "2026-04-30T01:55:27.121Z",
+      "scannedCandidates": 9,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
