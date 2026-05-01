@@ -1240,17 +1240,104 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/222661-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "h7f9419cf": {
+      "at": "2026-05-01T01:57:32.687Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10183851",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-01T01-57-32-673Z_secop-ii_contratar-la-prestacion-de-servicios-para-la-imple"
+    },
+    "h4330c7f4": {
+      "at": "2026-05-01T01:57:32.687Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10194537",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-01T01-57-32-687Z_secop-ii_dc-in-lp-004-2026"
+    },
+    "h6e811ebc": {
+      "at": "2026-05-01T01:57:32.688Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10160668",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hd0fc58d4": {
+      "at": "2026-05-01T01:57:32.689Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10171280",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-01T01-57-32-688Z_secop-ii_mantenimiento-rehabilitacion-y-atencion-obras-de-e"
+    },
+    "hf1f38462": {
+      "at": "2026-05-01T01:57:32.689Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10189601",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-01T01-57-32-689Z_secop-ii_adquisicion-de-repuestos-aplicables-a-los-helicopt"
+    },
+    "h6e1b70a0": {
+      "at": "2026-05-01T01:57:32.690Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10191220",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-01T01-57-32-689Z_secop-ii_suministro-de-tiquetes-aereos"
+    },
+    "hce2855ab": {
+      "at": "2026-05-01T01:57:32.691Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10188692",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-01T01-57-32-690Z_secop-ii_mejoramiento-de-la-via"
+    },
+    "h92aa13d6": {
+      "at": "2026-05-01T01:57:32.691Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10158715",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-01T01-57-32-691Z_secop-ii_bpin-202500000043419-construccion-de-infraestructu"
+    },
+    "hdd421e09": {
+      "at": "2026-05-01T01:57:32.692Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10174226",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-01T01-57-32-691Z_secop-ii_servicios-de-comunicaciones-satelitales-para-unida"
+    },
+    "had0a174d": {
+      "at": "2026-05-01T01:57:32.693Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10193746",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-01T01-57-32-692Z_secop-ii_consultoria-para-la-actualizacion-del-plan-basico-"
+    },
+    "hb6e557a3": {
+      "at": "2026-05-01T01:57:32.693Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10161590",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-01T01-57-32-693Z_secop-ii_contratar-la-prestacion-del-servicio-de-vigilancia"
+    },
+    "h8681b1fb": {
+      "at": "2026-05-01T01:57:32.694Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10168122",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-01T01-57-32-693Z_secop-ii_adecuaciones"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-04-23T12:59:11.511Z",
-      "endedAt": "2026-04-23T13:01:09.625Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-04-23T18:54:24.405Z",
       "endedAt": "2026-04-23T18:56:14.499Z",
@@ -1480,6 +1567,14 @@
       "endedAt": "2026-04-30T19:06:34.797Z",
       "scannedCandidates": 9,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-05-01T01:56:08.022Z",
+      "endedAt": "2026-05-01T01:57:32.698Z",
+      "scannedCandidates": 25,
+      "viableCandidates": 11,
       "sentNotifications": 0,
       "transport": "console"
     }
