@@ -1335,17 +1335,15 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-01T01-57-32-693Z_secop-ii_adecuaciones"
+    },
+    "h2e5b0c3a": {
+      "at": "2026-05-02T12:44:16.275Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/articles-162146_recurso_14.pdf",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-04-25T01:21:12.832Z",
-      "endedAt": "2026-04-25T01:22:55.696Z",
-      "scannedCandidates": 26,
-      "viableCandidates": 16,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-04-25T07:02:07.754Z",
       "endedAt": "2026-04-25T07:03:33.604Z",
@@ -1573,6 +1571,14 @@
     {
       "startedAt": "2026-05-02T07:18:31.560Z",
       "endedAt": "2026-05-02T07:20:02.925Z",
+      "scannedCandidates": 25,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-05-02T12:43:58.659Z",
+      "endedAt": "2026-05-02T12:45:26.905Z",
       "scannedCandidates": 25,
       "viableCandidates": 0,
       "sentNotifications": 0,
