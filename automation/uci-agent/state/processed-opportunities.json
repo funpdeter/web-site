@@ -1341,17 +1341,27 @@
       "sourceId": "mintic",
       "url": "https://mintic.gov.co/portal/715/articles-162146_recurso_14.pdf",
       "viable": false
+    },
+    "h9a10a28a": {
+      "at": "2026-05-03T07:46:54.929Z",
+      "sourceId": "minambiente",
+      "url": "https://www.minambiente.gov.co/alerta-por-mi-ambiente-2026-convocatoria-abierta-para-impulsar-150-procesos-de-control-a-la-gestion-ambiental/",
+      "viable": false
+    },
+    "hcebf6d3d": {
+      "at": "2026-05-03T07:46:55.448Z",
+      "sourceId": "minambiente",
+      "url": "https://www.minambiente.gov.co/abiertas-convocatorias-de-regalias-ambientales-por-650-000-millones/",
+      "viable": false
+    },
+    "h681ea111": {
+      "at": "2026-05-03T07:46:55.981Z",
+      "sourceId": "minambiente",
+      "url": "https://www.minambiente.gov.co/minambiente-abre-convocatoria-por-mas-de-38-000-millones-para-proyectos-ambientales-en-catatumbo/",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-04-25T18:35:06.721Z",
-      "endedAt": "2026-04-25T18:36:38.095Z",
-      "scannedCandidates": 26,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-04-26T01:30:48.534Z",
       "endedAt": "2026-04-26T01:32:34.347Z",
@@ -1579,6 +1589,14 @@
     {
       "startedAt": "2026-05-03T01:49:20.591Z",
       "endedAt": "2026-05-03T01:50:50.556Z",
+      "scannedCandidates": 25,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-05-03T07:46:36.004Z",
+      "endedAt": "2026-05-03T07:48:12.259Z",
       "scannedCandidates": 25,
       "viableCandidates": 0,
       "sentNotifications": 0,
