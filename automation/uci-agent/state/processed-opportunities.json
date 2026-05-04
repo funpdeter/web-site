@@ -1359,17 +1359,104 @@
       "sourceId": "minambiente",
       "url": "https://www.minambiente.gov.co/minambiente-abre-convocatoria-por-mas-de-38-000-millones-para-proyectos-ambientales-en-catatumbo/",
       "viable": false
+    },
+    "haf560a78": {
+      "at": "2026-05-04T01:50:40.394Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10191798",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-04T01-50-40-380Z_secop-ii_prestacion-de-servicios-como-operador-logistico-pa"
+    },
+    "h3284008f": {
+      "at": "2026-05-04T01:50:40.395Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10193630",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-04T01-50-40-394Z_secop-ii_prestar-el-servicio-de-vigilancia-y-seguridad-priv"
+    },
+    "ha2bd7b31": {
+      "at": "2026-05-04T01:50:40.395Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10189437",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hcbe669c7": {
+      "at": "2026-05-04T01:50:40.396Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10184029",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-04T01-50-40-395Z_secop-ii_mantenimiento-integral-reparacion-conservacion-mej"
+    },
+    "h904b02bd": {
+      "at": "2026-05-04T01:50:40.397Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10189796",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-04T01-50-40-396Z_secop-ii_adecuacion-menor-de-puestos-de-salud-del-hospital-"
+    },
+    "hcf31a520": {
+      "at": "2026-05-04T01:50:40.397Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10186509",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-04T01-50-40-397Z_secop-ii_prestacion-de-servicios-integrales-de-resonancias-"
+    },
+    "h1f14fd93": {
+      "at": "2026-05-04T01:50:40.398Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10158020",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-04T01-50-40-397Z_secop-ii_construccion-de-pavimento-en-concreto-rigido-y-obr"
+    },
+    "hb077faf6": {
+      "at": "2026-05-04T01:50:40.398Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10193664",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-04T01-50-40-398Z_secop-ii_adquirir-aire-acondicionado-de-precision-para-el-d"
+    },
+    "he15d3127": {
+      "at": "2026-05-04T01:50:40.399Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10173805",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-04T01-50-40-398Z_secop-ii_lote-no-1-mantenimiento-preventivo-y-correctivo-de"
+    },
+    "h83e8f907": {
+      "at": "2026-05-04T01:50:40.399Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10179274",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-04T01-50-40-399Z_secop-ii_63416c1517-realizar-el-mantenimiento-preventivo-y-"
+    },
+    "h3b80518d": {
+      "at": "2026-05-04T01:50:40.400Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10194321",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-04T01-50-40-399Z_secop-ii_sel-abrev-004-2026"
+    },
+    "he4516d5a": {
+      "at": "2026-05-04T01:50:40.400Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10193066",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-04T01-50-40-400Z_secop-ii_concesion-para-la-operacion-administracion-manteni"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-04-26T12:40:26.355Z",
-      "endedAt": "2026-04-26T12:42:07.561Z",
-      "scannedCandidates": 26,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-04-26T18:35:53.427Z",
       "endedAt": "2026-04-26T18:37:20.500Z",
@@ -1599,6 +1686,14 @@
       "endedAt": "2026-05-03T18:43:38.533Z",
       "scannedCandidates": 25,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-05-04T01:48:58.914Z",
+      "endedAt": "2026-05-04T01:50:40.403Z",
+      "scannedCandidates": 24,
+      "viableCandidates": 11,
       "sentNotifications": 0,
       "transport": "console"
     }
