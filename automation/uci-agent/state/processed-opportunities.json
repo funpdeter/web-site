@@ -1454,17 +1454,104 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-04T01-50-40-400Z_secop-ii_concesion-para-la-operacion-administracion-manteni"
+    },
+    "h3c46f5fc": {
+      "at": "2026-05-05T01:51:58.536Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10160299",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-05T01-51-58-524Z_secop-ii_proveer-los-requerimientos-tecnicos-y-logisticos-p"
+    },
+    "h4d0a6987": {
+      "at": "2026-05-05T01:51:58.537Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10190002",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-05T01-51-58-536Z_secop-ii_fsp-019-fortalecimiento-de-la-seguridad-hidrica-de"
+    },
+    "h7846ca0": {
+      "at": "2026-05-05T01:51:58.537Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10171662",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-05T01-51-58-537Z_secop-ii_licitacion-ciclo-infraestructura"
+    },
+    "h98c464b0": {
+      "at": "2026-05-05T01:51:58.538Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10181719",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-05T01-51-58-537Z_secop-ii_construccion-centro-administrativo"
+    },
+    "hf005a921": {
+      "at": "2026-05-05T01:51:58.538Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10185086",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-05T01-51-58-538Z_secop-ii_prestar-servicios-logisticos-integrales-para-la-or"
+    },
+    "hfea6b056": {
+      "at": "2026-05-05T01:51:58.539Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10081057",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h477b514d": {
+      "at": "2026-05-05T01:51:58.539Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10170037",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-05T01-51-58-539Z_secop-ii_prestar-los-servicios-integrales-de-vigilancia-y-s"
+    },
+    "hfee01121": {
+      "at": "2026-05-05T01:51:58.539Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10189684",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-05T01-51-58-539Z_secop-ii_sg-279-adquisicion-instalacion-y-mantenimiento-de-"
+    },
+    "h8fcec29f": {
+      "at": "2026-05-05T01:51:58.540Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10192109",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-05T01-51-58-539Z_secop-ii_prestacion-de-servicios"
+    },
+    "h337bc7c7": {
+      "at": "2026-05-05T01:51:58.540Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10194305",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-05T01-51-58-540Z_secop-ii_implementacion-del-programa-de-alimentacion-escola"
+    },
+    "h50303bf8": {
+      "at": "2026-05-05T01:51:58.541Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10169865",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-05T01-51-58-540Z_secop-ii_lp-007-2026"
+    },
+    "h65f654ec": {
+      "at": "2026-05-05T01:51:58.541Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10161858",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-05T01-51-58-541Z_secop-ii_construccion-alojamiento-de-tropa-y-construccion-c"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-04-27T13:15:56.645Z",
-      "endedAt": "2026-04-27T13:17:52.155Z",
-      "scannedCandidates": 6,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-04-27T19:03:23.838Z",
       "endedAt": "2026-04-27T19:05:20.003Z",
@@ -1694,6 +1781,14 @@
       "endedAt": "2026-05-04T19:14:23.316Z",
       "scannedCandidates": 24,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-05-05T01:50:07.583Z",
+      "endedAt": "2026-05-05T01:51:58.545Z",
+      "scannedCandidates": 24,
+      "viableCandidates": 11,
       "sentNotifications": 0,
       "transport": "console"
     }
