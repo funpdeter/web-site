@@ -1549,17 +1549,96 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-05T01-51-58-541Z_secop-ii_construccion-alojamiento-de-tropa-y-construccion-c"
+    },
+    "h703cf544": {
+      "at": "2026-05-06T01:50:36.730Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10174203",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-06T01-50-36-716Z_secop-ii_proceso-polvora"
+    },
+    "ha88fa50e": {
+      "at": "2026-05-06T01:50:36.731Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10169715",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-06T01-50-36-730Z_secop-ii_mantenimiento-preventivo-y-correctivo-a-todo-costo"
+    },
+    "he7d46be4": {
+      "at": "2026-05-06T01:50:36.731Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10182602",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-06T01-50-36-731Z_secop-ii_prestacion-de-servicios-complementarios-para-la-at"
+    },
+    "hcd7ca73c": {
+      "at": "2026-05-06T01:50:36.732Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10161645",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-06T01-50-36-732Z_secop-ii_prestar-los-servicios-de-operacion-produccion-y-ej"
+    },
+    "h235f85b6": {
+      "at": "2026-05-06T01:50:36.733Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10128918",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-06T01-50-36-732Z_secop-ii_obras-civiles-incluido-desmonte-de-torres-y-demoli"
+    },
+    "h7742e6ff": {
+      "at": "2026-05-06T01:50:36.733Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10155180",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-06T01-50-36-733Z_secop-ii_optimizacion-del-sistema-de-acueducto-del-centro-p"
+    },
+    "he1f08eec": {
+      "at": "2026-05-06T01:50:36.734Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10174517",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-06T01-50-36-733Z_secop-ii_servicio-a-todo-costo-para-las-adecuaciones-arquit"
+    },
+    "h88978283": {
+      "at": "2026-05-06T01:50:36.734Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10193487",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-06T01-50-36-734Z_secop-ii_adquisicion-de-equipos-herramientas-e-instrumentos"
+    },
+    "h92811b39": {
+      "at": "2026-05-06T01:50:36.735Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10167622",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h1c1b3eb9": {
+      "at": "2026-05-06T01:50:36.735Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10184687",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-06T01-50-36-735Z_secop-ii_construccion-de-estacion-de-bomberos-del-municipio"
+    },
+    "heda34a36": {
+      "at": "2026-05-06T01:50:36.736Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10174331",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-06T01-50-36-735Z_secop-ii_alimentacion-e-hidratacion"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-04-28T13:26:30.879Z",
-      "endedAt": "2026-04-28T13:28:47.233Z",
-      "scannedCandidates": 7,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-04-28T19:17:50.839Z",
       "endedAt": "2026-04-28T19:19:39.603Z",
@@ -1789,6 +1868,14 @@
       "endedAt": "2026-05-05T19:05:13.513Z",
       "scannedCandidates": 24,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-05-06T01:49:02.361Z",
+      "endedAt": "2026-05-06T01:50:36.739Z",
+      "scannedCandidates": 24,
+      "viableCandidates": 10,
       "sentNotifications": 0,
       "transport": "console"
     }
