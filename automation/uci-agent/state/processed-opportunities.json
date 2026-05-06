@@ -1636,17 +1636,16 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-06T01-50-36-735Z_secop-ii_alimentacion-e-hidratacion"
+    },
+    "hdc3496d1": {
+      "at": "2026-05-06T19:21:07.775Z",
+      "sourceId": "usaid",
+      "url": "https://www.grants.gov/search-results-detail/362089",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-04-29T07:59:00.027Z",
-      "endedAt": "2026-04-29T08:00:27.263Z",
-      "scannedCandidates": 12,
-      "viableCandidates": 1,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-04-29T13:20:38.625Z",
       "endedAt": "2026-04-29T13:22:10.235Z",
@@ -1875,6 +1874,14 @@
       "startedAt": "2026-05-06T13:27:35.474Z",
       "endedAt": "2026-05-06T13:29:03.755Z",
       "scannedCandidates": 24,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-05-06T19:19:50.084Z",
+      "endedAt": "2026-05-06T19:21:07.779Z",
+      "scannedCandidates": 25,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
