@@ -1643,17 +1643,15 @@
       "url": "https://www.grants.gov/search-results-detail/362089",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "h830623db": {
+      "at": "2026-05-07T19:24:54.991Z",
+      "sourceId": "dps",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10215387&",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-04-30T08:01:59.604Z",
-      "endedAt": "2026-04-30T08:03:56.704Z",
-      "scannedCandidates": 9,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-04-30T13:18:41.739Z",
       "endedAt": "2026-04-30T13:20:34.902Z",
@@ -1881,6 +1879,14 @@
     {
       "startedAt": "2026-05-07T13:26:16.960Z",
       "endedAt": "2026-05-07T13:28:19.406Z",
+      "scannedCandidates": 9,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-05-07T19:24:32.964Z",
+      "endedAt": "2026-05-07T19:26:19.624Z",
       "scannedCandidates": 9,
       "viableCandidates": 0,
       "sentNotifications": 0,
