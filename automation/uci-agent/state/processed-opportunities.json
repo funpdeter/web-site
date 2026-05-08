@@ -1649,17 +1649,15 @@
       "sourceId": "dps",
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10215387&",
       "viable": false
+    },
+    "h9c67eca2": {
+      "at": "2026-05-08T19:03:29.294Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/micrositios/convocatoriastv2026/894/articles-426298_Estudio_sector_2026.pdf",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-05-01T08:00:14.189Z",
-      "endedAt": "2026-05-01T08:01:44.704Z",
-      "scannedCandidates": 25,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-05-01T12:53:30.617Z",
       "endedAt": "2026-05-01T12:54:55.334Z",
@@ -1887,6 +1885,14 @@
     {
       "startedAt": "2026-05-08T13:06:26.809Z",
       "endedAt": "2026-05-08T13:08:40.755Z",
+      "scannedCandidates": 9,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-05-08T19:02:51.253Z",
+      "endedAt": "2026-05-08T19:05:24.611Z",
       "scannedCandidates": 9,
       "viableCandidates": 0,
       "sentNotifications": 0,
