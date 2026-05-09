@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-05-09T01:54:36.544Z",
+  "updatedAt": "2026-05-09T07:32:24.610Z",
   "opportunities": [
     {
       "id": "h9ad8184b",
@@ -51,6 +51,23 @@
       "recommendation": "Aplicar con alianza",
       "isViable": true,
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10239415",
+      "publicationNumber": null
+    },
+    {
+      "id": "he69c4641",
+      "sourceId": "usaid",
+      "title": "Tribal Colleges and Universities Program",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-06-01T00:00:00.000Z",
+      "amount": 3500000,
+      "currency": "USD",
+      "amountUsd": 3500000,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null
     },
     {
@@ -154,24 +171,7 @@
       "isViable": true,
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10264664",
       "publicationNumber": null
-    },
-    {
-      "id": "h5c23ea83",
-      "sourceId": "secop-ii",
-      "title": "SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE LOS VEHICULOS DE LAS UNIDADES TECNOLOGICAS DE SANTANDER",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-05-11T00:00:00.000Z",
-      "amount": 36750000,
-      "currency": "COP",
-      "amountUsd": 9187.5,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10272596",
-      "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 10 | USA: 0 | EUROPA: 0"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 9 | USA: 1 | EUROPA: 0"
 }
