@@ -1655,17 +1655,132 @@
       "sourceId": "mintic",
       "url": "https://mintic.gov.co/micrositios/convocatoriastv2026/894/articles-426298_Estudio_sector_2026.pdf",
       "viable": false
+    },
+    "h34e6777b": {
+      "at": "2026-05-09T01:54:36.537Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10252562",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-09T01-54-36-523Z_secop-ii_idartes-re-co-002-2026-copia"
+    },
+    "h125702f": {
+      "at": "2026-05-09T01:54:36.537Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10251970",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "he6eceabe": {
+      "at": "2026-05-09T01:54:36.538Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10272596",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-09T01-54-36-537Z_secop-ii_servicio-de-mantenimiento-preventivo-y-correctivo-"
+    },
+    "h1991a8c5": {
+      "at": "2026-05-09T01:54:36.538Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10266185",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h321e5437": {
+      "at": "2026-05-09T01:54:36.539Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10264664",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-09T01-54-36-538Z_secop-ii_suministro-de-repuestos-de-los-bienes-muebles-y-ma"
+    },
+    "h35fec3b1": {
+      "at": "2026-05-09T01:54:36.540Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10270609",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-09T01-54-36-539Z_secop-ii_prestacion-de-servicios-tecnicos-de-fumigacion-des"
+    },
+    "h7ae72baf": {
+      "at": "2026-05-09T01:54:36.540Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10264268",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-09T01-54-36-540Z_secop-ii_servicio-de-transporte-para-los-servidores-de-las-"
+    },
+    "hb4a46b13": {
+      "at": "2026-05-09T01:54:36.541Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10239415",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-09T01-54-36-540Z_secop-ii_prestar-los-servicios-de-examenes-medicos-ocupacio"
+    },
+    "h5c4b12c6": {
+      "at": "2026-05-09T01:54:36.541Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10266661",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h5199b5d6": {
+      "at": "2026-05-09T01:54:36.542Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10245323",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-09T01-54-36-541Z_secop-ii_190508326-realizar-una-evaluacion-de-resultados-y-"
+    },
+    "h919aebf6": {
+      "at": "2026-05-09T01:54:36.542Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10269880",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-09T01-54-36-542Z_secop-ii_riders-grita-2026-manifestacion-de-interes-menor-c"
+    },
+    "hca10ec7c": {
+      "at": "2026-05-09T01:54:36.543Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10234619",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-09T01-54-36-542Z_secop-ii_mantenimiento-preventivo-y-o-correctivo-de-las-mot"
+    },
+    "ha87daa4": {
+      "at": "2026-05-09T01:54:36.543Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10264834",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-09T01-54-36-543Z_secop-ii_actualizacion-del-licenciamiento-ibm-cloud-pak-for"
+    },
+    "hbc5afbf8": {
+      "at": "2026-05-09T01:54:36.544Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10273225",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hd66f501c": {
+      "at": "2026-05-09T01:54:36.544Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10274817",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h3877bbc2": {
+      "at": "2026-05-09T01:54:36.544Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10257346",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-09T01-54-36-544Z_secop-ii_prestar-el-servicio-de-area-protegida-para-la-aten"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-05-01T12:53:30.617Z",
-      "endedAt": "2026-05-01T12:54:55.334Z",
-      "scannedCandidates": 25,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-05-01T18:56:10.609Z",
       "endedAt": "2026-05-01T18:57:35.849Z",
@@ -1895,6 +2010,14 @@
       "endedAt": "2026-05-08T19:05:24.611Z",
       "scannedCandidates": 9,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-05-09T01:52:25.568Z",
+      "endedAt": "2026-05-09T01:54:36.548Z",
+      "scannedCandidates": 23,
+      "viableCandidates": 11,
       "sentNotifications": 0,
       "transport": "console"
     }
