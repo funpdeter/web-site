@@ -1778,17 +1778,73 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-09T01-54-36-544Z_secop-ii_prestar-el-servicio-de-area-protegida-para-la-aten"
+    },
+    "hd7463c5e": {
+      "at": "2026-05-09T18:45:04.414Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10280737",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-09T18-45-04-400Z_secop-ii_interventoria-tecnica-legal-administrativa-y-finan"
+    },
+    "h5cd45fe5": {
+      "at": "2026-05-09T18:45:04.414Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10262152",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-09T18-45-04-414Z_secop-ii_interventoria-tecnica-administrativa-juridica-fina"
+    },
+    "h831d2273": {
+      "at": "2026-05-09T18:45:04.415Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10268714",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-09T18-45-04-415Z_secop-ii_invitacion-minima-cuantia"
+    },
+    "ha754790b": {
+      "at": "2026-05-09T18:45:04.416Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10266811",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-09T18-45-04-415Z_secop-ii_adquisicion-de-productos-de-papeleria-utiles-de-es"
+    },
+    "h15712c87": {
+      "at": "2026-05-09T18:45:04.417Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10257082",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-09T18-45-04-416Z_secop-ii_interventoria-integral-tecnica-administrativa-fina"
+    },
+    "h6b76f68b": {
+      "at": "2026-05-09T18:45:04.417Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10264534",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-09T18-45-04-417Z_secop-ii_samc-iub-004-2026-manifestacion-de-interes-menor-c"
+    },
+    "hd89c08c6": {
+      "at": "2026-05-09T18:45:04.418Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10255744",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-09T18-45-04-417Z_secop-ii_interventoria-estudios-de-estabilidad-y-modelacion"
+    },
+    "hc87ddd77": {
+      "at": "2026-05-09T18:45:04.418Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10278337",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-09T18-45-04-418Z_secop-ii_adecuacion-mantenimiento-ampliacion-y-optimizacion"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-05-02T07:18:31.560Z",
-      "endedAt": "2026-05-02T07:20:02.925Z",
-      "scannedCandidates": 25,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-05-02T12:43:58.659Z",
       "endedAt": "2026-05-02T12:45:26.905Z",
@@ -2018,6 +2074,14 @@
       "endedAt": "2026-05-09T12:54:13.996Z",
       "scannedCandidates": 23,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-05-09T18:43:02.287Z",
+      "endedAt": "2026-05-09T18:45:04.424Z",
+      "scannedCandidates": 23,
+      "viableCandidates": 8,
       "sentNotifications": 0,
       "transport": "console"
     }
