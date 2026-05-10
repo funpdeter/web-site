@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-05-09T18:45:04.420Z",
+  "updatedAt": "2026-05-10T01:53:58.679Z",
   "opportunities": [
+    {
+      "id": "h55090e30",
+      "sourceId": "secop-ii",
+      "title": "DOTACIÓN DE ELEMENTOS PARA LAS INSTITUCIONES EDUCATIVAS OFICIALES DEL MUNICIPIO DE LA MESA - CUNDINAMARCA; PARA GARANTIZAR EL FUNCIONAMIENTO DEL PROGRAMA DE ALIMENTACIÓN ESCOLAR - PAE",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-05-11T00:00:00.000Z",
+      "amount": 29600986,
+      "currency": "COP",
+      "amountUsd": 7400.2465,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10269423",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-05-10T01:53:58.679Z",
+      "lastSeenAt": "2026-05-10T01:53:58.679Z",
+      "lastPublishedAt": "2026-05-10T01:53:58.679Z",
+      "isArchived": false
+    },
     {
       "id": "h91646e56",
       "sourceId": "secop-ii",
@@ -21,7 +42,7 @@
       "firstSeenAt": "2026-05-09T18:45:04.420Z",
       "lastSeenAt": "2026-05-09T18:45:04.420Z",
       "lastPublishedAt": "2026-05-09T18:45:04.420Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hc617225a",
@@ -42,7 +63,7 @@
       "firstSeenAt": "2026-05-09T18:45:04.420Z",
       "lastSeenAt": "2026-05-09T18:45:04.420Z",
       "lastPublishedAt": "2026-05-09T18:45:04.420Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h40cb8916",
@@ -63,7 +84,7 @@
       "firstSeenAt": "2026-05-09T18:45:04.420Z",
       "lastSeenAt": "2026-05-09T18:45:04.420Z",
       "lastPublishedAt": "2026-05-09T18:45:04.420Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he5756b17",
@@ -84,7 +105,7 @@
       "firstSeenAt": "2026-05-09T18:45:04.420Z",
       "lastSeenAt": "2026-05-09T18:45:04.420Z",
       "lastPublishedAt": "2026-05-09T18:45:04.420Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h420e0b8b",
@@ -105,7 +126,7 @@
       "firstSeenAt": "2026-05-09T18:45:04.420Z",
       "lastSeenAt": "2026-05-09T18:45:04.420Z",
       "lastPublishedAt": "2026-05-09T18:45:04.420Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he86e94d4",
@@ -126,7 +147,7 @@
       "firstSeenAt": "2026-05-09T18:45:04.420Z",
       "lastSeenAt": "2026-05-09T18:45:04.420Z",
       "lastPublishedAt": "2026-05-09T18:45:04.420Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h482b67a2",
@@ -147,7 +168,7 @@
       "firstSeenAt": "2026-05-09T18:45:04.420Z",
       "lastSeenAt": "2026-05-09T18:45:04.420Z",
       "lastPublishedAt": "2026-05-09T18:45:04.420Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf50160aa",
@@ -168,7 +189,7 @@
       "firstSeenAt": "2026-05-09T18:45:04.420Z",
       "lastSeenAt": "2026-05-09T18:45:04.420Z",
       "lastPublishedAt": "2026-05-09T18:45:04.420Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h9ad8184b",
@@ -3426,5 +3447,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 163 | Archivadas: 155"
+  "message": "Historico acumulado del agente UCI-F. Total: 164 | Archivadas: 163"
 }
