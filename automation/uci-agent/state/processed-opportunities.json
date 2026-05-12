@@ -1858,17 +1858,16 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-10T18-46-29-095Z_secop-ii_competitivo-desarrollo-del-deporte"
+    },
+    "hf8b86824": {
+      "at": "2026-05-12T13:53:20.183Z",
+      "sourceId": "usaid",
+      "url": "https://www.grants.gov/search-results-detail/362356",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-05-05T01:50:07.583Z",
-      "endedAt": "2026-05-05T01:51:58.545Z",
-      "scannedCandidates": 24,
-      "viableCandidates": 11,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-05-05T07:52:55.219Z",
       "endedAt": "2026-05-05T07:54:48.111Z",
@@ -2096,6 +2095,14 @@
     {
       "startedAt": "2026-05-12T08:23:37.826Z",
       "endedAt": "2026-05-12T08:24:56.393Z",
+      "scannedCandidates": 8,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-05-12T13:51:18.381Z",
+      "endedAt": "2026-05-12T13:53:20.187Z",
       "scannedCandidates": 8,
       "viableCandidates": 0,
       "sentNotifications": 0,
