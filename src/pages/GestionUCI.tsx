@@ -131,6 +131,15 @@ function formatAmount(opportunity: OpportunityCardData): string {
   return 'No identificado';
 }
 
+function formatRecommendation(recommendation?: string): string {
+  const normalizedRecommendation = String(recommendation || '').trim().toLowerCase();
+  if (normalizedRecommendation === 'no aplicar') {
+    return '';
+  }
+
+  return recommendation || 'No disponible';
+}
+
 function normalizeLegacySnapshot(data: OpportunitySnapshot): OpportunityCardData[] {
   if (data.hasOpportunity && data.title) {
     const source = String(data.source || '').toLowerCase();
@@ -335,7 +344,7 @@ const GestionUCI: React.FC = () => {
                     <strong>Puntaje de elegibilidad:</strong> {opportunity.scoreTotal ?? 'No disponible'}
                   </p>
                   <p>
-                    <strong>Resultado de evaluación:</strong> {opportunity.recommendation || 'No disponible'}
+                    <strong>Resultado de evaluación:</strong> {formatRecommendation(opportunity.recommendation)}
                   </p>
                 </div>
 
@@ -388,7 +397,7 @@ const GestionUCI: React.FC = () => {
                           <strong>Monto detectado:</strong> {formatAmount(opportunity)}
                         </p>
                         <p>
-                          <strong>Resultado:</strong> {opportunity.recommendation || 'No disponible'}
+                          <strong>Resultado:</strong> {formatRecommendation(opportunity.recommendation)}
                         </p>
                         <p>
                           <strong>Última aparición:</strong> {formatDate(opportunity.lastSeenAt)}
