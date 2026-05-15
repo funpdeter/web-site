@@ -1888,14 +1888,6 @@
   },
   "scans": [
     {
-      "startedAt": "2026-05-07T19:24:32.964Z",
-      "endedAt": "2026-05-07T19:26:19.624Z",
-      "scannedCandidates": 9,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
-    {
       "startedAt": "2026-05-08T01:58:15.156Z",
       "endedAt": "2026-05-08T01:59:40.918Z",
       "scannedCandidates": 9,
@@ -2123,6 +2115,14 @@
       "startedAt": "2026-05-15T02:02:50.682Z",
       "endedAt": "2026-05-15T02:04:30.860Z",
       "scannedCandidates": 9,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-05-15T08:37:14.917Z",
+      "endedAt": "2026-05-15T08:38:39.193Z",
+      "scannedCandidates": 8,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
