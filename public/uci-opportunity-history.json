@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-05-15T08:38:39.192Z",
+  "updatedAt": "2026-05-15T13:29:07.540Z",
   "opportunities": [
     {
       "id": "he69c4641",
@@ -21,7 +21,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-15T08:38:39.192Z",
       "lastPublishedAt": "2026-05-15T08:38:39.192Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h21b9b356",
@@ -42,7 +42,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-15T08:38:39.192Z",
       "lastPublishedAt": "2026-05-15T08:38:39.192Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hececd7a7",
@@ -63,7 +63,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-15T08:38:39.192Z",
       "lastPublishedAt": "2026-05-15T08:38:39.192Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h30bc098a",
@@ -84,7 +84,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-15T08:38:39.192Z",
       "lastPublishedAt": "2026-05-15T08:38:39.192Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd9b192b7",
@@ -105,7 +105,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-15T08:38:39.192Z",
       "lastPublishedAt": "2026-05-15T08:38:39.192Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h40b35418",
@@ -126,7 +126,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-15T08:38:39.192Z",
       "lastPublishedAt": "2026-05-15T08:38:39.192Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h85a3a119",
@@ -147,7 +147,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-15T08:38:39.192Z",
       "lastPublishedAt": "2026-05-15T08:38:39.192Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha1a0e4f0",
@@ -168,7 +168,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-15T08:38:39.192Z",
       "lastPublishedAt": "2026-05-15T08:38:39.192Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h5fc769ff",
@@ -192,5 +192,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 9 | Archivadas: 1"
+  "message": "Historico acumulado del agente UCI-F. Total: 9 | Archivadas: 9"
 }
