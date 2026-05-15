@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-05-15T13:29:07.540Z",
+  "updatedAt": "2026-05-15T19:16:28.406Z",
   "opportunities": [
     {
       "id": "he69c4641",
@@ -19,9 +19,9 @@
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null,
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
-      "lastSeenAt": "2026-05-15T08:38:39.192Z",
-      "lastPublishedAt": "2026-05-15T08:38:39.192Z",
-      "isArchived": true
+      "lastSeenAt": "2026-05-15T19:16:28.406Z",
+      "lastPublishedAt": "2026-05-15T19:16:28.406Z",
+      "isArchived": false
     },
     {
       "id": "h21b9b356",
@@ -40,9 +40,9 @@
       "url": "https://www.grants.gov/search-results-detail/362096",
       "publicationNumber": null,
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
-      "lastSeenAt": "2026-05-15T08:38:39.192Z",
-      "lastPublishedAt": "2026-05-15T08:38:39.192Z",
-      "isArchived": true
+      "lastSeenAt": "2026-05-15T19:16:28.406Z",
+      "lastPublishedAt": "2026-05-15T19:16:28.406Z",
+      "isArchived": false
     },
     {
       "id": "hececd7a7",
@@ -61,9 +61,9 @@
       "url": "https://www.grants.gov/search-results-detail/362356",
       "publicationNumber": null,
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
-      "lastSeenAt": "2026-05-15T08:38:39.192Z",
-      "lastPublishedAt": "2026-05-15T08:38:39.192Z",
-      "isArchived": true
+      "lastSeenAt": "2026-05-15T19:16:28.406Z",
+      "lastPublishedAt": "2026-05-15T19:16:28.406Z",
+      "isArchived": false
     },
     {
       "id": "h30bc098a",
@@ -82,9 +82,9 @@
       "url": "https://www.grants.gov/search-results-detail/362089",
       "publicationNumber": null,
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
-      "lastSeenAt": "2026-05-15T08:38:39.192Z",
-      "lastPublishedAt": "2026-05-15T08:38:39.192Z",
-      "isArchived": true
+      "lastSeenAt": "2026-05-15T19:16:28.406Z",
+      "lastPublishedAt": "2026-05-15T19:16:28.406Z",
+      "isArchived": false
     },
     {
       "id": "hd9b192b7",
@@ -103,9 +103,9 @@
       "url": "https://www.grants.gov/search-results-detail/361933",
       "publicationNumber": null,
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
-      "lastSeenAt": "2026-05-15T08:38:39.192Z",
-      "lastPublishedAt": "2026-05-15T08:38:39.192Z",
-      "isArchived": true
+      "lastSeenAt": "2026-05-15T19:16:28.406Z",
+      "lastPublishedAt": "2026-05-15T19:16:28.406Z",
+      "isArchived": false
     },
     {
       "id": "h40b35418",
@@ -124,9 +124,9 @@
       "url": "https://www.grants.gov/search-results-detail/344124",
       "publicationNumber": null,
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
-      "lastSeenAt": "2026-05-15T08:38:39.192Z",
-      "lastPublishedAt": "2026-05-15T08:38:39.192Z",
-      "isArchived": true
+      "lastSeenAt": "2026-05-15T19:16:28.406Z",
+      "lastPublishedAt": "2026-05-15T19:16:28.406Z",
+      "isArchived": false
     },
     {
       "id": "h85a3a119",
@@ -145,9 +145,9 @@
       "url": "https://www.grants.gov/search-results-detail/361760",
       "publicationNumber": null,
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
-      "lastSeenAt": "2026-05-15T08:38:39.192Z",
-      "lastPublishedAt": "2026-05-15T08:38:39.192Z",
-      "isArchived": true
+      "lastSeenAt": "2026-05-15T19:16:28.406Z",
+      "lastPublishedAt": "2026-05-15T19:16:28.406Z",
+      "isArchived": false
     },
     {
       "id": "ha1a0e4f0",
@@ -166,9 +166,9 @@
       "url": "https://www.grants.gov/search-results-detail/362076",
       "publicationNumber": null,
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
-      "lastSeenAt": "2026-05-15T08:38:39.192Z",
-      "lastPublishedAt": "2026-05-15T08:38:39.192Z",
-      "isArchived": true
+      "lastSeenAt": "2026-05-15T19:16:28.406Z",
+      "lastPublishedAt": "2026-05-15T19:16:28.406Z",
+      "isArchived": false
     },
     {
       "id": "h5fc769ff",
@@ -192,5 +192,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 9 | Archivadas: 9"
+  "message": "Historico acumulado del agente UCI-F. Total: 9 | Archivadas: 1"
 }
