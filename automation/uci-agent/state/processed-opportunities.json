@@ -1871,17 +1871,22 @@
       "sourceId": "mintic",
       "url": "https://mintic.gov.co/micrositios/conectividad-para-cambiar-vidas/835/articles-437912_convocatoria_001_2026_20260511_0000000001.pdf",
       "viable": false
+    },
+    "h2eddd2db": {
+      "at": "2026-05-15T02:02:53.749Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/eventos/live-convocatoria-impulsa-el-impacto-social-de-tu-organizacion",
+      "viable": false
+    },
+    "h4f959d86": {
+      "at": "2026-05-15T02:04:30.858Z",
+      "sourceId": "dps",
+      "url": "https://prosperidadsocial.gov.co/Noticias/prosperidad-social-invierte-143-715-millones-de-pesos-en-convocatoria-para-fortalecer-los-territorios",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-05-07T13:26:16.960Z",
-      "endedAt": "2026-05-07T13:28:19.406Z",
-      "scannedCandidates": 9,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-05-07T19:24:32.964Z",
       "endedAt": "2026-05-07T19:26:19.624Z",
@@ -2110,6 +2115,14 @@
       "startedAt": "2026-05-14T19:26:46.036Z",
       "endedAt": "2026-05-14T19:28:37.707Z",
       "scannedCandidates": 8,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-05-15T02:02:50.682Z",
+      "endedAt": "2026-05-15T02:04:30.860Z",
+      "scannedCandidates": 9,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"

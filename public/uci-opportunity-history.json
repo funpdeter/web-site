@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-05-14T19:28:37.707Z",
+  "updatedAt": "2026-05-15T02:04:30.860Z",
   "opportunities": [
+    {
+      "id": "h5fc769ff",
+      "sourceId": "dps",
+      "title": "Prosperidad Social invierte 143.715 millones de pesos en convocatoria para fortalecer los territorios - Prosperidad Social",
+      "source": "DPS",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-05-19T00:00:00.000Z",
+      "amount": 28818835846,
+      "currency": "USD",
+      "amountUsd": 28818835846,
+      "scoreTotal": 19,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://prosperidadsocial.gov.co/Noticias/prosperidad-social-invierte-143-715-millones-de-pesos-en-convocatoria-para-fortalecer-los-territorios",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-05-15T02:04:30.860Z",
+      "lastSeenAt": "2026-05-15T02:04:30.860Z",
+      "lastPublishedAt": "2026-05-15T02:04:30.860Z",
+      "isArchived": false
+    },
     {
       "id": "he69c4641",
       "sourceId": "usaid",
@@ -21,7 +42,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-14T19:28:37.707Z",
       "lastPublishedAt": "2026-05-14T19:28:37.707Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h21b9b356",
@@ -42,7 +63,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-14T19:28:37.707Z",
       "lastPublishedAt": "2026-05-14T19:28:37.707Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hececd7a7",
@@ -63,7 +84,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-14T19:28:37.707Z",
       "lastPublishedAt": "2026-05-14T19:28:37.707Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h30bc098a",
@@ -84,7 +105,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-14T19:28:37.707Z",
       "lastPublishedAt": "2026-05-14T19:28:37.707Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd9b192b7",
@@ -105,7 +126,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-14T19:28:37.707Z",
       "lastPublishedAt": "2026-05-14T19:28:37.707Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h40b35418",
@@ -126,7 +147,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-14T19:28:37.707Z",
       "lastPublishedAt": "2026-05-14T19:28:37.707Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h85a3a119",
@@ -147,7 +168,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-14T19:28:37.707Z",
       "lastPublishedAt": "2026-05-14T19:28:37.707Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha1a0e4f0",
@@ -168,8 +189,8 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-14T19:28:37.707Z",
       "lastPublishedAt": "2026-05-14T19:28:37.707Z",
-      "isArchived": false
+      "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 8 | Archivadas: 0"
+  "message": "Historico acumulado del agente UCI-F. Total: 9 | Archivadas: 8"
 }
