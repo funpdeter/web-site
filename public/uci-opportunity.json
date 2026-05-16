@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-05-16T01:57:10.330Z",
+  "updatedAt": "2026-05-16T07:49:53.944Z",
   "opportunities": [
     {
       "id": "h5d320502",
@@ -37,6 +37,57 @@
       "publicationNumber": null
     },
     {
+      "id": "h8343e902",
+      "sourceId": "secop-ii",
+      "title": "REALIZAR LA INTERVENTORIA TÉCNICA; ADMINISTRATIVA; FINANCIERA; CONTABLE Y JURIDICA PARA LA OBRA DE ADECUACIÓN Y MEJORAMIENTO DEL ESCENARIO DEPORTIVO DEL PROYECTO MEJORAMIENTO DE LA INFRAESTRUCTURA DE",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-05-18T00:00:00.000Z",
+      "amount": 92227423,
+      "currency": "COP",
+      "amountUsd": 23056.85575,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/STS/Users/Login/Index",
+      "publicationNumber": null
+    },
+    {
+      "id": "he69c4641",
+      "sourceId": "usaid",
+      "title": "Tribal Colleges and Universities Program",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-06-01T00:00:00.000Z",
+      "amount": 3500000,
+      "currency": "USD",
+      "amountUsd": 3500000,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://www.grants.gov/search-results-detail/334326",
+      "publicationNumber": null
+    },
+    {
+      "id": "h9c035a2e",
+      "sourceId": "ted-europa",
+      "title": "Italy – Motor vehicles – Procedura aperta ai sensi dell’art. 71 del D. Lgs. 36/2023 finalizzata all’acquisizione di veicoli da destinare alle FORZE ARMATE DELLA SOMALIA in relazione alla Misura di assistenza EPF a seguito della raccomandazione dell’Alto Commissario accettata dal Political and Security Committee del 16 aprile 2024. Priorità n. 2 ex lotto 1, Priorità n. 3 ex lotto 2, Priorità n. 4 ex lotto 1 e Priorità n. 5",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-05-21T00:00:00.000Z",
+      "amount": 4178000,
+      "currency": "EUR",
+      "amountUsd": 4512240,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/258240-2026",
+      "publicationNumber": "258240-2026"
+    },
+    {
       "id": "he900a67b",
       "sourceId": "secop-ii",
       "title": "CONSULTORÍA DE ESTUDIOS Y DISEÑOS PARA LA CONSTRUCCIÓN DEL CENTRO ADMINISTRATIVO DEL MUNICIPIO DE MIRAFLORES GUAVIARE (Presentación de oferta)",
@@ -69,23 +120,6 @@
       "isViable": true,
       "url": "https://www.grants.gov/search-results-detail/362418",
       "publicationNumber": null
-    },
-    {
-      "id": "h9c035a2e",
-      "sourceId": "ted-europa",
-      "title": "Italy – Motor vehicles – Procedura aperta ai sensi dell’art. 71 del D. Lgs. 36/2023 finalizzata all’acquisizione di veicoli da destinare alle FORZE ARMATE DELLA SOMALIA in relazione alla Misura di assistenza EPF a seguito della raccomandazione dell’Alto Commissario accettata dal Political and Security Committee del 16 aprile 2024. Priorità n. 2 ex lotto 1, Priorità n. 3 ex lotto 2, Priorità n. 4 ex lotto 1 e Priorità n. 5",
-      "source": "TED Europa",
-      "sourceTier": "internacional",
-      "region": "EUROPA",
-      "deadline": "2026-05-21T00:00:00.000Z",
-      "amount": 4178000,
-      "currency": "EUR",
-      "amountUsd": 4512240,
-      "scoreTotal": 13,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/258240-2026",
-      "publicationNumber": "258240-2026"
     },
     {
       "id": "h88dd90cc",
@@ -137,41 +171,7 @@
       "isViable": true,
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10264473",
       "publicationNumber": null
-    },
-    {
-      "id": "hd9aabe28",
-      "sourceId": "secop-ii",
-      "title": "ADQUISICION DE COMPUTADORES DE ESCRITORIO TODO EN UNO Y PORTÁTILES; LICENCIAS OFIMATICAS; PARA LA DIRECCIÓN DE GESTIÓN DE POLICÍA  FISCAL  Y ADUANERA",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-05-18T00:00:00.000Z",
-      "amount": null,
-      "currency": "",
-      "amountUsd": null,
-      "scoreTotal": 16,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10292906",
-      "publicationNumber": null
-    },
-    {
-      "id": "he41db3f",
-      "sourceId": "secop-ii",
-      "title": "Contratar el mantenimiento de puertas; ventanas; suelos; cielo raso y  techos de los ambientes de formación del Centro de Biotecnología  Industrial en la sede principal e Industrial",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-05-18T00:00:00.000Z",
-      "amount": null,
-      "currency": "",
-      "amountUsd": null,
-      "scoreTotal": 16,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10285842",
-      "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 8 | USA: 1 | EUROPA: 1"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 7 | USA: 2 | EUROPA: 1"
 }
