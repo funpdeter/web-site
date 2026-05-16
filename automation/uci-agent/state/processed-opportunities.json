@@ -1884,17 +1884,142 @@
       "url": "https://prosperidadsocial.gov.co/Noticias/prosperidad-social-invierte-143-715-millones-de-pesos-en-convocatoria-para-fortalecer-los-territorios",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "h2ae56be6": {
+      "at": "2026-05-16T01:57:10.324Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10290563",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-16T01-57-10-309Z_secop-ii_consultoria-de-estudios-y-disenos-para-la-construc"
+    },
+    "h96ffacfe": {
+      "at": "2026-05-16T01:57:10.324Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10267536",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-16T01-57-10-324Z_secop-ii_suministro-de-insumos-articulos-de-oficina-y-papel"
+    },
+    "hdad3be03": {
+      "at": "2026-05-16T01:57:10.325Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10283810",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h10dcb753": {
+      "at": "2026-05-16T01:57:10.325Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10265010",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-16T01-57-10-325Z_secop-ii_prestacion-de-servicios-logisticos-para-desarrollo"
+    },
+    "habb10af2": {
+      "at": "2026-05-16T01:57:10.326Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10150508",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "he16cf115": {
+      "at": "2026-05-16T01:57:10.326Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10256102",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-16T01-57-10-326Z_secop-ii_mantenimiento-de-la-via-secundaria-san-calixto-teo"
+    },
+    "h2184ccc0": {
+      "at": "2026-05-16T01:57:10.326Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10263178",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h5632a1c1": {
+      "at": "2026-05-16T01:57:10.327Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10264473",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-16T01-57-10-326Z_secop-ii_obra-cdi"
+    },
+    "he0fa5c26": {
+      "at": "2026-05-16T01:57:10.327Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10296226",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h8ee5043a": {
+      "at": "2026-05-16T01:57:10.327Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10261893",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h7ffe14fa": {
+      "at": "2026-05-16T01:57:10.328Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10263572",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-16T01-57-10-327Z_secop-ii_prestacion-de-servicios-para-la-ejecucion-de-las-a"
+    },
+    "ha8d9b029": {
+      "at": "2026-05-16T01:57:10.328Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10292906",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h32741955": {
+      "at": "2026-05-16T01:57:10.328Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10092539",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h78678f10": {
+      "at": "2026-05-16T01:57:10.328Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10278978",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h49c343ce": {
+      "at": "2026-05-16T01:57:10.328Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10285842",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "he8ba00e": {
+      "at": "2026-05-16T01:57:10.329Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/258160-2026",
+      "viable": false,
+      "reason": "No aplicar"
+    },
+    "h6ca16ed7": {
+      "at": "2026-05-16T01:57:10.329Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/258240-2026",
+      "viable": false,
+      "reason": "No aplicar"
+    },
+    "h8dd3c9db": {
+      "at": "2026-05-16T01:57:10.330Z",
+      "sourceId": "usaid",
+      "url": "https://www.grants.gov/search-results-detail/362418",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-16T01-57-10-330Z_usaid_alumni-engagement-innovation-fund-aeif-2026-domini"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-05-08T13:06:26.809Z",
-      "endedAt": "2026-05-08T13:08:40.755Z",
-      "scannedCandidates": 9,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-05-08T19:02:51.253Z",
       "endedAt": "2026-05-08T19:05:24.611Z",
@@ -2124,6 +2249,14 @@
       "endedAt": "2026-05-15T19:16:28.407Z",
       "scannedCandidates": 8,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-05-16T01:55:46.040Z",
+      "endedAt": "2026-05-16T01:57:10.332Z",
+      "scannedCandidates": 26,
+      "viableCandidates": 7,
       "sentNotifications": 0,
       "transport": "console"
     }
