@@ -2017,17 +2017,16 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-16T01-57-10-330Z_usaid_alumni-engagement-innovation-fund-aeif-2026-domini"
+    },
+    "h50ba43a4": {
+      "at": "2026-05-17T02:00:04.792Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10262951",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-05-09T12:52:13.908Z",
-      "endedAt": "2026-05-09T12:54:13.996Z",
-      "scannedCandidates": 23,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-05-09T18:43:02.287Z",
       "endedAt": "2026-05-09T18:45:04.424Z",
@@ -2256,6 +2255,14 @@
       "startedAt": "2026-05-16T18:48:07.348Z",
       "endedAt": "2026-05-16T18:49:54.652Z",
       "scannedCandidates": 26,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-05-17T01:58:44.549Z",
+      "endedAt": "2026-05-17T02:00:04.795Z",
+      "scannedCandidates": 25,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"

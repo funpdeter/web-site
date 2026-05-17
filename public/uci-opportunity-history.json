@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-05-16T18:49:54.651Z",
+  "updatedAt": "2026-05-17T02:00:04.794Z",
   "opportunities": [
+    {
+      "id": "h43429bc5",
+      "sourceId": "secop-ii",
+      "title": "SC -0022-3  PRODUCTOS DE ASEO CENAC MEDELLIN 2026",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-05-18T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10262951",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-05-17T02:00:04.794Z",
+      "lastSeenAt": "2026-05-17T02:00:04.794Z",
+      "lastPublishedAt": "2026-05-17T02:00:04.794Z",
+      "isArchived": false
+    },
     {
       "id": "h8343e902",
       "sourceId": "secop-ii",
@@ -21,7 +42,7 @@
       "firstSeenAt": "2026-05-16T07:49:53.945Z",
       "lastSeenAt": "2026-05-16T18:49:54.651Z",
       "lastPublishedAt": "2026-05-16T18:49:54.651Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h5d320502",
@@ -42,7 +63,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-16T18:49:54.651Z",
       "lastPublishedAt": "2026-05-16T18:49:54.651Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h62fad103",
@@ -63,7 +84,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-16T18:49:54.651Z",
       "lastPublishedAt": "2026-05-16T18:49:54.651Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he900a67b",
@@ -84,7 +105,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-16T18:49:54.651Z",
       "lastPublishedAt": "2026-05-16T18:49:54.651Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf05abb50",
@@ -105,7 +126,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-16T18:49:54.651Z",
       "lastPublishedAt": "2026-05-16T18:49:54.651Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h88dd90cc",
@@ -126,7 +147,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-16T18:49:54.651Z",
       "lastPublishedAt": "2026-05-16T18:49:54.651Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h1210e007",
@@ -147,7 +168,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-16T18:49:54.651Z",
       "lastPublishedAt": "2026-05-16T18:49:54.651Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h300ddd28",
@@ -168,7 +189,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-16T18:49:54.651Z",
       "lastPublishedAt": "2026-05-16T18:49:54.651Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h9c035a2e",
@@ -189,7 +210,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-16T18:49:54.651Z",
       "lastPublishedAt": "2026-05-16T18:49:54.651Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd9aabe28",
@@ -210,7 +231,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-16T18:49:54.651Z",
       "lastPublishedAt": "2026-05-16T18:49:54.651Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he41db3f",
@@ -231,7 +252,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-16T18:49:54.651Z",
       "lastPublishedAt": "2026-05-16T18:49:54.651Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hfc5ac3e",
@@ -252,7 +273,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-16T18:49:54.651Z",
       "lastPublishedAt": "2026-05-16T18:49:54.651Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h61be47df",
@@ -273,7 +294,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-16T18:49:54.651Z",
       "lastPublishedAt": "2026-05-16T18:49:54.651Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha859e885",
@@ -294,7 +315,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-16T18:49:54.651Z",
       "lastPublishedAt": "2026-05-16T18:49:54.651Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h3b5fa847",
@@ -315,7 +336,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-16T18:49:54.651Z",
       "lastPublishedAt": "2026-05-16T18:49:54.651Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h55995fb3",
@@ -336,7 +357,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-16T18:49:54.651Z",
       "lastPublishedAt": "2026-05-16T18:49:54.651Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hb7e06f14",
@@ -357,7 +378,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-16T18:49:54.651Z",
       "lastPublishedAt": "2026-05-16T18:49:54.651Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hc15fe5d1",
@@ -378,7 +399,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-16T18:49:54.651Z",
       "lastPublishedAt": "2026-05-16T18:49:54.651Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h843bf21b",
@@ -399,7 +420,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-16T18:49:54.651Z",
       "lastPublishedAt": "2026-05-16T18:49:54.651Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he69c4641",
@@ -420,7 +441,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-16T18:49:54.651Z",
       "lastPublishedAt": "2026-05-16T18:49:54.651Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h21b9b356",
@@ -441,7 +462,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-16T18:49:54.651Z",
       "lastPublishedAt": "2026-05-16T18:49:54.651Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h30bc098a",
@@ -462,7 +483,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-16T18:49:54.651Z",
       "lastPublishedAt": "2026-05-16T18:49:54.651Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd9b192b7",
@@ -483,7 +504,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-16T18:49:54.651Z",
       "lastPublishedAt": "2026-05-16T18:49:54.651Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h40b35418",
@@ -504,7 +525,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-16T18:49:54.651Z",
       "lastPublishedAt": "2026-05-16T18:49:54.651Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h85a3a119",
@@ -525,7 +546,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-16T18:49:54.651Z",
       "lastPublishedAt": "2026-05-16T18:49:54.651Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha1a0e4f0",
@@ -546,7 +567,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-16T18:49:54.651Z",
       "lastPublishedAt": "2026-05-16T18:49:54.651Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hececd7a7",
@@ -591,5 +612,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 28 | Archivadas: 2"
+  "message": "Historico acumulado del agente UCI-F. Total: 29 | Archivadas: 28"
 }
