@@ -1,7 +1,175 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-05-17T18:53:50.935Z",
+  "updatedAt": "2026-05-18T02:11:51.372Z",
   "opportunities": [
+    {
+      "id": "hb15dd7e6",
+      "sourceId": "secop-ii",
+      "title": "OPERACION LOGISTICA  INTERADMINISTRATIVO No.114-2025 (Manifestación de interés (Menor Cuantía))",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-05-19T00:00:00.000Z",
+      "amount": 320000000,
+      "currency": "COP",
+      "amountUsd": 80000,
+      "scoreTotal": 17,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10276511",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-05-18T02:11:51.372Z",
+      "lastSeenAt": "2026-05-18T02:11:51.372Z",
+      "lastPublishedAt": "2026-05-18T02:11:51.372Z",
+      "isArchived": false
+    },
+    {
+      "id": "h9b8a5698",
+      "sourceId": "secop-ii",
+      "title": "PRESTACION DE SERVICIOS  (Manifestación de interés (Menor Cuantía))",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-05-19T00:00:00.000Z",
+      "amount": 90000000,
+      "currency": "COP",
+      "amountUsd": 22500,
+      "scoreTotal": 17,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10288949",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-05-18T02:11:51.372Z",
+      "lastSeenAt": "2026-05-18T02:11:51.372Z",
+      "lastPublishedAt": "2026-05-18T02:11:51.372Z",
+      "isArchived": false
+    },
+    {
+      "id": "h36af9471",
+      "sourceId": "secop-ii",
+      "title": "MANTENIMIENTO Y REPUESTOS DE COMPUTO",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-05-19T00:00:00.000Z",
+      "amount": 49565304,
+      "currency": "COP",
+      "amountUsd": 12391.326,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10290644",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-05-18T02:11:51.372Z",
+      "lastSeenAt": "2026-05-18T02:11:51.372Z",
+      "lastPublishedAt": "2026-05-18T02:11:51.372Z",
+      "isArchived": false
+    },
+    {
+      "id": "h7cdfca0e",
+      "sourceId": "secop-ii",
+      "title": "Contratar una consultoría para el diseño; desarrollo; implementación y puesta en funcionamiento de un curso virtual autogestionado; con una intensidad mínima de cincuenta (50) horas; garantizando",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-05-19T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10287326",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-05-18T02:11:51.372Z",
+      "lastSeenAt": "2026-05-18T02:11:51.372Z",
+      "lastPublishedAt": "2026-05-18T02:11:51.372Z",
+      "isArchived": false
+    },
+    {
+      "id": "hcad7aea6",
+      "sourceId": "ted-europa",
+      "title": "Italy – Social work services with accommodation – GARA PROCEDURA APERTA",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-05-28T00:00:00.000Z",
+      "amount": 17209987.5,
+      "currency": "EUR",
+      "amountUsd": 18586786.5,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/266960-2026",
+      "publicationNumber": "266960-2026",
+      "firstSeenAt": "2026-05-18T02:11:51.372Z",
+      "lastSeenAt": "2026-05-18T02:11:51.372Z",
+      "lastPublishedAt": "2026-05-18T02:11:51.372Z",
+      "isArchived": false
+    },
+    {
+      "id": "h6333b80b",
+      "sourceId": "ted-europa",
+      "title": "Italy – Treasury services – GARA SOPRASOGLIA CON PROCEDURA TELEMATICA APERTA PER L’AFFIDAMENTO DEL SERVIZIO DI TESORERIA COMUNALE",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-05-29T00:00:00.000Z",
+      "amount": 8730000,
+      "currency": "EUR",
+      "amountUsd": 9428400,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/265894-2026",
+      "publicationNumber": "265894-2026",
+      "firstSeenAt": "2026-05-18T02:11:51.372Z",
+      "lastSeenAt": "2026-05-18T02:11:51.372Z",
+      "lastPublishedAt": "2026-05-18T02:11:51.372Z",
+      "isArchived": false
+    },
+    {
+      "id": "h500dae24",
+      "sourceId": "ted-europa",
+      "title": "Norway – Medical equipments, pharmaceuticals and personal care products – Ultrasound apparatus and scopying equipment for Sørlandet Hospital.",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-05-27T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/265817-2026",
+      "publicationNumber": "265817-2026",
+      "firstSeenAt": "2026-05-18T02:11:51.372Z",
+      "lastSeenAt": "2026-05-18T02:11:51.372Z",
+      "lastPublishedAt": "2026-05-18T02:11:51.372Z",
+      "isArchived": false
+    },
+    {
+      "id": "h71878c15",
+      "sourceId": "ted-europa",
+      "title": "Poland – Refuse and waste related services – Usługa odbioru, transportu i zagospodarowania odpadów powstałych w wyniku mechanicznej segregacji o kodzie 19 12 12",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-05-27T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/265823-2026",
+      "publicationNumber": "265823-2026",
+      "firstSeenAt": "2026-05-18T02:11:51.372Z",
+      "lastSeenAt": "2026-05-18T02:11:51.372Z",
+      "lastPublishedAt": "2026-05-18T02:11:51.372Z",
+      "isArchived": false
+    },
     {
       "id": "h43429bc5",
       "sourceId": "secop-ii",
@@ -21,7 +189,7 @@
       "firstSeenAt": "2026-05-17T02:00:04.794Z",
       "lastSeenAt": "2026-05-17T18:53:50.935Z",
       "lastPublishedAt": "2026-05-17T18:53:50.935Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h8343e902",
@@ -42,7 +210,7 @@
       "firstSeenAt": "2026-05-16T07:49:53.945Z",
       "lastSeenAt": "2026-05-17T18:53:50.935Z",
       "lastPublishedAt": "2026-05-17T18:53:50.935Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h5d320502",
@@ -63,7 +231,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-17T18:53:50.935Z",
       "lastPublishedAt": "2026-05-17T18:53:50.935Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h62fad103",
@@ -84,7 +252,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-17T18:53:50.935Z",
       "lastPublishedAt": "2026-05-17T18:53:50.935Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf05abb50",
@@ -105,7 +273,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-17T18:53:50.935Z",
       "lastPublishedAt": "2026-05-17T18:53:50.935Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h88dd90cc",
@@ -126,7 +294,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-17T18:53:50.935Z",
       "lastPublishedAt": "2026-05-17T18:53:50.935Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h1210e007",
@@ -147,7 +315,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-17T18:53:50.935Z",
       "lastPublishedAt": "2026-05-17T18:53:50.935Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h300ddd28",
@@ -168,7 +336,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-17T18:53:50.935Z",
       "lastPublishedAt": "2026-05-17T18:53:50.935Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h9c035a2e",
@@ -189,7 +357,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-17T18:53:50.935Z",
       "lastPublishedAt": "2026-05-17T18:53:50.935Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd9aabe28",
@@ -210,7 +378,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-17T18:53:50.935Z",
       "lastPublishedAt": "2026-05-17T18:53:50.935Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he41db3f",
@@ -231,7 +399,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-17T18:53:50.935Z",
       "lastPublishedAt": "2026-05-17T18:53:50.935Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hfc5ac3e",
@@ -252,7 +420,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-17T18:53:50.935Z",
       "lastPublishedAt": "2026-05-17T18:53:50.935Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h61be47df",
@@ -273,7 +441,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-17T18:53:50.935Z",
       "lastPublishedAt": "2026-05-17T18:53:50.935Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha859e885",
@@ -294,7 +462,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-17T18:53:50.935Z",
       "lastPublishedAt": "2026-05-17T18:53:50.935Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h3b5fa847",
@@ -315,7 +483,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-17T18:53:50.935Z",
       "lastPublishedAt": "2026-05-17T18:53:50.935Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h55995fb3",
@@ -336,7 +504,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-17T18:53:50.935Z",
       "lastPublishedAt": "2026-05-17T18:53:50.935Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hb7e06f14",
@@ -357,7 +525,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-17T18:53:50.935Z",
       "lastPublishedAt": "2026-05-17T18:53:50.935Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hc15fe5d1",
@@ -378,7 +546,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-17T18:53:50.935Z",
       "lastPublishedAt": "2026-05-17T18:53:50.935Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h843bf21b",
@@ -399,7 +567,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-05-17T18:53:50.935Z",
       "lastPublishedAt": "2026-05-17T18:53:50.935Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he69c4641",
@@ -420,7 +588,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-17T18:53:50.935Z",
       "lastPublishedAt": "2026-05-17T18:53:50.935Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h21b9b356",
@@ -441,7 +609,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-17T18:53:50.935Z",
       "lastPublishedAt": "2026-05-17T18:53:50.935Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h30bc098a",
@@ -462,7 +630,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-17T18:53:50.935Z",
       "lastPublishedAt": "2026-05-17T18:53:50.935Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h40b35418",
@@ -483,7 +651,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-17T18:53:50.935Z",
       "lastPublishedAt": "2026-05-17T18:53:50.935Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h85a3a119",
@@ -504,7 +672,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-17T18:53:50.935Z",
       "lastPublishedAt": "2026-05-17T18:53:50.935Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha1a0e4f0",
@@ -525,7 +693,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-05-17T18:53:50.935Z",
       "lastPublishedAt": "2026-05-17T18:53:50.935Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he900a67b",
@@ -612,5 +780,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 29 | Archivadas: 4"
+  "message": "Historico acumulado del agente UCI-F. Total: 37 | Archivadas: 29"
 }

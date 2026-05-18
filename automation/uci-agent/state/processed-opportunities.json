@@ -2024,17 +2024,68 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10262951",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "h64dd14cc": {
+      "at": "2026-05-18T02:11:51.367Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10290644",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-18T02-11-51-353Z_secop-ii_mantenimiento-y-repuestos-de-computo"
+    },
+    "hc90cd1bd": {
+      "at": "2026-05-18T02:11:51.368Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10288949",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-18T02-11-51-367Z_secop-ii_prestacion-de-servicios-manifestacion-de-interes-m"
+    },
+    "h2be66f83": {
+      "at": "2026-05-18T02:11:51.369Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10276511",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-18T02-11-51-368Z_secop-ii_operacion-logistica-interadministrativo-no-114-202"
+    },
+    "hcb46072f": {
+      "at": "2026-05-18T02:11:51.369Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10287326",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "ha43cc715": {
+      "at": "2026-05-18T02:11:51.369Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/265817-2026",
+      "viable": false,
+      "reason": "No aplicar"
+    },
+    "hf66fd80c": {
+      "at": "2026-05-18T02:11:51.370Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/265823-2026",
+      "viable": false,
+      "reason": "No aplicar"
+    },
+    "h8b186412": {
+      "at": "2026-05-18T02:11:51.371Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/265894-2026",
+      "viable": false,
+      "reason": "No aplicar"
+    },
+    "h900b263f": {
+      "at": "2026-05-18T02:11:51.371Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/266960-2026",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-05-10T12:53:01.508Z",
-      "endedAt": "2026-05-10T12:55:12.461Z",
-      "scannedCandidates": 23,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-05-10T18:44:23.685Z",
       "endedAt": "2026-05-10T18:46:29.112Z",
@@ -2264,6 +2315,14 @@
       "endedAt": "2026-05-17T18:53:50.936Z",
       "scannedCandidates": 25,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-05-18T02:10:04.322Z",
+      "endedAt": "2026-05-18T02:11:51.373Z",
+      "scannedCandidates": 15,
+      "viableCandidates": 3,
       "sentNotifications": 0,
       "transport": "console"
     }
