@@ -2089,17 +2089,15 @@
       "sourceId": "mintic",
       "url": "https://mintic.gov.co/micrositios/conectividad-para-cambiar-vidas/835/articles-395952_convocatoria_003_2024_20240918_001a.pdf",
       "viable": false
+    },
+    "haca83b89": {
+      "at": "2026-05-20T02:08:10.171Z",
+      "sourceId": "apc-colombia",
+      "url": "https://apccolombia.gov.co/index.php/eventos/live-convocatoria-impulsa-el-impacto-social-de-tu-organizacion",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-05-12T13:51:18.381Z",
-      "endedAt": "2026-05-12T13:53:20.187Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-05-12T19:27:19.120Z",
       "endedAt": "2026-05-12T19:28:40.137Z",
@@ -2327,6 +2325,14 @@
     {
       "startedAt": "2026-05-19T19:41:16.508Z",
       "endedAt": "2026-05-19T19:42:41.726Z",
+      "scannedCandidates": 11,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-05-20T02:08:05.989Z",
+      "endedAt": "2026-05-20T02:09:33.950Z",
       "scannedCandidates": 11,
       "viableCandidates": 0,
       "sentNotifications": 0,
