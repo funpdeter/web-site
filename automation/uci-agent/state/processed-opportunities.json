@@ -2095,17 +2095,16 @@
       "sourceId": "apc-colombia",
       "url": "https://apccolombia.gov.co/index.php/eventos/live-convocatoria-impulsa-el-impacto-social-de-tu-organizacion",
       "viable": false
+    },
+    "h29bd021a": {
+      "at": "2026-05-21T02:09:11.887Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/269623-2026",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-05-13T14:04:05.187Z",
-      "endedAt": "2026-05-13T14:05:39.650Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-05-13T19:29:36.749Z",
       "endedAt": "2026-05-13T19:31:03.365Z",
@@ -2334,6 +2333,14 @@
       "startedAt": "2026-05-20T20:00:51.347Z",
       "endedAt": "2026-05-20T20:02:13.756Z",
       "scannedCandidates": 11,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-05-21T02:07:24.306Z",
+      "endedAt": "2026-05-21T02:09:11.889Z",
+      "scannedCandidates": 8,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
