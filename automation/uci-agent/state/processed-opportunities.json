@@ -2116,17 +2116,15 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/277319-2026",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "ha69e6d02": {
+      "at": "2026-05-22T08:47:47.285Z",
+      "sourceId": "minambiente",
+      "url": "https://regalias.minambiente.gov.co/convocatoria-para-la-conservacion-de-areas-ambientales-estrategicas-y-lucha-nacional-contra-la-deforestacion-para-comunidades-negras-afrocolombianas-raizales-y-palenqueras-2024/",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-05-14T19:26:46.036Z",
-      "endedAt": "2026-05-14T19:28:37.707Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-05-15T02:02:50.682Z",
       "endedAt": "2026-05-15T02:04:30.860Z",
@@ -2355,6 +2353,14 @@
       "startedAt": "2026-05-22T02:09:33.021Z",
       "endedAt": "2026-05-22T02:11:18.664Z",
       "scannedCandidates": 9,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-05-22T08:47:26.543Z",
+      "endedAt": "2026-05-22T08:49:16.846Z",
+      "scannedCandidates": 8,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
