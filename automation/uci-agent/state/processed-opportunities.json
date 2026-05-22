@@ -2102,17 +2102,23 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/269623-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "h802c6a49": {
+      "at": "2026-05-22T02:11:18.661Z",
+      "sourceId": "apc-colombia",
+      "url": "https://apccolombia.gov.co/index.php/modalidades-de-cooperacion/convocatorias/otras-convocatorias/convocatoria-del-programa-de",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hcefca913": {
+      "at": "2026-05-22T02:11:18.661Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/277319-2026",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-05-14T13:27:57.403Z",
-      "endedAt": "2026-05-14T13:29:19.798Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-05-14T19:26:46.036Z",
       "endedAt": "2026-05-14T19:28:37.707Z",
@@ -2341,6 +2347,14 @@
       "startedAt": "2026-05-21T19:42:20.767Z",
       "endedAt": "2026-05-21T19:43:53.172Z",
       "scannedCandidates": 8,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-05-22T02:09:33.021Z",
+      "endedAt": "2026-05-22T02:11:18.664Z",
+      "scannedCandidates": 9,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
