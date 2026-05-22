@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-05-22T08:49:16.844Z",
+  "updatedAt": "2026-05-22T14:14:37.295Z",
   "opportunities": [
     {
       "id": "he69c4641",
@@ -18,23 +18,6 @@
       "isViable": true,
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null
-    },
-    {
-      "id": "h2233eafe",
-      "sourceId": "ted-europa",
-      "title": "Italy – Social work services with accommodation – Gara europea a procedura aperta per l’affidamento dei servizi di gestione e funzionamento del centro di accoglienza collettivo-presso la struttura demaniale sita in via Aquila 11, Milano- con capienza di 300 posti",
-      "source": "TED Europa",
-      "sourceTier": "internacional",
-      "region": "EUROPA",
-      "deadline": "2026-06-01T00:00:00.000Z",
-      "amount": 23600117.5,
-      "currency": "EUR",
-      "amountUsd": 25488126.900000002,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/277319-2026",
-      "publicationNumber": "277319-2026"
     },
     {
       "id": "hf05abb50",
@@ -139,5 +122,5 @@
       "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 7 | EUROPA: 1"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 7 | EUROPA: 0"
 }
