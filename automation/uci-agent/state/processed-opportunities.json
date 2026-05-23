@@ -2257,17 +2257,30 @@
       "sourceId": "apc-colombia",
       "url": "https://apccolombia.gov.co/sites/default/files/2026-05/Convocatoria%20Cooperacio%CC%80n%20Triangular%202026%20AECID.pdf",
       "viable": false
+    },
+    "he057cfa7": {
+      "at": "2026-05-23T18:55:27.562Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10316103",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h679cc58f": {
+      "at": "2026-05-23T18:55:27.563Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10317302",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h611cca0d": {
+      "at": "2026-05-23T18:55:27.563Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10316888",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-05-16T07:48:24.221Z",
-      "endedAt": "2026-05-16T07:49:53.946Z",
-      "scannedCandidates": 26,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-05-16T12:56:12.848Z",
       "endedAt": "2026-05-16T12:57:35.152Z",
@@ -2495,6 +2508,14 @@
     {
       "startedAt": "2026-05-23T12:57:41.631Z",
       "endedAt": "2026-05-23T12:59:49.043Z",
+      "scannedCandidates": 25,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-05-23T18:54:02.086Z",
+      "endedAt": "2026-05-23T18:55:27.566Z",
       "scannedCandidates": 25,
       "viableCandidates": 0,
       "sentNotifications": 0,
