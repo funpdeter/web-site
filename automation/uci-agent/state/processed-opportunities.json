@@ -2122,17 +2122,131 @@
       "sourceId": "minambiente",
       "url": "https://regalias.minambiente.gov.co/convocatoria-para-la-conservacion-de-areas-ambientales-estrategicas-y-lucha-nacional-contra-la-deforestacion-para-comunidades-negras-afrocolombianas-raizales-y-palenqueras-2024/",
       "viable": false
+    },
+    "he7883b02": {
+      "at": "2026-05-23T01:59:55.401Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10299353",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-23T01-59-55-387Z_secop-ii_interventoria-transporte-escolar"
+    },
+    "hdb693df7": {
+      "at": "2026-05-23T01:59:55.402Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10134783",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h6ad9835a": {
+      "at": "2026-05-23T01:59:55.402Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10315567",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-23T01-59-55-402Z_secop-ii_interventoria-transporte-escolar-presentacion-de-o"
+    },
+    "h61201f06": {
+      "at": "2026-05-23T01:59:55.403Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10269457",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-23T01-59-55-403Z_secop-ii_mc-002-de-2026"
+    },
+    "h71a20ae": {
+      "at": "2026-05-23T01:59:55.404Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10308525",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-23T01-59-55-403Z_secop-ii_mantenimientos-de-infraestructuras-manifestacion-d"
+    },
+    "h8a434c25": {
+      "at": "2026-05-23T01:59:55.404Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10308454",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-23T01-59-55-404Z_secop-ii_prestar-el-servicio-de-transporte-terrestre-automo"
+    },
+    "h9b2f2524": {
+      "at": "2026-05-23T01:59:55.405Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10303117",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-23T01-59-55-404Z_secop-ii_adquisicion-de-seguros-obligatorios-de-accidentes-"
+    },
+    "hf11e0d6f": {
+      "at": "2026-05-23T01:59:55.405Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10308823",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hbfd26ef3": {
+      "at": "2026-05-23T01:59:55.405Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10295633",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-23T01-59-55-405Z_secop-ii_suministro-de-combustible"
+    },
+    "hd2ce9b43": {
+      "at": "2026-05-23T01:59:55.406Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10311865",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-23T01-59-55-406Z_secop-ii_suministro-a-monto-agotable-de-elementos-de-seguri"
+    },
+    "h8b3fb91c": {
+      "at": "2026-05-23T01:59:55.406Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10298495",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hf5387057": {
+      "at": "2026-05-23T01:59:55.406Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10311652",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h839bf2af": {
+      "at": "2026-05-23T01:59:55.407Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10291228",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-23T01-59-55-407Z_secop-ii_contratar-los-servicios-en-medicina-preventiva-y-d"
+    },
+    "h9ebcf61e": {
+      "at": "2026-05-23T01:59:55.407Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10311242",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hae47073": {
+      "at": "2026-05-23T01:59:55.408Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10264981",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-23T01-59-55-407Z_secop-ii_habilitar-y-o-brindar-transitabilidad-y-o-atender-"
+    },
+    "he0677280": {
+      "at": "2026-05-23T01:59:55.408Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/modalidades-de-cooperacion/convocatorias/otras-convocatorias/convocatoria-2026-del-programa-de",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-05-15T13:27:14.417Z",
-      "endedAt": "2026-05-15T13:29:07.540Z",
-      "scannedCandidates": 0,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-05-15T19:15:01.820Z",
       "endedAt": "2026-05-15T19:16:28.407Z",
@@ -2362,6 +2476,14 @@
       "endedAt": "2026-05-22T19:22:44.397Z",
       "scannedCandidates": 7,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-05-23T01:57:58.855Z",
+      "endedAt": "2026-05-23T01:59:55.411Z",
+      "scannedCandidates": 25,
+      "viableCandidates": 10,
       "sentNotifications": 0,
       "transport": "console"
     }
