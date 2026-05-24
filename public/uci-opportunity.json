@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-05-24T08:16:25.754Z",
+  "updatedAt": "2026-05-24T12:59:21.444Z",
   "opportunities": [
     {
       "id": "h1f9b2533",
@@ -71,21 +71,21 @@
       "publicationNumber": null
     },
     {
-      "id": "h2233eafe",
+      "id": "hdfa57490",
       "sourceId": "ted-europa",
-      "title": "Italy – Social work services with accommodation – Gara europea a procedura aperta per l’affidamento dei servizi di gestione e funzionamento del centro di accoglienza collettivo-presso la struttura demaniale sita in via Aquila 11, Milano- con capienza di 300 posti",
+      "title": "France – Printing and related services – Prestations de fabrication et de pose d’éléments graphiques signalétiques, artistiques et/ou ludo-éducatifs pour les expositions du Centre Pompidou",
       "source": "TED Europa",
       "sourceTier": "internacional",
       "region": "EUROPA",
-      "deadline": "2026-06-01T00:00:00.000Z",
-      "amount": 23600117.5,
-      "currency": "EUR",
-      "amountUsd": 25488126.900000002,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
+      "deadline": "2026-05-26T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
       "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/277319-2026",
-      "publicationNumber": "277319-2026"
+      "url": "https://ted.europa.eu/en/notice/-/detail/276776-2026",
+      "publicationNumber": "276776-2026"
     },
     {
       "id": "hf05abb50",
