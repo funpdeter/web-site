@@ -2278,17 +2278,15 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10316888",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "h7727f662": {
+      "at": "2026-05-24T18:59:36.512Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-article-326747.html",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-05-17T08:08:56.658Z",
-      "endedAt": "2026-05-17T08:10:41.878Z",
-      "scannedCandidates": 25,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-05-17T12:53:51.416Z",
       "endedAt": "2026-05-17T12:55:38.054Z",
@@ -2517,6 +2515,14 @@
       "startedAt": "2026-05-24T12:58:01.875Z",
       "endedAt": "2026-05-24T12:59:21.447Z",
       "scannedCandidates": 24,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-05-24T18:59:17.972Z",
+      "endedAt": "2026-05-24T19:00:43.527Z",
+      "scannedCandidates": 25,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
