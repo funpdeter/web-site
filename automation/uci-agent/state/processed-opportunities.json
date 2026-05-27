@@ -2305,17 +2305,15 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/284243-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "he5b8555c": {
+      "at": "2026-05-27T19:57:47.703Z",
+      "sourceId": "minambiente",
+      "url": "https://www.minambiente.gov.co/abierta-convocatoria-nacional-para-participar-en-rendicion-de-cuentas-del-sector-ambiente",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-05-20T08:51:37.163Z",
-      "endedAt": "2026-05-20T08:53:01.435Z",
-      "scannedCandidates": 11,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-05-20T14:33:20.741Z",
       "endedAt": "2026-05-20T14:35:20.298Z",
@@ -2543,6 +2541,14 @@
     {
       "startedAt": "2026-05-27T14:52:56.127Z",
       "endedAt": "2026-05-27T14:53:44.490Z",
+      "scannedCandidates": 7,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-05-27T19:57:32.381Z",
+      "endedAt": "2026-05-27T19:58:16.977Z",
       "scannedCandidates": 7,
       "viableCandidates": 0,
       "sentNotifications": 0,
