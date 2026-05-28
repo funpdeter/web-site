@@ -2311,17 +2311,15 @@
       "sourceId": "minambiente",
       "url": "https://www.minambiente.gov.co/abierta-convocatoria-nacional-para-participar-en-rendicion-de-cuentas-del-sector-ambiente",
       "viable": false
+    },
+    "h2640f25f": {
+      "at": "2026-05-28T20:04:30.056Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/micrositios/conectividad-para-cambiar-vidas/835/articles-437912_convocatoria_001_2026_20260522_00000000001.pdf",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-05-21T08:54:09.259Z",
-      "endedAt": "2026-05-21T08:55:33.717Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-05-21T14:38:56.639Z",
       "endedAt": "2026-05-21T14:40:50.317Z",
@@ -2549,6 +2547,14 @@
     {
       "startedAt": "2026-05-28T15:25:20.035Z",
       "endedAt": "2026-05-28T15:26:20.548Z",
+      "scannedCandidates": 7,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-05-28T20:04:13.252Z",
+      "endedAt": "2026-05-28T20:05:08.254Z",
       "scannedCandidates": 7,
       "viableCandidates": 0,
       "sentNotifications": 0,
