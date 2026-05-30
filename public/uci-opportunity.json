@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-05-30T02:00:04.885Z",
+  "updatedAt": "2026-05-30T08:16:10.900Z",
   "opportunities": [
     {
       "id": "hb7f9dd35",
@@ -51,6 +51,23 @@
       "recommendation": "Aplicar con alianza",
       "isViable": true,
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10267527",
+      "publicationNumber": null
+    },
+    {
+      "id": "he69c4641",
+      "sourceId": "usaid",
+      "title": "Tribal Colleges and Universities Program",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-06-01T00:00:00.000Z",
+      "amount": 3500000,
+      "currency": "USD",
+      "amountUsd": 3500000,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null
     },
     {
@@ -122,6 +139,23 @@
       "publicationNumber": null
     },
     {
+      "id": "hf05abb50",
+      "sourceId": "usaid",
+      "title": "Alumni Engagement Innovation Fund (AEIF) 2026 Dominican Republic",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-06-14T00:00:00.000Z",
+      "amount": 35000,
+      "currency": "USD",
+      "amountUsd": 35000,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://www.grants.gov/search-results-detail/362418",
+      "publicationNumber": null
+    },
+    {
       "id": "hdd06a082",
       "sourceId": "secop-ii",
       "title": "TIQUETES AÉREOS NACIONALES E INTERNACIONALES",
@@ -137,41 +171,7 @@
       "isViable": true,
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10272555",
       "publicationNumber": null
-    },
-    {
-      "id": "hceb02c0",
-      "sourceId": "secop-ii",
-      "title": "COMPRA DE SEGUROS (Presentación de oferta)",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-06-01T00:00:00.000Z",
-      "amount": 4763000000,
-      "currency": "COP",
-      "amountUsd": 1190750,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10325907",
-      "publicationNumber": null
-    },
-    {
-      "id": "ha19ab839",
-      "sourceId": "secop-ii",
-      "title": "ADQUISICIÓN DE IMPLEMENTOS Y ARTÍCULOS DEPORTIVOS PARA EL FOMENTO DE LA ACTIVIDAD FÍSICA; LA RECREACIÓN Y EL DEPORTE EN EL MUNICIPIO DE FORTUL; DEPARTAMENTO DE ARAUCA (Presentación de oferta)",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-06-01T00:00:00.000Z",
-      "amount": 126000000,
-      "currency": "COP",
-      "amountUsd": 31500,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10318917",
-      "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 10 | USA: 0 | EUROPA: 0"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 8 | USA: 2 | EUROPA: 0"
 }
