@@ -2459,17 +2459,24 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10331130",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "h7bf566ba": {
+      "at": "2026-05-31T02:15:29.338Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10328611",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hf3186b60": {
+      "at": "2026-05-31T02:15:29.352Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10285408",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-31T02-15-29-338Z_secop-ii_ampliacion-de-la-cobertura-forestal-con-especies-n"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-05-23T12:57:41.631Z",
-      "endedAt": "2026-05-23T12:59:49.043Z",
-      "scannedCandidates": 25,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-05-23T18:54:02.086Z",
       "endedAt": "2026-05-23T18:55:27.566Z",
@@ -2699,6 +2706,14 @@
       "endedAt": "2026-05-30T18:58:50.414Z",
       "scannedCandidates": 22,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-05-31T02:14:45.393Z",
+      "endedAt": "2026-05-31T02:15:29.355Z",
+      "scannedCandidates": 22,
+      "viableCandidates": 1,
       "sentNotifications": 0,
       "transport": "console"
     }
