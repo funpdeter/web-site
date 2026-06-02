@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-06-02T02:36:23.065Z",
+  "updatedAt": "2026-06-02T10:02:14.084Z",
   "opportunities": [
     {
       "id": "hf05abb50",
@@ -19,8 +19,8 @@
       "url": "https://www.grants.gov/search-results-detail/362418",
       "publicationNumber": null,
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
-      "lastSeenAt": "2026-06-02T02:36:23.065Z",
-      "lastPublishedAt": "2026-06-02T02:36:23.065Z",
+      "lastSeenAt": "2026-06-02T10:02:14.084Z",
+      "lastPublishedAt": "2026-06-02T10:02:14.084Z",
       "isArchived": false
     },
     {
@@ -40,8 +40,8 @@
       "url": "https://www.grants.gov/search-results-detail/362089",
       "publicationNumber": null,
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
-      "lastSeenAt": "2026-06-02T02:36:23.065Z",
-      "lastPublishedAt": "2026-06-02T02:36:23.065Z",
+      "lastSeenAt": "2026-06-02T10:02:14.084Z",
+      "lastPublishedAt": "2026-06-02T10:02:14.084Z",
       "isArchived": false
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.grants.gov/search-results-detail/344124",
       "publicationNumber": null,
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
-      "lastSeenAt": "2026-06-02T02:36:23.065Z",
-      "lastPublishedAt": "2026-06-02T02:36:23.065Z",
+      "lastSeenAt": "2026-06-02T10:02:14.084Z",
+      "lastPublishedAt": "2026-06-02T10:02:14.084Z",
       "isArchived": false
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://www.grants.gov/search-results-detail/361760",
       "publicationNumber": null,
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
-      "lastSeenAt": "2026-06-02T02:36:23.065Z",
-      "lastPublishedAt": "2026-06-02T02:36:23.065Z",
+      "lastSeenAt": "2026-06-02T10:02:14.084Z",
+      "lastPublishedAt": "2026-06-02T10:02:14.084Z",
       "isArchived": false
     },
     {
@@ -103,8 +103,29 @@
       "url": "https://www.grants.gov/search-results-detail/362076",
       "publicationNumber": null,
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
-      "lastSeenAt": "2026-06-02T02:36:23.065Z",
-      "lastPublishedAt": "2026-06-02T02:36:23.065Z",
+      "lastSeenAt": "2026-06-02T10:02:14.084Z",
+      "lastPublishedAt": "2026-06-02T10:02:14.084Z",
+      "isArchived": false
+    },
+    {
+      "id": "hececd7a7",
+      "sourceId": "usaid",
+      "title": "FY 2026 Strengthening Talent, Research, Innovation and Vital Engagement (STRIVE) Program",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-06-10T00:00:00.000Z",
+      "amount": 2000000,
+      "currency": "USD",
+      "amountUsd": 2000000,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/362356",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-05-14T02:06:56.050Z",
+      "lastSeenAt": "2026-06-02T10:02:14.084Z",
+      "lastPublishedAt": "2026-06-02T10:02:14.084Z",
       "isArchived": false
     },
     {
@@ -1662,27 +1683,6 @@
       "isArchived": true
     },
     {
-      "id": "hececd7a7",
-      "sourceId": "usaid",
-      "title": "FY 2026 Strengthening Talent, Research, Innovation and Vital Engagement (STRIVE) Program",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-06-10T00:00:00.000Z",
-      "amount": 2000000,
-      "currency": "USD",
-      "amountUsd": 2000000,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/362356",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-05-14T02:06:56.050Z",
-      "lastSeenAt": "2026-05-15T19:16:28.406Z",
-      "lastPublishedAt": "2026-05-15T19:16:28.406Z",
-      "isArchived": true
-    },
-    {
       "id": "h5fc769ff",
       "sourceId": "dps",
       "title": "Prosperidad Social invierte 143.715 millones de pesos en convocatoria para fortalecer los territorios - Prosperidad Social",
@@ -1704,5 +1704,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 81 | Archivadas: 76"
+  "message": "Historico acumulado del agente UCI-F. Total: 81 | Archivadas: 75"
 }
