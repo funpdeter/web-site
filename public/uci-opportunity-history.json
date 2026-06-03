@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-06-02T20:37:48.352Z",
+  "updatedAt": "2026-06-03T02:42:44.974Z",
   "opportunities": [
+    {
+      "id": "h1ad458ac",
+      "sourceId": "usaid",
+      "title": "Advanced Technological Education",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-10-01T00:00:00.000Z",
+      "amount": 7500000,
+      "currency": "USD",
+      "amountUsd": 7500000,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/355100",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-06-03T02:42:44.974Z",
+      "lastSeenAt": "2026-06-03T02:42:44.974Z",
+      "lastPublishedAt": "2026-06-03T02:42:44.974Z",
+      "isArchived": false
+    },
     {
       "id": "hf05abb50",
       "sourceId": "usaid",
@@ -21,7 +42,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-06-02T20:37:48.352Z",
       "lastPublishedAt": "2026-06-02T20:37:48.352Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h30bc098a",
@@ -42,7 +63,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-06-02T20:37:48.352Z",
       "lastPublishedAt": "2026-06-02T20:37:48.352Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h40b35418",
@@ -63,7 +84,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-06-02T20:37:48.352Z",
       "lastPublishedAt": "2026-06-02T20:37:48.352Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h85a3a119",
@@ -84,7 +105,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-06-02T20:37:48.352Z",
       "lastPublishedAt": "2026-06-02T20:37:48.352Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha1a0e4f0",
@@ -105,7 +126,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-06-02T20:37:48.352Z",
       "lastPublishedAt": "2026-06-02T20:37:48.352Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hececd7a7",
@@ -126,7 +147,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-06-02T20:37:48.352Z",
       "lastPublishedAt": "2026-06-02T20:37:48.352Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hb26969dd",
@@ -1704,5 +1725,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 81 | Archivadas: 75"
+  "message": "Historico acumulado del agente UCI-F. Total: 82 | Archivadas: 81"
 }

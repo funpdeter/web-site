@@ -2474,17 +2474,46 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-05-31T02-15-29-338Z_secop-ii_ampliacion-de-la-cobertura-forestal-con-especies-n"
+    },
+    "h26b3f2a2": {
+      "at": "2026-06-03T02:42:00.372Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/modalidades-de-cooperacion/cooperacion-sur-sur/gestion-de-la-cooperacion-sur-sur/12-cooperacion-26",
+      "viable": false
+    },
+    "h280f3a26": {
+      "at": "2026-06-03T02:42:00.625Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/Calendario_eventos/month",
+      "viable": false
+    },
+    "h3681c28a": {
+      "at": "2026-06-03T02:42:00.878Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/sites/default/files/2026-04/TriNova_Guia%20para%20la%20Convocatoria%202026.pdf",
+      "viable": false
+    },
+    "ha8105660": {
+      "at": "2026-06-03T02:42:01.131Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/buscador?search_api_fulltext=%3Cxsdgadfsh",
+      "viable": false
+    },
+    "hbffd55a": {
+      "at": "2026-06-03T02:42:01.476Z",
+      "sourceId": "apc-colombia",
+      "url": "https://apccolombia.gov.co/seccion/modalidades-de-cooperacion",
+      "viable": false
+    },
+    "ha58e2c0b": {
+      "at": "2026-06-03T02:42:44.973Z",
+      "sourceId": "usaid",
+      "url": "https://www.grants.gov/search-results-detail/355100",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-05-26T14:38:37.742Z",
-      "endedAt": "2026-05-26T14:39:54.293Z",
-      "scannedCandidates": 10,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-05-26T19:53:54.343Z",
       "endedAt": "2026-05-26T19:54:54.693Z",
@@ -2713,6 +2742,14 @@
       "startedAt": "2026-06-02T20:36:48.187Z",
       "endedAt": "2026-06-02T20:37:48.354Z",
       "scannedCandidates": 6,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-03T02:41:45.738Z",
+      "endedAt": "2026-06-03T02:42:44.976Z",
+      "scannedCandidates": 7,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
