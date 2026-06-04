@@ -2511,17 +2511,15 @@
       "url": "https://www.grants.gov/search-results-detail/355100",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "hab628ab2": {
+      "at": "2026-06-04T02:37:48.984Z",
+      "sourceId": "gef-small-grants",
+      "url": "https://sgp.undp.org/resources-155/our-stories/828-comdeks-phase-4-global-workshop-advancing-locally-led-solutions-for-nature.html",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-05-27T14:52:56.127Z",
-      "endedAt": "2026-05-27T14:53:44.490Z",
-      "scannedCandidates": 7,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-05-27T19:57:32.381Z",
       "endedAt": "2026-05-27T19:58:16.977Z",
@@ -2749,6 +2747,14 @@
     {
       "startedAt": "2026-06-03T20:46:06.404Z",
       "endedAt": "2026-06-03T20:46:43.567Z",
+      "scannedCandidates": 7,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-04T02:36:59.837Z",
+      "endedAt": "2026-06-04T02:38:03.540Z",
       "scannedCandidates": 7,
       "viableCandidates": 0,
       "sentNotifications": 0,
