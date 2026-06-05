@@ -2517,17 +2517,15 @@
       "sourceId": "gef-small-grants",
       "url": "https://sgp.undp.org/resources-155/our-stories/828-comdeks-phase-4-global-workshop-advancing-locally-led-solutions-for-nature.html",
       "viable": false
+    },
+    "hfd043240": {
+      "at": "2026-06-05T02:12:24.268Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/micrositios/convocatoriastv2026/894/articles-438485_Informe_Preliminar_TAA_2026.pdf",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-05-28T15:25:20.035Z",
-      "endedAt": "2026-05-28T15:26:20.548Z",
-      "scannedCandidates": 7,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-05-28T20:04:13.252Z",
       "endedAt": "2026-05-28T20:05:08.254Z",
@@ -2756,6 +2754,14 @@
       "startedAt": "2026-06-04T19:53:12.655Z",
       "endedAt": "2026-06-04T19:54:12.368Z",
       "scannedCandidates": 7,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-05T02:11:54.454Z",
+      "endedAt": "2026-06-05T02:13:00.705Z",
+      "scannedCandidates": 6,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"

@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-06-04T19:54:12.367Z",
+  "updatedAt": "2026-06-05T02:13:00.703Z",
   "opportunities": [
     {
       "id": "h1ad458ac",
@@ -19,8 +19,8 @@
       "url": "https://www.grants.gov/search-results-detail/355100",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-03T02:42:44.974Z",
-      "lastSeenAt": "2026-06-04T19:54:12.367Z",
-      "lastPublishedAt": "2026-06-04T19:54:12.367Z",
+      "lastSeenAt": "2026-06-05T02:13:00.703Z",
+      "lastPublishedAt": "2026-06-05T02:13:00.703Z",
       "isArchived": false
     },
     {
@@ -40,8 +40,8 @@
       "url": "https://www.grants.gov/search-results-detail/362418",
       "publicationNumber": null,
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
-      "lastSeenAt": "2026-06-04T19:54:12.367Z",
-      "lastPublishedAt": "2026-06-04T19:54:12.367Z",
+      "lastSeenAt": "2026-06-05T02:13:00.703Z",
+      "lastPublishedAt": "2026-06-05T02:13:00.703Z",
       "isArchived": false
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.grants.gov/search-results-detail/362089",
       "publicationNumber": null,
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
-      "lastSeenAt": "2026-06-04T19:54:12.367Z",
-      "lastPublishedAt": "2026-06-04T19:54:12.367Z",
+      "lastSeenAt": "2026-06-05T02:13:00.703Z",
+      "lastPublishedAt": "2026-06-05T02:13:00.703Z",
       "isArchived": false
     },
     {
@@ -82,8 +82,50 @@
       "url": "https://www.grants.gov/search-results-detail/344124",
       "publicationNumber": null,
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
-      "lastSeenAt": "2026-06-04T19:54:12.367Z",
-      "lastPublishedAt": "2026-06-04T19:54:12.367Z",
+      "lastSeenAt": "2026-06-05T02:13:00.703Z",
+      "lastPublishedAt": "2026-06-05T02:13:00.703Z",
+      "isArchived": false
+    },
+    {
+      "id": "ha1a0e4f0",
+      "sourceId": "usaid",
+      "title": "Office of Elementary and Secondary Education (OESE): Office of Indian Education (OIE): State Tribal Education Partnership (STEP) Grant Program; Assistance Listing Number 84.415A",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-06-11T00:00:00.000Z",
+      "amount": null,
+      "currency": "USD",
+      "amountUsd": null,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/362076",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-05-14T02:06:56.050Z",
+      "lastSeenAt": "2026-06-05T02:13:00.703Z",
+      "lastPublishedAt": "2026-06-05T02:13:00.703Z",
+      "isArchived": false
+    },
+    {
+      "id": "hececd7a7",
+      "sourceId": "usaid",
+      "title": "FY 2026 Strengthening Talent, Research, Innovation and Vital Engagement (STRIVE) Program",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-06-10T00:00:00.000Z",
+      "amount": 2000000,
+      "currency": "USD",
+      "amountUsd": 2000000,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/362356",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-05-14T02:06:56.050Z",
+      "lastSeenAt": "2026-06-05T02:13:00.703Z",
+      "lastPublishedAt": "2026-06-05T02:13:00.703Z",
       "isArchived": false
     },
     {
@@ -105,49 +147,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-06-04T19:54:12.367Z",
       "lastPublishedAt": "2026-06-04T19:54:12.367Z",
-      "isArchived": false
-    },
-    {
-      "id": "ha1a0e4f0",
-      "sourceId": "usaid",
-      "title": "Office of Elementary and Secondary Education (OESE): Office of Indian Education (OIE): State Tribal Education Partnership (STEP) Grant Program; Assistance Listing Number 84.415A",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-06-11T00:00:00.000Z",
-      "amount": null,
-      "currency": "USD",
-      "amountUsd": null,
-      "scoreTotal": 13,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/362076",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-05-14T02:06:56.050Z",
-      "lastSeenAt": "2026-06-04T19:54:12.367Z",
-      "lastPublishedAt": "2026-06-04T19:54:12.367Z",
-      "isArchived": false
-    },
-    {
-      "id": "hececd7a7",
-      "sourceId": "usaid",
-      "title": "FY 2026 Strengthening Talent, Research, Innovation and Vital Engagement (STRIVE) Program",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-06-10T00:00:00.000Z",
-      "amount": 2000000,
-      "currency": "USD",
-      "amountUsd": 2000000,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/362356",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-05-14T02:06:56.050Z",
-      "lastSeenAt": "2026-06-04T19:54:12.367Z",
-      "lastPublishedAt": "2026-06-04T19:54:12.367Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hb26969dd",
@@ -1725,5 +1725,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 82 | Archivadas: 75"
+  "message": "Historico acumulado del agente UCI-F. Total: 82 | Archivadas: 76"
 }

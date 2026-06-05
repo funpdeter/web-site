@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-06-04T19:54:12.366Z",
+  "updatedAt": "2026-06-05T02:13:00.702Z",
   "opportunities": [
     {
       "id": "hf05abb50",
@@ -88,23 +88,6 @@
       "publicationNumber": null
     },
     {
-      "id": "h85a3a119",
-      "sourceId": "usaid",
-      "title": "Office of Special Education and Rehabilitative Services (OSERS): Office of Special Education Programs (OSEP): Community Parent Resource Centers (CPRCs), Assistance Listing Number 84.328C",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-06-05T00:00:00.000Z",
-      "amount": null,
-      "currency": "USD",
-      "amountUsd": null,
-      "scoreTotal": 14,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/361760",
-      "publicationNumber": null
-    },
-    {
       "id": "ha1a0e4f0",
       "sourceId": "usaid",
       "title": "Office of Elementary and Secondary Education (OESE): Office of Indian Education (OIE): State Tribal Education Partnership (STEP) Grant Program; Assistance Listing Number 84.415A",
@@ -122,5 +105,5 @@
       "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 7 | EUROPA: 0"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 6 | EUROPA: 0"
 }
