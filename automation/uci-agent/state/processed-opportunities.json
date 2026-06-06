@@ -2645,17 +2645,53 @@
       "url": "https://www.grants.gov/search-results-detail/362709",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "h66a61b84": {
+      "at": "2026-06-06T19:03:55.636Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10351833",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hc9292249": {
+      "at": "2026-06-06T19:03:55.652Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10337254",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-06T19-03-55-637Z_secop-ii_polizas-todo-riesgo-manifestacion-de-interes-menor"
+    },
+    "hde1cce2": {
+      "at": "2026-06-06T19:03:55.652Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10342624",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-06T19-03-55-652Z_secop-ii_realizar-mediante-el-uso-de-maquinaria-y-equipos-e"
+    },
+    "h80bb1ef5": {
+      "at": "2026-06-06T19:03:55.653Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10348717",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h621e3669": {
+      "at": "2026-06-06T19:03:55.653Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10357506",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h7e40419": {
+      "at": "2026-06-06T19:03:55.653Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10344296",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-05-30T08:15:09.387Z",
-      "endedAt": "2026-05-30T08:16:10.903Z",
-      "scannedCandidates": 22,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-05-30T13:00:47.984Z",
       "endedAt": "2026-05-30T13:01:32.797Z",
@@ -2885,6 +2921,14 @@
       "endedAt": "2026-06-06T13:06:28.295Z",
       "scannedCandidates": 24,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-06T19:03:12.580Z",
+      "endedAt": "2026-06-06T19:03:55.657Z",
+      "scannedCandidates": 24,
+      "viableCandidates": 2,
       "sentNotifications": 0,
       "transport": "console"
     }
