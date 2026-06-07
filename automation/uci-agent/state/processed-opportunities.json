@@ -2689,17 +2689,22 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10344296",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "hee008071": {
+      "at": "2026-06-07T08:43:37.414Z",
+      "sourceId": "minambiente",
+      "url": "https://regalias.minambiente.gov.co/convocatorias-2025-2026/",
+      "viable": false
+    },
+    "hfb1b4848": {
+      "at": "2026-06-07T08:44:54.575Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/315247-2026",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-05-30T18:57:48.141Z",
-      "endedAt": "2026-05-30T18:58:50.414Z",
-      "scannedCandidates": 22,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-05-31T02:14:45.393Z",
       "endedAt": "2026-05-31T02:15:29.355Z",
@@ -2928,6 +2933,14 @@
       "startedAt": "2026-06-07T02:30:07.266Z",
       "endedAt": "2026-06-07T02:30:55.696Z",
       "scannedCandidates": 24,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-07T08:43:19.703Z",
+      "endedAt": "2026-06-07T08:44:54.578Z",
+      "scannedCandidates": 25,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"

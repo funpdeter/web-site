@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-06-07T02:30:55.694Z",
+  "updatedAt": "2026-06-07T08:44:54.576Z",
   "opportunities": [
+    {
+      "id": "h6cae8581",
+      "sourceId": "ted-europa",
+      "title": "France – Architectural, construction, engineering and inspection services – Le présent marché public est un marché de maîtrise d’oeuvre (MOE) et d’ordonnancement, pilotage et coordination (OPC) au sens des articles L. 2171-1 et suivants du Code de la commande publique, nécessaire à la réalisation des travaux de rénovation et de performance énergétique de l’Union Immobilière des Organismes de Sécurité Sociale (UIOSS) de Loir-et-Cher situés 6 rue Louis Armand à Blois.",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-06-12T00:00:00.000Z",
+      "amount": 3160000,
+      "currency": "EUR",
+      "amountUsd": 3412800,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/315247-2026",
+      "publicationNumber": "315247-2026",
+      "firstSeenAt": "2026-06-07T08:44:54.576Z",
+      "lastSeenAt": "2026-06-07T08:44:54.576Z",
+      "lastPublishedAt": "2026-06-07T08:44:54.576Z",
+      "isArchived": false
+    },
     {
       "id": "h4b591e3b",
       "sourceId": "secop-ii",
@@ -21,7 +42,7 @@
       "firstSeenAt": "2026-06-06T19:03:55.654Z",
       "lastSeenAt": "2026-06-07T02:30:55.694Z",
       "lastPublishedAt": "2026-06-07T02:30:55.694Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h2935bd68",
@@ -42,7 +63,7 @@
       "firstSeenAt": "2026-06-06T19:03:55.654Z",
       "lastSeenAt": "2026-06-07T02:30:55.694Z",
       "lastPublishedAt": "2026-06-07T02:30:55.694Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha0dc78c8",
@@ -63,7 +84,7 @@
       "firstSeenAt": "2026-06-06T19:03:55.654Z",
       "lastSeenAt": "2026-06-07T02:30:55.694Z",
       "lastPublishedAt": "2026-06-07T02:30:55.694Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h61cb79a5",
@@ -84,7 +105,7 @@
       "firstSeenAt": "2026-06-06T19:03:55.654Z",
       "lastSeenAt": "2026-06-07T02:30:55.694Z",
       "lastPublishedAt": "2026-06-07T02:30:55.694Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h325b5ce8",
@@ -105,7 +126,7 @@
       "firstSeenAt": "2026-06-06T19:03:55.654Z",
       "lastSeenAt": "2026-06-07T02:30:55.694Z",
       "lastPublishedAt": "2026-06-07T02:30:55.694Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h9edb05a4",
@@ -126,7 +147,7 @@
       "firstSeenAt": "2026-06-06T19:03:55.654Z",
       "lastSeenAt": "2026-06-07T02:30:55.694Z",
       "lastPublishedAt": "2026-06-07T02:30:55.694Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd42464ed",
@@ -147,7 +168,7 @@
       "firstSeenAt": "2026-06-06T08:23:35.499Z",
       "lastSeenAt": "2026-06-07T02:30:55.694Z",
       "lastPublishedAt": "2026-06-07T02:30:55.694Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hb62b2ecb",
@@ -168,7 +189,7 @@
       "firstSeenAt": "2026-06-06T02:04:10.590Z",
       "lastSeenAt": "2026-06-07T02:30:55.694Z",
       "lastPublishedAt": "2026-06-07T02:30:55.694Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h8e1c2685",
@@ -189,7 +210,7 @@
       "firstSeenAt": "2026-06-06T02:04:10.590Z",
       "lastSeenAt": "2026-06-07T02:30:55.694Z",
       "lastPublishedAt": "2026-06-07T02:30:55.694Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hc8dbcf40",
@@ -210,7 +231,7 @@
       "firstSeenAt": "2026-06-06T02:04:10.590Z",
       "lastSeenAt": "2026-06-07T02:30:55.694Z",
       "lastPublishedAt": "2026-06-07T02:30:55.694Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h5d23eb89",
@@ -231,7 +252,7 @@
       "firstSeenAt": "2026-06-06T02:04:10.590Z",
       "lastSeenAt": "2026-06-07T02:30:55.694Z",
       "lastPublishedAt": "2026-06-07T02:30:55.694Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h766d2746",
@@ -252,7 +273,7 @@
       "firstSeenAt": "2026-06-06T02:04:10.590Z",
       "lastSeenAt": "2026-06-07T02:30:55.694Z",
       "lastPublishedAt": "2026-06-07T02:30:55.694Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf1b9ffad",
@@ -273,7 +294,7 @@
       "firstSeenAt": "2026-06-06T02:04:10.590Z",
       "lastSeenAt": "2026-06-07T02:30:55.694Z",
       "lastPublishedAt": "2026-06-07T02:30:55.694Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "heb1b1423",
@@ -294,7 +315,7 @@
       "firstSeenAt": "2026-06-06T02:04:10.590Z",
       "lastSeenAt": "2026-06-07T02:30:55.694Z",
       "lastPublishedAt": "2026-06-07T02:30:55.694Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h9b32035d",
@@ -315,7 +336,7 @@
       "firstSeenAt": "2026-06-06T02:04:10.590Z",
       "lastSeenAt": "2026-06-07T02:30:55.694Z",
       "lastPublishedAt": "2026-06-07T02:30:55.694Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf7d10092",
@@ -336,7 +357,7 @@
       "firstSeenAt": "2026-06-06T02:04:10.590Z",
       "lastSeenAt": "2026-06-07T02:30:55.694Z",
       "lastPublishedAt": "2026-06-07T02:30:55.694Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he438633e",
@@ -357,7 +378,7 @@
       "firstSeenAt": "2026-06-06T02:04:10.590Z",
       "lastSeenAt": "2026-06-07T02:30:55.694Z",
       "lastPublishedAt": "2026-06-07T02:30:55.694Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "haa59e97b",
@@ -378,7 +399,7 @@
       "firstSeenAt": "2026-06-06T02:04:10.590Z",
       "lastSeenAt": "2026-06-07T02:30:55.694Z",
       "lastPublishedAt": "2026-06-07T02:30:55.694Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h1ad458ac",
@@ -399,7 +420,7 @@
       "firstSeenAt": "2026-06-03T02:42:44.974Z",
       "lastSeenAt": "2026-06-07T02:30:55.694Z",
       "lastPublishedAt": "2026-06-07T02:30:55.694Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf05abb50",
@@ -420,7 +441,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-06-07T02:30:55.694Z",
       "lastPublishedAt": "2026-06-07T02:30:55.694Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h30bc098a",
@@ -441,7 +462,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-06-07T02:30:55.694Z",
       "lastPublishedAt": "2026-06-07T02:30:55.694Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h40b35418",
@@ -462,7 +483,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-06-07T02:30:55.694Z",
       "lastPublishedAt": "2026-06-07T02:30:55.694Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha1a0e4f0",
@@ -483,7 +504,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-06-07T02:30:55.694Z",
       "lastPublishedAt": "2026-06-07T02:30:55.694Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hececd7a7",
@@ -504,7 +525,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-06-07T02:30:55.694Z",
       "lastPublishedAt": "2026-06-07T02:30:55.694Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h68ae5ca1",
@@ -2229,5 +2250,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 106 | Archivadas: 82"
+  "message": "Historico acumulado del agente UCI-F. Total: 107 | Archivadas: 106"
 }
