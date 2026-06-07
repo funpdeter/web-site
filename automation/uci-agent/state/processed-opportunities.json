@@ -2702,17 +2702,23 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/315247-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "hcf654bce": {
+      "at": "2026-06-07T19:05:50.941Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10350322",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h92cd2a09": {
+      "at": "2026-06-07T19:05:50.942Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10129552",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-05-31T08:33:05.762Z",
-      "endedAt": "2026-05-31T08:34:05.089Z",
-      "scannedCandidates": 22,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-05-31T13:11:18.083Z",
       "endedAt": "2026-05-31T13:11:59.045Z",
@@ -2941,6 +2947,14 @@
       "startedAt": "2026-06-07T13:18:35.652Z",
       "endedAt": "2026-06-07T13:20:05.150Z",
       "scannedCandidates": 25,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-07T19:04:51.409Z",
+      "endedAt": "2026-06-07T19:05:50.945Z",
+      "scannedCandidates": 24,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
