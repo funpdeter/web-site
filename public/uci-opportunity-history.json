@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-06-08T02:36:00.359Z",
+  "updatedAt": "2026-06-08T10:16:18.625Z",
   "opportunities": [
+    {
+      "id": "hf20d6ddd",
+      "sourceId": "ted-europa",
+      "title": "Italy – Social work services with accommodation – GARA EUROPEA A PROCEDURA TELEMATICA APERTA PER L’AFFIDAMENTO DEL SERVIZIO DI ASSISTENZA SOCIALE CON ALLOGGIO PER GLI OSPITI DI DELLA CASA ALBERGO A. RUSALEN DI MEDUNA DI LIVENZA PERIODO DAL 01.08.2026 AL 31.10.2028",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-06-16T00:00:00.000Z",
+      "amount": 2973676.91,
+      "currency": "EUR",
+      "amountUsd": 3211571.0628000004,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/321288-2026",
+      "publicationNumber": "321288-2026",
+      "firstSeenAt": "2026-06-08T10:16:18.625Z",
+      "lastSeenAt": "2026-06-08T10:16:18.625Z",
+      "lastPublishedAt": "2026-06-08T10:16:18.625Z",
+      "isArchived": false
+    },
     {
       "id": "hd42464ed",
       "sourceId": "usaid",
@@ -21,7 +42,7 @@
       "firstSeenAt": "2026-06-06T08:23:35.499Z",
       "lastSeenAt": "2026-06-08T02:36:00.359Z",
       "lastPublishedAt": "2026-06-08T02:36:00.359Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "haa59e97b",
@@ -42,7 +63,7 @@
       "firstSeenAt": "2026-06-06T02:04:10.590Z",
       "lastSeenAt": "2026-06-08T02:36:00.359Z",
       "lastPublishedAt": "2026-06-08T02:36:00.359Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h1ad458ac",
@@ -63,7 +84,7 @@
       "firstSeenAt": "2026-06-03T02:42:44.974Z",
       "lastSeenAt": "2026-06-08T02:36:00.359Z",
       "lastPublishedAt": "2026-06-08T02:36:00.359Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf05abb50",
@@ -84,7 +105,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-06-08T02:36:00.359Z",
       "lastPublishedAt": "2026-06-08T02:36:00.359Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h30bc098a",
@@ -105,7 +126,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-06-08T02:36:00.359Z",
       "lastPublishedAt": "2026-06-08T02:36:00.359Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h40b35418",
@@ -126,7 +147,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-06-08T02:36:00.359Z",
       "lastPublishedAt": "2026-06-08T02:36:00.359Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha1a0e4f0",
@@ -147,7 +168,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-06-08T02:36:00.359Z",
       "lastPublishedAt": "2026-06-08T02:36:00.359Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hececd7a7",
@@ -168,7 +189,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-06-08T02:36:00.359Z",
       "lastPublishedAt": "2026-06-08T02:36:00.359Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h3b670e80",
@@ -2292,5 +2313,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 109 | Archivadas: 101"
+  "message": "Historico acumulado del agente UCI-F. Total: 110 | Archivadas: 109"
 }
