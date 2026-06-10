@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-06-10T09:39:42.052Z",
+  "updatedAt": "2026-06-10T14:52:00.338Z",
   "opportunities": [
     {
       "id": "he69c4641",
@@ -18,6 +18,23 @@
       "isViable": true,
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null
+    },
+    {
+      "id": "hf20d6ddd",
+      "sourceId": "ted-europa",
+      "title": "Italy – Social work services with accommodation – GARA EUROPEA A PROCEDURA TELEMATICA APERTA PER L’AFFIDAMENTO DEL SERVIZIO DI ASSISTENZA SOCIALE CON ALLOGGIO PER GLI OSPITI DI DELLA CASA ALBERGO A. RUSALEN DI MEDUNA DI LIVENZA PERIODO DAL 01.08.2026 AL 31.10.2028",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-06-16T00:00:00.000Z",
+      "amount": 2973676.91,
+      "currency": "EUR",
+      "amountUsd": 3211571.0628000004,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/321288-2026",
+      "publicationNumber": "321288-2026"
     },
     {
       "id": "hf05abb50",
@@ -122,5 +139,5 @@
       "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 7 | EUROPA: 0"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 7 | EUROPA: 1"
 }
