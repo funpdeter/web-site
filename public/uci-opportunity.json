@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-06-09T19:55:38.508Z",
+  "updatedAt": "2026-06-10T02:12:39.642Z",
   "opportunities": [
     {
       "id": "hf05abb50",
@@ -17,23 +17,6 @@
       "recommendation": "Aplicar con alianza",
       "isViable": true,
       "url": "https://www.grants.gov/search-results-detail/362418",
-      "publicationNumber": null
-    },
-    {
-      "id": "hececd7a7",
-      "sourceId": "usaid",
-      "title": "FY 2026 Strengthening Talent, Research, Innovation and Vital Engagement (STRIVE) Program",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-06-10T00:00:00.000Z",
-      "amount": 2000000,
-      "currency": "USD",
-      "amountUsd": 2000000,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/362356",
       "publicationNumber": null
     },
     {
@@ -139,5 +122,5 @@
       "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 8 | EUROPA: 0"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 7 | EUROPA: 0"
 }
