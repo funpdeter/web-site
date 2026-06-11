@@ -2729,17 +2729,16 @@
       "sourceId": "mintic",
       "url": "https://mintic.gov.co/portal/715/w3-article-400058.html",
       "viable": false
+    },
+    "h73eccbc": {
+      "at": "2026-06-11T02:35:36.014Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/322942-2026",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-06-03T16:14:57.215Z",
-      "endedAt": "2026-06-03T16:15:55.809Z",
-      "scannedCandidates": 7,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-06-03T20:46:06.404Z",
       "endedAt": "2026-06-03T20:46:43.567Z",
@@ -2968,6 +2967,14 @@
       "startedAt": "2026-06-10T20:09:38.144Z",
       "endedAt": "2026-06-10T20:11:05.623Z",
       "scannedCandidates": 8,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-11T02:34:48.770Z",
+      "endedAt": "2026-06-11T02:35:36.018Z",
+      "scannedCandidates": 7,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
