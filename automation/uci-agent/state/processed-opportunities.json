@@ -2856,17 +2856,21 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10234015",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "h5ce13e19": {
+      "at": "2026-06-13T19:07:26.370Z",
+      "sourceId": "bid-lab",
+      "url": "https://bidlab.org/en/news/redefining-aid-haitis-new-model-impact-driven-funding",
+      "viable": false
+    },
+    "h107d1e87": {
+      "at": "2026-06-13T19:07:26.435Z",
+      "sourceId": "bid-lab",
+      "url": "https://bidlab.org/en/home/caribbean-loans-call-proposals",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-06-06T08:22:44.813Z",
-      "endedAt": "2026-06-06T08:23:35.501Z",
-      "scannedCandidates": 24,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-06-06T13:05:24.139Z",
       "endedAt": "2026-06-06T13:06:28.295Z",
@@ -3094,6 +3098,14 @@
     {
       "startedAt": "2026-06-13T13:22:43.766Z",
       "endedAt": "2026-06-13T13:24:07.516Z",
+      "scannedCandidates": 23,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-13T19:06:11.185Z",
+      "endedAt": "2026-06-13T19:07:39.461Z",
       "scannedCandidates": 23,
       "viableCandidates": 0,
       "sentNotifications": 0,
