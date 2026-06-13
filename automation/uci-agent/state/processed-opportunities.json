@@ -2842,17 +2842,23 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10357625",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "h4bd14728": {
+      "at": "2026-06-13T08:47:18.433Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10368688",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h2af0a45e": {
+      "at": "2026-06-13T08:47:18.433Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10234015",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-06-05T19:30:03.769Z",
-      "endedAt": "2026-06-05T19:30:54.041Z",
-      "scannedCandidates": 6,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-06-06T02:03:21.570Z",
       "endedAt": "2026-06-06T02:04:10.592Z",
@@ -3082,6 +3088,14 @@
       "endedAt": "2026-06-13T02:12:32.609Z",
       "scannedCandidates": 23,
       "viableCandidates": 1,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-13T08:45:43.848Z",
+      "endedAt": "2026-06-13T08:47:18.437Z",
+      "scannedCandidates": 23,
+      "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
     }

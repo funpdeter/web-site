@@ -1,7 +1,49 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-06-13T02:12:32.607Z",
+  "updatedAt": "2026-06-13T08:47:18.435Z",
   "opportunities": [
+    {
+      "id": "he55ff47f",
+      "sourceId": "secop-ii",
+      "title": "PRESTACIÓN DE SERVICIOS LOGISTICOS PARA LA IMPLEMENTACIÓN DE ACCIONES Y ESTRATEGIAS QUE PROMUEVAN LA SALUD SEXUAL Y REPRODUCTIVA; SALUD MENTAL; DISMINUCIÓN DE FACTORES DE RIESGO ASOCIADOS AL CONSUMO D",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-06-15T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 17,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10234015",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-06-13T08:47:18.435Z",
+      "lastSeenAt": "2026-06-13T08:47:18.435Z",
+      "lastPublishedAt": "2026-06-13T08:47:18.435Z",
+      "isArchived": false
+    },
+    {
+      "id": "h59897ea5",
+      "sourceId": "secop-ii",
+      "title": "MANTENIMIENTO PREVENTIVO Y CORRECTIVO CON REPUESTOS ORIGINALES DEL SISTEMA DE MENSAJERÍA NEUMÁTICA UBICADA EN LA UNIDAD DE PRESTACIÓN DE SERVICIOS DE SALUD HOSPITAL PATIO BONITO TINTAL DE LA SUB RED I",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-06-15T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10368688",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-06-13T08:47:18.435Z",
+      "lastSeenAt": "2026-06-13T08:47:18.435Z",
+      "lastPublishedAt": "2026-06-13T08:47:18.435Z",
+      "isArchived": false
+    },
     {
       "id": "h5ea9a8c",
       "sourceId": "secop-ii",
@@ -21,7 +63,7 @@
       "firstSeenAt": "2026-06-13T02:12:32.607Z",
       "lastSeenAt": "2026-06-13T02:12:32.607Z",
       "lastPublishedAt": "2026-06-13T02:12:32.607Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf845e8ca",
@@ -42,7 +84,7 @@
       "firstSeenAt": "2026-06-13T02:12:32.607Z",
       "lastSeenAt": "2026-06-13T02:12:32.607Z",
       "lastPublishedAt": "2026-06-13T02:12:32.607Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h3570a7cd",
@@ -63,7 +105,7 @@
       "firstSeenAt": "2026-06-13T02:12:32.607Z",
       "lastSeenAt": "2026-06-13T02:12:32.607Z",
       "lastPublishedAt": "2026-06-13T02:12:32.607Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h8f4a602b",
@@ -84,7 +126,7 @@
       "firstSeenAt": "2026-06-13T02:12:32.607Z",
       "lastSeenAt": "2026-06-13T02:12:32.607Z",
       "lastPublishedAt": "2026-06-13T02:12:32.607Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h54c8cd1c",
@@ -105,7 +147,7 @@
       "firstSeenAt": "2026-06-13T02:12:32.607Z",
       "lastSeenAt": "2026-06-13T02:12:32.607Z",
       "lastPublishedAt": "2026-06-13T02:12:32.607Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hb73fecfe",
@@ -126,7 +168,7 @@
       "firstSeenAt": "2026-06-13T02:12:32.607Z",
       "lastSeenAt": "2026-06-13T02:12:32.607Z",
       "lastPublishedAt": "2026-06-13T02:12:32.607Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hdc839dd1",
@@ -147,7 +189,7 @@
       "firstSeenAt": "2026-06-13T02:12:32.607Z",
       "lastSeenAt": "2026-06-13T02:12:32.607Z",
       "lastPublishedAt": "2026-06-13T02:12:32.607Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hb03c67b3",
@@ -168,7 +210,7 @@
       "firstSeenAt": "2026-06-13T02:12:32.607Z",
       "lastSeenAt": "2026-06-13T02:12:32.607Z",
       "lastPublishedAt": "2026-06-13T02:12:32.607Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h4e19d534",
@@ -189,7 +231,7 @@
       "firstSeenAt": "2026-06-13T02:12:32.607Z",
       "lastSeenAt": "2026-06-13T02:12:32.607Z",
       "lastPublishedAt": "2026-06-13T02:12:32.607Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd7239a58",
@@ -210,7 +252,7 @@
       "firstSeenAt": "2026-06-13T02:12:32.607Z",
       "lastSeenAt": "2026-06-13T02:12:32.607Z",
       "lastPublishedAt": "2026-06-13T02:12:32.607Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h33c24107",
@@ -231,7 +273,7 @@
       "firstSeenAt": "2026-06-13T02:12:32.607Z",
       "lastSeenAt": "2026-06-13T02:12:32.607Z",
       "lastPublishedAt": "2026-06-13T02:12:32.607Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h9be99d20",
@@ -252,7 +294,7 @@
       "firstSeenAt": "2026-06-13T02:12:32.607Z",
       "lastSeenAt": "2026-06-13T02:12:32.607Z",
       "lastPublishedAt": "2026-06-13T02:12:32.607Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h87b05e3a",
@@ -273,7 +315,7 @@
       "firstSeenAt": "2026-06-13T02:12:32.607Z",
       "lastSeenAt": "2026-06-13T02:12:32.607Z",
       "lastPublishedAt": "2026-06-13T02:12:32.607Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h8b7e512",
@@ -294,7 +336,7 @@
       "firstSeenAt": "2026-06-13T02:12:32.607Z",
       "lastSeenAt": "2026-06-13T02:12:32.607Z",
       "lastPublishedAt": "2026-06-13T02:12:32.607Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he72174f1",
@@ -315,7 +357,7 @@
       "firstSeenAt": "2026-06-13T02:12:32.607Z",
       "lastSeenAt": "2026-06-13T02:12:32.607Z",
       "lastPublishedAt": "2026-06-13T02:12:32.607Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd42464ed",
@@ -2649,5 +2691,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 126 | Archivadas: 111"
+  "message": "Historico acumulado del agente UCI-F. Total: 128 | Archivadas: 126"
 }
