@@ -2868,17 +2868,15 @@
       "sourceId": "bid-lab",
       "url": "https://bidlab.org/en/home/caribbean-loans-call-proposals",
       "viable": false
+    },
+    "h6b44d4ca": {
+      "at": "2026-06-14T02:34:12.343Z",
+      "sourceId": "mintic",
+      "url": "https://gobiernodigital.mintic.gov.co/692/articles-107167_recurso_1.pdf",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-06-06T13:05:24.139Z",
-      "endedAt": "2026-06-06T13:06:28.295Z",
-      "scannedCandidates": 24,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-06-06T19:03:12.580Z",
       "endedAt": "2026-06-06T19:03:55.657Z",
@@ -3107,6 +3105,14 @@
       "startedAt": "2026-06-13T19:06:11.185Z",
       "endedAt": "2026-06-13T19:07:39.461Z",
       "scannedCandidates": 23,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-14T02:33:52.826Z",
+      "endedAt": "2026-06-14T02:35:40.466Z",
+      "scannedCandidates": 6,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"

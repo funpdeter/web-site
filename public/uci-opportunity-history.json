@@ -1,7 +1,133 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-06-13T19:07:39.459Z",
+  "updatedAt": "2026-06-14T02:35:40.464Z",
   "opportunities": [
+    {
+      "id": "hd42464ed",
+      "sourceId": "usaid",
+      "title": "IUSE/Professional Formation of Engineers:  Revolutionizing Engineering Departments",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-09-08T00:00:00.000Z",
+      "amount": 2000000,
+      "currency": "USD",
+      "amountUsd": 2000000,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/353413",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-06-06T08:23:35.499Z",
+      "lastSeenAt": "2026-06-14T02:35:40.464Z",
+      "lastPublishedAt": "2026-06-14T02:35:40.464Z",
+      "isArchived": false
+    },
+    {
+      "id": "haa59e97b",
+      "sourceId": "usaid",
+      "title": "Section 4 Capacity Building for Community Development and Affordable Housing",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-07-06T00:00:00.000Z",
+      "amount": 42000000,
+      "currency": "USD",
+      "amountUsd": 42000000,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/362709",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-06-06T02:04:10.590Z",
+      "lastSeenAt": "2026-06-14T02:35:40.464Z",
+      "lastPublishedAt": "2026-06-14T02:35:40.464Z",
+      "isArchived": false
+    },
+    {
+      "id": "h1ad458ac",
+      "sourceId": "usaid",
+      "title": "Advanced Technological Education",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-10-01T00:00:00.000Z",
+      "amount": 7500000,
+      "currency": "USD",
+      "amountUsd": 7500000,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/355100",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-06-03T02:42:44.974Z",
+      "lastSeenAt": "2026-06-14T02:35:40.464Z",
+      "lastPublishedAt": "2026-06-14T02:35:40.464Z",
+      "isArchived": false
+    },
+    {
+      "id": "h30bc098a",
+      "sourceId": "usaid",
+      "title": "FY 2025 Rural Capacity Building for Community Development and Affordable Housing Grants (RCB)",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-07-06T00:00:00.000Z",
+      "amount": 3500000,
+      "currency": "USD",
+      "amountUsd": 3500000,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/362089",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-05-14T02:06:56.050Z",
+      "lastSeenAt": "2026-06-14T02:35:40.464Z",
+      "lastPublishedAt": "2026-06-14T02:35:40.464Z",
+      "isArchived": false
+    },
+    {
+      "id": "h40b35418",
+      "sourceId": "usaid",
+      "title": "Improving Undergraduate STEM Education: Directorate for STEM Education",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-07-15T00:00:00.000Z",
+      "amount": 2000000,
+      "currency": "USD",
+      "amountUsd": 2000000,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/344124",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-05-14T02:06:56.050Z",
+      "lastSeenAt": "2026-06-14T02:35:40.464Z",
+      "lastPublishedAt": "2026-06-14T02:35:40.464Z",
+      "isArchived": false
+    },
+    {
+      "id": "he69c4641",
+      "sourceId": "usaid",
+      "title": "Tribal Colleges and Universities Program",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-09-01T00:00:00.000Z",
+      "amount": 3500000,
+      "currency": "USD",
+      "amountUsd": 3500000,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://www.grants.gov/search-results-detail/334326",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-05-14T02:06:56.050Z",
+      "lastSeenAt": "2026-06-14T02:35:40.464Z",
+      "lastPublishedAt": "2026-06-14T02:35:40.464Z",
+      "isArchived": false
+    },
     {
       "id": "he55ff47f",
       "sourceId": "secop-ii",
@@ -21,7 +147,7 @@
       "firstSeenAt": "2026-06-13T08:47:18.435Z",
       "lastSeenAt": "2026-06-13T19:07:39.459Z",
       "lastPublishedAt": "2026-06-13T19:07:39.459Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h59897ea5",
@@ -42,7 +168,7 @@
       "firstSeenAt": "2026-06-13T08:47:18.435Z",
       "lastSeenAt": "2026-06-13T19:07:39.459Z",
       "lastPublishedAt": "2026-06-13T19:07:39.459Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf845e8ca",
@@ -63,7 +189,7 @@
       "firstSeenAt": "2026-06-13T02:12:32.607Z",
       "lastSeenAt": "2026-06-13T19:07:39.459Z",
       "lastPublishedAt": "2026-06-13T19:07:39.459Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h3570a7cd",
@@ -84,7 +210,7 @@
       "firstSeenAt": "2026-06-13T02:12:32.607Z",
       "lastSeenAt": "2026-06-13T19:07:39.459Z",
       "lastPublishedAt": "2026-06-13T19:07:39.459Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h8f4a602b",
@@ -105,7 +231,7 @@
       "firstSeenAt": "2026-06-13T02:12:32.607Z",
       "lastSeenAt": "2026-06-13T19:07:39.459Z",
       "lastPublishedAt": "2026-06-13T19:07:39.459Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h54c8cd1c",
@@ -126,7 +252,7 @@
       "firstSeenAt": "2026-06-13T02:12:32.607Z",
       "lastSeenAt": "2026-06-13T19:07:39.459Z",
       "lastPublishedAt": "2026-06-13T19:07:39.459Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hdc839dd1",
@@ -147,7 +273,7 @@
       "firstSeenAt": "2026-06-13T02:12:32.607Z",
       "lastSeenAt": "2026-06-13T19:07:39.459Z",
       "lastPublishedAt": "2026-06-13T19:07:39.459Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hb03c67b3",
@@ -168,7 +294,7 @@
       "firstSeenAt": "2026-06-13T02:12:32.607Z",
       "lastSeenAt": "2026-06-13T19:07:39.459Z",
       "lastPublishedAt": "2026-06-13T19:07:39.459Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h4e19d534",
@@ -189,7 +315,7 @@
       "firstSeenAt": "2026-06-13T02:12:32.607Z",
       "lastSeenAt": "2026-06-13T19:07:39.459Z",
       "lastPublishedAt": "2026-06-13T19:07:39.459Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h33c24107",
@@ -210,7 +336,7 @@
       "firstSeenAt": "2026-06-13T02:12:32.607Z",
       "lastSeenAt": "2026-06-13T19:07:39.459Z",
       "lastPublishedAt": "2026-06-13T19:07:39.459Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h9be99d20",
@@ -231,7 +357,7 @@
       "firstSeenAt": "2026-06-13T02:12:32.607Z",
       "lastSeenAt": "2026-06-13T19:07:39.459Z",
       "lastPublishedAt": "2026-06-13T19:07:39.459Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h87b05e3a",
@@ -252,7 +378,7 @@
       "firstSeenAt": "2026-06-13T02:12:32.607Z",
       "lastSeenAt": "2026-06-13T19:07:39.459Z",
       "lastPublishedAt": "2026-06-13T19:07:39.459Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h8b7e512",
@@ -273,7 +399,7 @@
       "firstSeenAt": "2026-06-13T02:12:32.607Z",
       "lastSeenAt": "2026-06-13T19:07:39.459Z",
       "lastPublishedAt": "2026-06-13T19:07:39.459Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he72174f1",
@@ -294,49 +420,7 @@
       "firstSeenAt": "2026-06-13T02:12:32.607Z",
       "lastSeenAt": "2026-06-13T19:07:39.459Z",
       "lastPublishedAt": "2026-06-13T19:07:39.459Z",
-      "isArchived": false
-    },
-    {
-      "id": "hd42464ed",
-      "sourceId": "usaid",
-      "title": "IUSE/Professional Formation of Engineers:  Revolutionizing Engineering Departments",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-09-08T00:00:00.000Z",
-      "amount": 2000000,
-      "currency": "USD",
-      "amountUsd": 2000000,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/353413",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-06-06T08:23:35.499Z",
-      "lastSeenAt": "2026-06-13T19:07:39.459Z",
-      "lastPublishedAt": "2026-06-13T19:07:39.459Z",
-      "isArchived": false
-    },
-    {
-      "id": "haa59e97b",
-      "sourceId": "usaid",
-      "title": "Section 4 Capacity Building for Community Development and Affordable Housing",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-07-06T00:00:00.000Z",
-      "amount": 42000000,
-      "currency": "USD",
-      "amountUsd": 42000000,
-      "scoreTotal": 14,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/362709",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-06-06T02:04:10.590Z",
-      "lastSeenAt": "2026-06-13T19:07:39.459Z",
-      "lastPublishedAt": "2026-06-13T19:07:39.459Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he438633e",
@@ -357,28 +441,7 @@
       "firstSeenAt": "2026-06-06T02:04:10.590Z",
       "lastSeenAt": "2026-06-13T19:07:39.459Z",
       "lastPublishedAt": "2026-06-13T19:07:39.459Z",
-      "isArchived": false
-    },
-    {
-      "id": "h1ad458ac",
-      "sourceId": "usaid",
-      "title": "Advanced Technological Education",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-10-01T00:00:00.000Z",
-      "amount": 7500000,
-      "currency": "USD",
-      "amountUsd": 7500000,
-      "scoreTotal": 14,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/355100",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-06-03T02:42:44.974Z",
-      "lastSeenAt": "2026-06-13T19:07:39.459Z",
-      "lastPublishedAt": "2026-06-13T19:07:39.459Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h8343e902",
@@ -399,7 +462,7 @@
       "firstSeenAt": "2026-05-16T07:49:53.945Z",
       "lastSeenAt": "2026-06-13T19:07:39.459Z",
       "lastPublishedAt": "2026-06-13T19:07:39.459Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf05abb50",
@@ -420,70 +483,7 @@
       "firstSeenAt": "2026-05-16T01:57:10.331Z",
       "lastSeenAt": "2026-06-13T19:07:39.459Z",
       "lastPublishedAt": "2026-06-13T19:07:39.459Z",
-      "isArchived": false
-    },
-    {
-      "id": "h30bc098a",
-      "sourceId": "usaid",
-      "title": "FY 2025 Rural Capacity Building for Community Development and Affordable Housing Grants (RCB)",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-07-06T00:00:00.000Z",
-      "amount": 3500000,
-      "currency": "USD",
-      "amountUsd": 3500000,
-      "scoreTotal": 14,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/362089",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-05-14T02:06:56.050Z",
-      "lastSeenAt": "2026-06-13T19:07:39.459Z",
-      "lastPublishedAt": "2026-06-13T19:07:39.459Z",
-      "isArchived": false
-    },
-    {
-      "id": "h40b35418",
-      "sourceId": "usaid",
-      "title": "Improving Undergraduate STEM Education: Directorate for STEM Education",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-07-15T00:00:00.000Z",
-      "amount": 2000000,
-      "currency": "USD",
-      "amountUsd": 2000000,
-      "scoreTotal": 13,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/344124",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-05-14T02:06:56.050Z",
-      "lastSeenAt": "2026-06-13T19:07:39.459Z",
-      "lastPublishedAt": "2026-06-13T19:07:39.459Z",
-      "isArchived": false
-    },
-    {
-      "id": "he69c4641",
-      "sourceId": "usaid",
-      "title": "Tribal Colleges and Universities Program",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-09-01T00:00:00.000Z",
-      "amount": 3500000,
-      "currency": "USD",
-      "amountUsd": 3500000,
-      "scoreTotal": 16,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://www.grants.gov/search-results-detail/334326",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-05-14T02:06:56.050Z",
-      "lastSeenAt": "2026-06-13T19:07:39.459Z",
-      "lastPublishedAt": "2026-06-13T19:07:39.459Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h5ea9a8c",
@@ -2691,5 +2691,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 128 | Archivadas: 105"
+  "message": "Historico acumulado del agente UCI-F. Total: 128 | Archivadas: 122"
 }
