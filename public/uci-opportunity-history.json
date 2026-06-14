@@ -1,7 +1,49 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-06-14T02:35:40.464Z",
+  "updatedAt": "2026-06-14T09:01:03.833Z",
   "opportunities": [
+    {
+      "id": "hac1856d9",
+      "sourceId": "secop-ii",
+      "title": "E.S.E SAN JUAN DE DIOS-CORCONA",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-06-15T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10375314",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-06-14T09:01:03.833Z",
+      "lastSeenAt": "2026-06-14T09:01:03.833Z",
+      "lastPublishedAt": "2026-06-14T09:01:03.833Z",
+      "isArchived": false
+    },
+    {
+      "id": "h654b118f",
+      "sourceId": "secop-ii",
+      "title": "ADQUISICIÓN DE CAJAS DE SEGURIDAD DE ALTA RESISTENCIA",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-06-15T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10346800",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-06-14T09:01:03.833Z",
+      "lastSeenAt": "2026-06-14T09:01:03.833Z",
+      "lastPublishedAt": "2026-06-14T09:01:03.833Z",
+      "isArchived": false
+    },
     {
       "id": "hd42464ed",
       "sourceId": "usaid",
@@ -21,7 +63,7 @@
       "firstSeenAt": "2026-06-06T08:23:35.499Z",
       "lastSeenAt": "2026-06-14T02:35:40.464Z",
       "lastPublishedAt": "2026-06-14T02:35:40.464Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "haa59e97b",
@@ -42,7 +84,7 @@
       "firstSeenAt": "2026-06-06T02:04:10.590Z",
       "lastSeenAt": "2026-06-14T02:35:40.464Z",
       "lastPublishedAt": "2026-06-14T02:35:40.464Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h1ad458ac",
@@ -63,7 +105,7 @@
       "firstSeenAt": "2026-06-03T02:42:44.974Z",
       "lastSeenAt": "2026-06-14T02:35:40.464Z",
       "lastPublishedAt": "2026-06-14T02:35:40.464Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h30bc098a",
@@ -84,7 +126,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-06-14T02:35:40.464Z",
       "lastPublishedAt": "2026-06-14T02:35:40.464Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h40b35418",
@@ -105,7 +147,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-06-14T02:35:40.464Z",
       "lastPublishedAt": "2026-06-14T02:35:40.464Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he69c4641",
@@ -126,7 +168,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-06-14T02:35:40.464Z",
       "lastPublishedAt": "2026-06-14T02:35:40.464Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he55ff47f",
@@ -2691,5 +2733,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 128 | Archivadas: 122"
+  "message": "Historico acumulado del agente UCI-F. Total: 130 | Archivadas: 128"
 }

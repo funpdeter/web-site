@@ -2874,17 +2874,23 @@
       "sourceId": "mintic",
       "url": "https://gobiernodigital.mintic.gov.co/692/articles-107167_recurso_1.pdf",
       "viable": false
+    },
+    "h4ff7052": {
+      "at": "2026-06-14T09:01:03.832Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10346800",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hdd321404": {
+      "at": "2026-06-14T09:01:03.832Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10375314",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-06-06T19:03:12.580Z",
-      "endedAt": "2026-06-06T19:03:55.657Z",
-      "scannedCandidates": 24,
-      "viableCandidates": 2,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-06-07T02:30:07.266Z",
       "endedAt": "2026-06-07T02:30:55.696Z",
@@ -3113,6 +3119,14 @@
       "startedAt": "2026-06-14T02:33:52.826Z",
       "endedAt": "2026-06-14T02:35:40.466Z",
       "scannedCandidates": 6,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-14T09:00:25.697Z",
+      "endedAt": "2026-06-14T09:01:03.836Z",
+      "scannedCandidates": 22,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
