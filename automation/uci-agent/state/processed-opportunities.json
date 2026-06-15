@@ -2888,17 +2888,123 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10375314",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "hfb6830a1": {
+      "at": "2026-06-15T02:40:54.325Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10365868",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h888362da": {
+      "at": "2026-06-15T02:40:54.340Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10371011",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-15T02-40-54-326Z_secop-ii_contratar-el-suministro-de-servicios-de-apoyo-para"
+    },
+    "h52ade3bb": {
+      "at": "2026-06-15T02:40:54.340Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10324599",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-15T02-40-54-340Z_secop-ii_toma-fisica-de-inventarios"
+    },
+    "hda021a9b": {
+      "at": "2026-06-15T02:40:54.341Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10373704",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hc2b914b5": {
+      "at": "2026-06-15T02:40:54.341Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10374255",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hf1c95b60": {
+      "at": "2026-06-15T02:40:54.341Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10310351",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h7f8a8590": {
+      "at": "2026-06-15T02:40:54.342Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10360723",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-15T02-40-54-341Z_secop-ii_8-9103-463-contratar-la-adquisicion-de-herramienta"
+    },
+    "h5ea2be61": {
+      "at": "2026-06-15T02:40:54.342Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10341387",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-15T02-40-54-342Z_secop-ii_interventoria-a-la-construccion-de-proyecto-llave-"
+    },
+    "hdcb97f6": {
+      "at": "2026-06-15T02:40:54.343Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10332469",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-15T02-40-54-343Z_secop-ii_prestacion-de-servicios-para-la-implementacion-est"
+    },
+    "h923f8a76": {
+      "at": "2026-06-15T02:40:54.344Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10360174",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-15T02-40-54-343Z_secop-ii_adquisicion-de-maquinaria-amarilla-para-la-atencio"
+    },
+    "he5e89bbd": {
+      "at": "2026-06-15T02:40:54.344Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10303253",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h646412bb": {
+      "at": "2026-06-15T02:40:54.344Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10364872",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hf4b33645": {
+      "at": "2026-06-15T02:40:54.345Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10368834",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-15T02-40-54-344Z_secop-ii_mantenimiento-de-vias-mediante-el-retiro-de-derrum"
+    },
+    "h8f3875fe": {
+      "at": "2026-06-15T02:40:54.345Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10372591",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-15T02-40-54-345Z_secop-ii_mantenimiento-correctivo-cambio-de-accesorios-y-o-"
+    },
+    "h88289552": {
+      "at": "2026-06-15T02:40:54.346Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10301553",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-15T02-40-54-345Z_secop-ii_cano-cristales"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-06-07T13:18:35.652Z",
-      "endedAt": "2026-06-07T13:20:05.150Z",
-      "scannedCandidates": 25,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-06-07T19:04:51.409Z",
       "endedAt": "2026-06-07T19:05:50.945Z",
@@ -3128,6 +3234,14 @@
       "endedAt": "2026-06-14T19:08:31.704Z",
       "scannedCandidates": 22,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-15T02:39:10.280Z",
+      "endedAt": "2026-06-15T02:40:54.349Z",
+      "scannedCandidates": 22,
+      "viableCandidates": 9,
       "sentNotifications": 0,
       "transport": "console"
     }
