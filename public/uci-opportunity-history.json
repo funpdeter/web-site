@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-06-15T02:40:54.347Z",
+  "updatedAt": "2026-06-15T11:44:08.529Z",
   "opportunities": [
+    {
+      "id": "h57f1fd46",
+      "sourceId": "usaid",
+      "title": "OSERS-OSEP: Expanding Career Pathways and Workforce Readiness of Special Education Teachers and Early Intervention Personnel Through Registered Apprenticeships, Assistance Listing Number (ALN) 84.325J",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-07-13T00:00:00.000Z",
+      "amount": 1000000,
+      "currency": "USD",
+      "amountUsd": 1000000,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/362373",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-06-15T11:44:08.529Z",
+      "lastSeenAt": "2026-06-15T11:44:08.529Z",
+      "lastPublishedAt": "2026-06-15T11:44:08.529Z",
+      "isArchived": false
+    },
     {
       "id": "h72239033",
       "sourceId": "secop-ii",
@@ -21,7 +42,7 @@
       "firstSeenAt": "2026-06-15T02:40:54.347Z",
       "lastSeenAt": "2026-06-15T02:40:54.347Z",
       "lastPublishedAt": "2026-06-15T02:40:54.347Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h2b8e076a",
@@ -42,7 +63,7 @@
       "firstSeenAt": "2026-06-15T02:40:54.347Z",
       "lastSeenAt": "2026-06-15T02:40:54.347Z",
       "lastPublishedAt": "2026-06-15T02:40:54.347Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h2a931903",
@@ -63,7 +84,7 @@
       "firstSeenAt": "2026-06-15T02:40:54.347Z",
       "lastSeenAt": "2026-06-15T02:40:54.347Z",
       "lastPublishedAt": "2026-06-15T02:40:54.347Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "haf23978f",
@@ -84,7 +105,7 @@
       "firstSeenAt": "2026-06-15T02:40:54.347Z",
       "lastSeenAt": "2026-06-15T02:40:54.347Z",
       "lastPublishedAt": "2026-06-15T02:40:54.347Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "haa7fd38c",
@@ -105,7 +126,7 @@
       "firstSeenAt": "2026-06-15T02:40:54.347Z",
       "lastSeenAt": "2026-06-15T02:40:54.347Z",
       "lastPublishedAt": "2026-06-15T02:40:54.347Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he802d733",
@@ -126,7 +147,7 @@
       "firstSeenAt": "2026-06-15T02:40:54.347Z",
       "lastSeenAt": "2026-06-15T02:40:54.347Z",
       "lastPublishedAt": "2026-06-15T02:40:54.347Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd2f859dc",
@@ -147,7 +168,7 @@
       "firstSeenAt": "2026-06-15T02:40:54.347Z",
       "lastSeenAt": "2026-06-15T02:40:54.347Z",
       "lastPublishedAt": "2026-06-15T02:40:54.347Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf1671349",
@@ -168,7 +189,7 @@
       "firstSeenAt": "2026-06-15T02:40:54.347Z",
       "lastSeenAt": "2026-06-15T02:40:54.347Z",
       "lastPublishedAt": "2026-06-15T02:40:54.347Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h453653b",
@@ -189,7 +210,7 @@
       "firstSeenAt": "2026-06-15T02:40:54.347Z",
       "lastSeenAt": "2026-06-15T02:40:54.347Z",
       "lastPublishedAt": "2026-06-15T02:40:54.347Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h1a2baaf5",
@@ -210,7 +231,7 @@
       "firstSeenAt": "2026-06-15T02:40:54.347Z",
       "lastSeenAt": "2026-06-15T02:40:54.347Z",
       "lastPublishedAt": "2026-06-15T02:40:54.347Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h61f2923e",
@@ -231,7 +252,7 @@
       "firstSeenAt": "2026-06-15T02:40:54.347Z",
       "lastSeenAt": "2026-06-15T02:40:54.347Z",
       "lastPublishedAt": "2026-06-15T02:40:54.347Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h62f6d8c6",
@@ -252,7 +273,7 @@
       "firstSeenAt": "2026-06-15T02:40:54.347Z",
       "lastSeenAt": "2026-06-15T02:40:54.347Z",
       "lastPublishedAt": "2026-06-15T02:40:54.347Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h3a9f72c8",
@@ -273,7 +294,7 @@
       "firstSeenAt": "2026-06-15T02:40:54.347Z",
       "lastSeenAt": "2026-06-15T02:40:54.347Z",
       "lastPublishedAt": "2026-06-15T02:40:54.347Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h3655dc50",
@@ -294,7 +315,7 @@
       "firstSeenAt": "2026-06-15T02:40:54.347Z",
       "lastSeenAt": "2026-06-15T02:40:54.347Z",
       "lastPublishedAt": "2026-06-15T02:40:54.347Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h9475870c",
@@ -315,7 +336,7 @@
       "firstSeenAt": "2026-06-15T02:40:54.347Z",
       "lastSeenAt": "2026-06-15T02:40:54.347Z",
       "lastPublishedAt": "2026-06-15T02:40:54.347Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hac1856d9",
@@ -3048,5 +3069,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 145 | Archivadas: 130"
+  "message": "Historico acumulado del agente UCI-F. Total: 146 | Archivadas: 145"
 }

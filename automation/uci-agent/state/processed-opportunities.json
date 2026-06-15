@@ -3002,17 +3002,16 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-15T02-40-54-345Z_secop-ii_cano-cristales"
+    },
+    "hedb3d9a5": {
+      "at": "2026-06-15T11:44:08.528Z",
+      "sourceId": "usaid",
+      "url": "https://www.grants.gov/search-results-detail/362373",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-06-07T19:04:51.409Z",
-      "endedAt": "2026-06-07T19:05:50.945Z",
-      "scannedCandidates": 24,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-06-08T02:35:07.810Z",
       "endedAt": "2026-06-08T02:36:00.361Z",
@@ -3242,6 +3241,14 @@
       "endedAt": "2026-06-15T02:40:54.349Z",
       "scannedCandidates": 22,
       "viableCandidates": 9,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-15T11:43:18.093Z",
+      "endedAt": "2026-06-15T11:44:08.532Z",
+      "scannedCandidates": 23,
+      "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
     }
