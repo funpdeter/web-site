@@ -3009,17 +3009,15 @@
       "url": "https://www.grants.gov/search-results-detail/362373",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "h510791d4": {
+      "at": "2026-06-16T20:36:03.040Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/modalidades-de-cooperacion/convocatorias/otras-convocatorias",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-06-09T08:57:49.259Z",
-      "endedAt": "2026-06-09T08:59:44.469Z",
-      "scannedCandidates": 9,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-06-09T14:20:06.037Z",
       "endedAt": "2026-06-09T14:21:54.620Z",
@@ -3247,6 +3245,14 @@
     {
       "startedAt": "2026-06-16T16:21:02.099Z",
       "endedAt": "2026-06-16T16:22:03.854Z",
+      "scannedCandidates": 7,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-16T20:35:59.660Z",
+      "endedAt": "2026-06-16T20:37:13.874Z",
       "scannedCandidates": 7,
       "viableCandidates": 0,
       "sentNotifications": 0,
