@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-06-17T02:39:43.850Z",
+  "updatedAt": "2026-06-17T10:25:13.915Z",
   "opportunities": [
     {
       "id": "h2c066308",
@@ -9,18 +9,18 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-07-31T02:38:29.443Z",
+      "deadline": "2026-07-31T10:24:11.385Z",
       "amount": 749982430291,
       "currency": "COP",
       "amountUsd": 187495607.57275,
-      "scoreTotal": 20,
-      "recommendation": "Aplicar inmediatamente",
+      "scoreTotal": 19,
+      "recommendation": "Aplicar con alianza",
       "isViable": false,
       "url": "https://minciencias.gov.co/convocatorias/plan-convocatorias-asctei-2025-2026/convocatoria-la-asignacion-para-la-ciencia",
       "publicationNumber": "48",
       "firstSeenAt": "2026-06-17T02:39:43.850Z",
-      "lastSeenAt": "2026-06-17T02:39:43.850Z",
-      "lastPublishedAt": "2026-06-17T02:39:43.850Z",
+      "lastSeenAt": "2026-06-17T10:25:13.915Z",
+      "lastPublishedAt": "2026-06-17T10:25:13.915Z",
       "isArchived": false
     },
     {
@@ -40,9 +40,9 @@
       "url": "https://www.grants.gov/search-results-detail/362373",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-15T11:44:08.529Z",
-      "lastSeenAt": "2026-06-16T20:37:13.871Z",
-      "lastPublishedAt": "2026-06-16T20:37:13.871Z",
-      "isArchived": true
+      "lastSeenAt": "2026-06-17T10:25:13.915Z",
+      "lastPublishedAt": "2026-06-17T10:25:13.915Z",
+      "isArchived": false
     },
     {
       "id": "hd42464ed",
@@ -61,9 +61,9 @@
       "url": "https://www.grants.gov/search-results-detail/353413",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-06T08:23:35.499Z",
-      "lastSeenAt": "2026-06-16T20:37:13.871Z",
-      "lastPublishedAt": "2026-06-16T20:37:13.871Z",
-      "isArchived": true
+      "lastSeenAt": "2026-06-17T10:25:13.915Z",
+      "lastPublishedAt": "2026-06-17T10:25:13.915Z",
+      "isArchived": false
     },
     {
       "id": "haa59e97b",
@@ -82,9 +82,9 @@
       "url": "https://www.grants.gov/search-results-detail/362709",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-06T02:04:10.590Z",
-      "lastSeenAt": "2026-06-16T20:37:13.871Z",
-      "lastPublishedAt": "2026-06-16T20:37:13.871Z",
-      "isArchived": true
+      "lastSeenAt": "2026-06-17T10:25:13.915Z",
+      "lastPublishedAt": "2026-06-17T10:25:13.915Z",
+      "isArchived": false
     },
     {
       "id": "h1ad458ac",
@@ -103,9 +103,9 @@
       "url": "https://www.grants.gov/search-results-detail/355100",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-03T02:42:44.974Z",
-      "lastSeenAt": "2026-06-16T20:37:13.871Z",
-      "lastPublishedAt": "2026-06-16T20:37:13.871Z",
-      "isArchived": true
+      "lastSeenAt": "2026-06-17T10:25:13.915Z",
+      "lastPublishedAt": "2026-06-17T10:25:13.915Z",
+      "isArchived": false
     },
     {
       "id": "h30bc098a",
@@ -124,9 +124,9 @@
       "url": "https://www.grants.gov/search-results-detail/362089",
       "publicationNumber": null,
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
-      "lastSeenAt": "2026-06-16T20:37:13.871Z",
-      "lastPublishedAt": "2026-06-16T20:37:13.871Z",
-      "isArchived": true
+      "lastSeenAt": "2026-06-17T10:25:13.915Z",
+      "lastPublishedAt": "2026-06-17T10:25:13.915Z",
+      "isArchived": false
     },
     {
       "id": "h40b35418",
@@ -145,9 +145,9 @@
       "url": "https://www.grants.gov/search-results-detail/344124",
       "publicationNumber": null,
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
-      "lastSeenAt": "2026-06-16T20:37:13.871Z",
-      "lastPublishedAt": "2026-06-16T20:37:13.871Z",
-      "isArchived": true
+      "lastSeenAt": "2026-06-17T10:25:13.915Z",
+      "lastPublishedAt": "2026-06-17T10:25:13.915Z",
+      "isArchived": false
     },
     {
       "id": "he69c4641",
@@ -166,9 +166,9 @@
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null,
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
-      "lastSeenAt": "2026-06-16T20:37:13.871Z",
-      "lastPublishedAt": "2026-06-16T20:37:13.871Z",
-      "isArchived": true
+      "lastSeenAt": "2026-06-17T10:25:13.915Z",
+      "lastPublishedAt": "2026-06-17T10:25:13.915Z",
+      "isArchived": false
     },
     {
       "id": "h72239033",
@@ -3090,5 +3090,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 147 | Archivadas: 146"
+  "message": "Historico acumulado del agente UCI-F. Total: 147 | Archivadas: 139"
 }
