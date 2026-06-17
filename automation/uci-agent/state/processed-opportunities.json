@@ -3015,17 +3015,16 @@
       "sourceId": "apc-colombia",
       "url": "https://www.apccolombia.gov.co/modalidades-de-cooperacion/convocatorias/otras-convocatorias",
       "viable": false
+    },
+    "hd4f59fde": {
+      "at": "2026-06-17T02:39:43.849Z",
+      "sourceId": "minciencias",
+      "url": "https://minciencias.gov.co/convocatorias/plan-convocatorias-asctei-2025-2026/convocatoria-la-asignacion-para-la-ciencia",
+      "viable": false,
+      "reason": "Aplicar inmediatamente"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-06-09T14:20:06.037Z",
-      "endedAt": "2026-06-09T14:21:54.620Z",
-      "scannedCandidates": 9,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-06-09T19:54:56.321Z",
       "endedAt": "2026-06-09T19:55:38.511Z",
@@ -3254,6 +3253,14 @@
       "startedAt": "2026-06-16T20:35:59.660Z",
       "endedAt": "2026-06-16T20:37:13.874Z",
       "scannedCandidates": 7,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-17T02:38:21.234Z",
+      "endedAt": "2026-06-17T02:39:43.853Z",
+      "scannedCandidates": 8,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
