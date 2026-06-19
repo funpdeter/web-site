@@ -14,6 +14,7 @@ const Header: React.FC<HeaderProps> = ({ heroContentVisible, onToggleHeroContent
   const showHeroToggle = location.pathname === '/';
 
   const toggleMenu = () => {
+    playSpacebarClick();
     setIsMenuOpen(!isMenuOpen);
   };
 
@@ -77,6 +78,7 @@ const Header: React.FC<HeaderProps> = ({ heroContentVisible, onToggleHeroContent
         <button
           className="menu-toggle"
           onClick={toggleMenu}
+          onPointerDown={playSpacebarClick}
           aria-label="Toggle navigation menu"
         >
           <span></span>

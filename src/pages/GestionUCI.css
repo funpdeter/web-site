@@ -75,6 +75,81 @@
   justify-content: center;
 }
 
+.uci-contact-actions {
+  margin-top: 1.25rem;
+  justify-content: center;
+}
+
+.uci-contact-actions .cta-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #FFD140;
+  color: #2E79CB;
+  padding: 0.85rem 1rem 0.85rem 1.4rem;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+  font-weight: 700;
+  transition: all 0.3s ease;
+}
+
+.uci-contact-actions .cta-button-inner {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.55rem;
+}
+
+.uci-contact-actions .cta-arrow-box {
+  position: relative;
+  width: 1.28rem;
+  height: 1.28rem;
+  flex: 0 0 1.28rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: transparent;
+  border: 2.5px solid #2E79CB;
+  border-radius: 2px;
+  color: #2E79CB;
+  font-size: 0;
+  line-height: 0;
+  transition: all 0.3s ease;
+}
+
+.uci-contact-actions .cta-arrow-box::before {
+  content: '';
+  width: 0.48rem;
+  height: 2.5px;
+  background-color: currentColor;
+  transform: rotate(-45deg);
+  transform-origin: center;
+}
+
+.uci-contact-actions .cta-arrow-box::after {
+  content: '';
+  position: absolute;
+  top: 0.31rem;
+  right: 0.28rem;
+  width: 0.36rem;
+  height: 0.36rem;
+  border-top: 2.5px solid currentColor;
+  border-right: 2.5px solid currentColor;
+}
+
+.uci-contact-actions .cta-button:hover,
+.uci-contact-actions .cta-button:focus,
+.uci-contact-actions .cta-button:active {
+  background-color: #64FFAE;
+  color: #2E79CB;
+  border: none;
+  outline: none;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(100, 255, 174, 0.35);
+}
+
 .history-toggle-button {
   border-radius: 8px;
   background-color: var(--primary-color);

@@ -440,6 +440,15 @@ const GestionUCI: React.FC = () => {
                 : `Ver histórico de convocatorias${archivedOpportunities.length ? ` (${archivedOpportunities.length})` : ''}`}
             </button>
           </div>
+
+          <div className="hero-actions uci-contact-actions">
+            <a href="/contactos" className="cta-button">
+              <span className="cta-button-inner">
+                <span>Contactos para aliados</span>
+                <span className="cta-arrow-box" aria-hidden="true">↗︎</span>
+              </span>
+            </a>
+          </div>
         </div>
       </section>
 

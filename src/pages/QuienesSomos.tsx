@@ -169,6 +169,12 @@ const QuienesSomos: React.FC = () => {
         </div>
       </section>
 
+      <section className="quienes-projects-cta">
+        <div className="container">
+          <a href="/proyectos" className="cta-button secondary">Ver nuestros proyectos</a>
+        </div>
+      </section>
+
       <section className="quienes-footer-bottom">
         <div className="container home-footer-bottom-content">
           <div className="home-footer-col">

@@ -235,12 +235,10 @@ const Proyectos: React.FC = () => {
             transformación territorial y la innovación social.
           </p>
           <p>Impulsemos el desarrollo juntos.</p>
-          <a href="/contactos" className="cta-button">
-            <span className="cta-button-inner">
-              <span>Contactos para aliados</span>
-              <span className="cta-arrow-box" aria-hidden="true">↗︎</span>
-            </span>
-          </a>
+          <div className="cta-buttons">
+            <a href="/contactos" className="cta-button secondary">Contáctanos</a>
+            <a href="/servicios" className="cta-button secondary">Ver nuestros servicios</a>
+          </div>
         </div>
       </section>
     </div>

@@ -318,6 +318,16 @@
   margin: 0;
 }
 
+.quienes-projects-cta {
+  padding: 0 0 4.5rem;
+  background-color: white;
+  text-align: center;
+}
+
+.quienes-projects-cta .cta-button {
+  min-width: 230px;
+}
+
 .quienes-footer-bottom {
   background-color: #2E79CB;
   color: #FDFEBA;

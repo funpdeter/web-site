@@ -188,7 +188,6 @@ const Servicios: React.FC = () => {
           <p>Contáctanos para una consulta personalizada y construyamos juntos la solución que necesitas</p>
           <div className="cta-buttons">
             <a href="/contactos" className="cta-button primary" onMouseEnter={playSpacebarClick} onPointerDown={playSpacebarClick}>Solicitar cotización</a>
-            <a href="/proyectos" className="cta-button secondary" onMouseEnter={playSpacebarClick} onPointerDown={playSpacebarClick}>Ver nuestros proyectos</a>
           </div>
         </div>
       </section>

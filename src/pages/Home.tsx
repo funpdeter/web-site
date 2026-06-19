@@ -59,8 +59,8 @@ const Home: React.FC<HomeProps> = ({ heroContentVisible }) => {
           </h2>
           <p className="hero-slogan">Planeamos y transformamos territorios con sentido social</p>
           <div className="hero-actions">
-            <a href="/quienes-somos" className="cta-button" onMouseEnter={playSpacebarClick} onPointerDown={playSpacebarClick}>Conoce más</a>
             <a href="/contactos" className="cta-button secondary" onMouseEnter={playSpacebarClick} onPointerDown={playSpacebarClick}>Contáctanos</a>
+            <a href="/quienes-somos" className="cta-button" onMouseEnter={playSpacebarClick} onPointerDown={playSpacebarClick}>Conoce más</a>
           </div>
         </div>
       </section>
