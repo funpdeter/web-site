@@ -3,8 +3,8 @@ import { playSpacebarClick, unlockKeyboardClickAudio } from '../audioEffects';
 import './Home.css';
 
 const heroSlides = [
-  { image: '/front1.png', position: 'center 8%' },
-  { image: '/front2.png', position: 'center 48%' }
+  { image: '/front1.webp', position: 'center 8%' },
+  { image: '/front2.webp', position: 'center 48%' }
 ];
 
 interface HomeProps {
@@ -70,10 +70,20 @@ const Home: React.FC<HomeProps> = ({ heroContentVisible }) => {
           <h3>Nuestros Aliados</h3>
           <div className="aliados-grid">
             <div className="aliado-simple" onMouseEnter={playSpacebarClick} onPointerDown={playSpacebarClick}>
-              <img src="/Aliado 1 con fondo.jpeg" alt="Universidad del Magdalena" />
+              <img
+                src="/Aliado 1 con fondo.webp"
+                alt="Universidad del Magdalena"
+                loading="lazy"
+                decoding="async"
+              />
             </div>
             <div className="aliado-simple" onMouseEnter={playSpacebarClick} onPointerDown={playSpacebarClick}>
-              <img src="/Aliado 2 con fondo.jpg" alt="Aliado estratégico FUNDETER" />
+              <img
+                src="/Aliado 2 con fondo.webp"
+                alt="Aliado estratégico FUNDETER"
+                loading="lazy"
+                decoding="async"
+              />
             </div>
           </div>
         </div>

@@ -48,8 +48,8 @@ const Proyectos: React.FC = () => {
         'Proyecto de innovación educativa que integra inteligencia artificial en instituciones educativas, transformando los procesos de enseñanza y aprendizaje mediante tecnologías avanzadas.',
       categoria: 'Tecnología e Innovación',
       estado: 'Finalizado',
-      imagen: '/ALUNA IA 2.png',
-      evidencias: ['/ALUNA IA 2.png', '/foto 3.jpeg'],
+      imagen: '/ALUNA IA 2.webp',
+      evidencias: ['/ALUNA IA 2.webp', '/foto 3.webp'],
       detalles:
         'Implementación de soluciones de IA en el sector educativo para mejorar la calidad y accesibilidad de la educación, desarrollando capacidades tecnológicas en estudiantes y docentes.'
     },
@@ -60,8 +60,8 @@ const Proyectos: React.FC = () => {
         'Proyecto de asesoría técnica y científica en desarrollo electrónico y aplicaciones móviles, con énfasis en investigación aplicada y divulgación científica de resultados.',
       categoria: 'Investigación y Desarrollo',
       estado: 'Finalizado',
-      imagen: '/capac2_gideam.png',
-      evidencias: ['/capac2_gideam.png', '/resultados_1.jpeg', '/resultados_2.jpeg'],
+      imagen: '/capac2_gideam.webp',
+      evidencias: ['/capac2_gideam.webp', '/resultados_1.webp', '/resultados_2.webp'],
       detalles:
         'Proyecto de asesoría especializada en desarrollo de sistemas electrónicos y aplicaciones móviles, generando conocimiento científico aplicado. Los resultados de este proyecto han sido publicados en revistas científicas internacionales de alto impacto.',
       articulos: [
@@ -92,8 +92,8 @@ const Proyectos: React.FC = () => {
         'Proyecto de asesoría técnica en formulación de proyectos de infraestructura tecnológica y especializada con el fin de generar capacidades para el desarrollo integral de la formación, investigación e innovación.',
       categoria: 'Proyectos de Infraestructura',
       estado: 'En Ejecución',
-      imagen: '/Investigaciones2.png',
-      evidencias: ['/Investigaciones2.png', '/Aluna_IA.jpg'],
+      imagen: '/Investigaciones2.webp',
+      evidencias: ['/Investigaciones2.webp', '/Aluna_IA.webp'],
       evidenciasListado: [
         'Documentos técnicos',
         'Fichas MGA',
@@ -132,7 +132,7 @@ const Proyectos: React.FC = () => {
                 onPointerDown={playSpacebarClick}
               >
                 <div className="proyecto-image">
-                  <img src={proyecto.imagen} alt={proyecto.titulo} />
+                  <img src={proyecto.imagen} alt={proyecto.titulo} loading="lazy" decoding="async" />
                   <div className="proyecto-overlay">
                     <span className={`estado ${getEstadoClass(proyecto.estado)}`}>
                       {proyecto.estado}
@@ -207,9 +207,11 @@ const Proyectos: React.FC = () => {
                             {proyecto.evidencias.map((evidencia, index) => (
                               <div key={index} className="evidencia-item">
                                 <img
-                                  className={evidencia === '/foto 3.jpeg' ? 'evidencia-foto-3' : undefined}
+                                  className={evidencia === '/foto 3.webp' ? 'evidencia-foto-3' : undefined}
                                   src={evidencia}
                                   alt={`Evidencia ${index + 1} - ${proyecto.titulo}`}
+                                  loading="lazy"
+                                  decoding="async"
                                 />
                               </div>
                             ))}

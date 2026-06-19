@@ -28,8 +28,18 @@ const QuienesSomos: React.FC = () => {
             </div>
             <div className="content-image">
               <div className="ods-split-grid" aria-label="Objetivos de Desarrollo Sostenible">
-                <img src="/ODS-cast-3x3-1.webp" alt="Objetivos de Desarrollo Sostenible, bloque izquierdo" />
-                <img src="/ODS-cast-3x3-2.webp" alt="Objetivos de Desarrollo Sostenible, bloque derecho" />
+                <img
+                  src="/ODS-cast-3x3-1.webp"
+                  alt="Objetivos de Desarrollo Sostenible, bloque izquierdo"
+                  loading="lazy"
+                  decoding="async"
+                />
+                <img
+                  src="/ODS-cast-3x3-2.webp"
+                  alt="Objetivos de Desarrollo Sostenible, bloque derecho"
+                  loading="lazy"
+                  decoding="async"
+                />
               </div>
             </div>
           </div>
@@ -52,7 +62,7 @@ const QuienesSomos: React.FC = () => {
               </p>
             </div>
             <div className="mission-card empty-info-card">
-              <img src="/CEO.png" alt="Equipo FUNDETER" />
+              <img src="/CEO.webp" alt="Equipo FUNDETER" loading="lazy" decoding="async" />
             </div>
           </div>
         </div>

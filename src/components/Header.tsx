@@ -21,7 +21,12 @@ const Header: React.FC<HeaderProps> = ({ heroContentVisible, onToggleHeroContent
     <header className="header">
       <div className="header-container">
         <div className="logo">
-          <img src="/FUNDETER/FUNDETER/VARIACIONES/1.png" alt="FUNPDETER Logo" className="logo-img" />
+          <img
+            src="/FUNDETER/FUNDETER/VARIACIONES/1.webp"
+            alt="FUNPDETER Logo"
+            className="logo-img"
+            decoding="async"
+          />
         </div>
 
         <nav className={`nav ${isMenuOpen ? 'nav-open' : ''}`}>
