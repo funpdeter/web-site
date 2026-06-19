@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-06-19T13:55:50.375Z",
+  "updatedAt": "2026-06-19T14:41:07.399Z",
   "opportunities": [
     {
       "id": "h2c066308",
@@ -9,7 +9,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-07-31T13:53:50.676Z",
+      "deadline": "2026-07-31T14:40:24.429Z",
       "amount": 749982430291,
       "currency": "COP",
       "amountUsd": 187495607.57275,
