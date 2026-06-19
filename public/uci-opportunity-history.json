@@ -1,7 +1,49 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-06-18T20:09:56.983Z",
+  "updatedAt": "2026-06-19T02:53:52.159Z",
   "opportunities": [
+    {
+      "id": "hc529912b",
+      "sourceId": "ted-europa",
+      "title": "Italy – Social work services with accommodation – Procedura aperta per la conclusione di un accordo quadro ai sensi dell’art. 59 del medesimo decreto legislativo, per l’affidamento del servizio di accoglienza ed assistenza di cittadini stranieri richiedenti protezione internazionale di cui all’art. 11, comma 2, del d. lgs. n. 142/2025, costituiti da centri collettivi da 51 a 100 posti",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-07-10T00:00:00.000Z",
+      "amount": 53005300,
+      "currency": "EUR",
+      "amountUsd": 57245724.00000001,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/345190-2026",
+      "publicationNumber": "345190-2026",
+      "firstSeenAt": "2026-06-19T02:53:52.159Z",
+      "lastSeenAt": "2026-06-19T02:53:52.159Z",
+      "lastPublishedAt": "2026-06-19T02:53:52.159Z",
+      "isArchived": false
+    },
+    {
+      "id": "hfe05148b",
+      "sourceId": "ted-europa",
+      "title": "Norway – Medical equipments, pharmaceuticals and personal care products – Irradiation labels (indicator patches) for delivery to the health companies in Helse Vest RHF",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-08-26T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/343242-2026",
+      "publicationNumber": "343242-2026",
+      "firstSeenAt": "2026-06-19T02:53:52.159Z",
+      "lastSeenAt": "2026-06-19T02:53:52.159Z",
+      "lastPublishedAt": "2026-06-19T02:53:52.159Z",
+      "isArchived": false
+    },
     {
       "id": "h2c066308",
       "sourceId": "minciencias",
@@ -21,7 +63,7 @@
       "firstSeenAt": "2026-06-17T02:39:43.850Z",
       "lastSeenAt": "2026-06-18T20:09:56.983Z",
       "lastPublishedAt": "2026-06-18T20:09:56.983Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h57f1fd46",
@@ -42,7 +84,7 @@
       "firstSeenAt": "2026-06-15T11:44:08.529Z",
       "lastSeenAt": "2026-06-18T20:09:56.983Z",
       "lastPublishedAt": "2026-06-18T20:09:56.983Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd42464ed",
@@ -63,7 +105,7 @@
       "firstSeenAt": "2026-06-06T08:23:35.499Z",
       "lastSeenAt": "2026-06-18T20:09:56.983Z",
       "lastPublishedAt": "2026-06-18T20:09:56.983Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "haa59e97b",
@@ -84,7 +126,7 @@
       "firstSeenAt": "2026-06-06T02:04:10.590Z",
       "lastSeenAt": "2026-06-18T20:09:56.983Z",
       "lastPublishedAt": "2026-06-18T20:09:56.983Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h1ad458ac",
@@ -105,7 +147,7 @@
       "firstSeenAt": "2026-06-03T02:42:44.974Z",
       "lastSeenAt": "2026-06-18T20:09:56.983Z",
       "lastPublishedAt": "2026-06-18T20:09:56.983Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h30bc098a",
@@ -126,7 +168,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-06-18T20:09:56.983Z",
       "lastPublishedAt": "2026-06-18T20:09:56.983Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h40b35418",
@@ -147,7 +189,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-06-18T20:09:56.983Z",
       "lastPublishedAt": "2026-06-18T20:09:56.983Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he69c4641",
@@ -168,7 +210,7 @@
       "firstSeenAt": "2026-05-14T02:06:56.050Z",
       "lastSeenAt": "2026-06-18T20:09:56.983Z",
       "lastPublishedAt": "2026-06-18T20:09:56.983Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h72239033",
@@ -3090,5 +3132,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 147 | Archivadas: 139"
+  "message": "Historico acumulado del agente UCI-F. Total: 149 | Archivadas: 147"
 }

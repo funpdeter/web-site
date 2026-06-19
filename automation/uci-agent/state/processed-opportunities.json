@@ -3022,17 +3022,23 @@
       "url": "https://minciencias.gov.co/convocatorias/plan-convocatorias-asctei-2025-2026/convocatoria-la-asignacion-para-la-ciencia",
       "viable": false,
       "reason": "Aplicar inmediatamente"
+    },
+    "he9f5383e": {
+      "at": "2026-06-19T02:53:52.157Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/343242-2026",
+      "viable": false,
+      "reason": "No aplicar"
+    },
+    "h9a60eb46": {
+      "at": "2026-06-19T02:53:52.158Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/345190-2026",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-06-11T15:32:18.414Z",
-      "endedAt": "2026-06-11T15:33:46.597Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-06-11T20:08:38.009Z",
       "endedAt": "2026-06-11T20:09:32.018Z",
@@ -3261,6 +3267,14 @@
       "startedAt": "2026-06-18T20:08:43.854Z",
       "endedAt": "2026-06-18T20:09:56.986Z",
       "scannedCandidates": 8,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-19T02:51:45.820Z",
+      "endedAt": "2026-06-19T02:53:52.162Z",
+      "scannedCandidates": 10,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
