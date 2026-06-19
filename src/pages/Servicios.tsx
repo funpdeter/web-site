@@ -1,7 +1,18 @@
-import React from 'react';
+import React, { useEffect } from 'react';
+import { playSpacebarClick, unlockKeyboardClickAudio } from '../audioEffects';
 import './Servicios.css';
 
 const Servicios: React.FC = () => {
+  useEffect(() => {
+    window.addEventListener('pointerdown', unlockKeyboardClickAudio, { once: true });
+    window.addEventListener('keydown', unlockKeyboardClickAudio, { once: true });
+
+    return () => {
+      window.removeEventListener('pointerdown', unlockKeyboardClickAudio);
+      window.removeEventListener('keydown', unlockKeyboardClickAudio);
+    };
+  }, []);
+
   const servicios = [
     {
       id: 1,
@@ -145,7 +156,12 @@ const Servicios: React.FC = () => {
         <div className="container">
           <div className="servicios-grid">
             {servicios.map((servicio) => (
-              <div key={servicio.id} className="servicio-card">
+              <div
+                key={servicio.id}
+                className="servicio-card"
+                onMouseEnter={playSpacebarClick}
+                onPointerDown={playSpacebarClick}
+              >
                 <div className="servicio-header">
                   <div className="servicio-icono">{servicio.icono}</div>
                   <h3>{servicio.titulo}</h3>
@@ -171,8 +187,8 @@ const Servicios: React.FC = () => {
           <h2>¿Necesitas alguno de nuestros servicios?</h2>
           <p>Contáctanos para una consulta personalizada y construyamos juntos la solución que necesitas</p>
           <div className="cta-buttons">
-            <a href="/contactos" className="cta-button primary">Solicitar cotización</a>
-            <a href="/proyectos" className="cta-button secondary">Ver nuestros proyectos</a>
+            <a href="/contactos" className="cta-button primary" onMouseEnter={playSpacebarClick} onPointerDown={playSpacebarClick}>Solicitar cotización</a>
+            <a href="/proyectos" className="cta-button secondary" onMouseEnter={playSpacebarClick} onPointerDown={playSpacebarClick}>Ver nuestros proyectos</a>
           </div>
         </div>
       </section>

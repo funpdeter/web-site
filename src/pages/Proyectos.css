@@ -13,18 +13,34 @@
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
+  background-color: var(--accent-color);
+  padding: 2rem;
+  border-radius: 10px;
 }
 
 .proyectos-intro h2 {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.6;
   font-size: 2.5rem;
-  color: var(--primary-color);
-  margin-bottom: 1.5rem;
+  color: #2e79cb;
+  margin-bottom: 2rem;
+  text-align: center;
 }
 
 .proyectos-intro p {
-  font-size: 1.2rem;
-  color: #666;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: 'Fundeter Arimo', Arial, sans-serif;
+  font-weight: 700;
+  color: #555;
+  font-size: 1.1rem;
   line-height: 1.8;
+  margin-bottom: 1.5rem;
+  text-align: justify;
 }
 
 .proyectos-grid {
@@ -80,13 +96,13 @@
 
 
 .estado.finalizado {
-  background-color: #28a745;
-  color: white;
+  background-color: #2E79CB;
+  color: #FDFEBA;
 }
 
 .estado.en-ejecucion {
-  background-color: #ffc107;
-  color: #1f6b2d;
+  background-color: #64FFAE;
+  color: #2E79CB;
 }
 
 .proyecto-content {
@@ -94,17 +110,25 @@
 }
 
 .proyecto-categoria {
+  font-family: 'Fundeter Arimo', Arial, sans-serif;
+  font-weight: 700;
   color: var(--primary-color);
   font-size: 0.9rem;
-  font-weight: 700;
   text-transform: uppercase;
   margin-bottom: 0.5rem;
 }
 
 .proyecto-content h3 {
-  font-size: 1.5rem;
-  color: #333;
-  margin-bottom: 1rem;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  color: #2e79cb;
+  font-family: 'Fundeter Arimo', Arial, sans-serif;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+  text-align: center;
 }
 
 .proyecto-content p {
@@ -114,8 +138,8 @@
 }
 
 .ver-mas-btn {
-  background-color: var(--primary-color);
-  color: white;
+  background-color: #2E79CB;
+  color: #FDFEBA;
   border: none;
   padding: 0.8rem 1.5rem;
   border-radius: 5px;
@@ -125,8 +149,12 @@
   width: 100%;
 }
 
-.ver-mas-btn:hover {
-  background-color: #1a3d1e;
+.ver-mas-btn:hover,
+.ver-mas-btn:focus,
+.ver-mas-btn:active {
+  background-color: #64FFAE;
+  color: #2E79CB;
+  outline: none;
   transform: translateY(-2px);
 }
 
@@ -175,35 +203,106 @@
 }
 
 .cta-section h2 {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.6;
   font-size: 2.5rem;
-  color: var(--primary-color);
-  margin-bottom: 1rem;
+  color: #2e79cb;
+  margin-bottom: 2rem;
+  text-align: center;
 }
 
 .cta-section p {
-  font-size: 1.2rem;
-  color: #666;
-  margin-bottom: 2rem;
+  box-sizing: border-box;
+  color: #555;
+  font-family: 'Fundeter Arimo', Arial, sans-serif;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.8;
+  margin: 0 auto 1.5rem;
+  padding: 0;
+  text-align: center;
   max-width: 600px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .cta-section .cta-button {
-  display: inline-block;
-  background-color: var(--primary-color);
-  color: white;
-  padding: 1rem 2rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #FFD140;
+  color: #2E79CB;
+  padding: 0.85rem 1rem 0.85rem 1.4rem;
   text-decoration: none;
+  border: none;
   border-radius: 5px;
+  outline: none;
   font-weight: 700;
   transition: all 0.3s ease;
 }
 
-.cta-section .cta-button:hover {
-  background-color: #1a3d1e;
+.cta-section .cta-button-inner {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.55rem;
+}
+
+.cta-section .cta-arrow-box {
+  position: relative;
+  width: 1.28rem;
+  height: 1.28rem;
+  flex: 0 0 1.28rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: transparent;
+  border: 2.5px solid #2E79CB;
+  border-radius: 2px;
+  color: #2E79CB;
+  font-size: 0;
+  line-height: 0;
+  transition: all 0.3s ease;
+}
+
+.cta-section .cta-arrow-box::before {
+  content: '';
+  width: 0.48rem;
+  height: 2.5px;
+  background-color: currentColor;
+  transform: rotate(-45deg);
+  transform-origin: center;
+}
+
+.cta-section .cta-arrow-box::after {
+  content: '';
+  position: absolute;
+  top: 0.31rem;
+  right: 0.28rem;
+  width: 0.36rem;
+  height: 0.36rem;
+  border-top: 2.5px solid currentColor;
+  border-right: 2.5px solid currentColor;
+}
+
+.cta-section .cta-button:hover,
+.cta-section .cta-button:focus,
+.cta-section .cta-button:active {
+  background-color: #64FFAE;
+  color: #2E79CB;
+  border: none;
+  outline: none;
   transform: translateY(-2px);
-  box-shadow: 0 4px 15px rgba(35, 79, 39, 0.3);
+  box-shadow: 0 4px 15px rgba(100, 255, 174, 0.35);
+}
+
+.cta-section .cta-button:hover .cta-arrow-box,
+.cta-section .cta-button:focus .cta-arrow-box,
+.cta-section .cta-button:active .cta-arrow-box {
+  background-color: transparent;
+  border-color: #2E79CB;
+  color: #2E79CB;
 }
 
 .modal-overlay {
@@ -255,7 +354,7 @@
 }
 
 .modal-content h2 {
-  color: var(--primary-color);
+  color: #2E79CB;
   font-size: 1.8rem;
   margin-bottom: 1.5rem;
   margin-right: 3rem;
@@ -284,8 +383,8 @@
 }
 
 .categoria-badge {
-  background-color: var(--primary-color);
-  color: white;
+  background-color: #2E79CB;
+  color: #FDFEBA;
 }
 
 .estado-badge.en-ejecucion {
@@ -296,14 +395,14 @@
 
 
 .estado-badge.finalizado {
-  background-color: #28a745;
-  color: white;
+  background-color: #64FFAE;
+  color: #2E79CB;
 }
 
 .proyecto-descripcion-completa {
   font-size: 1.1rem;
   line-height: 1.6;
-  color: #555;
+  color: #2E79CB;
 }
 
 .articulos-section {
@@ -311,7 +410,7 @@
 }
 
 .articulos-section h3 {
-  color: var(--primary-color);
+  color: #2E79CB;
   font-size: 2rem;
   margin-bottom: 1.5rem;
 }
@@ -323,7 +422,7 @@
 
 .articulo-item {
   background-color: #f4f5f7;
-  border-left: 5px solid #2f6b43;
+  border-left: 5px solid #2E79CB;
   border-radius: 12px;
   padding: 1.5rem 1.8rem;
 }
@@ -333,7 +432,7 @@
   font-size: 2rem;
   font-weight: 700;
   line-height: 1.35;
-  color: #1f2a3a;
+  color: #2E79CB;
 }
 
 .articulo-revista {
@@ -357,7 +456,7 @@
 }
 
 .articulo-doi a {
-  color: #0f4b2d;
+  color: #4D95DD;
   font-size: 1.2rem;
   font-weight: 700;
   text-decoration: none;
@@ -374,7 +473,7 @@
 }
 
 .evidencias-section h3 {
-  color: var(--primary-color);
+  color: #2E79CB;
   font-size: 1.5rem;
   margin-bottom: 1rem;
 }
@@ -414,6 +513,10 @@
   transition: transform 0.3s ease;
 }
 
+.evidencia-item img.evidencia-foto-3 {
+  object-position: center 25%;
+}
+
 .evidencia-item:hover img {
   transform: scale(1.05);
 }
@@ -442,6 +545,10 @@
 
   .cta-section h2 {
     font-size: 2rem;
+  }
+
+  .cta-section .cta-arrow-box {
+    border-width: 2.5px;
   }
 
   .modal-overlay {

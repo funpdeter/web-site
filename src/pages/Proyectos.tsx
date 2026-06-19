@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
+import { playSpacebarClick, unlockKeyboardClickAudio } from '../audioEffects';
 import './Proyectos.css';
 
 interface Articulo {
@@ -29,6 +30,16 @@ const Proyectos: React.FC = () => {
       .replace(/[\u0300-\u036f]/g, '')
       .replace(/\s+/g, '-');
 
+  useEffect(() => {
+    window.addEventListener('pointerdown', unlockKeyboardClickAudio, { once: true });
+    window.addEventListener('keydown', unlockKeyboardClickAudio, { once: true });
+
+    return () => {
+      window.removeEventListener('pointerdown', unlockKeyboardClickAudio);
+      window.removeEventListener('keydown', unlockKeyboardClickAudio);
+    };
+  }, []);
+
   const proyectos: Proyecto[] = [
     {
       id: 1,
@@ -37,8 +48,8 @@ const Proyectos: React.FC = () => {
         'Proyecto de innovación educativa que integra inteligencia artificial en instituciones educativas, transformando los procesos de enseñanza y aprendizaje mediante tecnologías avanzadas.',
       categoria: 'Tecnología e Innovación',
       estado: 'Finalizado',
-      imagen: '/foto 1.jpeg',
-      evidencias: ['/foto 1.jpeg', '/foto 3.jpeg'],
+      imagen: '/ALUNA IA 2.png',
+      evidencias: ['/ALUNA IA 2.png', '/foto 3.jpeg'],
       detalles:
         'Implementación de soluciones de IA en el sector educativo para mejorar la calidad y accesibilidad de la educación, desarrollando capacidades tecnológicas en estudiantes y docentes.'
     },
@@ -49,8 +60,8 @@ const Proyectos: React.FC = () => {
         'Proyecto de asesoría técnica y científica en desarrollo electrónico y aplicaciones móviles, con énfasis en investigación aplicada y divulgación científica de resultados.',
       categoria: 'Investigación y Desarrollo',
       estado: 'Finalizado',
-      imagen: '/capac_gideam.jpeg',
-      evidencias: ['/capac_gideam.jpeg', '/resultados_1.jpeg', '/resultados_2.jpeg'],
+      imagen: '/capac2_gideam.png',
+      evidencias: ['/capac2_gideam.png', '/resultados_1.jpeg', '/resultados_2.jpeg'],
       detalles:
         'Proyecto de asesoría especializada en desarrollo de sistemas electrónicos y aplicaciones móviles, generando conocimiento científico aplicado. Los resultados de este proyecto han sido publicados en revistas científicas internacionales de alto impacto.',
       articulos: [
@@ -78,18 +89,18 @@ const Proyectos: React.FC = () => {
       titulo:
         'ASESORÍA EN ACTUALIZACIÓN Y FORMULACIÓN DE PROYECTOS DE INVERSIÓN PÚBLICA: ALUNA IA Y EDIFICIOS DE LABORATORIOS PARA CTeI',
       descripcion:
-        'Proyecto de asesoría técnica en formulación de proyectos de infraestructura tecnológica y especializada con el fin de generar capacidades para el desarrollo integral de la formación, investigación, innovación y emprendimiento en la Universidad del Magdalena.',
+        'Proyecto de asesoría técnica en formulación de proyectos de infraestructura tecnológica y especializada con el fin de generar capacidades para el desarrollo integral de la formación, investigación e innovación.',
       categoria: 'Proyectos de Infraestructura',
       estado: 'En Ejecución',
-      imagen: '/Investigaciones.png',
-      evidencias: ['/Investigaciones.png', '/Aluna_IA.jpg'],
+      imagen: '/Investigaciones2.png',
+      evidencias: ['/Investigaciones2.png', '/Aluna_IA.jpg'],
       evidenciasListado: [
         'Documentos técnicos',
         'Fichas MGA',
         'Acompañamiento en mesas técnicas con el Ministerio de Educación Nacional'
       ],
       detalles:
-        'Proyecto de asesoría técnica en formulación de proyectos de infraestructura tecnológica y especializada con el fin de generar capacidades para el desarrollo integral de la formación, investigación, innovación y emprendimiento en la Universidad del Magdalena.'
+        'Proyecto de asesoría técnica en formulación de proyectos de infraestructura tecnológica y especializada con el fin de generar capacidades para el desarrollo integral de la formación, investigación e innovación.'
     }
   ];
 
@@ -114,7 +125,12 @@ const Proyectos: React.FC = () => {
 
           <div className="proyectos-grid">
             {proyectos.map((proyecto) => (
-              <div key={proyecto.id} className="proyecto-card">
+              <div
+                key={proyecto.id}
+                className="proyecto-card"
+                onMouseEnter={playSpacebarClick}
+                onPointerDown={playSpacebarClick}
+              >
                 <div className="proyecto-image">
                   <img src={proyecto.imagen} alt={proyecto.titulo} />
                   <div className="proyecto-overlay">
@@ -190,7 +206,11 @@ const Proyectos: React.FC = () => {
                           <div className="evidencias-grid">
                             {proyecto.evidencias.map((evidencia, index) => (
                               <div key={index} className="evidencia-item">
-                                <img src={evidencia} alt={`Evidencia ${index + 1} - ${proyecto.titulo}`} />
+                                <img
+                                  className={evidencia === '/foto 3.jpeg' ? 'evidencia-foto-3' : undefined}
+                                  src={evidencia}
+                                  alt={`Evidencia ${index + 1} - ${proyecto.titulo}`}
+                                />
                               </div>
                             ))}
                           </div>
@@ -208,9 +228,16 @@ const Proyectos: React.FC = () => {
       <section className="cta-section">
         <div className="container">
           <h2>¿Tienes un proyecto en mente?</h2>
-          <p>Conversemos sobre cómo podemos ayudarte a transformar tu territorio</p>
+          <p>
+            Buscamos aliados estratégicos, instituciones y empresas comprometidas con la
+            transformación territorial y la innovación social.
+          </p>
+          <p>Impulsemos el desarrollo juntos.</p>
           <a href="/contactos" className="cta-button">
-            Contacta con nosotros
+            <span className="cta-button-inner">
+              <span>Contactos para aliados</span>
+              <span className="cta-arrow-box" aria-hidden="true">↗︎</span>
+            </span>
           </a>
         </div>
       </section>

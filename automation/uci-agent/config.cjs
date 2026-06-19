@@ -24,24 +24,24 @@ const now = new Date();
 const config = {
   enabled: toBoolean(process.env.UCI_AGENT_ENABLED, true),
   scanIntervalMinutes: toNumber(process.env.UCI_SCAN_INTERVAL_MINUTES, 360),
-  maxDaysAhead: toNumber(process.env.UCI_MAX_DAYS_AHEAD, 120),
+  maxDaysAhead: toNumber(process.env.UCI_MAX_DAYS_AHEAD, 180),
   minAmountUsd: toNumber(process.env.UCI_MIN_AMOUNT_USD, 5000),
   maxAmountUsd: toNumber(process.env.UCI_MAX_AMOUNT_USD, 5000000),
   copToUsdRate: toNumber(process.env.UCI_COP_TO_USD_RATE, 4000),
   eurToUsdRate: toNumber(process.env.UCI_EUR_TO_USD_RATE, 1.08),
-  maxLinksPerSource: toNumber(process.env.UCI_MAX_LINKS_PER_SOURCE, 8),
-  maxSourcesPerCycle: toNumber(process.env.UCI_MAX_SOURCES_PER_CYCLE, 20),
+  maxLinksPerSource: toNumber(process.env.UCI_MAX_LINKS_PER_SOURCE, 14),
+  maxSourcesPerCycle: toNumber(process.env.UCI_MAX_SOURCES_PER_CYCLE, 30),
   alwaysIncludeColombia: toBoolean(process.env.UCI_ALWAYS_INCLUDE_COLOMBIA, true),
   sourceIds: (process.env.UCI_SOURCE_IDS || "")
     .split(",")
     .map((item) => item.trim())
     .filter(Boolean),
-  timeoutMs: toNumber(process.env.UCI_HTTP_TIMEOUT_MS, 20000),
+  timeoutMs: toNumber(process.env.UCI_HTTP_TIMEOUT_MS, 30000),
   userAgent:
     process.env.UCI_USER_AGENT ||
     "FUNDETER-UCI-Agent/1.0 (+https://fundeter.org; contacto: info@fundeter.org)",
   useSearchEngine: toBoolean(process.env.UCI_USE_SEARCH_ENGINE, true),
-  searchQueriesPerSource: toNumber(process.env.UCI_SEARCH_QUERIES_PER_SOURCE, 2),
+  searchQueriesPerSource: toNumber(process.env.UCI_SEARCH_QUERIES_PER_SOURCE, 4),
   notifyEmail: process.env.UCI_NOTIFY_EMAIL || "info@fundeter.org",
   transport: (process.env.UCI_MAIL_TRANSPORT || "console").trim().toLowerCase(),
   smtp: {

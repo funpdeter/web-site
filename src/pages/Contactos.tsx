@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
+import { playSpacebarClick, unlockKeyboardClickAudio } from '../audioEffects';
 import './Contactos.css';
 
 const Contactos: React.FC = () => {
@@ -11,6 +12,16 @@ const Contactos: React.FC = () => {
   });
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [submitStatus, setSubmitStatus] = useState<{ type: 'success' | 'error'; message: string } | null>(null);
+
+  useEffect(() => {
+    window.addEventListener('pointerdown', unlockKeyboardClickAudio, { once: true });
+    window.addEventListener('keydown', unlockKeyboardClickAudio, { once: true });
+
+    return () => {
+      window.removeEventListener('pointerdown', unlockKeyboardClickAudio);
+      window.removeEventListener('keydown', unlockKeyboardClickAudio);
+    };
+  }, []);
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
     setFormData({
@@ -203,7 +214,13 @@ const Contactos: React.FC = () => {
                   ></textarea>
                 </div>
 
-                <button type="submit" className="submit-btn" disabled={isSubmitting}>
+                <button
+                  type="submit"
+                  className="submit-btn"
+                  disabled={isSubmitting}
+                  onMouseEnter={playSpacebarClick}
+                  onPointerDown={playSpacebarClick}
+                >
                   {isSubmitting ? 'Enviando...' : 'Enviar mensaje'}
                 </button>
                 {submitStatus && (

@@ -9,33 +9,39 @@ main {
 }
 
 .container {
-  max-width: 1200px;
+  max-width: 1440px;
   margin: 0 auto;
-  padding: 0 2rem;
+  padding: 0 1rem;
 }
 
 .page-hero {
-  background: linear-gradient(135deg, var(--primary-color) 0%, #2a5f2e 100%);
-  color: white;
+  background: #ffffff;
+  color: #2E79CB;
   padding: 8rem 0 4rem;
   text-align: center;
 }
 
 .page-hero-content h1 {
+  font-family: 'Fundeter Arimo', Arial, sans-serif;
+  font-weight: 700;
   font-size: 3rem;
   margin-bottom: 1rem;
+  color: #2E79CB;
 }
 
 .page-hero-content p {
+  font-family: 'Fundeter Arimo', Arial, sans-serif;
+  font-weight: 400;
   font-size: 1.2rem;
   opacity: 0.9;
   max-width: 600px;
   margin: 0 auto;
+  color: #2E79CB;
 }
 
 @media (max-width: 768px) {
   .container {
-    padding: 0 1rem;
+    padding: 0 0.75rem;
   }
 
   .page-hero {

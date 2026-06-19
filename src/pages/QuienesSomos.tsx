@@ -15,7 +15,6 @@ const QuienesSomos: React.FC = () => {
         <div className="container">
           <div className="content-grid">
             <div className="content-text">
-              <h2>¿Quiénes Somos?</h2>
               <p>
                 Somos la Fundación para la Planeación y el Desarrollo Territorial - FUNDETER,
                 una entidad sin ánimo de lucro con sede en Santa Marta - Magdalena, con más de
@@ -28,7 +27,32 @@ const QuienesSomos: React.FC = () => {
               </p>
             </div>
             <div className="content-image">
-              <img src="/foto 1.jpeg" alt="Equipo trabajando" />
+              <div className="ods-split-grid" aria-label="Objetivos de Desarrollo Sostenible">
+                <img src="/ODS-cast-3x3-1.webp" alt="Objetivos de Desarrollo Sostenible, bloque izquierdo" />
+                <img src="/ODS-cast-3x3-2.webp" alt="Objetivos de Desarrollo Sostenible, bloque derecho" />
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section className="mission-vision empty-card-section">
+        <div className="container">
+          <div className="mission-vision-grid">
+            <div className="vision-card empty-info-card">
+              <h3>Propósito</h3>
+              <p className="empty-info-copy empty-info-copy-italic">
+                En FUNDETER contribuimos al alcance de los ODS:
+              </p>
+              <p className="empty-info-copy">
+                Asesoramos a entidades públicas y privadas en el ciclo completo de proyectos de inversión, impulsando el desarrollo territorial con impacto social, sostenibilidad y eficiencia.
+              </p>
+              <p className="empty-info-copy">
+                Conectamos la planeación con la acción, generando rutas estratégicas que transforman territorios de manera responsable, sostenible y con sentido social.
+              </p>
+            </div>
+            <div className="mission-card empty-info-card">
+              <img src="/CEO.png" alt="Equipo FUNDETER" />
             </div>
           </div>
         </div>
@@ -55,22 +79,6 @@ const QuienesSomos: React.FC = () => {
                 proyectos de inversión que transformen social y sosteniblemente los territorios.
               </p>
             </div>
-          </div>
-        </div>
-      </section>
-
-      <section className="purpose-section">
-        <div className="container">
-          <div className="purpose-card">
-            <h2>Propósito</h2>
-            <p>
-              Asesoramos a entidades públicas y privadas en el ciclo completo de proyectos
-              de inversión, impulsando el desarrollo territorial con impacto social,
-              sostenibilidad y eficiencia.
-            </p>
-            <p className="purpose-highlight">
-              En FUNDETER, conectamos la planeación con la acción, generando rutas estratégicas que transforman territorios de manera responsable, sostenible y con sentido social.
-            </p>
           </div>
         </div>
       </section>
@@ -121,7 +129,7 @@ const QuienesSomos: React.FC = () => {
 
       <section className="values">
         <div className="container">
-          <h2>Nuestros Valores</h2>
+          <h2>Principios de la Organización</h2>
           <div className="values-grid">
             <div className="value-item">
               <h4>Compromiso Social</h4>

@@ -56,6 +56,13 @@ const TEXT_KEYWORDS = [
   "grant",
   "funding",
   "call for proposals",
+  "open call",
+  "request for proposals",
+  "rfp",
+  "tender",
+  "procurement",
+  "licitacion",
+  "contratacion",
   "proposal",
   "cooperacion",
   "subvencion",
@@ -200,15 +207,36 @@ function buildSearchQueries(source, config) {
   if (!config.useSearchEngine || !Array.isArray(source.domains) || !source.domains.length) {
     return [];
   }
-  const baseKeywords = ["convocatoria", "grant", "call for proposals", "funding"];
-  const filters = ["fundacion", "ngo", "social", "territorial"];
+  const baseKeywords = Array.isArray(source.searchKeywords) && source.searchKeywords.length
+    ? source.searchKeywords
+    : [
+        "convocatoria",
+        "grant",
+        "call for proposals",
+        "funding",
+        "request for proposals",
+        "procurement",
+      ];
+  const filters = [
+    "fundacion",
+    "foundation",
+    "ngo",
+    "nonprofit",
+    "social",
+    "territorial",
+    "education",
+    "innovation",
+    "sustainable development",
+  ];
   const queries = [];
 
   for (const domain of source.domains) {
-    const query = `site:${domain} (${baseKeywords.join(" OR ")}) (${filters.join(" OR ")})`;
-    queries.push(query);
-    if (queries.length >= config.searchQueriesPerSource) {
-      break;
+    for (const keyword of baseKeywords) {
+      const query = `site:${domain} "${keyword}" (${filters.join(" OR ")})`;
+      queries.push(query);
+      if (queries.length >= config.searchQueriesPerSource) {
+        return queries;
+      }
     }
   }
 
@@ -1460,6 +1488,7 @@ async function scanSource(source, state, config, logger) {
 }
 
 function buildSourceList(config) {
+  const hasRequestedSources = Array.isArray(config.sourceIds) && config.sourceIds.length;
   const requestedSources = Array.isArray(config.sourceIds) && config.sourceIds.length
     ? SOURCE_CATALOG.filter((source) => config.sourceIds.includes(source.id))
     : SOURCE_CATALOG.slice();
@@ -1478,6 +1507,10 @@ function buildSourceList(config) {
   }
 
   const colombiaIds = new Set(colombiaSources.map((source) => source.id));
+  if (hasRequestedSources) {
+    return Array.from(mergedMap.values()).slice(0, config.maxSourcesPerCycle);
+  }
+
   const prioritized = Array.from(mergedMap.values()).sort((a, b) => {
     const aIsColombia = colombiaIds.has(a.id);
     const bIsColombia = colombiaIds.has(b.id);

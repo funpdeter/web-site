@@ -15,9 +15,15 @@
 }
 
 .contacto-info h2 {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.6;
   font-size: 2.5rem;
-  color: var(--primary-color);
-  margin-bottom: 1.5rem;
+  color: #2e79cb;
+  margin-bottom: 2rem;
+  text-align: center;
 }
 
 .contacto-info > p {
@@ -72,8 +78,13 @@
 }
 
 .contacto-form h2 {
-  font-size: 2rem;
-  color: var(--primary-color);
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.6;
+  font-size: 2.5rem;
+  color: #2e79cb;
   margin-bottom: 2rem;
   text-align: center;
 }
@@ -85,7 +96,7 @@
 .form-group label {
   display: block;
   margin-bottom: 0.5rem;
-  color: var(--primary-color);
+  color: #666666;
   font-weight: 700;
 }
 
@@ -117,22 +128,25 @@
 
 .submit-btn {
   width: 100%;
-  background-color: var(--primary-color);
-  color: white;
+  background-color: #2E79CB;
+  color: #FDFEBA;
   border: none;
-  padding: 1.2rem;
-  border-radius: 8px;
-  font-family: 'Montserrat', sans-serif;
+  padding: 0.8rem 1.5rem;
+  border-radius: 5px;
   font-weight: 700;
-  font-size: 1.1rem;
   cursor: pointer;
   transition: all 0.3s ease;
+  font-size: 1rem;
 }
 
-.submit-btn:hover {
-  background-color: #1a3d1e;
+.submit-btn:hover,
+.submit-btn:focus,
+.submit-btn:active {
+  background-color: #64FFAE;
+  color: #2E79CB;
+  outline: none;
   transform: translateY(-2px);
-  box-shadow: 0 4px 15px rgba(35, 79, 39, 0.3);
+  box-shadow: none;
 }
 
 .submit-btn:disabled {
@@ -164,8 +178,8 @@
 .colaboracion-section {
   position: relative;
   padding: 5rem 0;
-  background: linear-gradient(135deg, var(--primary-color) 0%, #2a5f2e 100%);
-  color: white;
+  background-color: var(--accent-color);
+  color: #555555;
   text-align: center;
 }
 
@@ -175,9 +189,9 @@
   left: 50%;
   transform: translateX(-50%);
   bottom: 0;
-  width: min(1200px, calc(100% - 4rem));
+  width: min(1440px, calc(100% - 2rem));
   height: 1px;
-  background: rgba(255, 255, 255, 0.35);
+  background: rgba(46, 121, 203, 0.16);
 }
 
 .colaboracion-hero-content {
@@ -185,17 +199,19 @@
   margin: 0 auto;
   position: relative;
   z-index: 2;
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: white;
   padding: 2.7rem;
   border-radius: 15px;
-  backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(46, 121, 203, 0.12);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  max-height: none;
+  overflow: visible;
 }
 
 .colaboracion-hero-content h2 {
   font-size: 2.5rem;
   margin-bottom: 1.5rem;
-  color: white;
+  color: #2E79CB;
 }
 
 .colaboracion-hero-content > p {
@@ -204,8 +220,8 @@
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
-  opacity: 0.9;
   line-height: 1.8;
+  color: #555555;
 }
 
 .colaboracion-items {
@@ -216,8 +232,8 @@
 }
 
 .colaboracion-item {
-  background-color: rgba(255, 255, 255, 0.1);
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  background-color: rgba(46, 121, 203, 0.06);
+  border: 1px solid rgba(46, 121, 203, 0.18);
   padding: 2.15rem;
   border-radius: 15px;
   transition: transform 0.3s ease, background-color 0.3s ease;
@@ -225,23 +241,23 @@
 
 .colaboracion-item:hover {
   transform: translateY(-5px);
-  background-color: rgba(255, 255, 255, 0.15);
+  background-color: rgba(46, 121, 203, 0.1);
 }
 
 .colaboracion-item h3 {
   font-size: 1.5rem;
   margin-bottom: 1rem;
-  color: white;
+  color: #2E79CB;
 }
 
 .colaboracion-item p {
-  opacity: 0.9;
   line-height: 1.6;
+  color: #555555;
 }
 
 .home-footer-bottom {
-  background-color: var(--primary-color);
-  color: #ffffff;
+  background-color: #2E79CB;
+  color: #FDFEBA;
   padding: 2.25rem 0;
 }
 
@@ -253,15 +269,19 @@
 }
 
 .home-footer-col h4 {
+  font-family: 'Fundeter Arimo', Arial, sans-serif;
+  font-weight: 600;
   font-size: 1.35rem;
   margin-bottom: 0.9rem;
-  color: #ffffff;
+  color: #FDFEBA;
 }
 
 .home-footer-col p {
+  font-family: 'Fundeter Arimo', Arial, sans-serif;
+  font-weight: 400;
   margin: 0;
   line-height: 1.7;
-  color: #ffffff;
+  color: #FDFEBA;
 }
 
 .home-footer-col p + p {
@@ -330,7 +350,7 @@
   }
 
   .container {
-    padding: 0 1rem;
+    padding: 0 0.75rem;
   }
 
   .contacto-form {
