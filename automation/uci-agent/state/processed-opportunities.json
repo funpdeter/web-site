@@ -685,6 +685,127 @@
       "url": "https://www.grants.gov/search-results-detail/362373",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "hcc861021": {
+      "at": "2026-06-20T02:12:40.780Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/modalidades-de-cooperacion/convocatorias/convocatoria-portafolio-de-oferta",
+      "viable": false
+    },
+    "h3b943e8a": {
+      "at": "2026-06-20T02:13:55.437Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10385935",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hda932497": {
+      "at": "2026-06-20T02:13:55.438Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10387336",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hfbcf8f36": {
+      "at": "2026-06-20T02:13:55.438Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10388121",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hcc886145": {
+      "at": "2026-06-20T02:13:55.453Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10377395",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-20T02-13-55-438Z_secop-ii_pn-rases4-cd-150-2026"
+    },
+    "he8bef1aa": {
+      "at": "2026-06-20T02:13:55.454Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10369920",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-20T02-13-55-453Z_secop-ii_mejoramiento-de-la-planta-de-tratamiento-de-aguas-"
+    },
+    "h78bb26a7": {
+      "at": "2026-06-20T02:13:55.455Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10359951",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-20T02-13-55-454Z_secop-ii_poliizas"
+    },
+    "hf173c86d": {
+      "at": "2026-06-20T02:13:55.455Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10384443",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-20T02-13-55-455Z_secop-ii_minima-cuantia-examenes-medicos"
+    },
+    "h467af94a": {
+      "at": "2026-06-20T02:13:55.456Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10342949",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-20T02-13-55-456Z_secop-ii_seleccion-abreviada-de-menor-cuantia-002-de-2026"
+    },
+    "h9db91374": {
+      "at": "2026-06-20T02:13:55.457Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10367195",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-20T02-13-55-456Z_secop-ii_adecuacion-y-mantenimiento-de-las-sedes-de-la-regi"
+    },
+    "h478e6f88": {
+      "at": "2026-06-20T02:13:55.457Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10324240",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-20T02-13-55-457Z_secop-ii_equipos-portatiles-y-monitores"
+    },
+    "hb00e05df": {
+      "at": "2026-06-20T02:13:55.458Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10390682",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-20T02-13-55-458Z_secop-ii_vivienda-afectadas-por-sismo-del-14-de-septiembre-"
+    },
+    "hf39b24c3": {
+      "at": "2026-06-20T02:13:55.459Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10352455",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-20T02-13-55-458Z_secop-ii_adquisicion-de-chalecos-antibalas-salvavidas-nivel"
+    },
+    "hb731232e": {
+      "at": "2026-06-20T02:13:55.459Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10381531",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h2ca51eed": {
+      "at": "2026-06-20T02:13:55.459Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10382863",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h939727d8": {
+      "at": "2026-06-20T02:13:55.460Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10387922",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-20T02-13-55-459Z_secop-ii_contratar-la-adquisicion-de-uniformes-implementos-"
     }
   },
   "scans": [
@@ -725,6 +846,14 @@
       "endedAt": "2026-06-19T19:25:33.156Z",
       "scannedCandidates": 8,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-20T02:12:36.016Z",
+      "endedAt": "2026-06-20T02:13:55.463Z",
+      "scannedCandidates": 24,
+      "viableCandidates": 10,
       "sentNotifications": 0,
       "transport": "console"
     }
