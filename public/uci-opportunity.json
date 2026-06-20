@@ -1,24 +1,24 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-06-20T08:39:54.757Z",
+  "updatedAt": "2026-06-20T13:25:58.074Z",
   "opportunities": [
     {
-      "id": "hf346e3ec",
-      "sourceId": "apc-colombia",
-      "title": "Convocatoria 2026 del Programa de Cooperación Triangular para América Latina y El Caribe de la Agencia Española de Cooperación Internacional para el Desarrollo (AECID) | Agencia Presidencial de Cooperación Internacional",
-      "source": "APC Colombia",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-06-30T00:00:00.000Z",
+      "id": "hfe05148b",
+      "sourceId": "ted-europa",
+      "title": "Norway – Medical equipments, pharmaceuticals and personal care products – Irradiation labels (indicator patches) for delivery to the health companies in Helse Vest RHF",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-08-26T00:00:00.000Z",
       "amount": null,
       "currency": "",
       "amountUsd": null,
-      "scoreTotal": 17,
-      "recommendation": "Aplicar con alianza",
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
       "isViable": false,
-      "url": "https://www.apccolombia.gov.co/modalidades-de-cooperacion/convocatorias/otras-convocatorias/convocatoria-2026-del-programa-de",
-      "publicationNumber": null
+      "url": "https://ted.europa.eu/en/notice/-/detail/343242-2026",
+      "publicationNumber": "343242-2026"
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 1 | USA: 0 | EUROPA: 0"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 0 | EUROPA: 1"
 }
