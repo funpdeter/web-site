@@ -806,6 +806,13 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-20T02-13-55-459Z_secop-ii_contratar-la-adquisicion-de-uniformes-implementos-"
+    },
+    "he0677280": {
+      "at": "2026-06-20T08:39:54.757Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/modalidades-de-cooperacion/convocatorias/otras-convocatorias/convocatoria-2026-del-programa-de",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
@@ -854,6 +861,14 @@
       "endedAt": "2026-06-20T02:13:55.463Z",
       "scannedCandidates": 24,
       "viableCandidates": 10,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-20T08:38:54.820Z",
+      "endedAt": "2026-06-20T08:39:54.759Z",
+      "scannedCandidates": 25,
+      "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
     }

@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-06-20T02:13:55.461Z",
+  "updatedAt": "2026-06-20T08:39:54.758Z",
   "opportunities": [
+    {
+      "id": "hf346e3ec",
+      "sourceId": "apc-colombia",
+      "title": "Convocatoria 2026 del Programa de Cooperación Triangular para América Latina y El Caribe de la Agencia Española de Cooperación Internacional para el Desarrollo (AECID) | Agencia Presidencial de Cooperación Internacional",
+      "source": "APC Colombia",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-06-30T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 17,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://www.apccolombia.gov.co/modalidades-de-cooperacion/convocatorias/otras-convocatorias/convocatoria-2026-del-programa-de",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-06-20T08:39:54.758Z",
+      "lastSeenAt": "2026-06-20T08:39:54.758Z",
+      "lastPublishedAt": "2026-06-20T08:39:54.758Z",
+      "isArchived": false
+    },
     {
       "id": "ha4ac0824",
       "sourceId": "secop-ii",
@@ -21,7 +42,7 @@
       "firstSeenAt": "2026-06-20T02:13:55.461Z",
       "lastSeenAt": "2026-06-20T02:13:55.461Z",
       "lastPublishedAt": "2026-06-20T02:13:55.461Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h6528754f",
@@ -42,7 +63,7 @@
       "firstSeenAt": "2026-06-20T02:13:55.461Z",
       "lastSeenAt": "2026-06-20T02:13:55.461Z",
       "lastPublishedAt": "2026-06-20T02:13:55.461Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hc7e9ffcd",
@@ -63,7 +84,7 @@
       "firstSeenAt": "2026-06-20T02:13:55.461Z",
       "lastSeenAt": "2026-06-20T02:13:55.461Z",
       "lastPublishedAt": "2026-06-20T02:13:55.461Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h7501707",
@@ -84,7 +105,7 @@
       "firstSeenAt": "2026-06-20T02:13:55.461Z",
       "lastSeenAt": "2026-06-20T02:13:55.461Z",
       "lastPublishedAt": "2026-06-20T02:13:55.461Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h1683190",
@@ -105,7 +126,7 @@
       "firstSeenAt": "2026-06-20T02:13:55.461Z",
       "lastSeenAt": "2026-06-20T02:13:55.461Z",
       "lastPublishedAt": "2026-06-20T02:13:55.461Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd81f194e",
@@ -126,7 +147,7 @@
       "firstSeenAt": "2026-06-20T02:13:55.461Z",
       "lastSeenAt": "2026-06-20T02:13:55.461Z",
       "lastPublishedAt": "2026-06-20T02:13:55.461Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h54b953f5",
@@ -147,7 +168,7 @@
       "firstSeenAt": "2026-06-20T02:13:55.461Z",
       "lastSeenAt": "2026-06-20T02:13:55.461Z",
       "lastPublishedAt": "2026-06-20T02:13:55.461Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h59148c0e",
@@ -168,7 +189,7 @@
       "firstSeenAt": "2026-06-20T02:13:55.461Z",
       "lastSeenAt": "2026-06-20T02:13:55.461Z",
       "lastPublishedAt": "2026-06-20T02:13:55.461Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd8eca38d",
@@ -189,7 +210,7 @@
       "firstSeenAt": "2026-06-20T02:13:55.461Z",
       "lastSeenAt": "2026-06-20T02:13:55.461Z",
       "lastPublishedAt": "2026-06-20T02:13:55.461Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h156af276",
@@ -210,7 +231,7 @@
       "firstSeenAt": "2026-06-20T02:13:55.461Z",
       "lastSeenAt": "2026-06-20T02:13:55.461Z",
       "lastPublishedAt": "2026-06-20T02:13:55.461Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h1646e3d7",
@@ -231,7 +252,7 @@
       "firstSeenAt": "2026-06-20T02:13:55.461Z",
       "lastSeenAt": "2026-06-20T02:13:55.461Z",
       "lastPublishedAt": "2026-06-20T02:13:55.461Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "haf7c2330",
@@ -252,7 +273,7 @@
       "firstSeenAt": "2026-06-20T02:13:55.461Z",
       "lastSeenAt": "2026-06-20T02:13:55.461Z",
       "lastPublishedAt": "2026-06-20T02:13:55.461Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h81dd05e6",
@@ -273,7 +294,7 @@
       "firstSeenAt": "2026-06-20T02:13:55.461Z",
       "lastSeenAt": "2026-06-20T02:13:55.461Z",
       "lastPublishedAt": "2026-06-20T02:13:55.461Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h5f028123",
@@ -294,7 +315,7 @@
       "firstSeenAt": "2026-06-20T02:13:55.461Z",
       "lastSeenAt": "2026-06-20T02:13:55.461Z",
       "lastPublishedAt": "2026-06-20T02:13:55.461Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h6027724b",
@@ -315,7 +336,7 @@
       "firstSeenAt": "2026-06-20T02:13:55.461Z",
       "lastSeenAt": "2026-06-20T02:13:55.461Z",
       "lastPublishedAt": "2026-06-20T02:13:55.461Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he69c4641",
@@ -927,5 +948,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 44 | Archivadas: 29"
+  "message": "Historico acumulado del agente UCI-F. Total: 45 | Archivadas: 44"
 }
