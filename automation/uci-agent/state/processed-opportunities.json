@@ -820,6 +820,58 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/343242-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "hf96d14e9": {
+      "at": "2026-06-20T19:10:27.995Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10371986",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h7fdb97f5": {
+      "at": "2026-06-20T19:10:28.010Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10388155",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-20T19-10-27-996Z_secop-ii_mantenimiento-ascensor"
+    },
+    "hf2054b86": {
+      "at": "2026-06-20T19:10:28.011Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/STS/Users/Login/Index",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-20T19-10-28-010Z_secop-ii_prestar-el-servicio-de-revision-tecnico-mecanica-d"
+    },
+    "h612919b7": {
+      "at": "2026-06-20T19:10:28.011Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10383260",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h19ccbcce": {
+      "at": "2026-06-20T19:10:28.011Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10340701",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h80923346": {
+      "at": "2026-06-20T19:10:28.012Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10387601",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-20T19-10-28-012Z_secop-ii_proyecto-productivo-gallinas-ponedoras-presentacio"
+    },
+    "h9a60eb46": {
+      "at": "2026-06-20T19:10:28.012Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/345190-2026",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
@@ -884,6 +936,14 @@
       "endedAt": "2026-06-20T13:25:58.076Z",
       "scannedCandidates": 25,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-20T19:07:47.597Z",
+      "endedAt": "2026-06-20T19:10:28.015Z",
+      "scannedCandidates": 26,
+      "viableCandidates": 3,
       "sentNotifications": 0,
       "transport": "console"
     }
