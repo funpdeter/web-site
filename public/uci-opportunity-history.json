@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-06-20T19:10:28.013Z",
+  "updatedAt": "2026-06-21T02:39:11.517Z",
   "opportunities": [
+    {
+      "id": "h2f374266",
+      "sourceId": "secop-ii",
+      "title": "SDM-COT-081-2026",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-06-22T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10377098",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-06-21T02:39:11.517Z",
+      "lastSeenAt": "2026-06-21T02:39:11.517Z",
+      "lastPublishedAt": "2026-06-21T02:39:11.517Z",
+      "isArchived": false
+    },
     {
       "id": "hdb75a923",
       "sourceId": "secop-ii",
@@ -21,7 +42,7 @@
       "firstSeenAt": "2026-06-20T19:10:28.013Z",
       "lastSeenAt": "2026-06-20T19:10:28.013Z",
       "lastPublishedAt": "2026-06-20T19:10:28.013Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h6313d090",
@@ -42,7 +63,7 @@
       "firstSeenAt": "2026-06-20T19:10:28.013Z",
       "lastSeenAt": "2026-06-20T19:10:28.013Z",
       "lastPublishedAt": "2026-06-20T19:10:28.013Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h8343e902",
@@ -63,7 +84,7 @@
       "firstSeenAt": "2026-06-20T19:10:28.013Z",
       "lastSeenAt": "2026-06-20T19:10:28.013Z",
       "lastPublishedAt": "2026-06-20T19:10:28.013Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h6b3d9b24",
@@ -84,7 +105,7 @@
       "firstSeenAt": "2026-06-20T19:10:28.013Z",
       "lastSeenAt": "2026-06-20T19:10:28.013Z",
       "lastPublishedAt": "2026-06-20T19:10:28.013Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h5ee7cd76",
@@ -105,7 +126,7 @@
       "firstSeenAt": "2026-06-20T19:10:28.013Z",
       "lastSeenAt": "2026-06-20T19:10:28.013Z",
       "lastPublishedAt": "2026-06-20T19:10:28.013Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h6f7dae0f",
@@ -126,7 +147,7 @@
       "firstSeenAt": "2026-06-20T19:10:28.013Z",
       "lastSeenAt": "2026-06-20T19:10:28.013Z",
       "lastPublishedAt": "2026-06-20T19:10:28.013Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hc529912b",
@@ -147,7 +168,7 @@
       "firstSeenAt": "2026-06-20T19:10:28.013Z",
       "lastSeenAt": "2026-06-20T19:10:28.013Z",
       "lastPublishedAt": "2026-06-20T19:10:28.013Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hfe05148b",
@@ -1116,5 +1137,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 53 | Archivadas: 46"
+  "message": "Historico acumulado del agente UCI-F. Total: 54 | Archivadas: 53"
 }

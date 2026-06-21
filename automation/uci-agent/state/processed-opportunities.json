@@ -872,6 +872,13 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/345190-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "h3b3a4eeb": {
+      "at": "2026-06-21T02:39:11.516Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10377098",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
@@ -944,6 +951,14 @@
       "endedAt": "2026-06-20T19:10:28.015Z",
       "scannedCandidates": 26,
       "viableCandidates": 3,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-21T02:37:13.967Z",
+      "endedAt": "2026-06-21T02:39:11.518Z",
+      "scannedCandidates": 26,
+      "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
     }
