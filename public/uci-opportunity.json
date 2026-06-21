@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-06-21T13:48:00.900Z",
+  "updatedAt": "2026-06-21T19:15:17.750Z",
   "opportunities": [
     {
       "id": "hc7e9ffcd",
@@ -88,6 +88,23 @@
       "publicationNumber": "345190-2026"
     },
     {
+      "id": "h2c066308",
+      "sourceId": "minciencias",
+      "title": "CONVOCATORIA DE LA ASIGNACIÓN PARA LA CTeI DEL SGR PARA EL APROVECHAMIENTO SOSTENIBLE DE LA BIODIVERSIDAD",
+      "source": "Minciencias",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-07-31T19:13:11.894Z",
+      "amount": 749982430291,
+      "currency": "COP",
+      "amountUsd": 187495607.57275,
+      "scoreTotal": 19,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://minciencias.gov.co/convocatorias/plan-convocatorias-asctei-2025-2026/convocatoria-la-asignacion-para-la-ciencia",
+      "publicationNumber": "48"
+    },
+    {
       "id": "h54b953f5",
       "sourceId": "secop-ii",
       "title": "Adecuación y mantenimiento de las sedes de la Registraduría municipal de Sabanagrande - Atlántico y Villanueva - Bolívar (Manifestación de interés (Menor Cuantía))",
@@ -153,23 +170,6 @@
       "recommendation": "Aplicar con alianza",
       "isViable": true,
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10387601",
-      "publicationNumber": null
-    },
-    {
-      "id": "h6313d090",
-      "sourceId": "secop-ii",
-      "title": "MANTENIMIENTO ASCENSOR",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-06-22T00:00:00.000Z",
-      "amount": 88522848,
-      "currency": "COP",
-      "amountUsd": 22130.712,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10388155",
       "publicationNumber": null
     }
   ],
