@@ -885,6 +885,12 @@
       "sourceId": "sgr",
       "url": "https://www.sgr.gov.co/Inversi%C3%B3n/OCADPAZ/Proyectospostuladosconvocatoria2.aspx",
       "viable": false
+    },
+    "hfaf7eaa1": {
+      "at": "2026-06-22T20:32:04.816Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/comunicaciones/noticias/fundacion-carolina-abrio-la-xxvi-convocatoria-de-becas-2026-2027-para",
+      "viable": false
     }
   },
   "scans": [
@@ -1011,6 +1017,14 @@
     {
       "startedAt": "2026-06-22T16:25:44.302Z",
       "endedAt": "2026-06-22T16:27:45.456Z",
+      "scannedCandidates": 8,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-22T20:32:00.682Z",
+      "endedAt": "2026-06-22T20:34:18.098Z",
       "scannedCandidates": 8,
       "viableCandidates": 0,
       "sentNotifications": 0,
