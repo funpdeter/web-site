@@ -879,6 +879,12 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10377098",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "hd66c9e37": {
+      "at": "2026-06-22T16:26:09.612Z",
+      "sourceId": "sgr",
+      "url": "https://www.sgr.gov.co/Inversi%C3%B3n/OCADPAZ/Proyectospostuladosconvocatoria2.aspx",
+      "viable": false
     }
   },
   "scans": [
@@ -997,6 +1003,14 @@
     {
       "startedAt": "2026-06-22T11:32:17.455Z",
       "endedAt": "2026-06-22T11:34:10.523Z",
+      "scannedCandidates": 8,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-22T16:25:44.302Z",
+      "endedAt": "2026-06-22T16:27:45.456Z",
       "scannedCandidates": 8,
       "viableCandidates": 0,
       "sentNotifications": 0,
