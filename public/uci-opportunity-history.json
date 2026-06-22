@@ -1,7 +1,175 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-06-21T19:15:17.751Z",
+  "updatedAt": "2026-06-22T02:42:23.880Z",
   "opportunities": [
+    {
+      "id": "he69c4641",
+      "sourceId": "usaid",
+      "title": "Tribal Colleges and Universities Program",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-09-01T00:00:00.000Z",
+      "amount": 3500000,
+      "currency": "USD",
+      "amountUsd": 3500000,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://www.grants.gov/search-results-detail/334326",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-06-19T13:55:50.376Z",
+      "lastSeenAt": "2026-06-22T02:42:23.880Z",
+      "lastPublishedAt": "2026-06-22T02:42:23.880Z",
+      "isArchived": false
+    },
+    {
+      "id": "hd42464ed",
+      "sourceId": "usaid",
+      "title": "IUSE/Professional Formation of Engineers:  Revolutionizing Engineering Departments",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-09-08T00:00:00.000Z",
+      "amount": 2000000,
+      "currency": "USD",
+      "amountUsd": 2000000,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/353413",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-06-19T13:55:50.376Z",
+      "lastSeenAt": "2026-06-22T02:42:23.880Z",
+      "lastPublishedAt": "2026-06-22T02:42:23.880Z",
+      "isArchived": false
+    },
+    {
+      "id": "h30bc098a",
+      "sourceId": "usaid",
+      "title": "FY 2025 Rural Capacity Building for Community Development and Affordable Housing Grants (RCB)",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-07-06T00:00:00.000Z",
+      "amount": 3500000,
+      "currency": "USD",
+      "amountUsd": 3500000,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/362089",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-06-19T13:55:50.376Z",
+      "lastSeenAt": "2026-06-22T02:42:23.880Z",
+      "lastPublishedAt": "2026-06-22T02:42:23.880Z",
+      "isArchived": false
+    },
+    {
+      "id": "h40b35418",
+      "sourceId": "usaid",
+      "title": "Improving Undergraduate STEM Education: Directorate for STEM Education",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-07-15T00:00:00.000Z",
+      "amount": 2000000,
+      "currency": "USD",
+      "amountUsd": 2000000,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/344124",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-06-19T13:55:50.376Z",
+      "lastSeenAt": "2026-06-22T02:42:23.880Z",
+      "lastPublishedAt": "2026-06-22T02:42:23.880Z",
+      "isArchived": false
+    },
+    {
+      "id": "h57f1fd46",
+      "sourceId": "usaid",
+      "title": "OSERS-OSEP: Expanding Career Pathways and Workforce Readiness of Special Education Teachers and Early Intervention Personnel Through Registered Apprenticeships, Assistance Listing Number (ALN) 84.325J",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-07-13T00:00:00.000Z",
+      "amount": 1000000,
+      "currency": "USD",
+      "amountUsd": 1000000,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/362373",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-06-19T13:55:50.376Z",
+      "lastSeenAt": "2026-06-22T02:42:23.880Z",
+      "lastPublishedAt": "2026-06-22T02:42:23.880Z",
+      "isArchived": false
+    },
+    {
+      "id": "haa59e97b",
+      "sourceId": "usaid",
+      "title": "Section 4 Capacity Building for Community Development and Affordable Housing",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-07-06T00:00:00.000Z",
+      "amount": 42000000,
+      "currency": "USD",
+      "amountUsd": 42000000,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/362709",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-06-19T13:55:50.376Z",
+      "lastSeenAt": "2026-06-22T02:42:23.880Z",
+      "lastPublishedAt": "2026-06-22T02:42:23.880Z",
+      "isArchived": false
+    },
+    {
+      "id": "h1ad458ac",
+      "sourceId": "usaid",
+      "title": "Advanced Technological Education",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-10-01T00:00:00.000Z",
+      "amount": 7500000,
+      "currency": "USD",
+      "amountUsd": 7500000,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/355100",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-06-19T13:55:50.376Z",
+      "lastSeenAt": "2026-06-22T02:42:23.880Z",
+      "lastPublishedAt": "2026-06-22T02:42:23.880Z",
+      "isArchived": false
+    },
+    {
+      "id": "h2c066308",
+      "sourceId": "minciencias",
+      "title": "CONVOCATORIA DE LA ASIGNACIÓN PARA LA CTeI DEL SGR PARA EL APROVECHAMIENTO SOSTENIBLE DE LA BIODIVERSIDAD",
+      "source": "Minciencias",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-08-01T02:41:09.908Z",
+      "amount": 749982430291,
+      "currency": "COP",
+      "amountUsd": 187495607.57275,
+      "scoreTotal": 19,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://minciencias.gov.co/convocatorias/plan-convocatorias-asctei-2025-2026/convocatoria-la-asignacion-para-la-ciencia",
+      "publicationNumber": "48",
+      "firstSeenAt": "2026-06-19T13:55:50.376Z",
+      "lastSeenAt": "2026-06-22T02:42:23.880Z",
+      "lastPublishedAt": "2026-06-22T02:42:23.880Z",
+      "isArchived": false
+    },
     {
       "id": "h2f374266",
       "sourceId": "secop-ii",
@@ -21,7 +189,7 @@
       "firstSeenAt": "2026-06-21T02:39:11.517Z",
       "lastSeenAt": "2026-06-21T19:15:17.751Z",
       "lastPublishedAt": "2026-06-21T19:15:17.751Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hdb75a923",
@@ -42,7 +210,7 @@
       "firstSeenAt": "2026-06-20T19:10:28.013Z",
       "lastSeenAt": "2026-06-21T19:15:17.751Z",
       "lastPublishedAt": "2026-06-21T19:15:17.751Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h6313d090",
@@ -63,7 +231,7 @@
       "firstSeenAt": "2026-06-20T19:10:28.013Z",
       "lastSeenAt": "2026-06-21T19:15:17.751Z",
       "lastPublishedAt": "2026-06-21T19:15:17.751Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h8343e902",
@@ -84,7 +252,7 @@
       "firstSeenAt": "2026-06-20T19:10:28.013Z",
       "lastSeenAt": "2026-06-21T19:15:17.751Z",
       "lastPublishedAt": "2026-06-21T19:15:17.751Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h5ee7cd76",
@@ -105,7 +273,7 @@
       "firstSeenAt": "2026-06-20T19:10:28.013Z",
       "lastSeenAt": "2026-06-21T19:15:17.751Z",
       "lastPublishedAt": "2026-06-21T19:15:17.751Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h6f7dae0f",
@@ -126,7 +294,7 @@
       "firstSeenAt": "2026-06-20T19:10:28.013Z",
       "lastSeenAt": "2026-06-21T19:15:17.751Z",
       "lastPublishedAt": "2026-06-21T19:15:17.751Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hc529912b",
@@ -147,7 +315,7 @@
       "firstSeenAt": "2026-06-20T19:10:28.013Z",
       "lastSeenAt": "2026-06-21T19:15:17.751Z",
       "lastPublishedAt": "2026-06-21T19:15:17.751Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hfe05148b",
@@ -168,7 +336,7 @@
       "firstSeenAt": "2026-06-20T13:25:58.075Z",
       "lastSeenAt": "2026-06-21T19:15:17.751Z",
       "lastPublishedAt": "2026-06-21T19:15:17.751Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hc7e9ffcd",
@@ -189,7 +357,7 @@
       "firstSeenAt": "2026-06-20T02:13:55.461Z",
       "lastSeenAt": "2026-06-21T19:15:17.751Z",
       "lastPublishedAt": "2026-06-21T19:15:17.751Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h1683190",
@@ -210,7 +378,7 @@
       "firstSeenAt": "2026-06-20T02:13:55.461Z",
       "lastSeenAt": "2026-06-21T19:15:17.751Z",
       "lastPublishedAt": "2026-06-21T19:15:17.751Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h54b953f5",
@@ -231,7 +399,7 @@
       "firstSeenAt": "2026-06-20T02:13:55.461Z",
       "lastSeenAt": "2026-06-21T19:15:17.751Z",
       "lastPublishedAt": "2026-06-21T19:15:17.751Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h59148c0e",
@@ -252,7 +420,7 @@
       "firstSeenAt": "2026-06-20T02:13:55.461Z",
       "lastSeenAt": "2026-06-21T19:15:17.751Z",
       "lastPublishedAt": "2026-06-21T19:15:17.751Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h156af276",
@@ -273,7 +441,7 @@
       "firstSeenAt": "2026-06-20T02:13:55.461Z",
       "lastSeenAt": "2026-06-21T19:15:17.751Z",
       "lastPublishedAt": "2026-06-21T19:15:17.751Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "haf7c2330",
@@ -294,7 +462,7 @@
       "firstSeenAt": "2026-06-20T02:13:55.461Z",
       "lastSeenAt": "2026-06-21T19:15:17.751Z",
       "lastPublishedAt": "2026-06-21T19:15:17.751Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h5f028123",
@@ -315,7 +483,7 @@
       "firstSeenAt": "2026-06-20T02:13:55.461Z",
       "lastSeenAt": "2026-06-21T19:15:17.751Z",
       "lastPublishedAt": "2026-06-21T19:15:17.751Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h6027724b",
@@ -336,175 +504,7 @@
       "firstSeenAt": "2026-06-20T02:13:55.461Z",
       "lastSeenAt": "2026-06-21T19:15:17.751Z",
       "lastPublishedAt": "2026-06-21T19:15:17.751Z",
-      "isArchived": false
-    },
-    {
-      "id": "he69c4641",
-      "sourceId": "usaid",
-      "title": "Tribal Colleges and Universities Program",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-09-01T00:00:00.000Z",
-      "amount": 3500000,
-      "currency": "USD",
-      "amountUsd": 3500000,
-      "scoreTotal": 16,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://www.grants.gov/search-results-detail/334326",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-06-21T19:15:17.751Z",
-      "lastPublishedAt": "2026-06-21T19:15:17.751Z",
-      "isArchived": false
-    },
-    {
-      "id": "hd42464ed",
-      "sourceId": "usaid",
-      "title": "IUSE/Professional Formation of Engineers:  Revolutionizing Engineering Departments",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-09-08T00:00:00.000Z",
-      "amount": 2000000,
-      "currency": "USD",
-      "amountUsd": 2000000,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/353413",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-06-21T19:15:17.751Z",
-      "lastPublishedAt": "2026-06-21T19:15:17.751Z",
-      "isArchived": false
-    },
-    {
-      "id": "h30bc098a",
-      "sourceId": "usaid",
-      "title": "FY 2025 Rural Capacity Building for Community Development and Affordable Housing Grants (RCB)",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-07-06T00:00:00.000Z",
-      "amount": 3500000,
-      "currency": "USD",
-      "amountUsd": 3500000,
-      "scoreTotal": 14,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/362089",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-06-21T19:15:17.751Z",
-      "lastPublishedAt": "2026-06-21T19:15:17.751Z",
-      "isArchived": false
-    },
-    {
-      "id": "h40b35418",
-      "sourceId": "usaid",
-      "title": "Improving Undergraduate STEM Education: Directorate for STEM Education",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-07-15T00:00:00.000Z",
-      "amount": 2000000,
-      "currency": "USD",
-      "amountUsd": 2000000,
-      "scoreTotal": 13,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/344124",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-06-21T19:15:17.751Z",
-      "lastPublishedAt": "2026-06-21T19:15:17.751Z",
-      "isArchived": false
-    },
-    {
-      "id": "h57f1fd46",
-      "sourceId": "usaid",
-      "title": "OSERS-OSEP: Expanding Career Pathways and Workforce Readiness of Special Education Teachers and Early Intervention Personnel Through Registered Apprenticeships, Assistance Listing Number (ALN) 84.325J",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-07-13T00:00:00.000Z",
-      "amount": 1000000,
-      "currency": "USD",
-      "amountUsd": 1000000,
-      "scoreTotal": 13,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/362373",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-06-21T19:15:17.751Z",
-      "lastPublishedAt": "2026-06-21T19:15:17.751Z",
-      "isArchived": false
-    },
-    {
-      "id": "haa59e97b",
-      "sourceId": "usaid",
-      "title": "Section 4 Capacity Building for Community Development and Affordable Housing",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-07-06T00:00:00.000Z",
-      "amount": 42000000,
-      "currency": "USD",
-      "amountUsd": 42000000,
-      "scoreTotal": 14,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/362709",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-06-21T19:15:17.751Z",
-      "lastPublishedAt": "2026-06-21T19:15:17.751Z",
-      "isArchived": false
-    },
-    {
-      "id": "h1ad458ac",
-      "sourceId": "usaid",
-      "title": "Advanced Technological Education",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-10-01T00:00:00.000Z",
-      "amount": 7500000,
-      "currency": "USD",
-      "amountUsd": 7500000,
-      "scoreTotal": 14,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/355100",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-06-21T19:15:17.751Z",
-      "lastPublishedAt": "2026-06-21T19:15:17.751Z",
-      "isArchived": false
-    },
-    {
-      "id": "h2c066308",
-      "sourceId": "minciencias",
-      "title": "CONVOCATORIA DE LA ASIGNACIÓN PARA LA CTeI DEL SGR PARA EL APROVECHAMIENTO SOSTENIBLE DE LA BIODIVERSIDAD",
-      "source": "Minciencias",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-07-31T19:13:11.894Z",
-      "amount": 749982430291,
-      "currency": "COP",
-      "amountUsd": 187495607.57275,
-      "scoreTotal": 19,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://minciencias.gov.co/convocatorias/plan-convocatorias-asctei-2025-2026/convocatoria-la-asignacion-para-la-ciencia",
-      "publicationNumber": "48",
-      "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-06-21T19:15:17.751Z",
-      "lastPublishedAt": "2026-06-21T19:15:17.751Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h6b3d9b24",
@@ -1137,5 +1137,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 54 | Archivadas: 30"
+  "message": "Historico acumulado del agente UCI-F. Total: 54 | Archivadas: 46"
 }
