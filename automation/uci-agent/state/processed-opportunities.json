@@ -891,6 +891,60 @@
       "sourceId": "apc-colombia",
       "url": "https://www.apccolombia.gov.co/comunicaciones/noticias/fundacion-carolina-abrio-la-xxvi-convocatoria-de-becas-2026-2027-para",
       "viable": false
+    },
+    "h65b10db0": {
+      "at": "2026-06-23T02:06:41.174Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/node/2140",
+      "viable": false
+    },
+    "h5fa2b40": {
+      "at": "2026-06-23T02:06:42.078Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/sites/default/files/2026-02/PROCESOS%20CONTRATACION%202026%20AL%20%2031-01-2026.xlsx",
+      "viable": false
+    },
+    "h8b78ba8a": {
+      "at": "2026-06-23T02:07:00.722Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-propertyvalue-133112.html",
+      "viable": false
+    },
+    "hb620b567": {
+      "at": "2026-06-23T02:07:02.685Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-article-437415.html",
+      "viable": false
+    },
+    "hef092fd0": {
+      "at": "2026-06-23T02:07:04.769Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-article-437041.html",
+      "viable": false
+    },
+    "hc967978f": {
+      "at": "2026-06-23T02:07:07.510Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-article-382083.html",
+      "viable": false
+    },
+    "h1d5daef": {
+      "at": "2026-06-23T02:07:08.827Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-article-428125.html",
+      "viable": false
+    },
+    "h9c445e9b": {
+      "at": "2026-06-23T02:07:10.563Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-article-401090.html",
+      "viable": false
+    },
+    "hfce596ed": {
+      "at": "2026-06-23T02:07:12.305Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-article-400514.html",
+      "viable": false
     }
   },
   "scans": [
@@ -1025,6 +1079,14 @@
     {
       "startedAt": "2026-06-22T20:32:00.682Z",
       "endedAt": "2026-06-22T20:34:18.098Z",
+      "scannedCandidates": 8,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-23T02:06:37.823Z",
+      "endedAt": "2026-06-23T02:08:06.152Z",
       "scannedCandidates": 8,
       "viableCandidates": 0,
       "sentNotifications": 0,
