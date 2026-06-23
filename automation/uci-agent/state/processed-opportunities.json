@@ -945,6 +945,12 @@
       "sourceId": "mintic",
       "url": "https://mintic.gov.co/portal/715/w3-article-400514.html",
       "viable": false
+    },
+    "h3bdab1af": {
+      "at": "2026-06-23T19:48:24.471Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/taxonomy/term/468",
+      "viable": false
     }
   },
   "scans": [
@@ -1103,6 +1109,14 @@
     {
       "startedAt": "2026-06-23T14:24:04.305Z",
       "endedAt": "2026-06-23T14:26:04.683Z",
+      "scannedCandidates": 8,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-23T19:48:20.498Z",
+      "endedAt": "2026-06-23T19:50:08.517Z",
       "scannedCandidates": 8,
       "viableCandidates": 0,
       "sentNotifications": 0,
