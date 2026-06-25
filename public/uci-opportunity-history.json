@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-06-24T19:27:04.791Z",
+  "updatedAt": "2026-06-25T02:11:03.464Z",
   "opportunities": [
     {
       "id": "he69c4641",
@@ -19,8 +19,8 @@
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-06-24T19:27:04.791Z",
-      "lastPublishedAt": "2026-06-24T19:27:04.791Z",
+      "lastSeenAt": "2026-06-25T02:11:03.464Z",
+      "lastPublishedAt": "2026-06-25T02:11:03.464Z",
       "isArchived": false
     },
     {
@@ -40,8 +40,8 @@
       "url": "https://www.grants.gov/search-results-detail/353413",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-06-24T19:27:04.791Z",
-      "lastPublishedAt": "2026-06-24T19:27:04.791Z",
+      "lastSeenAt": "2026-06-25T02:11:03.464Z",
+      "lastPublishedAt": "2026-06-25T02:11:03.464Z",
       "isArchived": false
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.grants.gov/search-results-detail/362089",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-06-24T19:27:04.791Z",
-      "lastPublishedAt": "2026-06-24T19:27:04.791Z",
+      "lastSeenAt": "2026-06-25T02:11:03.464Z",
+      "lastPublishedAt": "2026-06-25T02:11:03.464Z",
       "isArchived": false
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://www.grants.gov/search-results-detail/344124",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-06-24T19:27:04.791Z",
-      "lastPublishedAt": "2026-06-24T19:27:04.791Z",
+      "lastSeenAt": "2026-06-25T02:11:03.464Z",
+      "lastPublishedAt": "2026-06-25T02:11:03.464Z",
       "isArchived": false
     },
     {
@@ -103,8 +103,8 @@
       "url": "https://www.grants.gov/search-results-detail/362373",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-06-24T19:27:04.791Z",
-      "lastPublishedAt": "2026-06-24T19:27:04.791Z",
+      "lastSeenAt": "2026-06-25T02:11:03.464Z",
+      "lastPublishedAt": "2026-06-25T02:11:03.464Z",
       "isArchived": false
     },
     {
@@ -124,8 +124,8 @@
       "url": "https://www.grants.gov/search-results-detail/362709",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-06-24T19:27:04.791Z",
-      "lastPublishedAt": "2026-06-24T19:27:04.791Z",
+      "lastSeenAt": "2026-06-25T02:11:03.464Z",
+      "lastPublishedAt": "2026-06-25T02:11:03.464Z",
       "isArchived": false
     },
     {
@@ -145,8 +145,8 @@
       "url": "https://www.grants.gov/search-results-detail/355100",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-06-24T19:27:04.791Z",
-      "lastPublishedAt": "2026-06-24T19:27:04.791Z",
+      "lastSeenAt": "2026-06-25T02:11:03.464Z",
+      "lastPublishedAt": "2026-06-25T02:11:03.464Z",
       "isArchived": false
     },
     {
@@ -156,7 +156,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-07-31T19:25:27.992Z",
+      "deadline": "2026-08-01T02:08:55.889Z",
       "amount": 749982430291,
       "currency": "COP",
       "amountUsd": 187495607.57275,
@@ -166,8 +166,8 @@
       "url": "https://minciencias.gov.co/convocatorias/plan-convocatorias-asctei-2025-2026/convocatoria-la-asignacion-para-la-ciencia",
       "publicationNumber": "48",
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-06-24T19:27:04.791Z",
-      "lastPublishedAt": "2026-06-24T19:27:04.791Z",
+      "lastSeenAt": "2026-06-25T02:11:03.464Z",
+      "lastPublishedAt": "2026-06-25T02:11:03.464Z",
       "isArchived": false
     },
     {
