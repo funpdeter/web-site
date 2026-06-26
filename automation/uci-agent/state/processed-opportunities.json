@@ -957,6 +957,13 @@
       "sourceId": "mintic",
       "url": "https://mintic.gov.co/portal/715/articles-162146_FTIC_CM_002_2026.pdf",
       "viable": false
+    },
+    "ha329f869": {
+      "at": "2026-06-26T02:12:31.254Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/357929-2026",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
@@ -1188,6 +1195,14 @@
       "startedAt": "2026-06-25T19:44:15.577Z",
       "endedAt": "2026-06-25T19:46:21.980Z",
       "scannedCandidates": 8,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-26T02:10:30.062Z",
+      "endedAt": "2026-06-26T02:12:31.257Z",
+      "scannedCandidates": 9,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
