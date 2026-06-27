@@ -1072,17 +1072,21 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10400123",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "he94b5797": {
+      "at": "2026-06-27T13:06:32.714Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/convocatorias",
+      "viable": false
+    },
+    "h60a4b827": {
+      "at": "2026-06-27T13:06:32.993Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/quienes-somos/direccion-de-gestion-de-demanda-de-cooperacion-internacional",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-06-20T02:12:36.016Z",
-      "endedAt": "2026-06-20T02:13:55.463Z",
-      "scannedCandidates": 24,
-      "viableCandidates": 10,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-06-20T08:38:54.820Z",
       "endedAt": "2026-06-20T08:39:54.759Z",
@@ -1310,6 +1314,14 @@
     {
       "startedAt": "2026-06-27T08:24:53.416Z",
       "endedAt": "2026-06-27T08:26:28.939Z",
+      "scannedCandidates": 25,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-27T13:06:30.167Z",
+      "endedAt": "2026-06-27T13:07:50.753Z",
       "scannedCandidates": 25,
       "viableCandidates": 0,
       "sentNotifications": 0,
