@@ -1084,17 +1084,37 @@
       "sourceId": "apc-colombia",
       "url": "https://www.apccolombia.gov.co/quienes-somos/direccion-de-gestion-de-demanda-de-cooperacion-internacional",
       "viable": false
+    },
+    "h8c11b6a9": {
+      "at": "2026-06-28T02:28:11.718Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10402501",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "ha1d16a4e": {
+      "at": "2026-06-28T02:28:11.718Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10405336",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h65d202e1": {
+      "at": "2026-06-28T02:28:11.718Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10401881",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hbffd55a": {
+      "at": "2026-06-28T02:28:11.719Z",
+      "sourceId": "apc-colombia",
+      "url": "https://apccolombia.gov.co/seccion/modalidades-de-cooperacion",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-06-20T13:24:48.992Z",
-      "endedAt": "2026-06-20T13:25:58.076Z",
-      "scannedCandidates": 25,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-06-20T19:07:47.597Z",
       "endedAt": "2026-06-20T19:10:28.015Z",
@@ -1322,6 +1342,14 @@
     {
       "startedAt": "2026-06-27T19:02:36.004Z",
       "endedAt": "2026-06-27T19:04:40.786Z",
+      "scannedCandidates": 25,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-28T02:27:06.229Z",
+      "endedAt": "2026-06-28T02:28:11.721Z",
       "scannedCandidates": 25,
       "viableCandidates": 0,
       "sentNotifications": 0,
