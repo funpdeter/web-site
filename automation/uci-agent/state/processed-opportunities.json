@@ -1112,17 +1112,108 @@
       "url": "https://apccolombia.gov.co/seccion/modalidades-de-cooperacion",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "ha447ac6a": {
+      "at": "2026-06-29T02:29:55.394Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10387739",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-29T02-29-55-380Z_secop-ii_construccion-y-mejoramiento-de-la-institucion-educ"
+    },
+    "hc105e7eb": {
+      "at": "2026-06-29T02:29:55.395Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10396895",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-29T02-29-55-394Z_secop-ii_suministro-de-panales-para-los-adultos-mayores-del"
+    },
+    "hc995287f": {
+      "at": "2026-06-29T02:29:55.396Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10377344",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-29T02-29-55-395Z_secop-ii_fortalecimiento-de-la-unidad-de-servicios-publicos"
+    },
+    "h6ed5fc62": {
+      "at": "2026-06-29T02:29:55.396Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10369115",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h1b0591c5": {
+      "at": "2026-06-29T02:29:55.397Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10381413",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-29T02-29-55-396Z_secop-ii_samc-inder-268-2026"
+    },
+    "h1d1d73f": {
+      "at": "2026-06-29T02:29:55.397Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10388113",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-29T02-29-55-397Z_secop-ii_diagnostico-y-acompanamiento-para-la-implementacio"
+    },
+    "h8d84c9e5": {
+      "at": "2026-06-29T02:29:55.398Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10412728",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h875f4b7e": {
+      "at": "2026-06-29T02:29:55.398Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10346390",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h90829007": {
+      "at": "2026-06-29T02:29:55.398Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10412731",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-29T02-29-55-398Z_secop-ii_convenio-asociacion"
+    },
+    "h6829d520": {
+      "at": "2026-06-29T02:29:55.398Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10407549",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "he06bc77": {
+      "at": "2026-06-29T02:29:55.399Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10349037",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-29T02-29-55-398Z_secop-ii_adquisicion-de-una-ambulancia-de-transporte-asiste"
+    },
+    "hc06f320c": {
+      "at": "2026-06-29T02:29:55.399Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10390751",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h256bedf1": {
+      "at": "2026-06-29T02:29:55.400Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10407289",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-29T02-29-55-399Z_secop-ii_licenciamiento-y-provision-solucion-de-antivirus"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-06-21T13:45:38.648Z",
-      "endedAt": "2026-06-21T13:48:00.903Z",
-      "scannedCandidates": 25,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-06-21T19:13:02.861Z",
       "endedAt": "2026-06-21T19:15:17.753Z",
@@ -1352,6 +1443,14 @@
       "endedAt": "2026-06-28T19:02:41.216Z",
       "scannedCandidates": 25,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-06-29T02:27:53.459Z",
+      "endedAt": "2026-06-29T02:29:55.402Z",
+      "scannedCandidates": 24,
+      "viableCandidates": 8,
       "sentNotifications": 0,
       "transport": "console"
     }
