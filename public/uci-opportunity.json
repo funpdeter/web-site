@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-06-29T02:29:55.400Z",
+  "updatedAt": "2026-06-29T10:21:27.747Z",
   "opportunities": [
     {
       "id": "h7599ef78",
@@ -52,6 +52,40 @@
       "isViable": true,
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10377344",
       "publicationNumber": null
+    },
+    {
+      "id": "he69c4641",
+      "sourceId": "usaid",
+      "title": "Tribal Colleges and Universities Program",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-09-01T00:00:00.000Z",
+      "amount": 3500000,
+      "currency": "USD",
+      "amountUsd": 3500000,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://www.grants.gov/search-results-detail/334326",
+      "publicationNumber": null
+    },
+    {
+      "id": "h2c066308",
+      "sourceId": "minciencias",
+      "title": "CONVOCATORIA DE LA ASIGNACIÓN PARA LA CTeI DEL SGR PARA EL APROVECHAMIENTO SOSTENIBLE DE LA BIODIVERSIDAD",
+      "source": "Minciencias",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-07-31T10:19:35.221Z",
+      "amount": 749982430291,
+      "currency": "COP",
+      "amountUsd": 187495607.57275,
+      "scoreTotal": 19,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://minciencias.gov.co/convocatorias/plan-convocatorias-asctei-2025-2026/convocatoria-la-asignacion-para-la-ciencia",
+      "publicationNumber": "48"
     },
     {
       "id": "hd142aecb",
@@ -137,41 +171,7 @@
       "isViable": true,
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10396895",
       "publicationNumber": null
-    },
-    {
-      "id": "hb89ef579",
-      "sourceId": "secop-ii",
-      "title": "MANTENIMIENTO PREVENTIVO Y CORRECTIVO DEL SISTEMA HIDRÁULICO; SANEAMIENTO BÁSICO Y GESTIÓN DE EQUIPOS CONTRA INCENDIOS DE PROPIEDAD O AL SERVICIO DEL FDLT",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-06-30T00:00:00.000Z",
-      "amount": 7000000,
-      "currency": "COP",
-      "amountUsd": 1750,
-      "scoreTotal": 16,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10390751",
-      "publicationNumber": null
-    },
-    {
-      "id": "h1b61f11b",
-      "sourceId": "secop-ii",
-      "title": "MANTENIMINETO BIENES INMUEBLES VIG 2026",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-06-30T00:00:00.000Z",
-      "amount": null,
-      "currency": "",
-      "amountUsd": null,
-      "scoreTotal": 16,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10369115",
-      "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 10 | USA: 0 | EUROPA: 0"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 9 | USA: 1 | EUROPA: 0"
 }
