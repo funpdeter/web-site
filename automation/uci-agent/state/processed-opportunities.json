@@ -1211,17 +1211,16 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-06-29T02-29-55-399Z_secop-ii_licenciamiento-y-provision-solucion-de-antivirus"
+    },
+    "hcf852dce": {
+      "at": "2026-07-01T14:06:47.791Z",
+      "sourceId": "apc-colombia",
+      "url": "https://apccolombia.gov.co/index.php/modalidades-de-cooperacion/convocatorias/otras-convocatorias/convocatoria-2026-del-programa-de",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-06-24T02:08:43.205Z",
-      "endedAt": "2026-06-24T02:10:25.374Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-06-24T08:51:14.705Z",
       "endedAt": "2026-06-24T08:52:10.117Z",
@@ -1450,6 +1449,14 @@
       "startedAt": "2026-07-01T09:27:02.433Z",
       "endedAt": "2026-07-01T09:28:49.852Z",
       "scannedCandidates": 8,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-07-01T14:05:20.652Z",
+      "endedAt": "2026-07-01T14:06:47.794Z",
+      "scannedCandidates": 9,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
