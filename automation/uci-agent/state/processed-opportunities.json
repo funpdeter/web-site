@@ -1218,17 +1218,16 @@
       "url": "https://apccolombia.gov.co/index.php/modalidades-de-cooperacion/convocatorias/otras-convocatorias/convocatoria-2026-del-programa-de",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "h34d0ebb6": {
+      "at": "2026-07-02T02:09:40.307Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/374873-2026",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-06-24T14:03:55.791Z",
-      "endedAt": "2026-06-24T14:05:32.625Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-06-24T19:25:15.647Z",
       "endedAt": "2026-06-24T19:27:04.792Z",
@@ -1457,6 +1456,14 @@
       "startedAt": "2026-07-01T19:28:26.412Z",
       "endedAt": "2026-07-01T19:30:24.667Z",
       "scannedCandidates": 8,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-07-02T02:07:28.807Z",
+      "endedAt": "2026-07-02T02:09:40.311Z",
+      "scannedCandidates": 9,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
