@@ -1225,17 +1225,17 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/374873-2026",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "headc5f63": {
+      "at": "2026-07-02T19:08:53.882Z",
+      "sourceId": "usaid",
+      "url": "https://www.grants.gov/search-results-detail/363048",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-02T19-08-53-868Z_usaid_fy26-community-policing-development-cpd-microgrant"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-06-25T08:44:56.435Z",
-      "endedAt": "2026-06-25T08:47:14.541Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-06-25T14:01:06.168Z",
       "endedAt": "2026-06-25T14:02:12.855Z",
@@ -1465,6 +1465,14 @@
       "endedAt": "2026-07-02T13:28:40.358Z",
       "scannedCandidates": 8,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-07-02T19:07:20.857Z",
+      "endedAt": "2026-07-02T19:08:53.885Z",
+      "scannedCandidates": 10,
+      "viableCandidates": 1,
       "sentNotifications": 0,
       "transport": "console"
     }
