@@ -1239,17 +1239,132 @@
       "sourceId": "apc-colombia",
       "url": "https://www.apccolombia.gov.co/modalidades-de-cooperacion/convocatorias/otras-convocatorias/convocatoria-plataforma-triangular",
       "viable": false
+    },
+    "h1c3b0cca": {
+      "at": "2026-07-04T01:53:14.867Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10442412",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h50cbacbc": {
+      "at": "2026-07-04T01:53:14.867Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10428209",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h49caea64": {
+      "at": "2026-07-04T01:53:14.882Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10422157",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-04T01-53-14-868Z_secop-ii_servicio-integral-de-aseo-mantenimiento-y-cafeteri"
+    },
+    "h6020494f": {
+      "at": "2026-07-04T01:53:14.883Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10434195",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-04T01-53-14-882Z_secop-ii_adquisicion-de-equipamiento-basico-para-garantizar"
+    },
+    "hb3af7805": {
+      "at": "2026-07-04T01:53:14.883Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10445849",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h7d2712b": {
+      "at": "2026-07-04T01:53:14.884Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10438876",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-04T01-53-14-883Z_secop-ii_mantenimiento-equipos-de-monitoreo-manifestacion-d"
+    },
+    "hd06ace0e": {
+      "at": "2026-07-04T01:53:14.885Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10390775",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-04T01-53-14-884Z_secop-ii_elaboracion-de-estudios-disenos-complementarios-y-"
+    },
+    "hb8cf19a5": {
+      "at": "2026-07-04T01:53:14.885Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10392291",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-04T01-53-14-885Z_secop-ii_contratar-suministro-de-materiales-e-insumos-para-"
+    },
+    "h9200f3cb": {
+      "at": "2026-07-04T01:53:14.886Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10433723",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hf60e798e": {
+      "at": "2026-07-04T01:53:14.886Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10415801",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-04T01-53-14-886Z_secop-ii_prestacion-del-servicio-de-examenes-medicos-ocupac"
+    },
+    "h9fea6079": {
+      "at": "2026-07-04T01:53:14.887Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10396408",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-04T01-53-14-886Z_secop-ii_desarrollo-de-estrategias-de-narrativa-visual"
+    },
+    "h5416ade0": {
+      "at": "2026-07-04T01:53:14.887Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10440584",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h4ab317da": {
+      "at": "2026-07-04T01:53:14.887Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10443095",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-04T01-53-14-887Z_secop-ii_placa-huella-rural-manifestacion-de-interes-menor-"
+    },
+    "h3d527552": {
+      "at": "2026-07-04T01:53:14.888Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10436217",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-04T01-53-14-887Z_secop-ii_realizar-mantenimiento-preventivo-correctivo-y-sum"
+    },
+    "hef625fe3": {
+      "at": "2026-07-04T01:53:14.888Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10431912",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-04T01-53-14-888Z_secop-ii_desarrollo-de-una-agenda-de-actividades-que-permit"
+    },
+    "h65b4d93b": {
+      "at": "2026-07-04T01:53:14.889Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10420446",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-04T01-53-14-888Z_secop-ii_adquirir-el-servicio-de-soporte-tecnico-especializ"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-06-26T14:00:17.887Z",
-      "endedAt": "2026-06-26T14:02:20.350Z",
-      "scannedCandidates": 9,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-06-26T19:26:59.886Z",
       "endedAt": "2026-06-26T19:28:32.065Z",
@@ -1479,6 +1594,14 @@
       "endedAt": "2026-07-03T19:01:28.455Z",
       "scannedCandidates": 9,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-07-04T01:51:16.243Z",
+      "endedAt": "2026-07-04T01:53:14.893Z",
+      "scannedCandidates": 25,
+      "viableCandidates": 11,
       "sentNotifications": 0,
       "transport": "console"
     }
