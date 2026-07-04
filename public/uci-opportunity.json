@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-07-04T01:53:14.889Z",
+  "updatedAt": "2026-07-04T08:23:35.438Z",
   "opportunities": [
     {
       "id": "h19474b34",
@@ -52,6 +52,40 @@
       "isViable": true,
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10422157",
       "publicationNumber": null
+    },
+    {
+      "id": "he69c4641",
+      "sourceId": "usaid",
+      "title": "Tribal Colleges and Universities Program",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-09-01T00:00:00.000Z",
+      "amount": 3500000,
+      "currency": "USD",
+      "amountUsd": 3500000,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://www.grants.gov/search-results-detail/334326",
+      "publicationNumber": null
+    },
+    {
+      "id": "h2c066308",
+      "sourceId": "minciencias",
+      "title": "CONVOCATORIA DE LA ASIGNACIÓN PARA LA CTeI DEL SGR PARA EL APROVECHAMIENTO SOSTENIBLE DE LA BIODIVERSIDAD",
+      "source": "Minciencias",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-07-31T08:22:00.890Z",
+      "amount": 749982430291,
+      "currency": "COP",
+      "amountUsd": 187495607.57275,
+      "scoreTotal": 19,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://minciencias.gov.co/convocatorias/plan-convocatorias-asctei-2025-2026/convocatoria-la-asignacion-para-la-ciencia",
+      "publicationNumber": "48"
     },
     {
       "id": "hc89a917b",
@@ -137,41 +171,7 @@
       "isViable": true,
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10434195",
       "publicationNumber": null
-    },
-    {
-      "id": "he3c87100",
-      "sourceId": "secop-ii",
-      "title": "DESARROLLO DE ESTRATEGIAS DE NARRATIVA VISUAL",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-07-06T00:00:00.000Z",
-      "amount": 100000000,
-      "currency": "COP",
-      "amountUsd": 25000,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10396408",
-      "publicationNumber": null
-    },
-    {
-      "id": "h7ec228e",
-      "sourceId": "secop-ii",
-      "title": "DESARROLLO DE UNA AGENDA DE ACTIVIDADES QUE PERMITA LA CAPACITACION Y MEJORA DE CANALES DE COMERCIALIZACION DE LOS DIFERENTES SECTORES ECONOMICOS DE LA CIUDAD",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-07-06T00:00:00.000Z",
-      "amount": 77252420,
-      "currency": "COP",
-      "amountUsd": 19313.105,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10431912",
-      "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 10 | USA: 0 | EUROPA: 0"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 9 | USA: 1 | EUROPA: 0"
 }
