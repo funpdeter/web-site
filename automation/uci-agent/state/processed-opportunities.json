@@ -1362,17 +1362,40 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-04T01-53-14-888Z_secop-ii_adquirir-el-servicio-de-soporte-tecnico-especializ"
+    },
+    "hc8de2ab2": {
+      "at": "2026-07-04T18:56:51.194Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10410406",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-04T18-56-51-180Z_secop-ii_insumo-de-muestras"
+    },
+    "h389c84f3": {
+      "at": "2026-07-04T18:56:51.195Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10429522",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hde356d1": {
+      "at": "2026-07-04T18:56:51.195Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10453046",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-04T18-56-51-195Z_secop-ii_prestacion-de-servicio-de-monitoreo-cgm-servicio-g"
+    },
+    "h74baa100": {
+      "at": "2026-07-04T18:56:51.196Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10403853",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-04T18-56-51-196Z_secop-ii_compraventa-epps-cdtci-presentacion-de-oferta"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-06-27T08:24:53.416Z",
-      "endedAt": "2026-06-27T08:26:28.939Z",
-      "scannedCandidates": 25,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-06-27T13:06:30.167Z",
       "endedAt": "2026-06-27T13:07:50.753Z",
@@ -1602,6 +1625,14 @@
       "endedAt": "2026-07-04T12:59:26.504Z",
       "scannedCandidates": 25,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-07-04T18:54:41.730Z",
+      "endedAt": "2026-07-04T18:56:51.199Z",
+      "scannedCandidates": 25,
+      "viableCandidates": 3,
       "sentNotifications": 0,
       "transport": "console"
     }

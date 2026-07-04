@@ -1,7 +1,91 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-07-04T12:59:26.502Z",
+  "updatedAt": "2026-07-04T18:56:51.197Z",
   "opportunities": [
+    {
+      "id": "ha099684",
+      "sourceId": "secop-ii",
+      "title": "PRESTACIÓN DE SERVICIO DE MONITOREO (CGM); SERVICIO GREEN LAKE Y BOLSA DE SERVICIOS COMPLEMENTARIOS PARA LA INFRAESTRUCTURA DE TECNOLOGÍAS DE LA INFORMACIÓN DE LA ADMINISTRACIÓN MUNICIPAL DE RIONEGRO;",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-07-06T00:00:00.000Z",
+      "amount": 174485447,
+      "currency": "COP",
+      "amountUsd": 43621.36175,
+      "scoreTotal": 17,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10453046",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-07-04T18:56:51.197Z",
+      "lastSeenAt": "2026-07-04T18:56:51.197Z",
+      "lastPublishedAt": "2026-07-04T18:56:51.197Z",
+      "isArchived": false
+    },
+    {
+      "id": "ha8992eed",
+      "sourceId": "secop-ii",
+      "title": "COMPRAVENTA EPPs CDTCI (Presentación de oferta)",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-07-06T00:00:00.000Z",
+      "amount": 427014250,
+      "currency": "COP",
+      "amountUsd": 106753.5625,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10403853",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-07-04T18:56:51.197Z",
+      "lastSeenAt": "2026-07-04T18:56:51.197Z",
+      "lastPublishedAt": "2026-07-04T18:56:51.197Z",
+      "isArchived": false
+    },
+    {
+      "id": "he439d0f",
+      "sourceId": "secop-ii",
+      "title": "INSUMO DE MUESTRAS",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-07-06T00:00:00.000Z",
+      "amount": 37722899,
+      "currency": "COP",
+      "amountUsd": 9430.72475,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10410406",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-07-04T18:56:51.197Z",
+      "lastSeenAt": "2026-07-04T18:56:51.197Z",
+      "lastPublishedAt": "2026-07-04T18:56:51.197Z",
+      "isArchived": false
+    },
+    {
+      "id": "h1d8dfc52",
+      "sourceId": "secop-ii",
+      "title": "SUMINISTRO DE VESTUARIO Y CALZADO CORRESPONDIENTE A LA DOTACIÓN DEL AÑO 2026 PARA LOS FUNCIONARIOS DEL  COLEGIO DE BOYACÁ - LOTE 1",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-07-06T00:00:00.000Z",
+      "amount": 17171666,
+      "currency": "COP",
+      "amountUsd": 4292.9165,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10429522",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-07-04T18:56:51.197Z",
+      "lastSeenAt": "2026-07-04T18:56:51.197Z",
+      "lastPublishedAt": "2026-07-04T18:56:51.197Z",
+      "isArchived": false
+    },
     {
       "id": "h19474b34",
       "sourceId": "secop-ii",
@@ -21,7 +105,7 @@
       "firstSeenAt": "2026-07-04T01:53:14.890Z",
       "lastSeenAt": "2026-07-04T12:59:26.502Z",
       "lastPublishedAt": "2026-07-04T12:59:26.502Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h43ed4b2b",
@@ -42,7 +126,7 @@
       "firstSeenAt": "2026-07-04T01:53:14.890Z",
       "lastSeenAt": "2026-07-04T12:59:26.502Z",
       "lastPublishedAt": "2026-07-04T12:59:26.502Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h601815a1",
@@ -63,7 +147,7 @@
       "firstSeenAt": "2026-07-04T01:53:14.890Z",
       "lastSeenAt": "2026-07-04T12:59:26.502Z",
       "lastPublishedAt": "2026-07-04T12:59:26.502Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hc89a917b",
@@ -84,7 +168,7 @@
       "firstSeenAt": "2026-07-04T01:53:14.890Z",
       "lastSeenAt": "2026-07-04T12:59:26.502Z",
       "lastPublishedAt": "2026-07-04T12:59:26.502Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hb55b0ab",
@@ -105,7 +189,7 @@
       "firstSeenAt": "2026-07-04T01:53:14.890Z",
       "lastSeenAt": "2026-07-04T12:59:26.502Z",
       "lastPublishedAt": "2026-07-04T12:59:26.502Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h1181721e",
@@ -126,7 +210,7 @@
       "firstSeenAt": "2026-07-04T01:53:14.890Z",
       "lastSeenAt": "2026-07-04T12:59:26.502Z",
       "lastPublishedAt": "2026-07-04T12:59:26.502Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h2b1f7c0b",
@@ -147,7 +231,7 @@
       "firstSeenAt": "2026-07-04T01:53:14.890Z",
       "lastSeenAt": "2026-07-04T12:59:26.502Z",
       "lastPublishedAt": "2026-07-04T12:59:26.502Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h51affc8a",
@@ -168,7 +252,7 @@
       "firstSeenAt": "2026-07-04T01:53:14.890Z",
       "lastSeenAt": "2026-07-04T12:59:26.502Z",
       "lastPublishedAt": "2026-07-04T12:59:26.502Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he3c87100",
@@ -189,7 +273,7 @@
       "firstSeenAt": "2026-07-04T01:53:14.890Z",
       "lastSeenAt": "2026-07-04T12:59:26.502Z",
       "lastPublishedAt": "2026-07-04T12:59:26.502Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h7ec228e",
@@ -210,7 +294,7 @@
       "firstSeenAt": "2026-07-04T01:53:14.890Z",
       "lastSeenAt": "2026-07-04T12:59:26.502Z",
       "lastPublishedAt": "2026-07-04T12:59:26.502Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h462b7b32",
@@ -231,7 +315,7 @@
       "firstSeenAt": "2026-07-04T01:53:14.890Z",
       "lastSeenAt": "2026-07-04T12:59:26.502Z",
       "lastPublishedAt": "2026-07-04T12:59:26.502Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h858bc1f5",
@@ -252,7 +336,7 @@
       "firstSeenAt": "2026-07-04T01:53:14.890Z",
       "lastSeenAt": "2026-07-04T12:59:26.502Z",
       "lastPublishedAt": "2026-07-04T12:59:26.502Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h4c4e4e16",
@@ -273,7 +357,7 @@
       "firstSeenAt": "2026-07-04T01:53:14.890Z",
       "lastSeenAt": "2026-07-04T12:59:26.502Z",
       "lastPublishedAt": "2026-07-04T12:59:26.502Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hc674163b",
@@ -294,7 +378,7 @@
       "firstSeenAt": "2026-07-04T01:53:14.890Z",
       "lastSeenAt": "2026-07-04T12:59:26.502Z",
       "lastPublishedAt": "2026-07-04T12:59:26.502Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h72da0b84",
@@ -315,7 +399,7 @@
       "firstSeenAt": "2026-07-04T01:53:14.890Z",
       "lastSeenAt": "2026-07-04T12:59:26.502Z",
       "lastPublishedAt": "2026-07-04T12:59:26.502Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha1316fb9",
@@ -336,7 +420,7 @@
       "firstSeenAt": "2026-07-04T01:53:14.890Z",
       "lastSeenAt": "2026-07-04T12:59:26.502Z",
       "lastPublishedAt": "2026-07-04T12:59:26.502Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h6984390",
@@ -357,7 +441,7 @@
       "firstSeenAt": "2026-07-02T19:08:53.883Z",
       "lastSeenAt": "2026-07-04T12:59:26.502Z",
       "lastPublishedAt": "2026-07-04T12:59:26.502Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he69c4641",
@@ -378,7 +462,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-04T12:59:26.502Z",
       "lastPublishedAt": "2026-07-04T12:59:26.502Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd42464ed",
@@ -399,7 +483,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-04T12:59:26.502Z",
       "lastPublishedAt": "2026-07-04T12:59:26.502Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h30bc098a",
@@ -420,7 +504,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-04T12:59:26.502Z",
       "lastPublishedAt": "2026-07-04T12:59:26.502Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h40b35418",
@@ -441,7 +525,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-04T12:59:26.502Z",
       "lastPublishedAt": "2026-07-04T12:59:26.502Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h57f1fd46",
@@ -462,7 +546,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-04T12:59:26.502Z",
       "lastPublishedAt": "2026-07-04T12:59:26.502Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "haa59e97b",
@@ -483,7 +567,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-04T12:59:26.502Z",
       "lastPublishedAt": "2026-07-04T12:59:26.502Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h1ad458ac",
@@ -504,7 +588,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-04T12:59:26.502Z",
       "lastPublishedAt": "2026-07-04T12:59:26.502Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h2c066308",
@@ -525,7 +609,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-04T12:59:26.502Z",
       "lastPublishedAt": "2026-07-04T12:59:26.502Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h2086dc83",
@@ -2229,5 +2313,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 106 | Archivadas: 81"
+  "message": "Historico acumulado del agente UCI-F. Total: 110 | Archivadas: 106"
 }
