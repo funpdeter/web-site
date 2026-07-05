@@ -1411,17 +1411,41 @@
       "sourceId": "mintic",
       "url": "https://mintic.gov.co/portal/715/w3-article-326747.html",
       "viable": false
+    },
+    "h2158dfe1": {
+      "at": "2026-07-05T19:01:06.236Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10440046",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-05T19-01-06-221Z_secop-ii_papeleria"
+    },
+    "hc57b14fa": {
+      "at": "2026-07-05T19:01:06.236Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10440753",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-05T19-01-06-236Z_secop-ii_reparacion-y-adecuacion-de-la-cubierta-del-area-de"
+    },
+    "h4c32dc9b": {
+      "at": "2026-07-05T19:01:06.237Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10430357",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-05T19-01-06-237Z_secop-ii_actualizacion-soporte-y-mantenimiento-de-la-pagina"
+    },
+    "h6e91f25b": {
+      "at": "2026-07-05T19:01:06.238Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10416674",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-05T19-01-06-237Z_secop-ii_prestacion-de-servicios-de-formacion-y-capacitacio"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-06-28T08:39:01.913Z",
-      "endedAt": "2026-06-28T08:41:03.035Z",
-      "scannedCandidates": 25,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-06-28T13:12:53.114Z",
       "endedAt": "2026-06-28T13:14:51.332Z",
@@ -1651,6 +1675,14 @@
       "endedAt": "2026-07-05T13:06:20.066Z",
       "scannedCandidates": 25,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-07-05T18:59:23.794Z",
+      "endedAt": "2026-07-05T19:01:06.241Z",
+      "scannedCandidates": 25,
+      "viableCandidates": 4,
       "sentNotifications": 0,
       "transport": "console"
     }
