@@ -1393,17 +1393,27 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-04T18-56-51-196Z_secop-ii_compraventa-epps-cdtci-presentacion-de-oferta"
+    },
+    "hce667a1b": {
+      "at": "2026-07-05T01:57:48.780Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/articles-162146_FTIC_CM_003_2026.pdf",
+      "viable": false
+    },
+    "h417ab0cb": {
+      "at": "2026-07-05T01:57:49.780Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/articles-162146_FTIC_SAPMC_003_2026.pdf",
+      "viable": false
+    },
+    "h7727f662": {
+      "at": "2026-07-05T01:57:50.903Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-article-326747.html",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-06-27T13:06:30.167Z",
-      "endedAt": "2026-06-27T13:07:50.753Z",
-      "scannedCandidates": 25,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-06-27T19:02:36.004Z",
       "endedAt": "2026-06-27T19:04:40.786Z",
@@ -1633,6 +1643,14 @@
       "endedAt": "2026-07-04T18:56:51.199Z",
       "scannedCandidates": 25,
       "viableCandidates": 3,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-07-05T01:57:29.220Z",
+      "endedAt": "2026-07-05T01:59:11.330Z",
+      "scannedCandidates": 25,
+      "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
     }
