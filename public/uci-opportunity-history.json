@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-07-07T02:00:39.406Z",
+  "updatedAt": "2026-07-07T09:23:09.479Z",
   "opportunities": [
+    {
+      "id": "h9ee36ca9",
+      "sourceId": "usaid",
+      "title": "FY 2026 Bank Enterprise Award Program Application",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-07-24T00:00:00.000Z",
+      "amount": 600000,
+      "currency": "USD",
+      "amountUsd": 600000,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/362985",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-07-07T09:23:09.479Z",
+      "lastSeenAt": "2026-07-07T09:23:09.479Z",
+      "lastPublishedAt": "2026-07-07T09:23:09.479Z",
+      "isArchived": false
+    },
     {
       "id": "hf6e076fd",
       "sourceId": "ted-europa",
@@ -21,7 +42,7 @@
       "firstSeenAt": "2026-07-06T14:57:51.590Z",
       "lastSeenAt": "2026-07-07T02:00:39.406Z",
       "lastPublishedAt": "2026-07-07T02:00:39.406Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h6984390",
@@ -42,7 +63,7 @@
       "firstSeenAt": "2026-07-02T19:08:53.883Z",
       "lastSeenAt": "2026-07-07T02:00:39.406Z",
       "lastPublishedAt": "2026-07-07T02:00:39.406Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he69c4641",
@@ -63,7 +84,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-07T02:00:39.406Z",
       "lastPublishedAt": "2026-07-07T02:00:39.406Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd42464ed",
@@ -84,7 +105,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-07T02:00:39.406Z",
       "lastPublishedAt": "2026-07-07T02:00:39.406Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h40b35418",
@@ -105,7 +126,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-07T02:00:39.406Z",
       "lastPublishedAt": "2026-07-07T02:00:39.406Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h57f1fd46",
@@ -126,7 +147,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-07T02:00:39.406Z",
       "lastPublishedAt": "2026-07-07T02:00:39.406Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h1ad458ac",
@@ -147,7 +168,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-07T02:00:39.406Z",
       "lastPublishedAt": "2026-07-07T02:00:39.406Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h2c066308",
@@ -168,7 +189,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-07T02:00:39.406Z",
       "lastPublishedAt": "2026-07-07T02:00:39.406Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha3f4dfae",
@@ -2418,5 +2439,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 115 | Archivadas: 107"
+  "message": "Historico acumulado del agente UCI-F. Total: 116 | Archivadas: 115"
 }
