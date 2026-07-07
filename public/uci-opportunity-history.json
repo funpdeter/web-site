@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-07-06T19:40:18.225Z",
+  "updatedAt": "2026-07-07T02:00:39.406Z",
   "opportunities": [
+    {
+      "id": "hf6e076fd",
+      "sourceId": "ted-europa",
+      "title": "Italy – Property management services of real estate on a fee or contract basis – Gestione amministrativa, tecnica e di supporto alla valorizzazione del Patrimonio Immobiliare da reddito dell’INPS",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-07-09T00:00:00.000Z",
+      "amount": 54838334.17,
+      "currency": "EUR",
+      "amountUsd": 59225400.90360001,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/388465-2026",
+      "publicationNumber": "388465-2026",
+      "firstSeenAt": "2026-07-06T14:57:51.590Z",
+      "lastSeenAt": "2026-07-07T02:00:39.406Z",
+      "lastPublishedAt": "2026-07-07T02:00:39.406Z",
+      "isArchived": false
+    },
     {
       "id": "h6984390",
       "sourceId": "usaid",
@@ -19,8 +40,8 @@
       "url": "https://www.grants.gov/search-results-detail/363048",
       "publicationNumber": null,
       "firstSeenAt": "2026-07-02T19:08:53.883Z",
-      "lastSeenAt": "2026-07-06T19:40:18.225Z",
-      "lastPublishedAt": "2026-07-06T19:40:18.225Z",
+      "lastSeenAt": "2026-07-07T02:00:39.406Z",
+      "lastPublishedAt": "2026-07-07T02:00:39.406Z",
       "isArchived": false
     },
     {
@@ -40,8 +61,8 @@
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-07-06T19:40:18.225Z",
-      "lastPublishedAt": "2026-07-06T19:40:18.225Z",
+      "lastSeenAt": "2026-07-07T02:00:39.406Z",
+      "lastPublishedAt": "2026-07-07T02:00:39.406Z",
       "isArchived": false
     },
     {
@@ -61,8 +82,8 @@
       "url": "https://www.grants.gov/search-results-detail/353413",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-07-06T19:40:18.225Z",
-      "lastPublishedAt": "2026-07-06T19:40:18.225Z",
+      "lastSeenAt": "2026-07-07T02:00:39.406Z",
+      "lastPublishedAt": "2026-07-07T02:00:39.406Z",
       "isArchived": false
     },
     {
@@ -82,8 +103,8 @@
       "url": "https://www.grants.gov/search-results-detail/344124",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-07-06T19:40:18.225Z",
-      "lastPublishedAt": "2026-07-06T19:40:18.225Z",
+      "lastSeenAt": "2026-07-07T02:00:39.406Z",
+      "lastPublishedAt": "2026-07-07T02:00:39.406Z",
       "isArchived": false
     },
     {
@@ -103,8 +124,8 @@
       "url": "https://www.grants.gov/search-results-detail/362373",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-07-06T19:40:18.225Z",
-      "lastPublishedAt": "2026-07-06T19:40:18.225Z",
+      "lastSeenAt": "2026-07-07T02:00:39.406Z",
+      "lastPublishedAt": "2026-07-07T02:00:39.406Z",
       "isArchived": false
     },
     {
@@ -124,8 +145,8 @@
       "url": "https://www.grants.gov/search-results-detail/355100",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-07-06T19:40:18.225Z",
-      "lastPublishedAt": "2026-07-06T19:40:18.225Z",
+      "lastSeenAt": "2026-07-07T02:00:39.406Z",
+      "lastPublishedAt": "2026-07-07T02:00:39.406Z",
       "isArchived": false
     },
     {
@@ -135,7 +156,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-07-31T19:39:31.845Z",
+      "deadline": "2026-07-31T01:59:32.857Z",
       "amount": 749982430291,
       "currency": "COP",
       "amountUsd": 187495607.57275,
@@ -145,30 +166,9 @@
       "url": "https://minciencias.gov.co/convocatorias/plan-convocatorias-asctei-2025-2026/convocatoria-la-asignacion-para-la-ciencia",
       "publicationNumber": "48",
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-07-06T19:40:18.225Z",
-      "lastPublishedAt": "2026-07-06T19:40:18.225Z",
+      "lastSeenAt": "2026-07-07T02:00:39.406Z",
+      "lastPublishedAt": "2026-07-07T02:00:39.406Z",
       "isArchived": false
-    },
-    {
-      "id": "hf6e076fd",
-      "sourceId": "ted-europa",
-      "title": "Italy – Property management services of real estate on a fee or contract basis – Gestione amministrativa, tecnica e di supporto alla valorizzazione del Patrimonio Immobiliare da reddito dell’INPS",
-      "source": "TED Europa",
-      "sourceTier": "internacional",
-      "region": "EUROPA",
-      "deadline": "2026-07-09T00:00:00.000Z",
-      "amount": 54838334.17,
-      "currency": "EUR",
-      "amountUsd": 59225400.90360001,
-      "scoreTotal": 14,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/388465-2026",
-      "publicationNumber": "388465-2026",
-      "firstSeenAt": "2026-07-06T14:57:51.590Z",
-      "lastSeenAt": "2026-07-06T14:57:51.590Z",
-      "lastPublishedAt": "2026-07-06T14:57:51.590Z",
-      "isArchived": true
     },
     {
       "id": "ha3f4dfae",
@@ -2418,5 +2418,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 115 | Archivadas: 108"
+  "message": "Historico acumulado del agente UCI-F. Total: 115 | Archivadas: 107"
 }
