@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-07-07T19:40:00.438Z",
+  "updatedAt": "2026-07-08T01:30:52.886Z",
   "opportunities": [
     {
       "id": "h9ee36ca9",
@@ -19,8 +19,8 @@
       "url": "https://www.grants.gov/search-results-detail/362985",
       "publicationNumber": null,
       "firstSeenAt": "2026-07-07T09:23:09.479Z",
-      "lastSeenAt": "2026-07-07T19:40:00.438Z",
-      "lastPublishedAt": "2026-07-07T19:40:00.438Z",
+      "lastSeenAt": "2026-07-08T01:30:52.886Z",
+      "lastPublishedAt": "2026-07-08T01:30:52.886Z",
       "isArchived": false
     },
     {
@@ -40,8 +40,8 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/388465-2026",
       "publicationNumber": "388465-2026",
       "firstSeenAt": "2026-07-06T14:57:51.590Z",
-      "lastSeenAt": "2026-07-07T19:40:00.438Z",
-      "lastPublishedAt": "2026-07-07T19:40:00.438Z",
+      "lastSeenAt": "2026-07-08T01:30:52.886Z",
+      "lastPublishedAt": "2026-07-08T01:30:52.886Z",
       "isArchived": false
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.grants.gov/search-results-detail/363048",
       "publicationNumber": null,
       "firstSeenAt": "2026-07-02T19:08:53.883Z",
-      "lastSeenAt": "2026-07-07T19:40:00.438Z",
-      "lastPublishedAt": "2026-07-07T19:40:00.438Z",
+      "lastSeenAt": "2026-07-08T01:30:52.886Z",
+      "lastPublishedAt": "2026-07-08T01:30:52.886Z",
       "isArchived": false
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-07-07T19:40:00.438Z",
-      "lastPublishedAt": "2026-07-07T19:40:00.438Z",
+      "lastSeenAt": "2026-07-08T01:30:52.886Z",
+      "lastPublishedAt": "2026-07-08T01:30:52.886Z",
       "isArchived": false
     },
     {
@@ -103,8 +103,8 @@
       "url": "https://www.grants.gov/search-results-detail/353413",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-07-07T19:40:00.438Z",
-      "lastPublishedAt": "2026-07-07T19:40:00.438Z",
+      "lastSeenAt": "2026-07-08T01:30:52.886Z",
+      "lastPublishedAt": "2026-07-08T01:30:52.886Z",
       "isArchived": false
     },
     {
@@ -124,8 +124,8 @@
       "url": "https://www.grants.gov/search-results-detail/344124",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-07-07T19:40:00.438Z",
-      "lastPublishedAt": "2026-07-07T19:40:00.438Z",
+      "lastSeenAt": "2026-07-08T01:30:52.886Z",
+      "lastPublishedAt": "2026-07-08T01:30:52.886Z",
       "isArchived": false
     },
     {
@@ -145,8 +145,8 @@
       "url": "https://www.grants.gov/search-results-detail/362373",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-07-07T19:40:00.438Z",
-      "lastPublishedAt": "2026-07-07T19:40:00.438Z",
+      "lastSeenAt": "2026-07-08T01:30:52.886Z",
+      "lastPublishedAt": "2026-07-08T01:30:52.886Z",
       "isArchived": false
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://www.grants.gov/search-results-detail/355100",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-07-07T19:40:00.438Z",
-      "lastPublishedAt": "2026-07-07T19:40:00.438Z",
+      "lastSeenAt": "2026-07-08T01:30:52.886Z",
+      "lastPublishedAt": "2026-07-08T01:30:52.886Z",
       "isArchived": false
     },
     {
@@ -177,7 +177,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-07-31T19:38:43.733Z",
+      "deadline": "2026-07-31T01:29:05.384Z",
       "amount": 749982430291,
       "currency": "COP",
       "amountUsd": 187495607.57275,
@@ -187,8 +187,8 @@
       "url": "https://minciencias.gov.co/convocatorias/plan-convocatorias-asctei-2025-2026/convocatoria-la-asignacion-para-la-ciencia",
       "publicationNumber": "48",
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-07-07T19:40:00.438Z",
-      "lastPublishedAt": "2026-07-07T19:40:00.438Z",
+      "lastSeenAt": "2026-07-08T01:30:52.886Z",
+      "lastPublishedAt": "2026-07-08T01:30:52.886Z",
       "isArchived": false
     },
     {
