@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-07-08T08:08:12.656Z",
+  "updatedAt": "2026-07-08T13:30:20.058Z",
   "opportunities": [
+    {
+      "id": "hc71a7e6c",
+      "sourceId": "apc-colombia",
+      "title": "Convocatoria para el fortalecimiento de la Secretaría de Fronteras y Cooperación Internacional de la Gobernación de Santander | Agencia Presidencial de Cooperación Internacional",
+      "source": "APC Colombia",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-07-17T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 17,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://apccolombia.gov.co/index.php/modalidades-de-cooperacion/convocatorias/otras-convocatorias/convocatoria-para-el-fortalecimiento",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-07-08T13:30:20.058Z",
+      "lastSeenAt": "2026-07-08T13:30:20.058Z",
+      "lastPublishedAt": "2026-07-08T13:30:20.058Z",
+      "isArchived": false
+    },
     {
       "id": "h9ee36ca9",
       "sourceId": "usaid",
@@ -21,7 +42,7 @@
       "firstSeenAt": "2026-07-07T09:23:09.479Z",
       "lastSeenAt": "2026-07-08T08:08:12.656Z",
       "lastPublishedAt": "2026-07-08T08:08:12.656Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf6e076fd",
@@ -42,7 +63,7 @@
       "firstSeenAt": "2026-07-06T14:57:51.590Z",
       "lastSeenAt": "2026-07-08T08:08:12.656Z",
       "lastPublishedAt": "2026-07-08T08:08:12.656Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h6984390",
@@ -63,7 +84,7 @@
       "firstSeenAt": "2026-07-02T19:08:53.883Z",
       "lastSeenAt": "2026-07-08T08:08:12.656Z",
       "lastPublishedAt": "2026-07-08T08:08:12.656Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he69c4641",
@@ -84,7 +105,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-08T08:08:12.656Z",
       "lastPublishedAt": "2026-07-08T08:08:12.656Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd42464ed",
@@ -105,7 +126,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-08T08:08:12.656Z",
       "lastPublishedAt": "2026-07-08T08:08:12.656Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h40b35418",
@@ -126,7 +147,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-08T08:08:12.656Z",
       "lastPublishedAt": "2026-07-08T08:08:12.656Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h57f1fd46",
@@ -147,7 +168,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-08T08:08:12.656Z",
       "lastPublishedAt": "2026-07-08T08:08:12.656Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h1ad458ac",
@@ -168,7 +189,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-08T08:08:12.656Z",
       "lastPublishedAt": "2026-07-08T08:08:12.656Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h2c066308",
@@ -189,7 +210,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-08T08:08:12.656Z",
       "lastPublishedAt": "2026-07-08T08:08:12.656Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha3f4dfae",
@@ -2439,5 +2460,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 116 | Archivadas: 107"
+  "message": "Historico acumulado del agente UCI-F. Total: 117 | Archivadas: 116"
 }
