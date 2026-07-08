@@ -1464,17 +1464,16 @@
       "url": "https://apccolombia.gov.co/index.php/modalidades-de-cooperacion/convocatorias/otras-convocatorias/convocatoria-para-el-fortalecimiento",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "h411afef": {
+      "at": "2026-07-08T19:07:08.623Z",
+      "sourceId": "usaid",
+      "url": "https://www.grants.gov/search-results-detail/363109",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-07-01T09:27:02.433Z",
-      "endedAt": "2026-07-01T09:28:49.852Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-07-01T14:05:20.652Z",
       "endedAt": "2026-07-01T14:06:47.794Z",
@@ -1703,6 +1702,14 @@
       "startedAt": "2026-07-08T13:28:34.630Z",
       "endedAt": "2026-07-08T13:30:20.060Z",
       "scannedCandidates": 10,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-07-08T19:04:59.617Z",
+      "endedAt": "2026-07-08T19:07:08.627Z",
+      "scannedCandidates": 9,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"

@@ -1,24 +1,24 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-07-08T13:30:20.057Z",
+  "updatedAt": "2026-07-08T19:07:08.624Z",
   "opportunities": [
     {
-      "id": "hc71a7e6c",
-      "sourceId": "apc-colombia",
-      "title": "Convocatoria para el fortalecimiento de la Secretaría de Fronteras y Cooperación Internacional de la Gobernación de Santander | Agencia Presidencial de Cooperación Internacional",
-      "source": "APC Colombia",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-07-17T00:00:00.000Z",
-      "amount": null,
-      "currency": "",
-      "amountUsd": null,
-      "scoreTotal": 17,
-      "recommendation": "Aplicar con alianza",
+      "id": "hfc395f6c",
+      "sourceId": "usaid",
+      "title": "Secondary Education, Two-Year Postsecondary Education, and Agriculture in the K-12 Classroom Challenge Grants Program",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-07-27T00:00:00.000Z",
+      "amount": 150000,
+      "currency": "USD",
+      "amountUsd": 150000,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
       "isViable": false,
-      "url": "https://apccolombia.gov.co/index.php/modalidades-de-cooperacion/convocatorias/otras-convocatorias/convocatoria-para-el-fortalecimiento",
+      "url": "https://www.grants.gov/search-results-detail/363109",
       "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 1 | USA: 0 | EUROPA: 0"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 1 | EUROPA: 0"
 }
