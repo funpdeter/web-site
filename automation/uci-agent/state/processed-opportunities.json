@@ -1471,17 +1471,17 @@
       "url": "https://www.grants.gov/search-results-detail/363109",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "hf8161a39": {
+      "at": "2026-07-09T14:30:28.339Z",
+      "sourceId": "usaid",
+      "url": "https://www.grants.gov/search-results-detail/363121",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-09T14-30-28-325Z_usaid_freedom250-advancing-u-s-artificial-intelligence-l"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-07-02T02:07:28.807Z",
-      "endedAt": "2026-07-02T02:09:40.311Z",
-      "scannedCandidates": 9,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-07-02T08:39:57.434Z",
       "endedAt": "2026-07-02T08:41:10.903Z",
@@ -1711,6 +1711,14 @@
       "endedAt": "2026-07-09T09:20:40.125Z",
       "scannedCandidates": 8,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-07-09T14:28:15.443Z",
+      "endedAt": "2026-07-09T14:30:28.343Z",
+      "scannedCandidates": 8,
+      "viableCandidates": 1,
       "sentNotifications": 0,
       "transport": "console"
     }

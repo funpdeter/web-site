@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-07-09T09:20:40.123Z",
+  "updatedAt": "2026-07-09T14:30:28.340Z",
   "opportunities": [
+    {
+      "id": "h78341272",
+      "sourceId": "usaid",
+      "title": "Freedom250 Advancing U.S. Artificial Intelligence Leadership in Algeria",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-08-10T00:00:00.000Z",
+      "amount": 30000,
+      "currency": "USD",
+      "amountUsd": 30000,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://www.grants.gov/search-results-detail/363121",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-07-09T14:30:28.340Z",
+      "lastSeenAt": "2026-07-09T14:30:28.340Z",
+      "lastPublishedAt": "2026-07-09T14:30:28.340Z",
+      "isArchived": false
+    },
     {
       "id": "hfc395f6c",
       "sourceId": "usaid",
@@ -21,7 +42,7 @@
       "firstSeenAt": "2026-07-08T19:07:08.625Z",
       "lastSeenAt": "2026-07-09T09:20:40.123Z",
       "lastPublishedAt": "2026-07-09T09:20:40.123Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h9ee36ca9",
@@ -42,7 +63,7 @@
       "firstSeenAt": "2026-07-07T09:23:09.479Z",
       "lastSeenAt": "2026-07-09T09:20:40.123Z",
       "lastPublishedAt": "2026-07-09T09:20:40.123Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h6984390",
@@ -63,7 +84,7 @@
       "firstSeenAt": "2026-07-02T19:08:53.883Z",
       "lastSeenAt": "2026-07-09T09:20:40.123Z",
       "lastPublishedAt": "2026-07-09T09:20:40.123Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he69c4641",
@@ -84,7 +105,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-09T09:20:40.123Z",
       "lastPublishedAt": "2026-07-09T09:20:40.123Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd42464ed",
@@ -105,7 +126,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-09T09:20:40.123Z",
       "lastPublishedAt": "2026-07-09T09:20:40.123Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h40b35418",
@@ -126,7 +147,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-09T09:20:40.123Z",
       "lastPublishedAt": "2026-07-09T09:20:40.123Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h1ad458ac",
@@ -147,7 +168,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-09T09:20:40.123Z",
       "lastPublishedAt": "2026-07-09T09:20:40.123Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h2c066308",
@@ -168,7 +189,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-09T09:20:40.123Z",
       "lastPublishedAt": "2026-07-09T09:20:40.123Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hc71a7e6c",
@@ -2481,5 +2502,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 118 | Archivadas: 110"
+  "message": "Historico acumulado del agente UCI-F. Total: 119 | Archivadas: 118"
 }
