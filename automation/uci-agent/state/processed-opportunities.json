@@ -1479,17 +1479,16 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-09T14-30-28-325Z_usaid_freedom250-advancing-u-s-artificial-intelligence-l"
+    },
+    "ha63d87f9": {
+      "at": "2026-07-10T01:52:06.818Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/395321-2026",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-07-02T13:27:16.072Z",
-      "endedAt": "2026-07-02T13:28:40.358Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-07-02T19:07:20.857Z",
       "endedAt": "2026-07-02T19:08:53.885Z",
@@ -1718,6 +1717,14 @@
       "startedAt": "2026-07-09T19:19:56.168Z",
       "endedAt": "2026-07-09T19:21:45.050Z",
       "scannedCandidates": 8,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-07-10T01:49:58.383Z",
+      "endedAt": "2026-07-10T01:52:06.821Z",
+      "scannedCandidates": 9,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
