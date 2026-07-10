@@ -1486,17 +1486,15 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/395321-2026",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "h9ce5d6af": {
+      "at": "2026-07-10T13:55:32.352Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/index.php/seccion/modalidades-de-cooperacion/cooperacion-sur-sur",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-07-03T01:51:21.998Z",
-      "endedAt": "2026-07-03T01:52:55.479Z",
-      "scannedCandidates": 9,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-07-03T08:46:35.810Z",
       "endedAt": "2026-07-03T08:48:53.586Z",
@@ -1724,6 +1722,14 @@
     {
       "startedAt": "2026-07-10T08:59:19.615Z",
       "endedAt": "2026-07-10T09:02:17.422Z",
+      "scannedCandidates": 9,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-07-10T13:55:26.173Z",
+      "endedAt": "2026-07-10T13:57:28.108Z",
       "scannedCandidates": 9,
       "viableCandidates": 0,
       "sentNotifications": 0,
