@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-07-11T01:30:09.339Z",
+  "updatedAt": "2026-07-11T07:40:24.900Z",
   "opportunities": [
     {
       "id": "hd6ae8e5a",
@@ -54,6 +54,23 @@
       "publicationNumber": null
     },
     {
+      "id": "he69c4641",
+      "sourceId": "usaid",
+      "title": "Tribal Colleges and Universities Program",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-09-01T00:00:00.000Z",
+      "amount": 3500000,
+      "currency": "USD",
+      "amountUsd": 3500000,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://www.grants.gov/search-results-detail/334326",
+      "publicationNumber": null
+    },
+    {
       "id": "ha610c816",
       "sourceId": "ted-europa",
       "title": "Poland – Solar photovoltaic modules – Montaż instalacji fotowoltaicznych na budynkach Powiatu Kraśnickiego – Część I",
@@ -69,6 +86,23 @@
       "isViable": false,
       "url": "https://ted.europa.eu/en/notice/-/detail/399006-2026",
       "publicationNumber": "399006-2026"
+    },
+    {
+      "id": "h2c066308",
+      "sourceId": "minciencias",
+      "title": "CONVOCATORIA DE LA ASIGNACIÓN PARA LA CTeI DEL SGR PARA EL APROVECHAMIENTO SOSTENIBLE DE LA BIODIVERSIDAD",
+      "source": "Minciencias",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-07-31T07:38:32.933Z",
+      "amount": 749982430291,
+      "currency": "COP",
+      "amountUsd": 187495607.57275,
+      "scoreTotal": 19,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://minciencias.gov.co/convocatorias/plan-convocatorias-asctei-2025-2026/convocatoria-la-asignacion-para-la-ciencia",
+      "publicationNumber": "48"
     },
     {
       "id": "he901dff5",
@@ -137,41 +171,7 @@
       "isViable": true,
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10392407",
       "publicationNumber": null
-    },
-    {
-      "id": "hb02b865d",
-      "sourceId": "secop-ii",
-      "title": "CONTRATO DE APOYO LOGÍSTICO PARA APOYAR CON CIRCULACIÓN; HOSPEDAJE Y ALIMENTACIÓN A DEPORTISTAS DEL DEPARTAMENTO DEL AMAZONAS PARA LA PARTICIPACIÓN EN EVENTOS DEPORTIVOS NACIONALES Y/O INTERNACIONALES",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-07-13T00:00:00.000Z",
-      "amount": 220600000,
-      "currency": "COP",
-      "amountUsd": 55150,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10415858",
-      "publicationNumber": null
-    },
-    {
-      "id": "hb8fdc729",
-      "sourceId": "secop-ii",
-      "title": "BATERIA SANITARIA",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-07-13T00:00:00.000Z",
-      "amount": 183558132,
-      "currency": "COP",
-      "amountUsd": 45889.533,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10406528",
-      "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 9 | USA: 0 | EUROPA: 1"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 8 | USA: 1 | EUROPA: 1"
 }
