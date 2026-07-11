@@ -1492,17 +1492,138 @@
       "sourceId": "apc-colombia",
       "url": "https://www.apccolombia.gov.co/index.php/seccion/modalidades-de-cooperacion/cooperacion-sur-sur",
       "viable": false
+    },
+    "h17297aff": {
+      "at": "2026-07-11T01:30:09.331Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10487438",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-11T01-30-09-317Z_secop-ii_aunar-esfuerzos-para-apoyo-a-los-mecanismos-de-par"
+    },
+    "h8f77b94e": {
+      "at": "2026-07-11T01:30:09.332Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10416387",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h2a18a060": {
+      "at": "2026-07-11T01:30:09.332Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10406528",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-11T01-30-09-332Z_secop-ii_bateria-sanitaria"
+    },
+    "h6e440485": {
+      "at": "2026-07-11T01:30:09.332Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10474412",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h80304751": {
+      "at": "2026-07-11T01:30:09.333Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10095985",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "ha2dce45e": {
+      "at": "2026-07-11T01:30:09.333Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10403095",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h650699c4": {
+      "at": "2026-07-11T01:30:09.333Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10429945",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-11T01-30-09-333Z_secop-ii_suministro-de-papeleria-y-consumibles-de-oficina-p"
+    },
+    "h9216401f": {
+      "at": "2026-07-11T01:30:09.334Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10473925",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-11T01-30-09-334Z_secop-ii_prestacion-de-servicios-de-mantenimiento-y-embelle"
+    },
+    "h7115f6f4": {
+      "at": "2026-07-11T01:30:09.335Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10415858",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-11T01-30-09-334Z_secop-ii_contrato-de-apoyo-logistico-para-apoyar-con-circul"
+    },
+    "h705987b7": {
+      "at": "2026-07-11T01:30:09.335Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10403908",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-11T01-30-09-335Z_secop-ii_suministro-de-insumos-para-el-servicio-de-oftalmol"
+    },
+    "h43aeb396": {
+      "at": "2026-07-11T01:30:09.336Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10441963",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-11T01-30-09-335Z_secop-ii_prestar-el-servicio-de-transporte-de-equipos-y-ele"
+    },
+    "h6e34a9ba": {
+      "at": "2026-07-11T01:30:09.336Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10407837",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h409cdba0": {
+      "at": "2026-07-11T01:30:09.337Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10392407",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-11T01-30-09-336Z_secop-ii_polizas-para-el-seguro-de-accidentes-personales-pa"
+    },
+    "h8c78beed": {
+      "at": "2026-07-11T01:30:09.337Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10467669",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h37efaf86": {
+      "at": "2026-07-11T01:30:09.337Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10407158",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-11T01-30-09-337Z_secop-ii_transporte-terrestre"
+    },
+    "h46aed5f1": {
+      "at": "2026-07-11T01:30:09.338Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10405522",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-11T01-30-09-337Z_secop-ii_mr-samc-007-2026"
+    },
+    "haff1aacf": {
+      "at": "2026-07-11T01:30:09.339Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/399006-2026",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-07-03T13:39:34.869Z",
-      "endedAt": "2026-07-03T13:40:54.883Z",
-      "scannedCandidates": 9,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-07-03T18:59:40.186Z",
       "endedAt": "2026-07-03T19:01:28.455Z",
@@ -1732,6 +1853,14 @@
       "endedAt": "2026-07-10T19:15:29.683Z",
       "scannedCandidates": 9,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-07-11T01:28:49.133Z",
+      "endedAt": "2026-07-11T01:30:09.342Z",
+      "scannedCandidates": 25,
+      "viableCandidates": 10,
       "sentNotifications": 0,
       "transport": "console"
     }
