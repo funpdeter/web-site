@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-07-14T13:05:14.461Z",
+  "updatedAt": "2026-07-14T19:01:56.251Z",
   "opportunities": [
+    {
+      "id": "hf3280820",
+      "sourceId": "usaid",
+      "title": "FY26 Community Policing Development: Law Enforcement Products and Resources",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-08-24T00:00:00.000Z",
+      "amount": 1500000,
+      "currency": "USD",
+      "amountUsd": 1500000,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://www.grants.gov/search-results-detail/363178",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-07-14T19:01:56.251Z",
+      "lastSeenAt": "2026-07-14T19:01:56.251Z",
+      "lastPublishedAt": "2026-07-14T19:01:56.251Z",
+      "isArchived": false
+    },
     {
       "id": "h78341272",
       "sourceId": "usaid",
@@ -21,7 +42,7 @@
       "firstSeenAt": "2026-07-09T14:30:28.340Z",
       "lastSeenAt": "2026-07-14T13:05:14.461Z",
       "lastPublishedAt": "2026-07-14T13:05:14.461Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hfc395f6c",
@@ -42,7 +63,7 @@
       "firstSeenAt": "2026-07-08T19:07:08.625Z",
       "lastSeenAt": "2026-07-14T13:05:14.461Z",
       "lastPublishedAt": "2026-07-14T13:05:14.461Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h6984390",
@@ -63,7 +84,7 @@
       "firstSeenAt": "2026-07-02T19:08:53.883Z",
       "lastSeenAt": "2026-07-14T13:05:14.461Z",
       "lastPublishedAt": "2026-07-14T13:05:14.461Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he69c4641",
@@ -84,7 +105,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-14T13:05:14.461Z",
       "lastPublishedAt": "2026-07-14T13:05:14.461Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd42464ed",
@@ -105,7 +126,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-14T13:05:14.461Z",
       "lastPublishedAt": "2026-07-14T13:05:14.461Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h40b35418",
@@ -126,7 +147,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-14T13:05:14.461Z",
       "lastPublishedAt": "2026-07-14T13:05:14.461Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h1ad458ac",
@@ -147,7 +168,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-14T13:05:14.461Z",
       "lastPublishedAt": "2026-07-14T13:05:14.461Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h2c066308",
@@ -168,7 +189,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-14T13:05:14.461Z",
       "lastPublishedAt": "2026-07-14T13:05:14.461Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h9df78568",
@@ -3006,5 +3027,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 143 | Archivadas: 135"
+  "message": "Historico acumulado del agente UCI-F. Total: 144 | Archivadas: 143"
 }

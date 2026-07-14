@@ -1673,17 +1673,17 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/409177-2026",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "h7d0e9cd3": {
+      "at": "2026-07-14T19:01:56.251Z",
+      "sourceId": "usaid",
+      "url": "https://www.grants.gov/search-results-detail/363178",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-14T19-01-56-236Z_usaid_fy26-community-policing-development-law-enforcemen"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-07-07T09:21:30.833Z",
-      "endedAt": "2026-07-07T09:23:09.482Z",
-      "scannedCandidates": 9,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-07-07T14:04:06.823Z",
       "endedAt": "2026-07-07T14:05:26.418Z",
@@ -1913,6 +1913,14 @@
       "endedAt": "2026-07-14T13:05:14.464Z",
       "scannedCandidates": 8,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-07-14T19:00:06.783Z",
+      "endedAt": "2026-07-14T19:01:56.254Z",
+      "scannedCandidates": 11,
+      "viableCandidates": 1,
       "sentNotifications": 0,
       "transport": "console"
     }
