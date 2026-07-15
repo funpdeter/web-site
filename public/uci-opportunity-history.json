@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-07-15T13:09:40.909Z",
+  "updatedAt": "2026-07-15T18:54:50.847Z",
   "opportunities": [
     {
       "id": "hf3280820",
@@ -19,8 +19,50 @@
       "url": "https://www.grants.gov/search-results-detail/363178",
       "publicationNumber": null,
       "firstSeenAt": "2026-07-14T19:01:56.251Z",
-      "lastSeenAt": "2026-07-15T13:09:40.909Z",
-      "lastPublishedAt": "2026-07-15T13:09:40.909Z",
+      "lastSeenAt": "2026-07-15T18:54:50.847Z",
+      "lastPublishedAt": "2026-07-15T18:54:50.847Z",
+      "isArchived": false
+    },
+    {
+      "id": "h9df78568",
+      "sourceId": "ted-europa",
+      "title": "Italy – Social work services with accommodation – procedura aperta, ai sensi dell’art. 71 del D.Lgs. n. 36/2023, finalizzata alla selezione di più operatori economici, con cui concludere un accordo quadro triennale, per l'affidamento dei servizi di gestione di centri di accoglienza costituiti da singole unità abitative, con capacità ricettiva massima di 50 posti",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-07-29T00:00:00.000Z",
+      "amount": 42290352.72,
+      "currency": "EUR",
+      "amountUsd": 45673580.9376,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/407576-2026",
+      "publicationNumber": "407576-2026",
+      "firstSeenAt": "2026-07-13T01:45:51.473Z",
+      "lastSeenAt": "2026-07-15T18:54:50.847Z",
+      "lastPublishedAt": "2026-07-15T18:54:50.847Z",
+      "isArchived": false
+    },
+    {
+      "id": "hbaf3b5eb",
+      "sourceId": "ted-europa",
+      "title": "Italy – Social work services with accommodation – procedura aperta, ai sensi dell’art. 71 del D.Lgs. n. 36/2023, finalizzata alla selezione di più operatori economici, con cui concludere un accordo quadro triennale, per l'affidamento dei servizi di gestione di centri collettivi di accoglienza di cittadini stranieri richiedenti protezione internazionale, con capacità ricettiva massima di 50 posti",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-07-29T00:00:00.000Z",
+      "amount": 28287116.95,
+      "currency": "EUR",
+      "amountUsd": 30550086.306,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/409177-2026",
+      "publicationNumber": "409177-2026",
+      "firstSeenAt": "2026-07-13T01:45:51.473Z",
+      "lastSeenAt": "2026-07-15T18:54:50.847Z",
+      "lastPublishedAt": "2026-07-15T18:54:50.847Z",
       "isArchived": false
     },
     {
@@ -40,8 +82,8 @@
       "url": "https://www.grants.gov/search-results-detail/363121",
       "publicationNumber": null,
       "firstSeenAt": "2026-07-09T14:30:28.340Z",
-      "lastSeenAt": "2026-07-15T13:09:40.909Z",
-      "lastPublishedAt": "2026-07-15T13:09:40.909Z",
+      "lastSeenAt": "2026-07-15T18:54:50.847Z",
+      "lastPublishedAt": "2026-07-15T18:54:50.847Z",
       "isArchived": false
     },
     {
@@ -61,8 +103,8 @@
       "url": "https://www.grants.gov/search-results-detail/363109",
       "publicationNumber": null,
       "firstSeenAt": "2026-07-08T19:07:08.625Z",
-      "lastSeenAt": "2026-07-15T13:09:40.909Z",
-      "lastPublishedAt": "2026-07-15T13:09:40.909Z",
+      "lastSeenAt": "2026-07-15T18:54:50.847Z",
+      "lastPublishedAt": "2026-07-15T18:54:50.847Z",
       "isArchived": false
     },
     {
@@ -82,8 +124,8 @@
       "url": "https://www.grants.gov/search-results-detail/363048",
       "publicationNumber": null,
       "firstSeenAt": "2026-07-02T19:08:53.883Z",
-      "lastSeenAt": "2026-07-15T13:09:40.909Z",
-      "lastPublishedAt": "2026-07-15T13:09:40.909Z",
+      "lastSeenAt": "2026-07-15T18:54:50.847Z",
+      "lastPublishedAt": "2026-07-15T18:54:50.847Z",
       "isArchived": false
     },
     {
@@ -103,8 +145,8 @@
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-07-15T13:09:40.909Z",
-      "lastPublishedAt": "2026-07-15T13:09:40.909Z",
+      "lastSeenAt": "2026-07-15T18:54:50.847Z",
+      "lastPublishedAt": "2026-07-15T18:54:50.847Z",
       "isArchived": false
     },
     {
@@ -124,8 +166,8 @@
       "url": "https://www.grants.gov/search-results-detail/353413",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-07-15T13:09:40.909Z",
-      "lastPublishedAt": "2026-07-15T13:09:40.909Z",
+      "lastSeenAt": "2026-07-15T18:54:50.847Z",
+      "lastPublishedAt": "2026-07-15T18:54:50.847Z",
       "isArchived": false
     },
     {
@@ -145,8 +187,8 @@
       "url": "https://www.grants.gov/search-results-detail/355100",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-07-15T13:09:40.909Z",
-      "lastPublishedAt": "2026-07-15T13:09:40.909Z",
+      "lastSeenAt": "2026-07-15T18:54:50.847Z",
+      "lastPublishedAt": "2026-07-15T18:54:50.847Z",
       "isArchived": false
     },
     {
@@ -156,7 +198,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-07-31T13:08:24.803Z",
+      "deadline": "2026-07-31T18:53:24.168Z",
       "amount": 749982430291,
       "currency": "COP",
       "amountUsd": 187495607.57275,
@@ -166,8 +208,8 @@
       "url": "https://minciencias.gov.co/convocatorias/plan-convocatorias-asctei-2025-2026/convocatoria-la-asignacion-para-la-ciencia",
       "publicationNumber": "48",
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-07-15T13:09:40.909Z",
-      "lastPublishedAt": "2026-07-15T13:09:40.909Z",
+      "lastSeenAt": "2026-07-15T18:54:50.847Z",
+      "lastPublishedAt": "2026-07-15T18:54:50.847Z",
       "isArchived": false
     },
     {
@@ -189,48 +231,6 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-14T13:05:14.461Z",
       "lastPublishedAt": "2026-07-14T13:05:14.461Z",
-      "isArchived": true
-    },
-    {
-      "id": "h9df78568",
-      "sourceId": "ted-europa",
-      "title": "Italy – Social work services with accommodation – procedura aperta, ai sensi dell’art. 71 del D.Lgs. n. 36/2023, finalizzata alla selezione di più operatori economici, con cui concludere un accordo quadro triennale, per l'affidamento dei servizi di gestione di centri di accoglienza costituiti da singole unità abitative, con capacità ricettiva massima di 50 posti",
-      "source": "TED Europa",
-      "sourceTier": "internacional",
-      "region": "EUROPA",
-      "deadline": "2026-07-29T00:00:00.000Z",
-      "amount": 42290352.72,
-      "currency": "EUR",
-      "amountUsd": 45673580.9376,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/407576-2026",
-      "publicationNumber": "407576-2026",
-      "firstSeenAt": "2026-07-13T01:45:51.473Z",
-      "lastSeenAt": "2026-07-13T14:03:46.453Z",
-      "lastPublishedAt": "2026-07-13T14:03:46.453Z",
-      "isArchived": true
-    },
-    {
-      "id": "hbaf3b5eb",
-      "sourceId": "ted-europa",
-      "title": "Italy – Social work services with accommodation – procedura aperta, ai sensi dell’art. 71 del D.Lgs. n. 36/2023, finalizzata alla selezione di più operatori economici, con cui concludere un accordo quadro triennale, per l'affidamento dei servizi di gestione di centri collettivi di accoglienza di cittadini stranieri richiedenti protezione internazionale, con capacità ricettiva massima di 50 posti",
-      "source": "TED Europa",
-      "sourceTier": "internacional",
-      "region": "EUROPA",
-      "deadline": "2026-07-29T00:00:00.000Z",
-      "amount": 28287116.95,
-      "currency": "EUR",
-      "amountUsd": 30550086.306,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/409177-2026",
-      "publicationNumber": "409177-2026",
-      "firstSeenAt": "2026-07-13T01:45:51.473Z",
-      "lastSeenAt": "2026-07-13T14:03:46.453Z",
-      "lastPublishedAt": "2026-07-13T14:03:46.453Z",
       "isArchived": true
     },
     {
@@ -3027,5 +3027,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 144 | Archivadas: 136"
+  "message": "Historico acumulado del agente UCI-F. Total: 144 | Archivadas: 134"
 }

@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-07-15T13:09:40.908Z",
+  "updatedAt": "2026-07-15T18:54:50.846Z",
   "opportunities": [
     {
       "id": "h2c066308",
@@ -9,7 +9,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-07-31T13:08:24.803Z",
+      "deadline": "2026-07-31T18:53:24.168Z",
       "amount": 749982430291,
       "currency": "COP",
       "amountUsd": 187495607.57275,
@@ -35,6 +35,23 @@
       "isViable": true,
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null
+    },
+    {
+      "id": "h9df78568",
+      "sourceId": "ted-europa",
+      "title": "Italy – Social work services with accommodation – procedura aperta, ai sensi dell’art. 71 del D.Lgs. n. 36/2023, finalizzata alla selezione di più operatori economici, con cui concludere un accordo quadro triennale, per l'affidamento dei servizi di gestione di centri di accoglienza costituiti da singole unità abitative, con capacità ricettiva massima di 50 posti",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-07-29T00:00:00.000Z",
+      "amount": 42290352.72,
+      "currency": "EUR",
+      "amountUsd": 45673580.9376,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/407576-2026",
+      "publicationNumber": "407576-2026"
     },
     {
       "id": "hf3280820",
@@ -122,6 +139,23 @@
       "publicationNumber": null
     },
     {
+      "id": "hbaf3b5eb",
+      "sourceId": "ted-europa",
+      "title": "Italy – Social work services with accommodation – procedura aperta, ai sensi dell’art. 71 del D.Lgs. n. 36/2023, finalizzata alla selezione di più operatori economici, con cui concludere un accordo quadro triennale, per l'affidamento dei servizi di gestione di centri collettivi di accoglienza di cittadini stranieri richiedenti protezione internazionale, con capacità ricettiva massima di 50 posti",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-07-29T00:00:00.000Z",
+      "amount": 28287116.95,
+      "currency": "EUR",
+      "amountUsd": 30550086.306,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/409177-2026",
+      "publicationNumber": "409177-2026"
+    },
+    {
       "id": "h1ad458ac",
       "sourceId": "usaid",
       "title": "Advanced Technological Education",
@@ -139,5 +173,5 @@
       "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 1 | USA: 7 | EUROPA: 0"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 1 | USA: 7 | EUROPA: 2"
 }
