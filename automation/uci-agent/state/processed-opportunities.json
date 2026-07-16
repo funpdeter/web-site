@@ -1681,17 +1681,27 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-14T19-01-56-236Z_usaid_fy26-community-policing-development-law-enforcemen"
+    },
+    "h41642cc6": {
+      "at": "2026-07-16T01:27:40.985Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/atencion-y-servicios-la-ciudadania/preguntas-frecuentes",
+      "viable": false
+    },
+    "h695d3bc6": {
+      "at": "2026-07-16T01:27:41.364Z",
+      "sourceId": "apc-colombia",
+      "url": "https://apccolombia.gov.co/modalidades-de-cooperacion/cooperacion-sur-sur/gestion-de-la-cooperacion-sur-sur/12-cooperacion-25",
+      "viable": false
+    },
+    "hb94d76b6": {
+      "at": "2026-07-16T01:27:41.617Z",
+      "sourceId": "apc-colombia",
+      "url": "https://apccolombia.gov.co/sites/default/files/2024-06/Matriz%20Registro%20de%20Convocatorias_V.20.06.2024.pdf",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-07-08T13:28:34.630Z",
-      "endedAt": "2026-07-08T13:30:20.060Z",
-      "scannedCandidates": 10,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-07-08T19:04:59.617Z",
       "endedAt": "2026-07-08T19:07:08.627Z",
@@ -1920,6 +1930,14 @@
       "startedAt": "2026-07-15T18:53:14.973Z",
       "endedAt": "2026-07-15T18:54:50.850Z",
       "scannedCandidates": 10,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-07-16T01:27:37.738Z",
+      "endedAt": "2026-07-16T01:29:05.478Z",
+      "scannedCandidates": 8,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
