@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-07-17T01:32:21.474Z",
+  "updatedAt": "2026-07-17T07:53:01.523Z",
   "opportunities": [
     {
       "id": "h500c1364",
@@ -19,8 +19,8 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/417739-2026",
       "publicationNumber": "417739-2026",
       "firstSeenAt": "2026-07-17T01:32:21.474Z",
-      "lastSeenAt": "2026-07-17T01:32:21.474Z",
-      "lastPublishedAt": "2026-07-17T01:32:21.474Z",
+      "lastSeenAt": "2026-07-17T07:53:01.523Z",
+      "lastPublishedAt": "2026-07-17T07:53:01.523Z",
       "isArchived": false
     },
     {
@@ -40,8 +40,8 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/413621-2026",
       "publicationNumber": "413621-2026",
       "firstSeenAt": "2026-07-17T01:32:21.474Z",
-      "lastSeenAt": "2026-07-17T01:32:21.474Z",
-      "lastPublishedAt": "2026-07-17T01:32:21.474Z",
+      "lastSeenAt": "2026-07-17T07:53:01.523Z",
+      "lastPublishedAt": "2026-07-17T07:53:01.523Z",
       "isArchived": false
     },
     {
@@ -61,9 +61,9 @@
       "url": "https://www.grants.gov/search-results-detail/363178",
       "publicationNumber": null,
       "firstSeenAt": "2026-07-14T19:01:56.251Z",
-      "lastSeenAt": "2026-07-16T18:55:16.432Z",
-      "lastPublishedAt": "2026-07-16T18:55:16.432Z",
-      "isArchived": true
+      "lastSeenAt": "2026-07-17T07:53:01.523Z",
+      "lastPublishedAt": "2026-07-17T07:53:01.523Z",
+      "isArchived": false
     },
     {
       "id": "h78341272",
@@ -82,9 +82,9 @@
       "url": "https://www.grants.gov/search-results-detail/363121",
       "publicationNumber": null,
       "firstSeenAt": "2026-07-09T14:30:28.340Z",
-      "lastSeenAt": "2026-07-16T18:55:16.432Z",
-      "lastPublishedAt": "2026-07-16T18:55:16.432Z",
-      "isArchived": true
+      "lastSeenAt": "2026-07-17T07:53:01.523Z",
+      "lastPublishedAt": "2026-07-17T07:53:01.523Z",
+      "isArchived": false
     },
     {
       "id": "hfc395f6c",
@@ -103,9 +103,9 @@
       "url": "https://www.grants.gov/search-results-detail/363109",
       "publicationNumber": null,
       "firstSeenAt": "2026-07-08T19:07:08.625Z",
-      "lastSeenAt": "2026-07-16T18:55:16.432Z",
-      "lastPublishedAt": "2026-07-16T18:55:16.432Z",
-      "isArchived": true
+      "lastSeenAt": "2026-07-17T07:53:01.523Z",
+      "lastPublishedAt": "2026-07-17T07:53:01.523Z",
+      "isArchived": false
     },
     {
       "id": "h6984390",
@@ -124,9 +124,9 @@
       "url": "https://www.grants.gov/search-results-detail/363048",
       "publicationNumber": null,
       "firstSeenAt": "2026-07-02T19:08:53.883Z",
-      "lastSeenAt": "2026-07-16T18:55:16.432Z",
-      "lastPublishedAt": "2026-07-16T18:55:16.432Z",
-      "isArchived": true
+      "lastSeenAt": "2026-07-17T07:53:01.523Z",
+      "lastPublishedAt": "2026-07-17T07:53:01.523Z",
+      "isArchived": false
     },
     {
       "id": "he69c4641",
@@ -145,9 +145,9 @@
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-07-16T18:55:16.432Z",
-      "lastPublishedAt": "2026-07-16T18:55:16.432Z",
-      "isArchived": true
+      "lastSeenAt": "2026-07-17T07:53:01.523Z",
+      "lastPublishedAt": "2026-07-17T07:53:01.523Z",
+      "isArchived": false
     },
     {
       "id": "hd42464ed",
@@ -166,9 +166,9 @@
       "url": "https://www.grants.gov/search-results-detail/353413",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-07-16T18:55:16.432Z",
-      "lastPublishedAt": "2026-07-16T18:55:16.432Z",
-      "isArchived": true
+      "lastSeenAt": "2026-07-17T07:53:01.523Z",
+      "lastPublishedAt": "2026-07-17T07:53:01.523Z",
+      "isArchived": false
     },
     {
       "id": "h1ad458ac",
@@ -187,9 +187,9 @@
       "url": "https://www.grants.gov/search-results-detail/355100",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-07-16T18:55:16.432Z",
-      "lastPublishedAt": "2026-07-16T18:55:16.432Z",
-      "isArchived": true
+      "lastSeenAt": "2026-07-17T07:53:01.523Z",
+      "lastPublishedAt": "2026-07-17T07:53:01.523Z",
+      "isArchived": false
     },
     {
       "id": "h2c066308",
@@ -198,7 +198,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-07-31T18:54:22.261Z",
+      "deadline": "2026-07-31T07:51:05.515Z",
       "amount": 749982430291,
       "currency": "COP",
       "amountUsd": 187495607.57275,
@@ -208,9 +208,9 @@
       "url": "https://minciencias.gov.co/convocatorias/plan-convocatorias-asctei-2025-2026/convocatoria-la-asignacion-para-la-ciencia",
       "publicationNumber": "48",
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-07-16T18:55:16.432Z",
-      "lastPublishedAt": "2026-07-16T18:55:16.432Z",
-      "isArchived": true
+      "lastSeenAt": "2026-07-17T07:53:01.523Z",
+      "lastPublishedAt": "2026-07-17T07:53:01.523Z",
+      "isArchived": false
     },
     {
       "id": "h9df78568",
@@ -3069,5 +3069,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 146 | Archivadas: 144"
+  "message": "Historico acumulado del agente UCI-F. Total: 146 | Archivadas: 136"
 }
