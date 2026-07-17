@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-07-17T13:02:38.887Z",
+  "updatedAt": "2026-07-17T18:54:29.601Z",
   "opportunities": [
     {
       "id": "h2c066308",
@@ -9,7 +9,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-07-31T13:01:36.248Z",
+      "deadline": "2026-07-31T18:53:00.677Z",
       "amount": 749982430291,
       "currency": "COP",
       "amountUsd": 187495607.57275,
@@ -35,6 +35,23 @@
       "isViable": true,
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null
+    },
+    {
+      "id": "h500c1364",
+      "sourceId": "ted-europa",
+      "title": "Norway – Health and social work services – External health services - First consultation of patients with questions about COPD, asthma, dyspne or long term cough for Helse Stavanger HF",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-08-03T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/417739-2026",
+      "publicationNumber": "417739-2026"
     },
     {
       "id": "hf3280820",
@@ -137,7 +154,24 @@
       "isViable": false,
       "url": "https://www.grants.gov/search-results-detail/355100",
       "publicationNumber": null
+    },
+    {
+      "id": "h63f9fe5a",
+      "sourceId": "ted-europa",
+      "title": "Poland – Electrical installation work – Rozbudowa infrastruktury ładowania autobusów elektrycznych na zajezdni autobusowej przy ul. Chemicznej w Zielonej Górze.",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-07-20T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/413621-2026",
+      "publicationNumber": "413621-2026"
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 1 | USA: 7 | EUROPA: 0"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 1 | USA: 7 | EUROPA: 2"
 }
