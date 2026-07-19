@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-07-19T07:57:56.934Z",
+  "updatedAt": "2026-07-19T12:53:20.102Z",
   "opportunities": [
     {
       "id": "h853dbe4",
@@ -71,21 +71,21 @@
       "publicationNumber": null
     },
     {
-      "id": "h500c1364",
+      "id": "ha0976433",
       "sourceId": "ted-europa",
-      "title": "Norway – Health and social work services – External health services - First consultation of patients with questions about COPD, asthma, dyspne or long term cough for Helse Stavanger HF",
+      "title": "Norway – Transport services (excl. Waste transport) – Transport services - mhred transport to Helse Stavanger.",
       "source": "TED Europa",
       "sourceTier": "internacional",
       "region": "EUROPA",
-      "deadline": "2026-08-03T00:00:00.000Z",
+      "deadline": "2026-08-24T00:00:00.000Z",
       "amount": null,
       "currency": "",
       "amountUsd": null,
-      "scoreTotal": 14,
+      "scoreTotal": 13,
       "recommendation": "No aplicar",
       "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/417739-2026",
-      "publicationNumber": "417739-2026"
+      "url": "https://ted.europa.eu/en/notice/-/detail/417462-2026",
+      "publicationNumber": "417462-2026"
     },
     {
       "id": "h2c066308",
@@ -94,7 +94,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-07-31T07:56:30.400Z",
+      "deadline": "2026-07-31T12:51:42.904Z",
       "amount": 749982430291,
       "currency": "COP",
       "amountUsd": 187495607.57275,
