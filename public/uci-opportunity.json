@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-07-19T12:53:20.102Z",
+  "updatedAt": "2026-07-19T18:49:04.331Z",
   "opportunities": [
     {
       "id": "h853dbe4",
@@ -71,30 +71,13 @@
       "publicationNumber": null
     },
     {
-      "id": "ha0976433",
-      "sourceId": "ted-europa",
-      "title": "Norway – Transport services (excl. Waste transport) – Transport services - mhred transport to Helse Stavanger.",
-      "source": "TED Europa",
-      "sourceTier": "internacional",
-      "region": "EUROPA",
-      "deadline": "2026-08-24T00:00:00.000Z",
-      "amount": null,
-      "currency": "",
-      "amountUsd": null,
-      "scoreTotal": 13,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/417462-2026",
-      "publicationNumber": "417462-2026"
-    },
-    {
       "id": "h2c066308",
       "sourceId": "minciencias",
       "title": "CONVOCATORIA DE LA ASIGNACIÓN PARA LA CTeI DEL SGR PARA EL APROVECHAMIENTO SOSTENIBLE DE LA BIODIVERSIDAD",
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-07-31T12:51:42.904Z",
+      "deadline": "2026-07-31T18:48:08.104Z",
       "amount": 749982430291,
       "currency": "COP",
       "amountUsd": 187495607.57275,
@@ -171,7 +154,24 @@
       "isViable": true,
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10475484",
       "publicationNumber": null
+    },
+    {
+      "id": "hf3280820",
+      "sourceId": "usaid",
+      "title": "FY26 Community Policing Development: Law Enforcement Products and Resources",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-08-24T00:00:00.000Z",
+      "amount": 1500000,
+      "currency": "USD",
+      "amountUsd": 1500000,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://www.grants.gov/search-results-detail/363178",
+      "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 8 | USA: 1 | EUROPA: 1"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 8 | USA: 2 | EUROPA: 0"
 }
