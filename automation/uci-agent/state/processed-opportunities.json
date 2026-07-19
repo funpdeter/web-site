@@ -1818,17 +1818,31 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10517521",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "hbadf23ae": {
+      "at": "2026-07-19T01:29:51.634Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10464261",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-19T01-29-51-623Z_secop-ii_adquisicion-instalacion-configuracion-y-puesta-en-"
+    },
+    "h3ca2ec69": {
+      "at": "2026-07-19T01:29:51.634Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10531948",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hab11b5c2": {
+      "at": "2026-07-19T01:29:51.634Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/417462-2026",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-07-11T12:52:20.973Z",
-      "endedAt": "2026-07-11T12:54:19.575Z",
-      "scannedCandidates": 25,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-07-11T18:42:56.420Z",
       "endedAt": "2026-07-11T18:44:20.040Z",
@@ -2058,6 +2072,14 @@
       "endedAt": "2026-07-18T18:45:52.306Z",
       "scannedCandidates": 9,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-07-19T01:28:04.801Z",
+      "endedAt": "2026-07-19T01:29:51.637Z",
+      "scannedCandidates": 26,
+      "viableCandidates": 1,
       "sentNotifications": 0,
       "transport": "console"
     }

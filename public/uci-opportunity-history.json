@@ -1,7 +1,70 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-07-18T18:45:52.303Z",
+  "updatedAt": "2026-07-19T01:29:51.635Z",
   "opportunities": [
+    {
+      "id": "ha106cb7f",
+      "sourceId": "secop-ii",
+      "title": "ADQUISICIÓN; INSTALACIÓN; CONFIGURACIÓN Y PUESTA EN FUNCIONAMIENTO DE UNA ESTACIÓN DE MONITOREO DE CALIDAD DEL AIRE Y DEMÁS COMPONENTES PARA SU OPERACIÓN; NECESARIOS PARA EL FUNCIONAMIENTO DEL SISTEMA",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-07-20T00:00:00.000Z",
+      "amount": 395828666,
+      "currency": "COP",
+      "amountUsd": 98957.1665,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10464261",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-07-19T01:29:51.635Z",
+      "lastSeenAt": "2026-07-19T01:29:51.635Z",
+      "lastPublishedAt": "2026-07-19T01:29:51.635Z",
+      "isArchived": false
+    },
+    {
+      "id": "hdc078e60",
+      "sourceId": "secop-ii",
+      "title": "COTIZAR SERVICIOS OPERATIVOS PARA EL FORTALECIMEINTO DE INSTANCIAS DE PARTICIPACION; JUNTAS DE ACCION COMUNAL Y ACTORES DEL SECTOR COMERCIO POR MEDIO DE CAPACITACION EN PROCESOS DE FORMACION",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-07-20T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 17,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10531948",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-07-19T01:29:51.635Z",
+      "lastSeenAt": "2026-07-19T01:29:51.635Z",
+      "lastPublishedAt": "2026-07-19T01:29:51.635Z",
+      "isArchived": false
+    },
+    {
+      "id": "ha0976433",
+      "sourceId": "ted-europa",
+      "title": "Norway – Transport services (excl. Waste transport) – Transport services - mhred transport to Helse Stavanger.",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-08-24T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/417462-2026",
+      "publicationNumber": "417462-2026",
+      "firstSeenAt": "2026-07-19T01:29:51.635Z",
+      "lastSeenAt": "2026-07-19T01:29:51.635Z",
+      "lastPublishedAt": "2026-07-19T01:29:51.635Z",
+      "isArchived": false
+    },
     {
       "id": "h500c1364",
       "sourceId": "ted-europa",
@@ -21,7 +84,7 @@
       "firstSeenAt": "2026-07-17T01:32:21.474Z",
       "lastSeenAt": "2026-07-18T18:45:52.303Z",
       "lastPublishedAt": "2026-07-18T18:45:52.303Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf3280820",
@@ -42,7 +105,7 @@
       "firstSeenAt": "2026-07-14T19:01:56.251Z",
       "lastSeenAt": "2026-07-18T18:45:52.303Z",
       "lastPublishedAt": "2026-07-18T18:45:52.303Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h78341272",
@@ -63,7 +126,7 @@
       "firstSeenAt": "2026-07-09T14:30:28.340Z",
       "lastSeenAt": "2026-07-18T18:45:52.303Z",
       "lastPublishedAt": "2026-07-18T18:45:52.303Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hfc395f6c",
@@ -84,7 +147,7 @@
       "firstSeenAt": "2026-07-08T19:07:08.625Z",
       "lastSeenAt": "2026-07-18T18:45:52.303Z",
       "lastPublishedAt": "2026-07-18T18:45:52.303Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h6984390",
@@ -105,7 +168,7 @@
       "firstSeenAt": "2026-07-02T19:08:53.883Z",
       "lastSeenAt": "2026-07-18T18:45:52.303Z",
       "lastPublishedAt": "2026-07-18T18:45:52.303Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he69c4641",
@@ -126,7 +189,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-18T18:45:52.303Z",
       "lastPublishedAt": "2026-07-18T18:45:52.303Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd42464ed",
@@ -147,7 +210,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-18T18:45:52.303Z",
       "lastPublishedAt": "2026-07-18T18:45:52.303Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h1ad458ac",
@@ -168,7 +231,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-18T18:45:52.303Z",
       "lastPublishedAt": "2026-07-18T18:45:52.303Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h2c066308",
@@ -189,7 +252,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-18T18:45:52.303Z",
       "lastPublishedAt": "2026-07-18T18:45:52.303Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h853dbe4",
@@ -3363,5 +3426,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 160 | Archivadas: 151"
+  "message": "Historico acumulado del agente UCI-F. Total: 163 | Archivadas: 160"
 }
