@@ -1840,17 +1840,121 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/417462-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "hc1eece71": {
+      "at": "2026-07-20T01:55:56.730Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10536710",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-20T01-55-56-716Z_secop-ii_horas-de-vuelo-para-el-servicio-de-transporte-de-p"
+    },
+    "he6f815c1": {
+      "at": "2026-07-20T01:55:56.731Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10412531",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "he3be9c5d": {
+      "at": "2026-07-20T01:55:56.731Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10504719",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h2ddaa40e": {
+      "at": "2026-07-20T01:55:56.732Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10506129",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-20T01-55-56-731Z_secop-ii_mantenimiento-preventivo-y-correctivo-con-suminist"
+    },
+    "h57fcb930": {
+      "at": "2026-07-20T01:55:56.732Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10480342",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-20T01-55-56-732Z_secop-ii_interventoria-integral-para-realizar-los-estudios-"
+    },
+    "h7e7c071d": {
+      "at": "2026-07-20T01:55:56.733Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10503220",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hc16d019d": {
+      "at": "2026-07-20T01:55:56.733Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10445131",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h94ac162f": {
+      "at": "2026-07-20T01:55:56.733Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10438515",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-20T01-55-56-733Z_secop-ii_elaborar-los-estudios-y-disenos-para-la-transicion"
+    },
+    "h5abc819b": {
+      "at": "2026-07-20T01:55:56.734Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10491024",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h2172e19a": {
+      "at": "2026-07-20T01:55:56.734Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10515631",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hd1bb455f": {
+      "at": "2026-07-20T01:55:56.734Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10525947",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h2b32bfbb": {
+      "at": "2026-07-20T01:55:56.735Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10509813",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-20T01-55-56-734Z_secop-ii_contratar-las-polizas-de-seguros-generales-destina"
+    },
+    "h4cad9464": {
+      "at": "2026-07-20T01:55:56.735Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10474208",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-20T01-55-56-735Z_secop-ii_tercera-fase-de-la-actualizacion-y-puesta-en-funci"
+    },
+    "h7acb0428": {
+      "at": "2026-07-20T01:55:56.735Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10526954",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "he49bf1e8": {
+      "at": "2026-07-20T01:55:56.736Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10465105",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-20T01-55-56-735Z_secop-ii_seleccion-abreviada-de-menor-cuantia"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-07-12T12:53:23.215Z",
-      "endedAt": "2026-07-12T12:55:30.361Z",
-      "scannedCandidates": 25,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-07-12T18:48:20.749Z",
       "endedAt": "2026-07-12T18:50:15.584Z",
@@ -2080,6 +2184,14 @@
       "endedAt": "2026-07-19T18:49:04.334Z",
       "scannedCandidates": 24,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-07-20T01:53:47.457Z",
+      "endedAt": "2026-07-20T01:55:56.741Z",
+      "scannedCandidates": 24,
+      "viableCandidates": 7,
       "sentNotifications": 0,
       "transport": "console"
     }
