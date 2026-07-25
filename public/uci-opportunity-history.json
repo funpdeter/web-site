@@ -1,7 +1,196 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-07-24T19:11:07.028Z",
+  "updatedAt": "2026-07-25T01:32:45.866Z",
   "opportunities": [
+    {
+      "id": "h9a444d89",
+      "sourceId": "secop-ii",
+      "title": "Elaboración de Estudios y Diseños del Plan Maestro de Acueducto de las Veredas Río Abajo y Los Pinos del Municipio de Rionegro; Antioquia (Presentación de oferta)",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-07-27T00:00:00.000Z",
+      "amount": 1254140300,
+      "currency": "COP",
+      "amountUsd": 313535.075,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10469750",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-07-25T01:32:45.866Z",
+      "lastSeenAt": "2026-07-25T01:32:45.866Z",
+      "lastPublishedAt": "2026-07-25T01:32:45.866Z",
+      "isArchived": false
+    },
+    {
+      "id": "h36e453cd",
+      "sourceId": "secop-ii",
+      "title": "SUMINISTRO DE ALIMENTACION PARA LAS DIFERENTES ACTIVIDADES QUE SE LLEVARÁN A CABO EN LA ADMINISTRACIÓN MUNICIPAL DURANTE LA VIGENCIA 2026.  LOTE 1: SUMINISTRO DE ALIMENTACIÓN PARA LAS DIFERENTES ACTIV",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-07-27T00:00:00.000Z",
+      "amount": 186588587,
+      "currency": "COP",
+      "amountUsd": 46647.14675,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10552690",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-07-25T01:32:45.866Z",
+      "lastSeenAt": "2026-07-25T01:32:45.866Z",
+      "lastPublishedAt": "2026-07-25T01:32:45.866Z",
+      "isArchived": false
+    },
+    {
+      "id": "h9e4755f0",
+      "sourceId": "secop-ii",
+      "title": "922110-0183-CONTRATAR EL SERVICIO DE MANTENIMIENTO  LAVADO; LIMPIEZA Y DESINFECCIÓN INTERNA DE TANQUES DE ALMACENAMIENTO DE AGUA POTABLE DEL CENTRO DE TELEINFORMATICA Y PRODUCCION INDUSTRIAL(POPAYÁN;",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-07-27T00:00:00.000Z",
+      "amount": 52265000,
+      "currency": "COP",
+      "amountUsd": 13066.25,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10560094",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-07-25T01:32:45.866Z",
+      "lastSeenAt": "2026-07-25T01:32:45.866Z",
+      "lastPublishedAt": "2026-07-25T01:32:45.866Z",
+      "isArchived": false
+    },
+    {
+      "id": "h59568101",
+      "sourceId": "secop-ii",
+      "title": "SUMINISTRO DE INSUMOS; MATERIALES Y ELEMENTOS NECESARIOS PARA EL DESARROLLO DE PROGRAMAS AGRÍCOLAS Y VETERINARIOS A CARGO DE LA UMATA DEL MUNICIPIO DE FÚQUENE- CUNDINAMARCA VIGENCIA 2026.",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-07-27T00:00:00.000Z",
+      "amount": 48999965,
+      "currency": "COP",
+      "amountUsd": 12249.99125,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10560206",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-07-25T01:32:45.866Z",
+      "lastSeenAt": "2026-07-25T01:32:45.866Z",
+      "lastPublishedAt": "2026-07-25T01:32:45.866Z",
+      "isArchived": false
+    },
+    {
+      "id": "h138db3bd",
+      "sourceId": "secop-ii",
+      "title": "Adquirir televisores para los ambientes de formación del Centro de Tecnologías del Transporte; como apoyo a los procesos de formación profesional integral.",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-07-27T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10557367",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-07-25T01:32:45.866Z",
+      "lastSeenAt": "2026-07-25T01:32:45.866Z",
+      "lastPublishedAt": "2026-07-25T01:32:45.866Z",
+      "isArchived": false
+    },
+    {
+      "id": "h96494137",
+      "sourceId": "secop-ii",
+      "title": "TERAPIA FISICA UNIDAD PRESTADORA DE SALUD CESAR",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-07-27T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10546077",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-07-25T01:32:45.866Z",
+      "lastSeenAt": "2026-07-25T01:32:45.866Z",
+      "lastPublishedAt": "2026-07-25T01:32:45.866Z",
+      "isArchived": false
+    },
+    {
+      "id": "h1d8b420",
+      "sourceId": "secop-ii",
+      "title": "SOLICITUD DE COTIZACIÓN INTERVENTORIA DIPON",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-07-27T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10550277",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-07-25T01:32:45.866Z",
+      "lastSeenAt": "2026-07-25T01:32:45.866Z",
+      "lastPublishedAt": "2026-07-25T01:32:45.866Z",
+      "isArchived": false
+    },
+    {
+      "id": "h70ab3b97",
+      "sourceId": "secop-ii",
+      "title": "MANTENIMIENTO PREVENTIVO Y CORRECTIVO PTAR",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-07-27T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10555033",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-07-25T01:32:45.866Z",
+      "lastSeenAt": "2026-07-25T01:32:45.866Z",
+      "lastPublishedAt": "2026-07-25T01:32:45.866Z",
+      "isArchived": false
+    },
+    {
+      "id": "hed9cc9c6",
+      "sourceId": "secop-ii",
+      "title": "BOTES Y MOTORES FUERA DE BORDA",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-07-27T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10470999",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-07-25T01:32:45.866Z",
+      "lastSeenAt": "2026-07-25T01:32:45.866Z",
+      "lastPublishedAt": "2026-07-25T01:32:45.866Z",
+      "isArchived": false
+    },
     {
       "id": "hf3280820",
       "sourceId": "usaid",
@@ -21,7 +210,7 @@
       "firstSeenAt": "2026-07-14T19:01:56.251Z",
       "lastSeenAt": "2026-07-24T19:11:07.028Z",
       "lastPublishedAt": "2026-07-24T19:11:07.028Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h78341272",
@@ -42,7 +231,7 @@
       "firstSeenAt": "2026-07-09T14:30:28.340Z",
       "lastSeenAt": "2026-07-24T19:11:07.028Z",
       "lastPublishedAt": "2026-07-24T19:11:07.028Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hfc395f6c",
@@ -63,7 +252,7 @@
       "firstSeenAt": "2026-07-08T19:07:08.625Z",
       "lastSeenAt": "2026-07-24T19:11:07.028Z",
       "lastPublishedAt": "2026-07-24T19:11:07.028Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h6984390",
@@ -84,7 +273,7 @@
       "firstSeenAt": "2026-07-02T19:08:53.883Z",
       "lastSeenAt": "2026-07-24T19:11:07.028Z",
       "lastPublishedAt": "2026-07-24T19:11:07.028Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he69c4641",
@@ -105,7 +294,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-24T19:11:07.028Z",
       "lastPublishedAt": "2026-07-24T19:11:07.028Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd42464ed",
@@ -126,7 +315,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-24T19:11:07.028Z",
       "lastPublishedAt": "2026-07-24T19:11:07.028Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h1ad458ac",
@@ -147,7 +336,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-24T19:11:07.028Z",
       "lastPublishedAt": "2026-07-24T19:11:07.028Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h2c066308",
@@ -168,7 +357,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-07-24T19:11:07.028Z",
       "lastPublishedAt": "2026-07-24T19:11:07.028Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h57bacbf7",
@@ -3783,5 +3972,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 180 | Archivadas: 172"
+  "message": "Historico acumulado del agente UCI-F. Total: 189 | Archivadas: 180"
 }

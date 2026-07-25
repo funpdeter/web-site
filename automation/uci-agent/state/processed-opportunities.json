@@ -1968,17 +1968,76 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-20T19-24-13-904Z_secop-ii_venta-camioneta-nissan"
+    },
+    "h68e8b4d0": {
+      "at": "2026-07-25T01:32:45.861Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10469750",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-25T01-32-45-847Z_secop-ii_elaboracion-de-estudios-y-disenos-del-plan-maestro"
+    },
+    "h45cc0900": {
+      "at": "2026-07-25T01:32:45.862Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10560206",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-25T01-32-45-862Z_secop-ii_suministro-de-insumos-materiales-y-elementos-neces"
+    },
+    "ha9a54255": {
+      "at": "2026-07-25T01:32:45.862Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10550277",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h4edc0044": {
+      "at": "2026-07-25T01:32:45.863Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10557367",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h8983fe7e": {
+      "at": "2026-07-25T01:32:45.863Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10555033",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hff9dff91": {
+      "at": "2026-07-25T01:32:45.864Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10560094",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-25T01-32-45-863Z_secop-ii_922110-0183-contratar-el-servicio-de-mantenimiento"
+    },
+    "h635556da": {
+      "at": "2026-07-25T01:32:45.864Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10546077",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hb23ebf23": {
+      "at": "2026-07-25T01:32:45.864Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10470999",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h341de000": {
+      "at": "2026-07-25T01:32:45.865Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10552690",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-25T01-32-45-864Z_secop-ii_suministro-de-alimentacion-para-las-diferentes-act"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-07-17T13:01:27.632Z",
-      "endedAt": "2026-07-17T13:02:38.891Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-07-17T18:52:50.435Z",
       "endedAt": "2026-07-17T18:54:29.604Z",
@@ -2208,6 +2267,14 @@
       "endedAt": "2026-07-24T19:11:07.031Z",
       "scannedCandidates": 8,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-07-25T01:30:37.326Z",
+      "endedAt": "2026-07-25T01:32:45.870Z",
+      "scannedCandidates": 24,
+      "viableCandidates": 4,
       "sentNotifications": 0,
       "transport": "console"
     }
