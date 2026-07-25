@@ -2035,17 +2035,24 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-25T01-32-45-864Z_secop-ii_suministro-de-alimentacion-para-las-diferentes-act"
+    },
+    "h799dab26": {
+      "at": "2026-07-25T18:52:14.981Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10450345",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-25T18-52-14-966Z_secop-ii_adecuacion-y-mantenimiento-del-parque-de-la-consti"
+    },
+    "h922be7af": {
+      "at": "2026-07-25T18:52:14.981Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10566515",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-07-18T07:25:32.419Z",
-      "endedAt": "2026-07-18T07:27:05.664Z",
-      "scannedCandidates": 26,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-07-18T12:48:15.703Z",
       "endedAt": "2026-07-18T12:49:20.733Z",
@@ -2275,6 +2282,14 @@
       "endedAt": "2026-07-25T13:00:07.562Z",
       "scannedCandidates": 24,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-07-25T18:50:14.190Z",
+      "endedAt": "2026-07-25T18:52:14.985Z",
+      "scannedCandidates": 24,
+      "viableCandidates": 1,
       "sentNotifications": 0,
       "transport": "console"
     }
