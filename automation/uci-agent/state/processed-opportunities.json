@@ -2050,17 +2050,39 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10566515",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "he0a0fc21": {
+      "at": "2026-07-26T18:55:59.042Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10337441",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h61bf0a2c": {
+      "at": "2026-07-26T18:55:59.042Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10565205",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h6167a622": {
+      "at": "2026-07-26T18:55:59.058Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10563883",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-26T18-55-59-043Z_secop-ii_prestar-servicios-de-suministro-de-personal-para-g"
+    },
+    "hd94fd211": {
+      "at": "2026-07-26T18:55:59.059Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10495880",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-26T18-55-59-058Z_secop-ii_contratar-la-adquisicion-de-elementos-e-insumos-re"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-07-19T07:56:21.340Z",
-      "endedAt": "2026-07-19T07:57:56.938Z",
-      "scannedCandidates": 26,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-07-19T12:51:31.434Z",
       "endedAt": "2026-07-19T12:53:20.106Z",
@@ -2290,6 +2312,14 @@
       "endedAt": "2026-07-26T12:56:58.252Z",
       "scannedCandidates": 24,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-07-26T18:53:54.979Z",
+      "endedAt": "2026-07-26T18:55:59.063Z",
+      "scannedCandidates": 24,
+      "viableCandidates": 2,
       "sentNotifications": 0,
       "transport": "console"
     }
