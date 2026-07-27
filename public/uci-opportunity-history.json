@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-07-27T09:27:34.188Z",
+  "updatedAt": "2026-07-27T14:10:27.418Z",
   "opportunities": [
+    {
+      "id": "h6e5acc40",
+      "sourceId": "ted-europa",
+      "title": "Norway – Snow-clearing services – Winter maintenance on municipal roads and open spaces in Flesberg municipality - Lot 4 Lyngdal",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-08-10T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/442012-2026",
+      "publicationNumber": "442012-2026",
+      "firstSeenAt": "2026-07-27T01:53:33.122Z",
+      "lastSeenAt": "2026-07-27T14:10:27.418Z",
+      "lastPublishedAt": "2026-07-27T14:10:27.418Z",
+      "isArchived": false
+    },
     {
       "id": "hf3280820",
       "sourceId": "usaid",
@@ -19,8 +40,8 @@
       "url": "https://www.grants.gov/search-results-detail/363178",
       "publicationNumber": null,
       "firstSeenAt": "2026-07-14T19:01:56.251Z",
-      "lastSeenAt": "2026-07-27T09:27:34.188Z",
-      "lastPublishedAt": "2026-07-27T09:27:34.188Z",
+      "lastSeenAt": "2026-07-27T14:10:27.418Z",
+      "lastPublishedAt": "2026-07-27T14:10:27.418Z",
       "isArchived": false
     },
     {
@@ -40,8 +61,8 @@
       "url": "https://www.grants.gov/search-results-detail/363121",
       "publicationNumber": null,
       "firstSeenAt": "2026-07-09T14:30:28.340Z",
-      "lastSeenAt": "2026-07-27T09:27:34.188Z",
-      "lastPublishedAt": "2026-07-27T09:27:34.188Z",
+      "lastSeenAt": "2026-07-27T14:10:27.418Z",
+      "lastPublishedAt": "2026-07-27T14:10:27.418Z",
       "isArchived": false
     },
     {
@@ -61,8 +82,8 @@
       "url": "https://www.grants.gov/search-results-detail/363048",
       "publicationNumber": null,
       "firstSeenAt": "2026-07-02T19:08:53.883Z",
-      "lastSeenAt": "2026-07-27T09:27:34.188Z",
-      "lastPublishedAt": "2026-07-27T09:27:34.188Z",
+      "lastSeenAt": "2026-07-27T14:10:27.418Z",
+      "lastPublishedAt": "2026-07-27T14:10:27.418Z",
       "isArchived": false
     },
     {
@@ -82,8 +103,8 @@
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-07-27T09:27:34.188Z",
-      "lastPublishedAt": "2026-07-27T09:27:34.188Z",
+      "lastSeenAt": "2026-07-27T14:10:27.418Z",
+      "lastPublishedAt": "2026-07-27T14:10:27.418Z",
       "isArchived": false
     },
     {
@@ -103,8 +124,8 @@
       "url": "https://www.grants.gov/search-results-detail/353413",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-07-27T09:27:34.188Z",
-      "lastPublishedAt": "2026-07-27T09:27:34.188Z",
+      "lastSeenAt": "2026-07-27T14:10:27.418Z",
+      "lastPublishedAt": "2026-07-27T14:10:27.418Z",
       "isArchived": false
     },
     {
@@ -124,8 +145,8 @@
       "url": "https://www.grants.gov/search-results-detail/355100",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-07-27T09:27:34.188Z",
-      "lastPublishedAt": "2026-07-27T09:27:34.188Z",
+      "lastSeenAt": "2026-07-27T14:10:27.418Z",
+      "lastPublishedAt": "2026-07-27T14:10:27.418Z",
       "isArchived": false
     },
     {
@@ -135,7 +156,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-07-31T09:26:52.364Z",
+      "deadline": "2026-07-31T14:08:18.597Z",
       "amount": 749982430291,
       "currency": "COP",
       "amountUsd": 187495607.57275,
@@ -145,30 +166,9 @@
       "url": "https://minciencias.gov.co/convocatorias/plan-convocatorias-asctei-2025-2026/convocatoria-la-asignacion-para-la-ciencia",
       "publicationNumber": "48",
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-07-27T09:27:34.188Z",
-      "lastPublishedAt": "2026-07-27T09:27:34.188Z",
+      "lastSeenAt": "2026-07-27T14:10:27.418Z",
+      "lastPublishedAt": "2026-07-27T14:10:27.418Z",
       "isArchived": false
-    },
-    {
-      "id": "h6e5acc40",
-      "sourceId": "ted-europa",
-      "title": "Norway – Snow-clearing services – Winter maintenance on municipal roads and open spaces in Flesberg municipality - Lot 4 Lyngdal",
-      "source": "TED Europa",
-      "sourceTier": "internacional",
-      "region": "EUROPA",
-      "deadline": "2026-08-10T00:00:00.000Z",
-      "amount": null,
-      "currency": "",
-      "amountUsd": null,
-      "scoreTotal": 14,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/442012-2026",
-      "publicationNumber": "442012-2026",
-      "firstSeenAt": "2026-07-27T01:53:33.122Z",
-      "lastSeenAt": "2026-07-27T01:53:33.122Z",
-      "lastPublishedAt": "2026-07-27T01:53:33.122Z",
-      "isArchived": true
     },
     {
       "id": "he3b92b2b",
@@ -4119,5 +4119,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 196 | Archivadas: 189"
+  "message": "Historico acumulado del agente UCI-F. Total: 196 | Archivadas: 188"
 }
