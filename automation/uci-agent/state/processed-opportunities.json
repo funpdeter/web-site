@@ -2080,17 +2080,16 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-26T18-55-59-058Z_secop-ii_contratar-la-adquisicion-de-elementos-e-insumos-re"
+    },
+    "hb1625e6d": {
+      "at": "2026-07-27T01:53:33.121Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/442012-2026",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-07-19T12:51:31.434Z",
-      "endedAt": "2026-07-19T12:53:20.106Z",
-      "scannedCandidates": 25,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-07-19T18:47:56.883Z",
       "endedAt": "2026-07-19T18:49:04.334Z",
@@ -2320,6 +2319,14 @@
       "endedAt": "2026-07-26T18:55:59.063Z",
       "scannedCandidates": 24,
       "viableCandidates": 2,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-07-27T01:51:39.775Z",
+      "endedAt": "2026-07-27T01:53:33.125Z",
+      "scannedCandidates": 8,
+      "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
     }

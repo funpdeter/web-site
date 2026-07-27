@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-07-26T18:55:59.060Z",
+  "updatedAt": "2026-07-27T01:53:33.122Z",
   "opportunities": [
+    {
+      "id": "h6e5acc40",
+      "sourceId": "ted-europa",
+      "title": "Norway – Snow-clearing services – Winter maintenance on municipal roads and open spaces in Flesberg municipality - Lot 4 Lyngdal",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-08-10T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/442012-2026",
+      "publicationNumber": "442012-2026",
+      "firstSeenAt": "2026-07-27T01:53:33.122Z",
+      "lastSeenAt": "2026-07-27T01:53:33.122Z",
+      "lastPublishedAt": "2026-07-27T01:53:33.122Z",
+      "isArchived": false
+    },
     {
       "id": "he3b92b2b",
       "sourceId": "secop-ii",
@@ -21,7 +42,7 @@
       "firstSeenAt": "2026-07-26T18:55:59.060Z",
       "lastSeenAt": "2026-07-26T18:55:59.060Z",
       "lastPublishedAt": "2026-07-26T18:55:59.060Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h2bb5748",
@@ -42,7 +63,7 @@
       "firstSeenAt": "2026-07-26T18:55:59.060Z",
       "lastSeenAt": "2026-07-26T18:55:59.060Z",
       "lastPublishedAt": "2026-07-26T18:55:59.060Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h9037b8",
@@ -63,7 +84,7 @@
       "firstSeenAt": "2026-07-26T18:55:59.060Z",
       "lastSeenAt": "2026-07-26T18:55:59.060Z",
       "lastPublishedAt": "2026-07-26T18:55:59.060Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha4c122fd",
@@ -84,7 +105,7 @@
       "firstSeenAt": "2026-07-26T18:55:59.060Z",
       "lastSeenAt": "2026-07-26T18:55:59.060Z",
       "lastPublishedAt": "2026-07-26T18:55:59.060Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h94ff3a53",
@@ -4098,5 +4119,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 195 | Archivadas: 191"
+  "message": "Historico acumulado del agente UCI-F. Total: 196 | Archivadas: 195"
 }
