@@ -2087,17 +2087,17 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/442012-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "h92004b10": {
+      "at": "2026-07-28T08:13:49.964Z",
+      "sourceId": "usaid",
+      "url": "https://www.grants.gov/search-results-detail/357554",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-28T08-13-49-950Z_usaid_security-privacy-and-trust-in-cyberspace"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-07-20T19:23:03.476Z",
-      "endedAt": "2026-07-20T19:24:13.908Z",
-      "scannedCandidates": 24,
-      "viableCandidates": 2,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-07-21T01:27:57.507Z",
       "endedAt": "2026-07-21T01:30:00.567Z",
@@ -2327,6 +2327,14 @@
       "endedAt": "2026-07-28T01:27:46.049Z",
       "scannedCandidates": 8,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-07-28T08:12:30.182Z",
+      "endedAt": "2026-07-28T08:13:49.968Z",
+      "scannedCandidates": 8,
+      "viableCandidates": 1,
       "sentNotifications": 0,
       "transport": "console"
     }
