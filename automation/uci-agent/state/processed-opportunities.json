@@ -2095,17 +2095,16 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-07-28T08-13-49-950Z_usaid_security-privacy-and-trust-in-cyberspace"
+    },
+    "hf2ebeb0d": {
+      "at": "2026-07-30T08:06:45.901Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/445743-2026",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-07-22T18:55:23.406Z",
-      "endedAt": "2026-07-22T18:56:15.664Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-07-23T01:45:54.997Z",
       "endedAt": "2026-07-23T01:47:56.123Z",
@@ -2334,6 +2333,14 @@
       "startedAt": "2026-07-30T01:19:49.838Z",
       "endedAt": "2026-07-30T01:20:49.579Z",
       "scannedCandidates": 8,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-07-30T08:05:30.845Z",
+      "endedAt": "2026-07-30T08:06:45.906Z",
+      "scannedCandidates": 9,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
