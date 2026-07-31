@@ -1,23 +1,23 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-07-30T19:09:28.749Z",
+  "updatedAt": "2026-07-31T01:47:54.224Z",
   "opportunities": [
     {
-      "id": "h47f18a75",
+      "id": "h11678f93",
       "sourceId": "ted-europa",
-      "title": "Poland – Construction work – Remont drogi powiatowej (dawniej droga wojewódzka 366) w km 0+000 ÷ km 3+974 oraz km 7+505 ÷ km 24+176 o łącznej długości 19 505 (z wyłączeniem odcinka km 13+500 ÷ km 14+640)",
+      "title": "Poland – Refuse and waste related services – „Zagospodarowanie odpadów komunalnych powstających na terenie nieruchomości zamieszkałych gminy Sieroszewice w 2027 r.”",
       "source": "TED Europa",
       "sourceTier": "internacional",
       "region": "EUROPA",
-      "deadline": "2026-07-31T00:00:00.000Z",
+      "deadline": "2026-08-07T00:00:00.000Z",
       "amount": null,
       "currency": "",
       "amountUsd": null,
       "scoreTotal": 13,
       "recommendation": "No aplicar",
       "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/445791-2026",
-      "publicationNumber": "445791-2026"
+      "url": "https://ted.europa.eu/en/notice/-/detail/449296-2026",
+      "publicationNumber": "449296-2026"
     }
   ],
   "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 0 | EUROPA: 1"

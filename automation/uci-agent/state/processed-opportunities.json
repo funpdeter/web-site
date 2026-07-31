@@ -2109,17 +2109,16 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/445791-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "h1cff2576": {
+      "at": "2026-07-31T01:47:54.223Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/449296-2026",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-07-23T13:21:44.624Z",
-      "endedAt": "2026-07-23T13:24:43.881Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-07-23T18:57:13.345Z",
       "endedAt": "2026-07-23T18:58:52.227Z",
@@ -2348,6 +2347,14 @@
       "startedAt": "2026-07-30T19:07:11.424Z",
       "endedAt": "2026-07-30T19:09:28.754Z",
       "scannedCandidates": 10,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-07-31T01:46:20.495Z",
+      "endedAt": "2026-07-31T01:47:54.228Z",
+      "scannedCandidates": 9,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
