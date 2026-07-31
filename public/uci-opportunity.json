@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-07-31T13:29:34.595Z",
+  "updatedAt": "2026-07-31T19:07:30.929Z",
   "opportunities": [
     {
       "id": "h2c066308",
@@ -9,7 +9,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-07-31T13:28:34.771Z",
+      "deadline": "2026-07-31T19:06:14.857Z",
       "amount": 749982430291,
       "currency": "COP",
       "amountUsd": 187495607.57275,
@@ -35,6 +35,23 @@
       "isViable": true,
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null
+    },
+    {
+      "id": "h11678f93",
+      "sourceId": "ted-europa",
+      "title": "Poland – Refuse and waste related services – „Zagospodarowanie odpadów komunalnych powstających na terenie nieruchomości zamieszkałych gminy Sieroszewice w 2027 r.”",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-08-07T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/449296-2026",
+      "publicationNumber": "449296-2026"
     },
     {
       "id": "hf3280820",
@@ -139,5 +156,5 @@
       "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 1 | USA: 7 | EUROPA: 0"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 1 | USA: 7 | EUROPA: 1"
 }
