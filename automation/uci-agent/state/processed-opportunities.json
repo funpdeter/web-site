@@ -2229,17 +2229,47 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-01T01-48-32-652Z_secop-ii_iccu-lp-022-2026-fase-de-seleccion-presentacion-de"
+    },
+    "h801ad4e8": {
+      "at": "2026-08-01T08:03:23.633Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10615618",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hccc679b4": {
+      "at": "2026-08-01T08:03:23.648Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10609893",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-01T08-03-23-634Z_secop-ii_contratar-los-servicios-de-apoyo-logistico-para-la"
+    },
+    "h8d5f5423": {
+      "at": "2026-08-01T08:03:23.648Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10580858",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-01T08-03-23-648Z_secop-ii_operador-logistico-casa"
+    },
+    "he6190cfb": {
+      "at": "2026-08-01T08:03:23.649Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10605122",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-01T08-03-23-649Z_secop-ii_mantenimiento-del-alumbrado-publico-municipio-de-c"
+    },
+    "h8fd2a846": {
+      "at": "2026-08-01T08:03:23.650Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/452906-2026",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-07-24T19:10:01.630Z",
-      "endedAt": "2026-07-24T19:11:07.031Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-07-25T01:30:37.326Z",
       "endedAt": "2026-07-25T01:32:45.870Z",
@@ -2469,6 +2499,14 @@
       "endedAt": "2026-08-01T01:48:32.658Z",
       "scannedCandidates": 23,
       "viableCandidates": 8,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-08-01T08:01:12.715Z",
+      "endedAt": "2026-08-01T08:03:23.654Z",
+      "scannedCandidates": 24,
+      "viableCandidates": 3,
       "sentNotifications": 0,
       "transport": "console"
     }
