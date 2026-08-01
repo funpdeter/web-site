@@ -2116,17 +2116,122 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/449296-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "hb3f82d05": {
+      "at": "2026-08-01T01:48:32.631Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10587840",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hbd314bed": {
+      "at": "2026-08-01T01:48:32.647Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10452456",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-01T01-48-32-632Z_secop-ii_obra-municipios"
+    },
+    "ha2a1ffd": {
+      "at": "2026-08-01T01:48:32.648Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10565314",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-01T01-48-32-647Z_secop-ii_maquinaria-pesada"
+    },
+    "h62291a29": {
+      "at": "2026-08-01T01:48:32.648Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10602590",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hf585a019": {
+      "at": "2026-08-01T01:48:32.649Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10523662",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-01T01-48-32-648Z_secop-ii_mantenimiento-preventivo-y-correctivo-a-todo-costo"
+    },
+    "ha5dc1e37": {
+      "at": "2026-08-01T01:48:32.649Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10594767",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h26ca2511": {
+      "at": "2026-08-01T01:48:32.649Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10605458",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h8bd43bda": {
+      "at": "2026-08-01T01:48:32.650Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10597813",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-01T01-48-32-649Z_secop-ii_adquisicion-de-andamios-multidireccionales-certifi"
+    },
+    "h6978fbdb": {
+      "at": "2026-08-01T01:48:32.650Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10563813",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h8d12f0a": {
+      "at": "2026-08-01T01:48:32.651Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10597804",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-01T01-48-32-650Z_secop-ii_mantenimiento-preventivo-y-correctivo-de-periferic"
+    },
+    "h71f460f6": {
+      "at": "2026-08-01T01:48:32.651Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10599437",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-01T01-48-32-651Z_secop-ii_suministro-de-equipos-de-oficina-impresoras-y-elem"
+    },
+    "h4ce16f27": {
+      "at": "2026-08-01T01:48:32.652Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10525150",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-01T01-48-32-652Z_secop-ii_adquisicion-de-equipos-tecnologicos-perifericos-co"
+    },
+    "h51c5be1b": {
+      "at": "2026-08-01T01:48:32.652Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10483971",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h218bc094": {
+      "at": "2026-08-01T01:48:32.652Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10593918",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h8858bfdc": {
+      "at": "2026-08-01T01:48:32.653Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10538085",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-01T01-48-32-652Z_secop-ii_iccu-lp-022-2026-fase-de-seleccion-presentacion-de"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-07-24T13:15:30.188Z",
-      "endedAt": "2026-07-24T13:16:38.122Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-07-24T19:10:01.630Z",
       "endedAt": "2026-07-24T19:11:07.031Z",
@@ -2356,6 +2461,14 @@
       "endedAt": "2026-07-31T19:07:30.935Z",
       "scannedCandidates": 9,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-08-01T01:47:44.848Z",
+      "endedAt": "2026-08-01T01:48:32.658Z",
+      "scannedCandidates": 23,
+      "viableCandidates": 8,
       "sentNotifications": 0,
       "transport": "console"
     }
