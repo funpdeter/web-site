@@ -2267,17 +2267,39 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/452906-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "hca4d2d97": {
+      "at": "2026-08-02T01:46:01.452Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10601081",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-02T01-46-01-438Z_secop-ii_fortalecimiento-de-la-red-departamental-de-bibliot"
+    },
+    "h9429ca98": {
+      "at": "2026-08-02T01:46:01.453Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10620311",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h1a72a6b": {
+      "at": "2026-08-02T01:46:01.453Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10619888",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h4493d687": {
+      "at": "2026-08-02T01:46:01.454Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10600882",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-02T01-46-01-453Z_secop-ii_5-9206-000352-contratar-la-prestacion-de-servicios"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-07-25T12:57:58.641Z",
-      "endedAt": "2026-07-25T13:00:07.562Z",
-      "scannedCandidates": 24,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-07-25T18:50:14.190Z",
       "endedAt": "2026-07-25T18:52:14.985Z",
@@ -2507,6 +2529,14 @@
       "endedAt": "2026-08-01T18:54:15.680Z",
       "scannedCandidates": 24,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-08-02T01:44:01.823Z",
+      "endedAt": "2026-08-02T01:46:01.458Z",
+      "scannedCandidates": 24,
+      "viableCandidates": 2,
       "sentNotifications": 0,
       "transport": "console"
     }
