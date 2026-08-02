@@ -2297,17 +2297,23 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-02T01-46-01-453Z_secop-ii_5-9206-000352-contratar-la-prestacion-de-servicios"
+    },
+    "hba737300": {
+      "at": "2026-08-02T18:54:50.637Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10585139",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h57c9792a": {
+      "at": "2026-08-02T18:54:50.637Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10428214",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-07-26T08:06:02.026Z",
-      "endedAt": "2026-07-26T08:08:00.729Z",
-      "scannedCandidates": 24,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-07-26T12:55:21.108Z",
       "endedAt": "2026-07-26T12:56:58.252Z",
@@ -2535,6 +2541,14 @@
     {
       "startedAt": "2026-08-02T12:55:24.925Z",
       "endedAt": "2026-08-02T12:56:41.751Z",
+      "scannedCandidates": 24,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-08-02T18:52:48.055Z",
+      "endedAt": "2026-08-02T18:54:50.642Z",
       "scannedCandidates": 24,
       "viableCandidates": 0,
       "sentNotifications": 0,
