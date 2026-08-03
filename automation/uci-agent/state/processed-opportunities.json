@@ -2311,17 +2311,16 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10428214",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "h5bc37e09": {
+      "at": "2026-08-03T19:18:11.724Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/460728-2026",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-07-27T01:51:39.775Z",
-      "endedAt": "2026-07-27T01:53:33.125Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-07-27T09:26:43.562Z",
       "endedAt": "2026-07-27T09:27:34.191Z",
@@ -2550,6 +2549,14 @@
       "startedAt": "2026-08-03T14:13:08.333Z",
       "endedAt": "2026-08-03T14:14:24.447Z",
       "scannedCandidates": 7,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-08-03T19:16:47.743Z",
+      "endedAt": "2026-08-03T19:18:11.729Z",
+      "scannedCandidates": 8,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
