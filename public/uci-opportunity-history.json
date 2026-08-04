@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-08-03T19:18:11.725Z",
+  "updatedAt": "2026-08-04T01:24:00.071Z",
   "opportunities": [
     {
       "id": "h49221248",
@@ -19,8 +19,8 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/460728-2026",
       "publicationNumber": "460728-2026",
       "firstSeenAt": "2026-08-03T19:18:11.725Z",
-      "lastSeenAt": "2026-08-03T19:18:11.725Z",
-      "lastPublishedAt": "2026-08-03T19:18:11.725Z",
+      "lastSeenAt": "2026-08-04T01:24:00.071Z",
+      "lastPublishedAt": "2026-08-04T01:24:00.071Z",
       "isArchived": false
     },
     {
@@ -40,9 +40,9 @@
       "url": "https://www.grants.gov/search-results-detail/357554",
       "publicationNumber": null,
       "firstSeenAt": "2026-07-28T08:13:49.965Z",
-      "lastSeenAt": "2026-08-03T14:14:24.443Z",
-      "lastPublishedAt": "2026-08-03T14:14:24.443Z",
-      "isArchived": true
+      "lastSeenAt": "2026-08-04T01:24:00.071Z",
+      "lastPublishedAt": "2026-08-04T01:24:00.071Z",
+      "isArchived": false
     },
     {
       "id": "hf3280820",
@@ -61,9 +61,9 @@
       "url": "https://www.grants.gov/search-results-detail/363178",
       "publicationNumber": null,
       "firstSeenAt": "2026-07-14T19:01:56.251Z",
-      "lastSeenAt": "2026-08-03T14:14:24.443Z",
-      "lastPublishedAt": "2026-08-03T14:14:24.443Z",
-      "isArchived": true
+      "lastSeenAt": "2026-08-04T01:24:00.071Z",
+      "lastPublishedAt": "2026-08-04T01:24:00.071Z",
+      "isArchived": false
     },
     {
       "id": "h78341272",
@@ -82,9 +82,9 @@
       "url": "https://www.grants.gov/search-results-detail/363121",
       "publicationNumber": null,
       "firstSeenAt": "2026-07-09T14:30:28.340Z",
-      "lastSeenAt": "2026-08-03T14:14:24.443Z",
-      "lastPublishedAt": "2026-08-03T14:14:24.443Z",
-      "isArchived": true
+      "lastSeenAt": "2026-08-04T01:24:00.071Z",
+      "lastPublishedAt": "2026-08-04T01:24:00.071Z",
+      "isArchived": false
     },
     {
       "id": "h6984390",
@@ -103,9 +103,9 @@
       "url": "https://www.grants.gov/search-results-detail/363048",
       "publicationNumber": null,
       "firstSeenAt": "2026-07-02T19:08:53.883Z",
-      "lastSeenAt": "2026-08-03T14:14:24.443Z",
-      "lastPublishedAt": "2026-08-03T14:14:24.443Z",
-      "isArchived": true
+      "lastSeenAt": "2026-08-04T01:24:00.071Z",
+      "lastPublishedAt": "2026-08-04T01:24:00.071Z",
+      "isArchived": false
     },
     {
       "id": "he69c4641",
@@ -124,9 +124,9 @@
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-08-03T14:14:24.443Z",
-      "lastPublishedAt": "2026-08-03T14:14:24.443Z",
-      "isArchived": true
+      "lastSeenAt": "2026-08-04T01:24:00.071Z",
+      "lastPublishedAt": "2026-08-04T01:24:00.071Z",
+      "isArchived": false
     },
     {
       "id": "hd42464ed",
@@ -145,9 +145,9 @@
       "url": "https://www.grants.gov/search-results-detail/353413",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-08-03T14:14:24.443Z",
-      "lastPublishedAt": "2026-08-03T14:14:24.443Z",
-      "isArchived": true
+      "lastSeenAt": "2026-08-04T01:24:00.071Z",
+      "lastPublishedAt": "2026-08-04T01:24:00.071Z",
+      "isArchived": false
     },
     {
       "id": "h1ad458ac",
@@ -166,9 +166,9 @@
       "url": "https://www.grants.gov/search-results-detail/355100",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-08-03T14:14:24.443Z",
-      "lastPublishedAt": "2026-08-03T14:14:24.443Z",
-      "isArchived": true
+      "lastSeenAt": "2026-08-04T01:24:00.071Z",
+      "lastPublishedAt": "2026-08-04T01:24:00.071Z",
+      "isArchived": false
     },
     {
       "id": "hf68eb26f",
@@ -4770,5 +4770,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 227 | Archivadas: 226"
+  "message": "Historico acumulado del agente UCI-F. Total: 227 | Archivadas: 219"
 }
