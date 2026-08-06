@@ -2318,17 +2318,30 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/460728-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "h3461f553": {
+      "at": "2026-08-06T23:48:44.306Z",
+      "sourceId": "usaid",
+      "url": "https://www.grants.gov/search-results-detail/363466",
+      "viable": false,
+      "reason": "No aplicar"
+    },
+    "h42620b5d": {
+      "at": "2026-08-06T23:48:44.306Z",
+      "sourceId": "usaid",
+      "url": "https://www.grants.gov/search-results-detail/363468",
+      "viable": false,
+      "reason": "No aplicar"
+    },
+    "h3361f3c0": {
+      "at": "2026-08-06T23:48:44.306Z",
+      "sourceId": "usaid",
+      "url": "https://www.grants.gov/search-results-detail/363467",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-07-30T01:19:49.838Z",
-      "endedAt": "2026-07-30T01:20:49.579Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-07-30T08:05:30.845Z",
       "endedAt": "2026-07-30T08:06:45.906Z",
@@ -2557,6 +2570,14 @@
       "startedAt": "2026-08-06T13:39:04.360Z",
       "endedAt": "2026-08-06T13:40:06.843Z",
       "scannedCandidates": 7,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-08-06T23:47:52.114Z",
+      "endedAt": "2026-08-06T23:48:44.311Z",
+      "scannedCandidates": 9,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
