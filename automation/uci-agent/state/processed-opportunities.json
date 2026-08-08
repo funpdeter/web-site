@@ -2346,17 +2346,122 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/468378-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "hc03e98a7": {
+      "at": "2026-08-08T00:48:46.859Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10650076",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "ha25c0adc": {
+      "at": "2026-08-08T00:48:46.860Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10403725",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hbb167501": {
+      "at": "2026-08-08T00:48:46.874Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10672175",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-08T00-48-46-860Z_secop-ii_mch-esal-004-2026"
+    },
+    "h9619ac8b": {
+      "at": "2026-08-08T00:48:46.875Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10646152",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h2ba1d4ae": {
+      "at": "2026-08-08T00:48:46.875Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10638503",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-08T00-48-46-875Z_secop-ii_adquisicion-de-prendas-accesorios-y-elementos-de-i"
+    },
+    "h79150837": {
+      "at": "2026-08-08T00:48:46.876Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10655185",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hbad07bd7": {
+      "at": "2026-08-08T00:48:46.876Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10634492",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h50714a3d": {
+      "at": "2026-08-08T00:48:46.876Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10479198",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-08T00-48-46-876Z_secop-ii_lp-004-2026"
+    },
+    "h52f269a4": {
+      "at": "2026-08-08T00:48:46.877Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10518559",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-08T00-48-46-876Z_secop-ii_pcontratar-la-fase-de-diagnostico-para-la-formulac"
+    },
+    "h66d2193a": {
+      "at": "2026-08-08T00:48:46.877Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10648287",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h85658f98": {
+      "at": "2026-08-08T00:48:46.878Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10616817",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-08T00-48-46-877Z_secop-ii_mantenimiento-preventivo-y-los-correctivos-que-sea"
+    },
+    "h8a1b5717": {
+      "at": "2026-08-08T00:48:46.878Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10653837",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hb49c5d07": {
+      "at": "2026-08-08T00:48:46.878Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10569297",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-08T00-48-46-878Z_secop-ii_seleccion-abreviada-subasta-inversa"
+    },
+    "h9f5e531b": {
+      "at": "2026-08-08T00:48:46.879Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10611765",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-08T00-48-46-878Z_secop-ii_prestacion-de-servicios-para-la-realizacion-de-los"
+    },
+    "hc0bd3665": {
+      "at": "2026-08-08T00:48:46.879Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10638227",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-08T00-48-46-879Z_secop-ii_compra-de-gases"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-07-31T08:31:25.787Z",
-      "endedAt": "2026-07-31T08:33:01.389Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-07-31T13:28:26.130Z",
       "endedAt": "2026-07-31T13:29:34.599Z",
@@ -2586,6 +2691,14 @@
       "endedAt": "2026-08-07T18:39:26.019Z",
       "scannedCandidates": 9,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-08-08T00:47:03.624Z",
+      "endedAt": "2026-08-08T00:48:46.884Z",
+      "scannedCandidates": 26,
+      "viableCandidates": 8,
       "sentNotifications": 0,
       "transport": "console"
     }
