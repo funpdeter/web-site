@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-08-08T00:48:46.879Z",
+  "updatedAt": "2026-08-08T06:33:35.917Z",
   "opportunities": [
     {
       "id": "h64c3eeee",
@@ -54,6 +54,40 @@
       "publicationNumber": null
     },
     {
+      "id": "he69c4641",
+      "sourceId": "usaid",
+      "title": "Tribal Colleges and Universities Program",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-09-01T00:00:00.000Z",
+      "amount": 3500000,
+      "currency": "USD",
+      "amountUsd": 3500000,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://www.grants.gov/search-results-detail/334326",
+      "publicationNumber": null
+    },
+    {
+      "id": "hc1c63083",
+      "sourceId": "ted-europa",
+      "title": "Poland – Advertising campaign services – Przeprowadzenie działań medialnych w 2026 r. do kampanii informacyjno-edukacyjnej „Bezpieczni na etacie” za pośrednictwem Internetu",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-08-12T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/468378-2026",
+      "publicationNumber": "468378-2026"
+    },
+    {
       "id": "h617e8925",
       "sourceId": "secop-ii",
       "title": "PCONTRATAR LA FASE DE DIAGNÓSTICO PARA LA FORMULACIÓN DEL PLAN DE MANEJO AMBIENTAL DE LOS ACUÍFEROS DEL DISTRITO CAPITAL.",
@@ -85,6 +119,23 @@
       "recommendation": "Aplicar con alianza",
       "isViable": true,
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10479198",
+      "publicationNumber": null
+    },
+    {
+      "id": "h8343e902",
+      "sourceId": "secop-ii",
+      "title": "AUNAR ESFUERZOS TÉCNICOS; ADMINISTRATIVOS Y FINANCIEROS EN LA IMPLEMENTACIÓN Y EJECUCIÓN DEL PROGRAMA DE ALIMENTACIÓN ESCOLAR PAE; ENTRE EL DEPARTAMENTO DE BOYACÁ Y EL MUNICIPIO DE MARIPI; PARA GARANT",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-08-09T00:00:00.000Z",
+      "amount": 459106756,
+      "currency": "COP",
+      "amountUsd": 114776.689,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/STS/Users/Login/Index",
       "publicationNumber": null
     },
     {
@@ -120,58 +171,7 @@
       "isViable": true,
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10638503",
       "publicationNumber": null
-    },
-    {
-      "id": "h66c4c611",
-      "sourceId": "secop-ii",
-      "title": "MANTENIMIENTO PREVENTIVO Y LOS CORRECTIVOS QUE SEAN NECESARIOS CON SUMINISTRO DE REPUESTOS; PARTES; ACCESORIOS; COMPONENTES ORIGINALES NUEVOS NO REMANUFACTURADOS DE MICROSCOPIOS QUIRURGICOS MARCA LEIC",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-08-10T00:00:00.000Z",
-      "amount": 32000000,
-      "currency": "COP",
-      "amountUsd": 8000,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10616817",
-      "publicationNumber": null
-    },
-    {
-      "id": "hdb7fad62",
-      "sourceId": "secop-ii",
-      "title": "CONTRATAR EL MANTENIMIENTO DE ZONAS VERDES; PODA Y TALA SANITARIA DE LAS SEDES PUERTO GAITÁN Y TALADRO ESCUELA DEL CENTRO DE INDUSTRIA Y SERVICIOS DEL SENA REGIONAL META",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-08-09T00:00:00.000Z",
-      "amount": null,
-      "currency": "",
-      "amountUsd": null,
-      "scoreTotal": 16,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10650076",
-      "publicationNumber": null
-    },
-    {
-      "id": "h2c96869d",
-      "sourceId": "secop-ii",
-      "title": "REALIZAR EL MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE LA INFRAESTRUCTURA TECNOLÓGICA DE PROPIEDAD DE LA ALCALDÍA LOCAL DE BOSA INCLUYENDO BOLSA DE REPUESTOS",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-08-09T00:00:00.000Z",
-      "amount": null,
-      "currency": "",
-      "amountUsd": null,
-      "scoreTotal": 16,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10403725",
-      "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 10 | USA: 0 | EUROPA: 0"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 8 | USA: 1 | EUROPA: 1"
 }
