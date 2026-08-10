@@ -2497,17 +2497,15 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-09T00-53-15-868Z_secop-ii_ayudas-diagnosticas"
+    },
+    "ha5deb1ac": {
+      "at": "2026-08-10T00:53:12.777Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/eventos/convocatoria-aft-somos-bosques",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-08-02T08:03:04.465Z",
-      "endedAt": "2026-08-02T08:05:07.432Z",
-      "scannedCandidates": 24,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-08-02T12:55:24.925Z",
       "endedAt": "2026-08-02T12:56:41.751Z",
@@ -2736,6 +2734,14 @@
       "startedAt": "2026-08-09T18:22:46.553Z",
       "endedAt": "2026-08-09T18:23:57.862Z",
       "scannedCandidates": 25,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-08-10T00:53:06.533Z",
+      "endedAt": "2026-08-10T00:54:15.780Z",
+      "scannedCandidates": 8,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"

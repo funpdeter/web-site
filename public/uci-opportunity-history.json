@@ -1,7 +1,175 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-08-09T18:23:57.859Z",
+  "updatedAt": "2026-08-10T00:54:15.776Z",
   "opportunities": [
+    {
+      "id": "h5215eb0f",
+      "sourceId": "usaid",
+      "title": "Institute of Education Sciences (IES): National Center for Special Education Research (NCSER): Research Training Programs in Special Education, Assistance Listing Number (ALN) 84.324B",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-10-01T00:00:00.000Z",
+      "amount": null,
+      "currency": "USD",
+      "amountUsd": null,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/363467",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-08-06T23:48:44.308Z",
+      "lastSeenAt": "2026-08-10T00:54:15.776Z",
+      "lastPublishedAt": "2026-08-10T00:54:15.776Z",
+      "isArchived": false
+    },
+    {
+      "id": "h5115e97c",
+      "sourceId": "usaid",
+      "title": "Institute of Education Sciences (IES): National Center for Education Research (NCER): Research Training Programs in The Education Sciences, Assistance Listing Number (ALN) 84.305B",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-10-01T00:00:00.000Z",
+      "amount": null,
+      "currency": "USD",
+      "amountUsd": null,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/363466",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-08-06T23:48:44.308Z",
+      "lastSeenAt": "2026-08-10T00:54:15.776Z",
+      "lastPublishedAt": "2026-08-10T00:54:15.776Z",
+      "isArchived": false
+    },
+    {
+      "id": "h5715f2ee",
+      "sourceId": "usaid",
+      "title": "Institute of Education Sciences (IES): National Center for Education Research (NCER): Statistical and Research Methodology in Education, Assistance Listing Number (ALN) 84.305D",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-10-01T00:00:00.000Z",
+      "amount": null,
+      "currency": "USD",
+      "amountUsd": null,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/363468",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-08-06T23:48:44.308Z",
+      "lastSeenAt": "2026-08-10T00:54:15.776Z",
+      "lastPublishedAt": "2026-08-10T00:54:15.776Z",
+      "isArchived": false
+    },
+    {
+      "id": "hf3280820",
+      "sourceId": "usaid",
+      "title": "FY26 Community Policing Development: Law Enforcement Products and Resources",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-08-24T00:00:00.000Z",
+      "amount": 1500000,
+      "currency": "USD",
+      "amountUsd": 1500000,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://www.grants.gov/search-results-detail/363178",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-07-14T19:01:56.251Z",
+      "lastSeenAt": "2026-08-10T00:54:15.776Z",
+      "lastPublishedAt": "2026-08-10T00:54:15.776Z",
+      "isArchived": false
+    },
+    {
+      "id": "h6984390",
+      "sourceId": "usaid",
+      "title": "FY26 Community Policing Development (CPD) Microgrants",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-08-17T00:00:00.000Z",
+      "amount": 200000,
+      "currency": "USD",
+      "amountUsd": 200000,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://www.grants.gov/search-results-detail/363048",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-07-02T19:08:53.883Z",
+      "lastSeenAt": "2026-08-10T00:54:15.776Z",
+      "lastPublishedAt": "2026-08-10T00:54:15.776Z",
+      "isArchived": false
+    },
+    {
+      "id": "he69c4641",
+      "sourceId": "usaid",
+      "title": "Tribal Colleges and Universities Program",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-09-01T00:00:00.000Z",
+      "amount": 3500000,
+      "currency": "USD",
+      "amountUsd": 3500000,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://www.grants.gov/search-results-detail/334326",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-06-19T13:55:50.376Z",
+      "lastSeenAt": "2026-08-10T00:54:15.776Z",
+      "lastPublishedAt": "2026-08-10T00:54:15.776Z",
+      "isArchived": false
+    },
+    {
+      "id": "hd42464ed",
+      "sourceId": "usaid",
+      "title": "IUSE/Professional Formation of Engineers:  Revolutionizing Engineering Departments",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-09-08T00:00:00.000Z",
+      "amount": 2000000,
+      "currency": "USD",
+      "amountUsd": 2000000,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/353413",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-06-19T13:55:50.376Z",
+      "lastSeenAt": "2026-08-10T00:54:15.776Z",
+      "lastPublishedAt": "2026-08-10T00:54:15.776Z",
+      "isArchived": false
+    },
+    {
+      "id": "h1ad458ac",
+      "sourceId": "usaid",
+      "title": "Advanced Technological Education",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-10-01T00:00:00.000Z",
+      "amount": 7500000,
+      "currency": "USD",
+      "amountUsd": 7500000,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/355100",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-06-19T13:55:50.376Z",
+      "lastSeenAt": "2026-08-10T00:54:15.776Z",
+      "lastPublishedAt": "2026-08-10T00:54:15.776Z",
+      "isArchived": false
+    },
     {
       "id": "h140a29ed",
       "sourceId": "secop-ii",
@@ -21,7 +189,7 @@
       "firstSeenAt": "2026-08-09T00:53:15.869Z",
       "lastSeenAt": "2026-08-09T18:23:57.859Z",
       "lastPublishedAt": "2026-08-09T18:23:57.859Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h7b69586a",
@@ -42,7 +210,7 @@
       "firstSeenAt": "2026-08-09T00:53:15.869Z",
       "lastSeenAt": "2026-08-09T18:23:57.859Z",
       "lastPublishedAt": "2026-08-09T18:23:57.859Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hcc8c4dbc",
@@ -63,7 +231,7 @@
       "firstSeenAt": "2026-08-09T00:53:15.869Z",
       "lastSeenAt": "2026-08-09T18:23:57.859Z",
       "lastPublishedAt": "2026-08-09T18:23:57.859Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h4abf1556",
@@ -84,7 +252,7 @@
       "firstSeenAt": "2026-08-09T00:53:15.869Z",
       "lastSeenAt": "2026-08-09T18:23:57.859Z",
       "lastPublishedAt": "2026-08-09T18:23:57.859Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h5c5ee092",
@@ -105,7 +273,7 @@
       "firstSeenAt": "2026-08-09T00:53:15.869Z",
       "lastSeenAt": "2026-08-09T18:23:57.859Z",
       "lastPublishedAt": "2026-08-09T18:23:57.859Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h64c3eeee",
@@ -126,7 +294,7 @@
       "firstSeenAt": "2026-08-08T00:48:46.880Z",
       "lastSeenAt": "2026-08-09T18:23:57.859Z",
       "lastPublishedAt": "2026-08-09T18:23:57.859Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he37bc41a",
@@ -147,7 +315,7 @@
       "firstSeenAt": "2026-08-08T00:48:46.880Z",
       "lastSeenAt": "2026-08-09T18:23:57.859Z",
       "lastPublishedAt": "2026-08-09T18:23:57.859Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h3970da0c",
@@ -168,7 +336,7 @@
       "firstSeenAt": "2026-08-08T00:48:46.880Z",
       "lastSeenAt": "2026-08-09T18:23:57.859Z",
       "lastPublishedAt": "2026-08-09T18:23:57.859Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h617e8925",
@@ -189,7 +357,7 @@
       "firstSeenAt": "2026-08-08T00:48:46.880Z",
       "lastSeenAt": "2026-08-09T18:23:57.859Z",
       "lastPublishedAt": "2026-08-09T18:23:57.859Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h4859cf9c",
@@ -210,7 +378,7 @@
       "firstSeenAt": "2026-08-08T00:48:46.880Z",
       "lastSeenAt": "2026-08-09T18:23:57.859Z",
       "lastPublishedAt": "2026-08-09T18:23:57.859Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h5d58e44f",
@@ -231,7 +399,7 @@
       "firstSeenAt": "2026-08-08T00:48:46.880Z",
       "lastSeenAt": "2026-08-09T18:23:57.859Z",
       "lastPublishedAt": "2026-08-09T18:23:57.859Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h66c4c611",
@@ -252,7 +420,7 @@
       "firstSeenAt": "2026-08-08T00:48:46.880Z",
       "lastSeenAt": "2026-08-09T18:23:57.859Z",
       "lastPublishedAt": "2026-08-09T18:23:57.859Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h4c6b7213",
@@ -273,7 +441,7 @@
       "firstSeenAt": "2026-08-08T00:48:46.880Z",
       "lastSeenAt": "2026-08-09T18:23:57.859Z",
       "lastPublishedAt": "2026-08-09T18:23:57.859Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h7ed9947e",
@@ -294,7 +462,7 @@
       "firstSeenAt": "2026-08-08T00:48:46.880Z",
       "lastSeenAt": "2026-08-09T18:23:57.859Z",
       "lastPublishedAt": "2026-08-09T18:23:57.859Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h4e521616",
@@ -315,7 +483,7 @@
       "firstSeenAt": "2026-08-08T00:48:46.880Z",
       "lastSeenAt": "2026-08-09T18:23:57.859Z",
       "lastPublishedAt": "2026-08-09T18:23:57.859Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h7872db16",
@@ -336,91 +504,7 @@
       "firstSeenAt": "2026-08-08T00:48:46.880Z",
       "lastSeenAt": "2026-08-09T18:23:57.859Z",
       "lastPublishedAt": "2026-08-09T18:23:57.859Z",
-      "isArchived": false
-    },
-    {
-      "id": "h5215eb0f",
-      "sourceId": "usaid",
-      "title": "Institute of Education Sciences (IES): National Center for Special Education Research (NCSER): Research Training Programs in Special Education, Assistance Listing Number (ALN) 84.324B",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-10-01T00:00:00.000Z",
-      "amount": null,
-      "currency": "USD",
-      "amountUsd": null,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/363467",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-08-06T23:48:44.308Z",
-      "lastSeenAt": "2026-08-09T18:23:57.859Z",
-      "lastPublishedAt": "2026-08-09T18:23:57.859Z",
-      "isArchived": false
-    },
-    {
-      "id": "h5115e97c",
-      "sourceId": "usaid",
-      "title": "Institute of Education Sciences (IES): National Center for Education Research (NCER): Research Training Programs in The Education Sciences, Assistance Listing Number (ALN) 84.305B",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-10-01T00:00:00.000Z",
-      "amount": null,
-      "currency": "USD",
-      "amountUsd": null,
-      "scoreTotal": 14,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/363466",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-08-06T23:48:44.308Z",
-      "lastSeenAt": "2026-08-09T18:23:57.859Z",
-      "lastPublishedAt": "2026-08-09T18:23:57.859Z",
-      "isArchived": false
-    },
-    {
-      "id": "h5715f2ee",
-      "sourceId": "usaid",
-      "title": "Institute of Education Sciences (IES): National Center for Education Research (NCER): Statistical and Research Methodology in Education, Assistance Listing Number (ALN) 84.305D",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-10-01T00:00:00.000Z",
-      "amount": null,
-      "currency": "USD",
-      "amountUsd": null,
-      "scoreTotal": 14,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/363468",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-08-06T23:48:44.308Z",
-      "lastSeenAt": "2026-08-09T18:23:57.859Z",
-      "lastPublishedAt": "2026-08-09T18:23:57.859Z",
-      "isArchived": false
-    },
-    {
-      "id": "hf3280820",
-      "sourceId": "usaid",
-      "title": "FY26 Community Policing Development: Law Enforcement Products and Resources",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-08-24T00:00:00.000Z",
-      "amount": 1500000,
-      "currency": "USD",
-      "amountUsd": 1500000,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://www.grants.gov/search-results-detail/363178",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-07-14T19:01:56.251Z",
-      "lastSeenAt": "2026-08-09T18:23:57.859Z",
-      "lastPublishedAt": "2026-08-09T18:23:57.859Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h78341272",
@@ -441,91 +525,7 @@
       "firstSeenAt": "2026-07-09T14:30:28.340Z",
       "lastSeenAt": "2026-08-09T18:23:57.859Z",
       "lastPublishedAt": "2026-08-09T18:23:57.859Z",
-      "isArchived": false
-    },
-    {
-      "id": "h6984390",
-      "sourceId": "usaid",
-      "title": "FY26 Community Policing Development (CPD) Microgrants",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-08-17T00:00:00.000Z",
-      "amount": 200000,
-      "currency": "USD",
-      "amountUsd": 200000,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://www.grants.gov/search-results-detail/363048",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-07-02T19:08:53.883Z",
-      "lastSeenAt": "2026-08-09T18:23:57.859Z",
-      "lastPublishedAt": "2026-08-09T18:23:57.859Z",
-      "isArchived": false
-    },
-    {
-      "id": "he69c4641",
-      "sourceId": "usaid",
-      "title": "Tribal Colleges and Universities Program",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-09-01T00:00:00.000Z",
-      "amount": 3500000,
-      "currency": "USD",
-      "amountUsd": 3500000,
-      "scoreTotal": 16,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://www.grants.gov/search-results-detail/334326",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-08-09T18:23:57.859Z",
-      "lastPublishedAt": "2026-08-09T18:23:57.859Z",
-      "isArchived": false
-    },
-    {
-      "id": "hd42464ed",
-      "sourceId": "usaid",
-      "title": "IUSE/Professional Formation of Engineers:  Revolutionizing Engineering Departments",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-09-08T00:00:00.000Z",
-      "amount": 2000000,
-      "currency": "USD",
-      "amountUsd": 2000000,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/353413",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-08-09T18:23:57.859Z",
-      "lastPublishedAt": "2026-08-09T18:23:57.859Z",
-      "isArchived": false
-    },
-    {
-      "id": "h1ad458ac",
-      "sourceId": "usaid",
-      "title": "Advanced Technological Education",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-10-01T00:00:00.000Z",
-      "amount": 7500000,
-      "currency": "USD",
-      "amountUsd": 7500000,
-      "scoreTotal": 14,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/355100",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-08-09T18:23:57.859Z",
-      "lastPublishedAt": "2026-08-09T18:23:57.859Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hb7793dfc",
@@ -5253,5 +5253,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 250 | Archivadas: 225"
+  "message": "Historico acumulado del agente UCI-F. Total: 250 | Archivadas: 242"
 }
