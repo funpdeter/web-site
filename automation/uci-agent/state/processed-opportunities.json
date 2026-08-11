@@ -2517,17 +2517,15 @@
       "url": "https://www.grants.gov/search-results-detail/362850",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "h31bbacd3": {
+      "at": "2026-08-11T12:37:59.577Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/node/2215",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-08-04T01:22:21.026Z",
-      "endedAt": "2026-08-04T01:24:00.074Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-08-04T08:16:31.693Z",
       "endedAt": "2026-08-04T08:19:00.409Z",
@@ -2755,6 +2753,14 @@
     {
       "startedAt": "2026-08-11T06:45:00.249Z",
       "endedAt": "2026-08-11T06:45:56.826Z",
+      "scannedCandidates": 10,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-08-11T12:37:52.526Z",
+      "endedAt": "2026-08-11T12:38:48.264Z",
       "scannedCandidates": 10,
       "viableCandidates": 0,
       "sentNotifications": 0,
