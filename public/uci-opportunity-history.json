@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-08-11T00:54:02.591Z",
+  "updatedAt": "2026-08-11T06:45:56.822Z",
   "opportunities": [
+    {
+      "id": "h93bf7b48",
+      "sourceId": "usaid",
+      "title": "DoW Rare Cancers Resource and Community Development Award",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-11-18T00:00:00.000Z",
+      "amount": null,
+      "currency": "USD",
+      "amountUsd": null,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/362850",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-08-11T06:45:56.822Z",
+      "lastSeenAt": "2026-08-11T06:45:56.822Z",
+      "lastPublishedAt": "2026-08-11T06:45:56.822Z",
+      "isArchived": false
+    },
     {
       "id": "h49c13b39",
       "sourceId": "usaid",
@@ -21,7 +42,7 @@
       "firstSeenAt": "2026-08-11T00:54:02.591Z",
       "lastSeenAt": "2026-08-11T00:54:02.591Z",
       "lastPublishedAt": "2026-08-11T00:54:02.591Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h5215eb0f",
@@ -5225,27 +5246,6 @@
       "recommendation": "Aplicar con alianza",
       "isViable": false,
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10377917",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-06-19T02:32:32.569Z",
-      "lastSeenAt": "2026-06-19T02:32:32.569Z",
-      "lastPublishedAt": "2026-06-19T02:32:32.569Z",
-      "isArchived": true
-    },
-    {
-      "id": "h9496cbfc",
-      "sourceId": "secop-ii",
-      "title": "ADQUISICIÓN DE ELEMENTOS TECNOLÓGICOS PARA LOS TRABAJADORES DE LA JUNTA NACIONAL DE CALIFICACIÓN DE INVALIDEZ",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-06-19T05:00:00.000Z",
-      "amount": null,
-      "currency": "",
-      "amountUsd": null,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10375296",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T02:32:32.569Z",
       "lastSeenAt": "2026-06-19T02:32:32.569Z",

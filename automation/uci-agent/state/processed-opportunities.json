@@ -2510,17 +2510,16 @@
       "url": "https://www.grants.gov/search-results-detail/362237",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "h7a5ad1db": {
+      "at": "2026-08-11T06:45:56.821Z",
+      "sourceId": "usaid",
+      "url": "https://www.grants.gov/search-results-detail/362850",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-08-03T19:16:47.743Z",
-      "endedAt": "2026-08-03T19:18:11.729Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-08-04T01:22:21.026Z",
       "endedAt": "2026-08-04T01:24:00.074Z",
@@ -2749,6 +2748,14 @@
       "startedAt": "2026-08-11T00:52:38.136Z",
       "endedAt": "2026-08-11T00:54:02.594Z",
       "scannedCandidates": 9,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-08-11T06:45:00.249Z",
+      "endedAt": "2026-08-11T06:45:56.826Z",
+      "scannedCandidates": 10,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
