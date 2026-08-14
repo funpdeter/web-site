@@ -2523,17 +2523,15 @@
       "sourceId": "apc-colombia",
       "url": "https://www.apccolombia.gov.co/node/2215",
       "viable": false
+    },
+    "h3681c28a": {
+      "at": "2026-08-14T12:38:35.399Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/sites/default/files/2026-04/TriNova_Guia%20para%20la%20Convocatoria%202026.pdf",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-08-07T02:03:18.529Z",
-      "endedAt": "2026-08-07T02:04:39.565Z",
-      "scannedCandidates": 10,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-08-07T06:58:26.658Z",
       "endedAt": "2026-08-07T07:00:26.907Z",
@@ -2761,6 +2759,14 @@
     {
       "startedAt": "2026-08-14T07:06:25.194Z",
       "endedAt": "2026-08-14T07:07:14.311Z",
+      "scannedCandidates": 10,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-08-14T12:38:28.129Z",
+      "endedAt": "2026-08-14T12:39:41.900Z",
       "scannedCandidates": 10,
       "viableCandidates": 0,
       "sentNotifications": 0,
