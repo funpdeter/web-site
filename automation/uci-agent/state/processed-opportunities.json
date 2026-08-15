@@ -2529,17 +2529,77 @@
       "sourceId": "apc-colombia",
       "url": "https://www.apccolombia.gov.co/sites/default/files/2026-04/TriNova_Guia%20para%20la%20Convocatoria%202026.pdf",
       "viable": false
+    },
+    "h154b5b95": {
+      "at": "2026-08-15T00:37:00.830Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10649700",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-15T00-37-00-815Z_secop-ii_mejoramiento-del-sistema-de-servicios-publicos-de-"
+    },
+    "h9e519341": {
+      "at": "2026-08-15T00:37:00.830Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10690571",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h3fbfd698": {
+      "at": "2026-08-15T00:37:00.830Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10692611",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h9d923151": {
+      "at": "2026-08-15T00:37:00.831Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10698962",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h4e8632b1": {
+      "at": "2026-08-15T00:37:00.831Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10647801",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-15T00-37-00-831Z_secop-ii_prestacion-de-servicios-de-apoyo-logistico-para-de"
+    },
+    "h1b12cfef": {
+      "at": "2026-08-15T00:37:00.832Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10606057",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-15T00-37-00-832Z_secop-ii_construccion-del-monumento-escena-premio-a-los-cac"
+    },
+    "h722d5c28": {
+      "at": "2026-08-15T00:37:00.832Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10419546",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h41faec": {
+      "at": "2026-08-15T00:37:00.833Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10702583",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-15T00-37-00-832Z_secop-ii_contrato-interadministrativo-de-administracion-del"
+    },
+    "h491824d8": {
+      "at": "2026-08-15T00:37:00.834Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10695070",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-15T00-37-00-833Z_secop-ii_aunar-esfuerzos-financieros-tecnicos-y-logisticos-"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-08-07T12:37:56.268Z",
-      "endedAt": "2026-08-07T12:39:58.322Z",
-      "scannedCandidates": 10,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-08-07T18:38:03.194Z",
       "endedAt": "2026-08-07T18:39:26.019Z",
@@ -2769,6 +2829,14 @@
       "endedAt": "2026-08-14T18:40:15.177Z",
       "scannedCandidates": 10,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-08-15T00:35:47.584Z",
+      "endedAt": "2026-08-15T00:37:00.839Z",
+      "scannedCandidates": 26,
+      "viableCandidates": 5,
       "sentNotifications": 0,
       "transport": "console"
     }
