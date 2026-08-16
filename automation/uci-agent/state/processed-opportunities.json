@@ -2597,17 +2597,55 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-15T00-37-00-833Z_secop-ii_aunar-esfuerzos-financieros-tecnicos-y-logisticos-"
+    },
+    "h66b1f9d8": {
+      "at": "2026-08-16T00:38:06.738Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10709894",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-16T00-38-06-724Z_secop-ii_cd-0208-2026"
+    },
+    "hdd412ac8": {
+      "at": "2026-08-16T00:38:06.738Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10711198",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-16T00-38-06-738Z_secop-ii_contrato-interadministrativo-de-gerencia-integral-"
+    },
+    "h6b6e576c": {
+      "at": "2026-08-16T00:38:06.739Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10708088",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h5dd0af76": {
+      "at": "2026-08-16T00:38:06.739Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10684100",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-16T00-38-06-739Z_secop-ii_prestacion-de-servicio-publico-e-integral-de-preve"
+    },
+    "h540193c1": {
+      "at": "2026-08-16T00:38:06.740Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10706236",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h46f256c0": {
+      "at": "2026-08-16T00:38:06.740Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10518555",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-16T00-38-06-740Z_secop-ii_prestacion-de-servicios-de-apoyo-logistico-para-de"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-08-08T12:23:27.265Z",
-      "endedAt": "2026-08-08T12:24:58.557Z",
-      "scannedCandidates": 26,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-08-08T18:20:38.567Z",
       "endedAt": "2026-08-08T18:22:26.374Z",
@@ -2837,6 +2875,14 @@
       "endedAt": "2026-08-15T18:14:20.405Z",
       "scannedCandidates": 10,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-08-16T00:37:11.796Z",
+      "endedAt": "2026-08-16T00:38:06.745Z",
+      "scannedCandidates": 26,
+      "viableCandidates": 4,
       "sentNotifications": 0,
       "transport": "console"
     }
