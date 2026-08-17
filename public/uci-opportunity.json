@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-08-17T12:20:39.973Z",
+  "updatedAt": "2026-08-17T18:23:57.275Z",
   "opportunities": [
     {
       "id": "h1cb930eb",
@@ -69,6 +69,23 @@
       "isViable": true,
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null
+    },
+    {
+      "id": "h8bd7538e",
+      "sourceId": "ted-europa",
+      "title": "France – Training services – Accord-cadre relatif à la conception et à l'animation de formations en management de proximité et dialogue social",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-09-04T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/499278-2026",
+      "publicationNumber": "499278-2026"
     },
     {
       "id": "h5afff379",
@@ -154,24 +171,7 @@
       "isViable": true,
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10691146",
       "publicationNumber": null
-    },
-    {
-      "id": "h652e3092",
-      "sourceId": "secop-ii",
-      "title": "SAMC 008-2026",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-08-18T00:00:00.000Z",
-      "amount": 340521836,
-      "currency": "COP",
-      "amountUsd": 85130.459,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10605355",
-      "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 9 | USA: 1 | EUROPA: 0"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 8 | USA: 1 | EUROPA: 1"
 }
