@@ -2643,17 +2643,133 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-16T00-38-06-740Z_secop-ii_prestacion-de-servicios-de-apoyo-logistico-para-de"
+    },
+    "hc141f0cb": {
+      "at": "2026-08-17T00:37:16.082Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10605355",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-17T00-37-16-067Z_secop-ii_samc-008-2026"
+    },
+    "hf5b7ba83": {
+      "at": "2026-08-17T00:37:16.082Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10636906",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h9b99748e": {
+      "at": "2026-08-17T00:37:16.083Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10702413",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-17T00-37-16-082Z_secop-ii_servicios-de-salud-de-alta-complejidad-rases-6-man"
+    },
+    "h49d096af": {
+      "at": "2026-08-17T00:37:16.083Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10607209",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-17T00-37-16-083Z_secop-ii_contratar-la-obra-adecuacion-menor-de-la-infraestr"
+    },
+    "h73ca8e1c": {
+      "at": "2026-08-17T00:37:16.084Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10680393",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-17T00-37-16-083Z_secop-ii_suministro-de-accesorios-y-repuestos-de-comunicaci"
+    },
+    "h6c16b26": {
+      "at": "2026-08-17T00:37:16.084Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10691146",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-17T00-37-16-084Z_secop-ii_mantenimiento-preventivo-y-correctivo-con-suminist"
+    },
+    "hd4a6b8ec": {
+      "at": "2026-08-17T00:37:16.085Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10659742",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-17T00-37-16-085Z_secop-ii_servicio-de-traducciones-oficiales-presentacion-de"
+    },
+    "hde59e23a": {
+      "at": "2026-08-17T00:37:16.085Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10681598",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-17T00-37-16-085Z_secop-ii_prestacion-de-servicios-para-el-apoyo-a-la-impleme"
+    },
+    "haff95eb8": {
+      "at": "2026-08-17T00:37:16.086Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10700233",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-17T00-37-16-086Z_secop-ii_adquisicion-de-elementos-materiales-e-insumos-nece"
+    },
+    "hd4ce03f8": {
+      "at": "2026-08-17T00:37:16.086Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10703467",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h35f1b5e4": {
+      "at": "2026-08-17T00:37:16.087Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10549276",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-17T00-37-16-086Z_secop-ii_adquisicion-de-sistemas-modulares-para-brindar-con"
+    },
+    "ha1cfda05": {
+      "at": "2026-08-17T00:37:16.087Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10608592",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-17T00-37-16-087Z_secop-ii_implementacion-del-nodo-idesc-de-informacion-para-"
+    },
+    "h32d01f36": {
+      "at": "2026-08-17T00:37:16.087Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10705302",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h971be47b": {
+      "at": "2026-08-17T00:37:16.088Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10537135",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-17T00-37-16-087Z_secop-ii_contratar-la-adquisicion-instalacion-configuracion"
+    },
+    "h25a54436": {
+      "at": "2026-08-17T00:37:16.088Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10697791",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-17T00-37-16-088Z_secop-ii_utiles-de-oficina-papeleria-y-cafeteria"
+    },
+    "hba5ece7": {
+      "at": "2026-08-17T00:37:16.089Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/499278-2026",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-08-09T12:26:04.530Z",
-      "endedAt": "2026-08-09T12:27:08.639Z",
-      "scannedCandidates": 25,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-08-09T18:22:46.553Z",
       "endedAt": "2026-08-09T18:23:57.862Z",
@@ -2883,6 +2999,14 @@
       "endedAt": "2026-08-16T18:13:35.710Z",
       "scannedCandidates": 26,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-08-17T00:35:25.028Z",
+      "endedAt": "2026-08-17T00:37:16.093Z",
+      "scannedCandidates": 26,
+      "viableCandidates": 12,
       "sentNotifications": 0,
       "transport": "console"
     }
