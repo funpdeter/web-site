@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-08-17T00:37:16.089Z",
+  "updatedAt": "2026-08-17T06:31:52.996Z",
   "opportunities": [
     {
       "id": "h1cb930eb",
@@ -54,21 +54,21 @@
       "publicationNumber": null
     },
     {
-      "id": "h8bd7538e",
-      "sourceId": "ted-europa",
-      "title": "France – Training services – Accord-cadre relatif à la conception et à l'animation de formations en management de proximité et dialogue social",
-      "source": "TED Europa",
+      "id": "he69c4641",
+      "sourceId": "usaid",
+      "title": "Tribal Colleges and Universities Program",
+      "source": "USAID",
       "sourceTier": "internacional",
-      "region": "EUROPA",
-      "deadline": "2026-09-04T00:00:00.000Z",
-      "amount": null,
-      "currency": "",
-      "amountUsd": null,
-      "scoreTotal": 15,
+      "region": "USA",
+      "deadline": "2026-09-01T00:00:00.000Z",
+      "amount": 3500000,
+      "currency": "USD",
+      "amountUsd": 3500000,
+      "scoreTotal": 16,
       "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/499278-2026",
-      "publicationNumber": "499278-2026"
+      "isViable": true,
+      "url": "https://www.grants.gov/search-results-detail/334326",
+      "publicationNumber": null
     },
     {
       "id": "h5afff379",
@@ -173,5 +173,5 @@
       "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 9 | USA: 0 | EUROPA: 1"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 9 | USA: 1 | EUROPA: 0"
 }
