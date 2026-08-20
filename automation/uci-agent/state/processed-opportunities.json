@@ -2773,17 +2773,15 @@
       "sourceId": "apc-colombia",
       "url": "https://www.apccolombia.gov.co/taxonomy/term/27",
       "viable": false
+    },
+    "hde7c593e": {
+      "at": "2026-08-20T00:35:50.511Z",
+      "sourceId": "sgr",
+      "url": "https://2025.sgr.gov.co/Inversi%C3%B3n/OCADPAZ/Convocatoria20252026.aspx",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-08-12T12:41:21.128Z",
-      "endedAt": "2026-08-12T12:42:31.349Z",
-      "scannedCandidates": 10,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-08-12T18:45:24.961Z",
       "endedAt": "2026-08-12T18:46:19.653Z",
@@ -3011,6 +3009,14 @@
     {
       "startedAt": "2026-08-19T18:17:24.336Z",
       "endedAt": "2026-08-19T18:18:31.124Z",
+      "scannedCandidates": 9,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-08-20T00:35:22.556Z",
+      "endedAt": "2026-08-20T00:36:35.155Z",
       "scannedCandidates": 9,
       "viableCandidates": 0,
       "sentNotifications": 0,
