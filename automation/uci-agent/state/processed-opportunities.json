@@ -2785,17 +2785,123 @@
       "sourceId": "apc-colombia",
       "url": "https://www.apccolombia.gov.co/Col-Col",
       "viable": false
+    },
+    "he001cf32": {
+      "at": "2026-08-22T00:35:50.374Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10579930",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-22T00-35-50-359Z_secop-ii_escenarios-2026"
+    },
+    "h60ac4810": {
+      "at": "2026-08-22T00:35:50.374Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10668913",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-22T00-35-50-374Z_secop-ii_escenarios-2026-manifestacion-de-interes-menor-cua"
+    },
+    "h35ebd2e8": {
+      "at": "2026-08-22T00:35:50.375Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10621499",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hc91b4e63": {
+      "at": "2026-08-22T00:35:50.375Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10735944",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-22T00-35-50-375Z_secop-ii_fuerza-publica"
+    },
+    "h96d8b5bc": {
+      "at": "2026-08-22T00:35:50.376Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10738010",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "he9b8da6f": {
+      "at": "2026-08-22T00:35:50.376Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10653468",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-22T00-35-50-376Z_secop-ii_contratar-la-compra-de-maquinaria-equipos-herramie"
+    },
+    "h4a55a9ab": {
+      "at": "2026-08-22T00:35:50.377Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10650869",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-22T00-35-50-376Z_secop-ii_realizar-el-mantenimiento-cerramiento-perimetral-e"
+    },
+    "hb27b09a0": {
+      "at": "2026-08-22T00:35:50.377Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10741959",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "ha13552be": {
+      "at": "2026-08-22T00:35:50.378Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10731064",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-22T00-35-50-377Z_secop-ii_suministro-de-elementos-de-estimulos-para-el-centr"
+    },
+    "haa216d5b": {
+      "at": "2026-08-22T00:35:50.378Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10667359",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-22T00-35-50-378Z_secop-ii_sasi-031-2026"
+    },
+    "hd3fe2a5b": {
+      "at": "2026-08-22T00:35:50.378Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10699585",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-22T00-35-50-378Z_secop-ii_suministro"
+    },
+    "hcfe8142d": {
+      "at": "2026-08-22T00:35:50.379Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10727228",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hbbfb33b3": {
+      "at": "2026-08-22T00:35:50.379Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10737528",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h4df64640": {
+      "at": "2026-08-22T00:35:50.379Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10525249",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hf522110": {
+      "at": "2026-08-22T00:35:50.379Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10727609",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-22T00-35-50-379Z_secop-ii_mtto-xr-arco-detector"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-08-14T12:38:28.129Z",
-      "endedAt": "2026-08-14T12:39:41.900Z",
-      "scannedCandidates": 10,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-08-14T18:39:09.455Z",
       "endedAt": "2026-08-14T18:40:15.177Z",
@@ -3025,6 +3131,14 @@
       "endedAt": "2026-08-21T18:22:39.319Z",
       "scannedCandidates": 9,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-08-22T00:34:55.174Z",
+      "endedAt": "2026-08-22T00:35:50.384Z",
+      "scannedCandidates": 25,
+      "viableCandidates": 9,
       "sentNotifications": 0,
       "transport": "console"
     }
