@@ -2899,17 +2899,70 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-22T00-35-50-379Z_secop-ii_mtto-xr-arco-detector"
+    },
+    "h3ba515b6": {
+      "at": "2026-08-23T00:39:07.671Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10730122",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-23T00-39-07-659Z_secop-ii_realizar-el-mantenimiento-rutinario-lado-aire-en-e"
+    },
+    "h7395d3bf": {
+      "at": "2026-08-23T00:39:07.671Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10729714",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-23T00-39-07-671Z_secop-ii_suministro-de-repuestos-y-ejecucion-de-actividades"
+    },
+    "hee7b8226": {
+      "at": "2026-08-23T00:39:07.672Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10733413",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hf7f1f1d3": {
+      "at": "2026-08-23T00:39:07.672Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10648587",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-23T00-39-07-672Z_secop-ii_adquisicion-de-elementos-y-dotacion-de-proteccion-"
+    },
+    "h635f1254": {
+      "at": "2026-08-23T00:39:07.673Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10730216",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-23T00-39-07-672Z_secop-ii_realizar-el-mantenimiento-rutinario-lado-aire-en-e"
+    },
+    "hd1912d8e": {
+      "at": "2026-08-23T00:39:07.673Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10716368",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-23T00-39-07-673Z_secop-ii_mantenimiento-toyota"
+    },
+    "h2546a892": {
+      "at": "2026-08-23T00:39:07.673Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10636053",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hb2cf349f": {
+      "at": "2026-08-23T00:39:07.673Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10729233",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-08-15T12:15:33.898Z",
-      "endedAt": "2026-08-15T12:16:22.344Z",
-      "scannedCandidates": 26,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-08-15T18:12:27.983Z",
       "endedAt": "2026-08-15T18:14:20.405Z",
@@ -3139,6 +3192,14 @@
       "endedAt": "2026-08-22T18:15:20.346Z",
       "scannedCandidates": 25,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-08-23T00:38:06.388Z",
+      "endedAt": "2026-08-23T00:39:07.677Z",
+      "scannedCandidates": 25,
+      "viableCandidates": 5,
       "sentNotifications": 0,
       "transport": "console"
     }
