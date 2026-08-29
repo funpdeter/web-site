@@ -2960,17 +2960,108 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10729233",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "hfb6fc681": {
+      "at": "2026-08-29T01:17:24.799Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10771487",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hab02f4cd": {
+      "at": "2026-08-29T01:17:24.810Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10781523",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-29T01-17-24-800Z_secop-ii_930710-0452-contratar-la-adquisicion-de-materiales"
+    },
+    "h5b440f1d": {
+      "at": "2026-08-29T01:17:24.810Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10779212",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h2c5b56ee": {
+      "at": "2026-08-29T01:17:24.810Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10764400",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-29T01-17-24-810Z_secop-ii_suministro-a-monto-agotable-de-materiales-de-forma"
+    },
+    "h5fa504d7": {
+      "at": "2026-08-29T01:17:24.811Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10663489",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-29T01-17-24-810Z_secop-ii_prestacion-de-servicios-integrales-de-salud-mental"
+    },
+    "h6a6b18b4": {
+      "at": "2026-08-29T01:17:24.811Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10774803",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-29T01-17-24-811Z_secop-ii_organizacion-logistica-y-ejecucion-de-las-activida"
+    },
+    "h190a3aea": {
+      "at": "2026-08-29T01:17:24.811Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10755039",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-29T01-17-24-811Z_secop-ii_servicio-alterno-de-internet-y-transmision-de-dato"
+    },
+    "h8064b05": {
+      "at": "2026-08-29T01:17:24.811Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10765446",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hd5a3361a": {
+      "at": "2026-08-29T01:17:24.812Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10771617",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-29T01-17-24-812Z_secop-ii_elementos-inpec-presentacion-de-oferta"
+    },
+    "h65a1a4a0": {
+      "at": "2026-08-29T01:17:24.812Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10773688",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-29T01-17-24-812Z_secop-ii_logistica-manifestacion-de-interes-menor-cuantia"
+    },
+    "h96f20c53": {
+      "at": "2026-08-29T01:17:24.812Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10782713",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h330be4b3": {
+      "at": "2026-08-29T01:17:24.813Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10731603",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-29T01-17-24-812Z_secop-ii_adquisicion-de-polizas-de-los-vehiculos-de-propied"
+    },
+    "h59ec7159": {
+      "at": "2026-08-29T01:17:24.813Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10785736",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-08-20T12:23:27.356Z",
-      "endedAt": "2026-08-20T12:24:16.504Z",
-      "scannedCandidates": 9,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-08-20T18:21:38.853Z",
       "endedAt": "2026-08-20T18:23:14.809Z",
@@ -3200,6 +3291,14 @@
       "endedAt": "2026-08-28T17:52:18.142Z",
       "scannedCandidates": 8,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-08-29T01:16:33.823Z",
+      "endedAt": "2026-08-29T01:17:24.817Z",
+      "scannedCandidates": 24,
+      "viableCandidates": 8,
       "sentNotifications": 0,
       "transport": "console"
     }
