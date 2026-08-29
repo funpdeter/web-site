@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-08-29T01:17:24.813Z",
+  "updatedAt": "2026-08-29T11:56:29.031Z",
   "opportunities": [
     {
       "id": "h68d6069",
@@ -34,6 +34,40 @@
       "recommendation": "Aplicar con alianza",
       "isViable": true,
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10764400",
+      "publicationNumber": null
+    },
+    {
+      "id": "he2028027",
+      "sourceId": "secop-ii",
+      "title": "Suministro a monto agotable de materiales de formación; elementos de oficina; papelería; fotocopias; material pedagógico; elementos de sistemas y demás materiales",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-08-31T00:00:00.000Z",
+      "amount": 166623188,
+      "currency": "COP",
+      "amountUsd": 41655.797,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10764400",
+      "publicationNumber": null
+    },
+    {
+      "id": "he69c4641",
+      "sourceId": "usaid",
+      "title": "Tribal Colleges and Universities Program",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-09-01T00:00:00.000Z",
+      "amount": 3500000,
+      "currency": "USD",
+      "amountUsd": 3500000,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null
     },
     {
@@ -105,6 +139,23 @@
       "publicationNumber": null
     },
     {
+      "id": "h8343e902",
+      "sourceId": "secop-ii",
+      "title": "Adquisición de equipos y/o elementos para los programas relacionados con trabajo seguro en alturas",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-08-31T00:00:00.000Z",
+      "amount": 78250616,
+      "currency": "COP",
+      "amountUsd": 19562.654,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/STS/Users/Login/Index",
+      "publicationNumber": null
+    },
+    {
       "id": "hd72acbf9",
       "sourceId": "secop-ii",
       "title": "ORGANIZACIÓN LOGISTICA Y EJECUCION DE LAS ACTIVIDADES CULTURALES Y DEPORTIVAS EN EL MARCO DE LOS JUEGOS COMUNALES DEL MUNICIPIO DE TUTA - BOYACA 2026",
@@ -120,58 +171,7 @@
       "isViable": true,
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10774803",
       "publicationNumber": null
-    },
-    {
-      "id": "h2d60bb47",
-      "sourceId": "secop-ii",
-      "title": "Servicio alterno de internet y transmisión de datos para sedes de la Secretaria de Cultura; recreación y Deporte",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-08-31T00:00:00.000Z",
-      "amount": 27310239,
-      "currency": "COP",
-      "amountUsd": 6827.55975,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10755039",
-      "publicationNumber": null
-    },
-    {
-      "id": "hf79342ec",
-      "sourceId": "secop-ii",
-      "title": "E.S.E Hospital Francisco Luis Jiménez Martínez",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-08-30T00:00:00.000Z",
-      "amount": null,
-      "currency": "",
-      "amountUsd": null,
-      "scoreTotal": 16,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10771487",
-      "publicationNumber": null
-    },
-    {
-      "id": "h355b7220",
-      "sourceId": "secop-ii",
-      "title": "MANTENIMIENTO DE PLANTA ELECTRICA",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-08-31T00:00:00.000Z",
-      "amount": null,
-      "currency": "",
-      "amountUsd": null,
-      "scoreTotal": 16,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10779212",
-      "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 10 | USA: 0 | EUROPA: 0"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 9 | USA: 1 | EUROPA: 0"
 }
