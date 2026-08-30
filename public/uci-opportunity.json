@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-08-30T02:14:44.817Z",
+  "updatedAt": "2026-08-30T10:54:25.706Z",
   "opportunities": [
     {
       "id": "hb6f2dd04",
@@ -34,6 +34,57 @@
       "recommendation": "Aplicar con alianza",
       "isViable": true,
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10778715",
+      "publicationNumber": null
+    },
+    {
+      "id": "h79ca8df",
+      "sourceId": "secop-ii",
+      "title": "PRESTACIÓN DE SERVICIOS PARA LA ORGANIZACIÓN Y REALIZACIÓN DE ACTIVIDADES CULTURALES Y TURÍSTICAS ORIENTADAS A LA CELEBRACIÓN Y EXALTACIÓN DE LA SOGAMOSEÑIDAD; LA PROMOCIÓN DE LA OFERTA TURÍSTICA Y EL",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-08-31T00:00:00.000Z",
+      "amount": 118350000,
+      "currency": "COP",
+      "amountUsd": 29587.5,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10778715",
+      "publicationNumber": null
+    },
+    {
+      "id": "he69c4641",
+      "sourceId": "usaid",
+      "title": "Tribal Colleges and Universities Program",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-09-01T00:00:00.000Z",
+      "amount": 3500000,
+      "currency": "USD",
+      "amountUsd": 3500000,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://www.grants.gov/search-results-detail/334326",
+      "publicationNumber": null
+    },
+    {
+      "id": "h5a6d545a",
+      "sourceId": "secop-ii",
+      "title": "Prestación de servicios integrales de salud mental Servicio Medico Sena Regional Risaralda",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-08-31T00:00:00.000Z",
+      "amount": 20000000,
+      "currency": "COP",
+      "amountUsd": 5000,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10663489",
       "publicationNumber": null
     },
     {
@@ -105,39 +156,22 @@
       "publicationNumber": null
     },
     {
-      "id": "h4ca312ff",
+      "id": "h8343e902",
       "sourceId": "secop-ii",
-      "title": "DESARROLLO DE ACTIVIDADES DE PROMOCIÓN; CUIDADO Y PROTECCIÓN DEL BIENESTAR ANIMAL EN EL MUNICIPIO DE LA PAZ; CESAR",
+      "title": "ADQUISICION DE RACTIVOS; INSUMOS Y EQUIPO; PARA LA VIGILANCIA DE LA CALIDAD DEL AGUA; DESDE EL LABORATORIO DE SALUD PÚBLICA EN EL DEPARTAMENTO DEL CESAR",
       "source": "SECOP II",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
       "deadline": "2026-08-31T00:00:00.000Z",
-      "amount": 54000000,
+      "amount": 138456500,
       "currency": "COP",
-      "amountUsd": 13500,
+      "amountUsd": 34614.125,
       "scoreTotal": 15,
       "recommendation": "Aplicar con alianza",
       "isViable": true,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10700006",
-      "publicationNumber": null
-    },
-    {
-      "id": "h8ec03ac6",
-      "sourceId": "secop-ii",
-      "title": "ADQUISICIÓN CINTAS DE BACKUP PARA LA DIRECCIÓN DE INVESTIGACIÓN CRIMINAL E INTERPOL",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-08-31T00:00:00.000Z",
-      "amount": null,
-      "currency": "",
-      "amountUsd": null,
-      "scoreTotal": 16,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10777740",
+      "url": "https://community.secop.gov.co/STS/Users/Login/Index",
       "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 8 | USA: 0 | EUROPA: 0"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 9 | USA: 1 | EUROPA: 0"
 }
