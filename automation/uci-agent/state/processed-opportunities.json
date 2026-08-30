@@ -3059,17 +3059,72 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10785736",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "h729810c3": {
+      "at": "2026-08-30T02:14:44.813Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10729765",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-30T02-14-44-797Z_secop-ii_adquisicion-de-materiales-y-suministros-y-equipos-"
+    },
+    "h98a9b7c7": {
+      "at": "2026-08-30T02:14:44.814Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10706164",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-30T02-14-44-813Z_secop-ii_servicio-de-mantenimiento-preventivo-y-correctivo-"
+    },
+    "h69a2f98d": {
+      "at": "2026-08-30T02:14:44.814Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10779137",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-30T02-14-44-814Z_secop-ii_soluciones-tecnologicas-en-la-nube-saas-manifestac"
+    },
+    "h88b3267e": {
+      "at": "2026-08-30T02:14:44.815Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10778715",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-30T02-14-44-815Z_secop-ii_prestacion-de-servicios-para-la-organizacion-y-rea"
+    },
+    "h80190a53": {
+      "at": "2026-08-30T02:14:44.815Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10777740",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hd9cd0e5e": {
+      "at": "2026-08-30T02:14:44.816Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10700006",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-30T02-14-44-816Z_secop-ii_desarrollo-de-actividades-de-promocion-cuidado-y-p"
+    },
+    "h28f51a02": {
+      "at": "2026-08-30T02:14:44.817Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10777893",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-30T02-14-44-816Z_secop-ii_adquisicion-de-polizas-de-los-vehiculos-de-propied"
+    },
+    "h44ed20fe": {
+      "at": "2026-08-30T02:14:44.817Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10773479",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-30T02-14-44-817Z_secop-ii_adquisicion-de-seguros-manifestacion-de-interes-me"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-08-21T12:23:12.037Z",
-      "endedAt": "2026-08-21T12:24:31.180Z",
-      "scannedCandidates": 9,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-08-21T18:20:39.779Z",
       "endedAt": "2026-08-21T18:22:39.319Z",
@@ -3299,6 +3354,14 @@
       "endedAt": "2026-08-29T20:09:08.109Z",
       "scannedCandidates": 24,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-08-30T02:13:57.552Z",
+      "endedAt": "2026-08-30T02:14:44.821Z",
+      "scannedCandidates": 24,
+      "viableCandidates": 7,
       "sentNotifications": 0,
       "transport": "console"
     }
