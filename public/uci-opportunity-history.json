@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-08-31T22:10:37.519Z",
+  "updatedAt": "2026-09-01T02:31:08.110Z",
   "opportunities": [
     {
       "id": "h93bf7b48",
@@ -19,8 +19,8 @@
       "url": "https://www.grants.gov/search-results-detail/362850",
       "publicationNumber": null,
       "firstSeenAt": "2026-08-11T06:45:56.822Z",
-      "lastSeenAt": "2026-08-31T22:10:37.519Z",
-      "lastPublishedAt": "2026-08-31T22:10:37.519Z",
+      "lastSeenAt": "2026-09-01T02:31:08.110Z",
+      "lastPublishedAt": "2026-09-01T02:31:08.110Z",
       "isArchived": false
     },
     {
@@ -40,8 +40,8 @@
       "url": "https://www.grants.gov/search-results-detail/362237",
       "publicationNumber": null,
       "firstSeenAt": "2026-08-11T00:54:02.591Z",
-      "lastSeenAt": "2026-08-31T22:10:37.519Z",
-      "lastPublishedAt": "2026-08-31T22:10:37.519Z",
+      "lastSeenAt": "2026-09-01T02:31:08.110Z",
+      "lastPublishedAt": "2026-09-01T02:31:08.110Z",
       "isArchived": false
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.grants.gov/search-results-detail/363467",
       "publicationNumber": null,
       "firstSeenAt": "2026-08-06T23:48:44.308Z",
-      "lastSeenAt": "2026-08-31T22:10:37.519Z",
-      "lastPublishedAt": "2026-08-31T22:10:37.519Z",
+      "lastSeenAt": "2026-09-01T02:31:08.110Z",
+      "lastPublishedAt": "2026-09-01T02:31:08.110Z",
       "isArchived": false
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://www.grants.gov/search-results-detail/363466",
       "publicationNumber": null,
       "firstSeenAt": "2026-08-06T23:48:44.308Z",
-      "lastSeenAt": "2026-08-31T22:10:37.519Z",
-      "lastPublishedAt": "2026-08-31T22:10:37.519Z",
+      "lastSeenAt": "2026-09-01T02:31:08.110Z",
+      "lastPublishedAt": "2026-09-01T02:31:08.110Z",
       "isArchived": false
     },
     {
@@ -103,8 +103,50 @@
       "url": "https://www.grants.gov/search-results-detail/363468",
       "publicationNumber": null,
       "firstSeenAt": "2026-08-06T23:48:44.308Z",
-      "lastSeenAt": "2026-08-31T22:10:37.519Z",
-      "lastPublishedAt": "2026-08-31T22:10:37.519Z",
+      "lastSeenAt": "2026-09-01T02:31:08.110Z",
+      "lastPublishedAt": "2026-09-01T02:31:08.110Z",
+      "isArchived": false
+    },
+    {
+      "id": "hd42464ed",
+      "sourceId": "usaid",
+      "title": "IUSE / Professional Formation of Engineers: Revolutionizing Engineering Departments (IUSE/PFE: RED)",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-09-08T00:00:00.000Z",
+      "amount": 2000000,
+      "currency": "USD",
+      "amountUsd": 2000000,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/353413",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-06-19T13:55:50.376Z",
+      "lastSeenAt": "2026-09-01T02:31:08.110Z",
+      "lastPublishedAt": "2026-09-01T02:31:08.110Z",
+      "isArchived": false
+    },
+    {
+      "id": "h1ad458ac",
+      "sourceId": "usaid",
+      "title": "Advanced Technological Education",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-10-01T00:00:00.000Z",
+      "amount": 7500000,
+      "currency": "USD",
+      "amountUsd": 7500000,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/355100",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-06-19T13:55:50.376Z",
+      "lastSeenAt": "2026-09-01T02:31:08.110Z",
+      "lastPublishedAt": "2026-09-01T02:31:08.110Z",
       "isArchived": false
     },
     {
@@ -126,49 +168,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-08-31T22:10:37.519Z",
       "lastPublishedAt": "2026-08-31T22:10:37.519Z",
-      "isArchived": false
-    },
-    {
-      "id": "hd42464ed",
-      "sourceId": "usaid",
-      "title": "IUSE / Professional Formation of Engineers: Revolutionizing Engineering Departments (IUSE/PFE: RED)",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-09-08T00:00:00.000Z",
-      "amount": 2000000,
-      "currency": "USD",
-      "amountUsd": 2000000,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/353413",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-08-31T22:10:37.519Z",
-      "lastPublishedAt": "2026-08-31T22:10:37.519Z",
-      "isArchived": false
-    },
-    {
-      "id": "h1ad458ac",
-      "sourceId": "usaid",
-      "title": "Advanced Technological Education",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-10-01T00:00:00.000Z",
-      "amount": 7500000,
-      "currency": "USD",
-      "amountUsd": 7500000,
-      "scoreTotal": 14,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/355100",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-08-31T22:10:37.519Z",
-      "lastPublishedAt": "2026-08-31T22:10:37.519Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hb6f2dd04",
@@ -5253,5 +5253,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 250 | Archivadas: 242"
+  "message": "Historico acumulado del agente UCI-F. Total: 250 | Archivadas: 243"
 }
