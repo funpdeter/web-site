@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-09-01T02:31:08.110Z",
+  "updatedAt": "2026-09-01T10:43:11.946Z",
   "opportunities": [
     {
       "id": "h93bf7b48",
@@ -19,8 +19,8 @@
       "url": "https://www.grants.gov/search-results-detail/362850",
       "publicationNumber": null,
       "firstSeenAt": "2026-08-11T06:45:56.822Z",
-      "lastSeenAt": "2026-09-01T02:31:08.110Z",
-      "lastPublishedAt": "2026-09-01T02:31:08.110Z",
+      "lastSeenAt": "2026-09-01T10:43:11.946Z",
+      "lastPublishedAt": "2026-09-01T10:43:11.946Z",
       "isArchived": false
     },
     {
@@ -40,8 +40,8 @@
       "url": "https://www.grants.gov/search-results-detail/362237",
       "publicationNumber": null,
       "firstSeenAt": "2026-08-11T00:54:02.591Z",
-      "lastSeenAt": "2026-09-01T02:31:08.110Z",
-      "lastPublishedAt": "2026-09-01T02:31:08.110Z",
+      "lastSeenAt": "2026-09-01T10:43:11.946Z",
+      "lastPublishedAt": "2026-09-01T10:43:11.946Z",
       "isArchived": false
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://www.grants.gov/search-results-detail/363467",
       "publicationNumber": null,
       "firstSeenAt": "2026-08-06T23:48:44.308Z",
-      "lastSeenAt": "2026-09-01T02:31:08.110Z",
-      "lastPublishedAt": "2026-09-01T02:31:08.110Z",
+      "lastSeenAt": "2026-09-01T10:43:11.946Z",
+      "lastPublishedAt": "2026-09-01T10:43:11.946Z",
       "isArchived": false
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://www.grants.gov/search-results-detail/363466",
       "publicationNumber": null,
       "firstSeenAt": "2026-08-06T23:48:44.308Z",
-      "lastSeenAt": "2026-09-01T02:31:08.110Z",
-      "lastPublishedAt": "2026-09-01T02:31:08.110Z",
+      "lastSeenAt": "2026-09-01T10:43:11.946Z",
+      "lastPublishedAt": "2026-09-01T10:43:11.946Z",
       "isArchived": false
     },
     {
@@ -103,8 +103,8 @@
       "url": "https://www.grants.gov/search-results-detail/363468",
       "publicationNumber": null,
       "firstSeenAt": "2026-08-06T23:48:44.308Z",
-      "lastSeenAt": "2026-09-01T02:31:08.110Z",
-      "lastPublishedAt": "2026-09-01T02:31:08.110Z",
+      "lastSeenAt": "2026-09-01T10:43:11.946Z",
+      "lastPublishedAt": "2026-09-01T10:43:11.946Z",
       "isArchived": false
     },
     {
@@ -124,8 +124,8 @@
       "url": "https://www.grants.gov/search-results-detail/353413",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-09-01T02:31:08.110Z",
-      "lastPublishedAt": "2026-09-01T02:31:08.110Z",
+      "lastSeenAt": "2026-09-01T10:43:11.946Z",
+      "lastPublishedAt": "2026-09-01T10:43:11.946Z",
       "isArchived": false
     },
     {
@@ -145,18 +145,18 @@
       "url": "https://www.grants.gov/search-results-detail/355100",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-09-01T02:31:08.110Z",
-      "lastPublishedAt": "2026-09-01T02:31:08.110Z",
+      "lastSeenAt": "2026-09-01T10:43:11.946Z",
+      "lastPublishedAt": "2026-09-01T10:43:11.946Z",
       "isArchived": false
     },
     {
       "id": "he69c4641",
       "sourceId": "usaid",
-      "title": "Tribal Colleges and Universities Program",
+      "title": "Tribal Colleges and Universities Program (TCUP)",
       "source": "USAID",
       "sourceTier": "internacional",
       "region": "USA",
-      "deadline": "2026-09-01T00:00:00.000Z",
+      "deadline": "2026-10-14T00:00:00.000Z",
       "amount": 3500000,
       "currency": "USD",
       "amountUsd": 3500000,
@@ -166,9 +166,9 @@
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-08-31T22:10:37.519Z",
-      "lastPublishedAt": "2026-08-31T22:10:37.519Z",
-      "isArchived": true
+      "lastSeenAt": "2026-09-01T10:43:11.946Z",
+      "lastPublishedAt": "2026-09-01T10:43:11.946Z",
+      "isArchived": false
     },
     {
       "id": "hb6f2dd04",
@@ -5253,5 +5253,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 250 | Archivadas: 243"
+  "message": "Historico acumulado del agente UCI-F. Total: 250 | Archivadas: 242"
 }
