@@ -3140,17 +3140,15 @@
       "sourceId": "mintic",
       "url": "https://mintic.gov.co/portal/715/w3-article-400058.html",
       "viable": false
+    },
+    "h6d356a6b": {
+      "at": "2026-09-04T15:22:25.165Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/eventos/convocatoria-para-becas-de-la-fundacion-carolina",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-08-26T19:29:45.745Z",
-      "endedAt": "2026-08-26T19:30:57.696Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-08-27T05:35:32.460Z",
       "endedAt": "2026-08-27T05:36:22.153Z",
@@ -3378,6 +3376,14 @@
     {
       "startedAt": "2026-09-04T10:13:16.045Z",
       "endedAt": "2026-09-04T10:15:00.991Z",
+      "scannedCandidates": 8,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-04T15:22:12.084Z",
+      "endedAt": "2026-09-04T15:24:42.748Z",
       "scannedCandidates": 8,
       "viableCandidates": 0,
       "sentNotifications": 0,
