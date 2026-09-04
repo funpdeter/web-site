@@ -3122,17 +3122,27 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-08-30T02-14-44-817Z_secop-ii_adquisicion-de-seguros-manifestacion-de-interes-me"
+    },
+    "hbd0c31b": {
+      "at": "2026-09-04T10:13:32.795Z",
+      "sourceId": "mintic",
+      "url": "https://gestiondelconocimiento.mintic.gov.co/714/w3-article-326747.html",
+      "viable": false
+    },
+    "h6b44d4ca": {
+      "at": "2026-09-04T10:13:33.436Z",
+      "sourceId": "mintic",
+      "url": "https://gobiernodigital.mintic.gov.co/692/articles-107167_recurso_1.pdf",
+      "viable": false
+    },
+    "h79808510": {
+      "at": "2026-09-04T10:13:34.341Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-article-400058.html",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-08-26T12:26:59.589Z",
-      "endedAt": "2026-08-26T12:28:01.241Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-08-26T19:29:45.745Z",
       "endedAt": "2026-08-26T19:30:57.696Z",
@@ -3360,6 +3370,14 @@
     {
       "startedAt": "2026-09-04T01:53:31.216Z",
       "endedAt": "2026-09-04T01:55:50.015Z",
+      "scannedCandidates": 8,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-04T10:13:16.045Z",
+      "endedAt": "2026-09-04T10:15:00.991Z",
       "scannedCandidates": 8,
       "viableCandidates": 0,
       "sentNotifications": 0,
