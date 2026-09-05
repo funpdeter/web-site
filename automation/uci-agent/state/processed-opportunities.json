@@ -3146,17 +3146,125 @@
       "sourceId": "apc-colombia",
       "url": "https://www.apccolombia.gov.co/eventos/convocatoria-para-becas-de-la-fundacion-carolina",
       "viable": false
+    },
+    "hcf90075d": {
+      "at": "2026-09-05T01:53:08.647Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10827207",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h7fb706ba": {
+      "at": "2026-09-05T01:53:08.662Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10724453",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-05T01-53-08-647Z_secop-ii_mantenimiento-baman"
+    },
+    "h7d64ea91": {
+      "at": "2026-09-05T01:53:08.662Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10806291",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h56920c8": {
+      "at": "2026-09-05T01:53:08.663Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10763991",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-05T01-53-08-662Z_secop-ii_suministro-de-material-bibliografico-para-el-forta"
+    },
+    "h53f95e07": {
+      "at": "2026-09-05T01:53:08.663Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10783282",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-05T01-53-08-663Z_secop-ii_mejoramiento-vial-siete-de-agosto-portal-de-aranda"
+    },
+    "h28e45799": {
+      "at": "2026-09-05T01:53:08.664Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10725248",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-05T01-53-08-663Z_secop-ii_mejoramiento-vial-siete-de-agosto-portal-de-aranda"
+    },
+    "ha8d8206f": {
+      "at": "2026-09-05T01:53:08.665Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10815099",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-05T01-53-08-664Z_secop-ii_mantenimiento-preventivo-y-correctivo-de-la-infrae"
+    },
+    "h969f83bd": {
+      "at": "2026-09-05T01:53:08.665Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10781404",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-05T01-53-08-665Z_secop-ii_contratar-el-suministro-de-maquinaria-material-veg"
+    },
+    "h31994496": {
+      "at": "2026-09-05T01:53:08.666Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10821561",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-05T01-53-08-665Z_secop-ii_adquisicion-de-gradillas-en-acero-inoxidable-para-"
+    },
+    "h3613c008": {
+      "at": "2026-09-05T01:53:08.666Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10827381",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-05T01-53-08-666Z_secop-ii_prestacion-de-servicios-de-fumigacion-desinfeccion"
+    },
+    "h75999b51": {
+      "at": "2026-09-05T01:53:08.667Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10830395",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-05T01-53-08-666Z_secop-ii_adquisicion-de-baterias-a-monto-agotable-para-los-"
+    },
+    "h2ee80ab6": {
+      "at": "2026-09-05T01:53:08.667Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10626188",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h2242c39": {
+      "at": "2026-09-05T01:53:08.667Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10821164",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h81f0aa26": {
+      "at": "2026-09-05T01:53:08.668Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10828009",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-05T01-53-08-667Z_secop-ii_suministro-de-combustible-para-la-maquinaria-amari"
+    },
+    "h131c2a3e": {
+      "at": "2026-09-05T01:53:08.668Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10828108",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-05T01-53-08-668Z_secop-ii_compra-e-instalacion-de-sistemas-de-climatizacion-"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-08-27T17:01:56.704Z",
-      "endedAt": "2026-08-27T17:03:02.048Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-08-28T01:52:17.737Z",
       "endedAt": "2026-08-28T01:54:02.970Z",
@@ -3386,6 +3494,14 @@
       "endedAt": "2026-09-04T20:01:52.801Z",
       "scannedCandidates": 8,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-05T01:51:26.768Z",
+      "endedAt": "2026-09-05T01:53:08.675Z",
+      "scannedCandidates": 24,
+      "viableCandidates": 11,
       "sentNotifications": 0,
       "transport": "console"
     }
