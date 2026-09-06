@@ -1,7 +1,70 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-09-06T14:35:28.092Z",
+  "updatedAt": "2026-09-06T19:44:30.451Z",
   "opportunities": [
+    {
+      "id": "h4e6879d9",
+      "sourceId": "secop-ii",
+      "title": "DOTACION GENERAL (Manifestación de interés (Menor Cuantía)) (Presentación de oferta)",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-09-07T00:00:00.000Z",
+      "amount": 299993050,
+      "currency": "COP",
+      "amountUsd": 74998.2625,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10844254",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-09-06T19:44:30.451Z",
+      "lastSeenAt": "2026-09-06T19:44:30.451Z",
+      "lastPublishedAt": "2026-09-06T19:44:30.451Z",
+      "isArchived": false
+    },
+    {
+      "id": "h8aedd84b",
+      "sourceId": "secop-ii",
+      "title": "DOTACION GENERAL",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-09-07T00:00:00.000Z",
+      "amount": 299993050,
+      "currency": "COP",
+      "amountUsd": 74998.2625,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10789975",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-09-06T19:44:30.451Z",
+      "lastSeenAt": "2026-09-06T19:44:30.451Z",
+      "lastPublishedAt": "2026-09-06T19:44:30.451Z",
+      "isArchived": false
+    },
+    {
+      "id": "hbdf8c76c",
+      "sourceId": "secop-ii",
+      "title": "PRESTACION DE SERVICIOS MEDICOS Y HOSPITALARIOS - ESM BAS02 - VIG 2026",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-09-07T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10817356",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-09-06T19:44:30.451Z",
+      "lastSeenAt": "2026-09-06T19:44:30.451Z",
+      "lastPublishedAt": "2026-09-06T19:44:30.451Z",
+      "isArchived": false
+    },
     {
       "id": "h29adbb7a",
       "sourceId": "secop-ii",
@@ -21,7 +84,7 @@
       "firstSeenAt": "2026-09-06T01:48:03.030Z",
       "lastSeenAt": "2026-09-06T14:35:28.092Z",
       "lastPublishedAt": "2026-09-06T14:35:28.092Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hb9a7ed95",
@@ -42,7 +105,7 @@
       "firstSeenAt": "2026-09-06T01:48:03.030Z",
       "lastSeenAt": "2026-09-06T14:35:28.092Z",
       "lastPublishedAt": "2026-09-06T14:35:28.092Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h20da83a",
@@ -63,7 +126,7 @@
       "firstSeenAt": "2026-09-05T19:41:21.742Z",
       "lastSeenAt": "2026-09-06T14:35:28.092Z",
       "lastPublishedAt": "2026-09-06T14:35:28.092Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h28192c75",
@@ -84,7 +147,7 @@
       "firstSeenAt": "2026-09-05T19:41:21.742Z",
       "lastSeenAt": "2026-09-06T14:35:28.092Z",
       "lastPublishedAt": "2026-09-06T14:35:28.092Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf1781643",
@@ -105,7 +168,7 @@
       "firstSeenAt": "2026-09-05T19:41:21.742Z",
       "lastSeenAt": "2026-09-06T14:35:28.092Z",
       "lastPublishedAt": "2026-09-06T14:35:28.092Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd258fb72",
@@ -126,7 +189,7 @@
       "firstSeenAt": "2026-09-05T19:41:21.742Z",
       "lastSeenAt": "2026-09-06T14:35:28.092Z",
       "lastPublishedAt": "2026-09-06T14:35:28.092Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he46770d",
@@ -147,7 +210,7 @@
       "firstSeenAt": "2026-09-05T19:41:21.742Z",
       "lastSeenAt": "2026-09-06T14:35:28.092Z",
       "lastPublishedAt": "2026-09-06T14:35:28.092Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hb946995c",
@@ -168,7 +231,7 @@
       "firstSeenAt": "2026-09-05T19:41:21.742Z",
       "lastSeenAt": "2026-09-06T14:35:28.092Z",
       "lastPublishedAt": "2026-09-06T14:35:28.092Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hb6792f2a",
@@ -189,7 +252,7 @@
       "firstSeenAt": "2026-09-05T01:53:08.669Z",
       "lastSeenAt": "2026-09-06T14:35:28.092Z",
       "lastPublishedAt": "2026-09-06T14:35:28.092Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h89a497c",
@@ -210,7 +273,7 @@
       "firstSeenAt": "2026-09-05T01:53:08.669Z",
       "lastSeenAt": "2026-09-06T14:35:28.092Z",
       "lastPublishedAt": "2026-09-06T14:35:28.092Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf2aae720",
@@ -231,7 +294,7 @@
       "firstSeenAt": "2026-09-05T01:53:08.669Z",
       "lastSeenAt": "2026-09-06T14:35:28.092Z",
       "lastPublishedAt": "2026-09-06T14:35:28.092Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h1b7a200a",
@@ -252,7 +315,7 @@
       "firstSeenAt": "2026-09-05T01:53:08.669Z",
       "lastSeenAt": "2026-09-06T14:35:28.092Z",
       "lastPublishedAt": "2026-09-06T14:35:28.092Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h3e817c93",
@@ -273,7 +336,7 @@
       "firstSeenAt": "2026-09-05T01:53:08.669Z",
       "lastSeenAt": "2026-09-06T14:35:28.092Z",
       "lastPublishedAt": "2026-09-06T14:35:28.092Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h99fdae21",
@@ -294,7 +357,7 @@
       "firstSeenAt": "2026-09-05T01:53:08.669Z",
       "lastSeenAt": "2026-09-06T14:35:28.092Z",
       "lastPublishedAt": "2026-09-06T14:35:28.092Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha816e198",
@@ -315,7 +378,7 @@
       "firstSeenAt": "2026-09-05T01:53:08.669Z",
       "lastSeenAt": "2026-09-06T14:35:28.092Z",
       "lastPublishedAt": "2026-09-06T14:35:28.092Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hed77735c",
@@ -336,7 +399,7 @@
       "firstSeenAt": "2026-09-05T01:53:08.669Z",
       "lastSeenAt": "2026-09-06T14:35:28.092Z",
       "lastPublishedAt": "2026-09-06T14:35:28.092Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h93bf7b48",
@@ -357,7 +420,7 @@
       "firstSeenAt": "2026-08-11T06:45:56.822Z",
       "lastSeenAt": "2026-09-06T14:35:28.092Z",
       "lastPublishedAt": "2026-09-06T14:35:28.092Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h49c13b39",
@@ -378,7 +441,7 @@
       "firstSeenAt": "2026-08-11T00:54:02.591Z",
       "lastSeenAt": "2026-09-06T14:35:28.092Z",
       "lastPublishedAt": "2026-09-06T14:35:28.092Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h5215eb0f",
@@ -399,7 +462,7 @@
       "firstSeenAt": "2026-08-06T23:48:44.308Z",
       "lastSeenAt": "2026-09-06T14:35:28.092Z",
       "lastPublishedAt": "2026-09-06T14:35:28.092Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h5115e97c",
@@ -420,7 +483,7 @@
       "firstSeenAt": "2026-08-06T23:48:44.308Z",
       "lastSeenAt": "2026-09-06T14:35:28.092Z",
       "lastPublishedAt": "2026-09-06T14:35:28.092Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h5715f2ee",
@@ -441,7 +504,7 @@
       "firstSeenAt": "2026-08-06T23:48:44.308Z",
       "lastSeenAt": "2026-09-06T14:35:28.092Z",
       "lastPublishedAt": "2026-09-06T14:35:28.092Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd42464ed",
@@ -462,7 +525,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-09-06T14:35:28.092Z",
       "lastPublishedAt": "2026-09-06T14:35:28.092Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h1ad458ac",
@@ -483,7 +546,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-09-06T14:35:28.092Z",
       "lastPublishedAt": "2026-09-06T14:35:28.092Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he69c4641",
@@ -504,7 +567,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-09-06T14:35:28.092Z",
       "lastPublishedAt": "2026-09-06T14:35:28.092Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h1612fc37",
@@ -5188,70 +5251,7 @@
       "lastSeenAt": "2026-07-08T13:30:20.058Z",
       "lastPublishedAt": "2026-07-08T13:30:20.058Z",
       "isArchived": true
-    },
-    {
-      "id": "hf6e076fd",
-      "sourceId": "ted-europa",
-      "title": "Italy – Property management services of real estate on a fee or contract basis – Gestione amministrativa, tecnica e di supporto alla valorizzazione del Patrimonio Immobiliare da reddito dell’INPS",
-      "source": "TED Europa",
-      "sourceTier": "internacional",
-      "region": "EUROPA",
-      "deadline": "2026-07-09T00:00:00.000Z",
-      "amount": 54838334.17,
-      "currency": "EUR",
-      "amountUsd": 59225400.90360001,
-      "scoreTotal": 14,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/388465-2026",
-      "publicationNumber": "388465-2026",
-      "firstSeenAt": "2026-07-06T14:57:51.590Z",
-      "lastSeenAt": "2026-07-08T08:08:12.656Z",
-      "lastPublishedAt": "2026-07-08T08:08:12.656Z",
-      "isArchived": true
-    },
-    {
-      "id": "h57f1fd46",
-      "sourceId": "usaid",
-      "title": "OSERS-OSEP: Expanding Career Pathways and Workforce Readiness of Special Education Teachers and Early Intervention Personnel Through Registered Apprenticeships, Assistance Listing Number (ALN) 84.325J",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-07-13T00:00:00.000Z",
-      "amount": 1000000,
-      "currency": "USD",
-      "amountUsd": 1000000,
-      "scoreTotal": 13,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/362373",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-07-08T08:08:12.656Z",
-      "lastPublishedAt": "2026-07-08T08:08:12.656Z",
-      "isArchived": true
-    },
-    {
-      "id": "ha3f4dfae",
-      "sourceId": "secop-ii",
-      "title": "Prestación de servicios de formación y capacitación en el marco del Plan Institucional de Capacitación 2026 del Ministerio de Ciencia; Tecnología e Innovación.",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-07-06T00:00:00.000Z",
-      "amount": 78105000,
-      "currency": "COP",
-      "amountUsd": 19526.25,
-      "scoreTotal": 17,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10416674",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-07-05T19:01:06.238Z",
-      "lastSeenAt": "2026-07-05T19:01:06.238Z",
-      "lastPublishedAt": "2026-07-05T19:01:06.238Z",
-      "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 250 | Archivadas: 226"
+  "message": "Historico acumulado del agente UCI-F. Total: 250 | Archivadas: 247"
 }

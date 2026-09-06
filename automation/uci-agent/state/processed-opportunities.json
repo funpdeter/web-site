@@ -3345,17 +3345,38 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-06T01-48-03-029Z_secop-ii_contratar-bajo-el-sistema-de-precios-unitarios-fij"
+    },
+    "h2668e42f": {
+      "at": "2026-09-06T19:44:16.191Z",
+      "sourceId": "gef-small-grants",
+      "url": "https://sgp.undp.org/about-us-157/partnerships.html",
+      "viable": false
+    },
+    "h5589cfa0": {
+      "at": "2026-09-06T19:44:30.449Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10844254",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-06T19-44-30-434Z_secop-ii_dotacion-general-manifestacion-de-interes-menor-cu"
+    },
+    "h9efe29d9": {
+      "at": "2026-09-06T19:44:30.450Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10817356",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h5e0ea66e": {
+      "at": "2026-09-06T19:44:30.450Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10789975",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-06T19-44-30-450Z_secop-ii_dotacion-general"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-08-30T02:13:57.552Z",
-      "endedAt": "2026-08-30T02:14:44.821Z",
-      "scannedCandidates": 24,
-      "viableCandidates": 7,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-08-30T10:52:28.216Z",
       "endedAt": "2026-08-30T10:54:25.711Z",
@@ -3585,6 +3606,14 @@
       "endedAt": "2026-09-06T14:35:28.095Z",
       "scannedCandidates": 24,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-06T19:43:08.871Z",
+      "endedAt": "2026-09-06T19:44:30.455Z",
+      "scannedCandidates": 24,
+      "viableCandidates": 2,
       "sentNotifications": 0,
       "transport": "console"
     }
