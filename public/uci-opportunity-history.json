@@ -1,7 +1,49 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-09-05T19:41:21.742Z",
+  "updatedAt": "2026-09-06T01:48:03.030Z",
   "opportunities": [
+    {
+      "id": "h29adbb7a",
+      "sourceId": "secop-ii",
+      "title": "MANTENIMIENTO PREVENTIVO Y CORRECTIVO PARA EL SISTEMA DE ELECTROBOMBAS; RED CONTRA INCENDIOS; CUARTO ELÉCTRICO TABLEROS DE CONTROL; TANQUE Y REPARACIÓN DE EQUIPOS Y SISTEMAS DE PROTECCIÓN CONTRA INCE",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-09-07T00:00:00.000Z",
+      "amount": 534690000,
+      "currency": "COP",
+      "amountUsd": 133672.5,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10761497",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-09-06T01:48:03.030Z",
+      "lastSeenAt": "2026-09-06T01:48:03.030Z",
+      "lastPublishedAt": "2026-09-06T01:48:03.030Z",
+      "isArchived": false
+    },
+    {
+      "id": "hb9a7ed95",
+      "sourceId": "secop-ii",
+      "title": "Contratar bajo el sistema de precios unitarios fijos sin fórmula de reajuste la adecuación y mantenimiento de la sede en comodato de LA REGISTRADURÍA MUNICIPAL DE PINILLOS",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-09-07T00:00:00.000Z",
+      "amount": 50000000,
+      "currency": "COP",
+      "amountUsd": 12500,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10821329",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-09-06T01:48:03.030Z",
+      "lastSeenAt": "2026-09-06T01:48:03.030Z",
+      "lastPublishedAt": "2026-09-06T01:48:03.030Z",
+      "isArchived": false
+    },
     {
       "id": "h20da83a",
       "sourceId": "secop-ii",
@@ -21,7 +63,7 @@
       "firstSeenAt": "2026-09-05T19:41:21.742Z",
       "lastSeenAt": "2026-09-05T19:41:21.742Z",
       "lastPublishedAt": "2026-09-05T19:41:21.742Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h28192c75",
@@ -42,7 +84,7 @@
       "firstSeenAt": "2026-09-05T19:41:21.742Z",
       "lastSeenAt": "2026-09-05T19:41:21.742Z",
       "lastPublishedAt": "2026-09-05T19:41:21.742Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf1781643",
@@ -63,7 +105,7 @@
       "firstSeenAt": "2026-09-05T19:41:21.742Z",
       "lastSeenAt": "2026-09-05T19:41:21.742Z",
       "lastPublishedAt": "2026-09-05T19:41:21.742Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd258fb72",
@@ -84,7 +126,7 @@
       "firstSeenAt": "2026-09-05T19:41:21.742Z",
       "lastSeenAt": "2026-09-05T19:41:21.742Z",
       "lastPublishedAt": "2026-09-05T19:41:21.742Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he46770d",
@@ -105,7 +147,7 @@
       "firstSeenAt": "2026-09-05T19:41:21.742Z",
       "lastSeenAt": "2026-09-05T19:41:21.742Z",
       "lastPublishedAt": "2026-09-05T19:41:21.742Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hb946995c",
@@ -126,7 +168,7 @@
       "firstSeenAt": "2026-09-05T19:41:21.742Z",
       "lastSeenAt": "2026-09-05T19:41:21.742Z",
       "lastPublishedAt": "2026-09-05T19:41:21.742Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h1612fc37",
@@ -147,7 +189,7 @@
       "firstSeenAt": "2026-09-05T19:41:21.742Z",
       "lastSeenAt": "2026-09-05T19:41:21.742Z",
       "lastPublishedAt": "2026-09-05T19:41:21.742Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h3ee28697",
@@ -168,7 +210,7 @@
       "firstSeenAt": "2026-09-05T19:41:21.742Z",
       "lastSeenAt": "2026-09-05T19:41:21.742Z",
       "lastPublishedAt": "2026-09-05T19:41:21.742Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf2d12c2e",
@@ -189,7 +231,7 @@
       "firstSeenAt": "2026-09-05T19:41:21.742Z",
       "lastSeenAt": "2026-09-05T19:41:21.742Z",
       "lastPublishedAt": "2026-09-05T19:41:21.742Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hb6792f2a",
@@ -5209,49 +5251,7 @@
       "lastSeenAt": "2026-07-05T19:01:06.238Z",
       "lastPublishedAt": "2026-07-05T19:01:06.238Z",
       "isArchived": true
-    },
-    {
-      "id": "h92249eae",
-      "sourceId": "secop-ii",
-      "title": "ACTUALIZACIÓN; SOPORTE Y MANTENIMIENTO DE LA PÁGINA WEB PARA EL INSTITUTO DE CASAS FISCALES DEL EJÉRCITO (Manifestación de interés (Menor Cuantía)) (Presentación de oferta)",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-07-06T00:00:00.000Z",
-      "amount": 90000000,
-      "currency": "COP",
-      "amountUsd": 22500,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10430357",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-07-05T19:01:06.238Z",
-      "lastSeenAt": "2026-07-05T19:01:06.238Z",
-      "lastPublishedAt": "2026-07-05T19:01:06.238Z",
-      "isArchived": true
-    },
-    {
-      "id": "hd9325507",
-      "sourceId": "secop-ii",
-      "title": "REPARACIÓN Y ADECUACIÓN DE LA CUBIERTA DEL ÁREA DEL COMEDOR DE LA INSTITUCIÓN EDUCATIVA SAN IGNACIO DE LOYOLA; SEDE EL ROBLE; DEL MUNICIPIO DE OTANCHE; BOYACÁ 2026",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-07-06T00:00:00.000Z",
-      "amount": 32082031,
-      "currency": "COP",
-      "amountUsd": 8020.50775,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10440753",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-07-05T19:01:06.238Z",
-      "lastSeenAt": "2026-07-05T19:01:06.238Z",
-      "lastPublishedAt": "2026-07-05T19:01:06.238Z",
-      "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 250 | Archivadas: 241"
+  "message": "Historico acumulado del agente UCI-F. Total: 250 | Archivadas: 248"
 }

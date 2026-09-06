@@ -3329,17 +3329,25 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10810739",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "h8264f33": {
+      "at": "2026-09-06T01:48:03.028Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10761497",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-06T01-48-03-014Z_secop-ii_mantenimiento-preventivo-y-correctivo-para-el-sist"
+    },
+    "h5b410a70": {
+      "at": "2026-09-06T01:48:03.029Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10821329",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-06T01-48-03-029Z_secop-ii_contratar-bajo-el-sistema-de-precios-unitarios-fij"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-08-29T11:55:12.486Z",
-      "endedAt": "2026-08-29T11:56:29.036Z",
-      "scannedCandidates": 24,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-08-29T15:53:59.080Z",
       "endedAt": "2026-08-29T15:55:34.953Z",
@@ -3569,6 +3577,14 @@
       "endedAt": "2026-09-05T19:41:21.747Z",
       "scannedCandidates": 24,
       "viableCandidates": 4,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-06T01:46:09.548Z",
+      "endedAt": "2026-09-06T01:48:03.033Z",
+      "scannedCandidates": 24,
+      "viableCandidates": 2,
       "sentNotifications": 0,
       "transport": "console"
     }
