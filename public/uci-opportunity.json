@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-09-07T20:55:11.810Z",
+  "updatedAt": "2026-09-08T01:56:47.442Z",
   "opportunities": [
     {
       "id": "he69c4641",
@@ -17,40 +17,6 @@
       "recommendation": "Aplicar con alianza",
       "isViable": true,
       "url": "https://www.grants.gov/search-results-detail/334326",
-      "publicationNumber": null
-    },
-    {
-      "id": "hd42464ed",
-      "sourceId": "usaid",
-      "title": "IUSE / Professional Formation of Engineers: Revolutionizing Engineering Departments (IUSE/PFE: RED)",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-09-08T00:00:00.000Z",
-      "amount": 2000000,
-      "currency": "USD",
-      "amountUsd": 2000000,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/353413",
-      "publicationNumber": null
-    },
-    {
-      "id": "h49c13b39",
-      "sourceId": "usaid",
-      "title": "Community Economic Development Projects",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-09-08T00:00:00.000Z",
-      "amount": 800000,
-      "currency": "USD",
-      "amountUsd": 800000,
-      "scoreTotal": 13,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/362237",
       "publicationNumber": null
     },
     {
@@ -139,5 +105,5 @@
       "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 8 | EUROPA: 0"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 6 | EUROPA: 0"
 }
