@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-09-09T20:11:14.868Z",
+  "updatedAt": "2026-09-10T01:59:11.059Z",
   "opportunities": [
+    {
+      "id": "haff8f859",
+      "sourceId": "ted-europa",
+      "title": "France – Office furniture – Fourniture de mobilier ergonomique et prestation d’aménagement de poste pour les salariés de la caisse d’allocations familiales du Val-de-Marne",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-09-25T00:00:00.000Z",
+      "amount": 600000,
+      "currency": "EUR",
+      "amountUsd": 648000,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/553913-2026",
+      "publicationNumber": "553913-2026",
+      "firstSeenAt": "2026-09-10T01:59:11.059Z",
+      "lastSeenAt": "2026-09-10T01:59:11.059Z",
+      "lastPublishedAt": "2026-09-10T01:59:11.059Z",
+      "isArchived": false
+    },
     {
       "id": "h93bf7b48",
       "sourceId": "usaid",
@@ -21,7 +42,7 @@
       "firstSeenAt": "2026-08-11T06:45:56.822Z",
       "lastSeenAt": "2026-09-09T20:11:14.868Z",
       "lastPublishedAt": "2026-09-09T20:11:14.868Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h5215eb0f",
@@ -42,7 +63,7 @@
       "firstSeenAt": "2026-08-06T23:48:44.308Z",
       "lastSeenAt": "2026-09-09T20:11:14.868Z",
       "lastPublishedAt": "2026-09-09T20:11:14.868Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h5115e97c",
@@ -63,7 +84,7 @@
       "firstSeenAt": "2026-08-06T23:48:44.308Z",
       "lastSeenAt": "2026-09-09T20:11:14.868Z",
       "lastPublishedAt": "2026-09-09T20:11:14.868Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h5715f2ee",
@@ -84,7 +105,7 @@
       "firstSeenAt": "2026-08-06T23:48:44.308Z",
       "lastSeenAt": "2026-09-09T20:11:14.868Z",
       "lastPublishedAt": "2026-09-09T20:11:14.868Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h1ad458ac",
@@ -105,7 +126,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-09-09T20:11:14.868Z",
       "lastPublishedAt": "2026-09-09T20:11:14.868Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he69c4641",
@@ -126,7 +147,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-09-09T20:11:14.868Z",
       "lastPublishedAt": "2026-09-09T20:11:14.868Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h49c13b39",
@@ -5230,28 +5251,7 @@
       "lastSeenAt": "2026-07-09T09:20:40.123Z",
       "lastPublishedAt": "2026-07-09T09:20:40.123Z",
       "isArchived": true
-    },
-    {
-      "id": "hc71a7e6c",
-      "sourceId": "apc-colombia",
-      "title": "Convocatoria para el fortalecimiento de la Secretaría de Fronteras y Cooperación Internacional de la Gobernación de Santander | Agencia Presidencial de Cooperación Internacional",
-      "source": "APC Colombia",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-07-17T00:00:00.000Z",
-      "amount": null,
-      "currency": "",
-      "amountUsd": null,
-      "scoreTotal": 17,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://apccolombia.gov.co/index.php/modalidades-de-cooperacion/convocatorias/otras-convocatorias/convocatoria-para-el-fortalecimiento",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-07-08T13:30:20.058Z",
-      "lastSeenAt": "2026-07-08T13:30:20.058Z",
-      "lastPublishedAt": "2026-07-08T13:30:20.058Z",
-      "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 250 | Archivadas: 244"
+  "message": "Historico acumulado del agente UCI-F. Total: 250 | Archivadas: 249"
 }

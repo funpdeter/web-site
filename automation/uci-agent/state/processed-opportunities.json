@@ -3386,17 +3386,16 @@
       "sourceId": "apc-colombia",
       "url": "https://www.apccolombia.gov.co/taxonomy/term/2160",
       "viable": false
+    },
+    "hbbc8bc5c": {
+      "at": "2026-09-10T01:59:11.057Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/553913-2026",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-09-02T15:32:20.748Z",
-      "endedAt": "2026-09-02T15:34:37.141Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-09-02T20:14:28.736Z",
       "endedAt": "2026-09-02T20:15:23.370Z",
@@ -3625,6 +3624,14 @@
       "startedAt": "2026-09-09T20:09:37.465Z",
       "endedAt": "2026-09-09T20:11:14.872Z",
       "scannedCandidates": 6,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-10T01:56:53.966Z",
+      "endedAt": "2026-09-10T01:59:11.062Z",
+      "scannedCandidates": 7,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
