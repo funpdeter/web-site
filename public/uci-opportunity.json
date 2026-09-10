@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-09-10T10:14:55.864Z",
+  "updatedAt": "2026-09-10T15:26:04.164Z",
   "opportunities": [
     {
       "id": "he69c4641",
@@ -18,23 +18,6 @@
       "isViable": true,
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null
-    },
-    {
-      "id": "haff8f859",
-      "sourceId": "ted-europa",
-      "title": "France – Office furniture – Fourniture de mobilier ergonomique et prestation d’aménagement de poste pour les salariés de la caisse d’allocations familiales du Val-de-Marne",
-      "source": "TED Europa",
-      "sourceTier": "internacional",
-      "region": "EUROPA",
-      "deadline": "2026-09-25T00:00:00.000Z",
-      "amount": 600000,
-      "currency": "EUR",
-      "amountUsd": 648000,
-      "scoreTotal": 14,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/553913-2026",
-      "publicationNumber": "553913-2026"
     },
     {
       "id": "h5215eb0f",
@@ -122,5 +105,5 @@
       "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 6 | EUROPA: 1"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 6 | EUROPA: 0"
 }
