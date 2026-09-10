@@ -3393,17 +3393,21 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/553913-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "h5028488a": {
+      "at": "2026-09-10T10:12:37.975Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/micrositios/convocatoriastv2026/894/articles-427736_Condiciones_Definitivas_Abre_Camara_2026.pdf",
+      "viable": false
+    },
+    "hfed3568": {
+      "at": "2026-09-10T10:12:39.883Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-article-400339.html",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-09-02T20:14:28.736Z",
-      "endedAt": "2026-09-02T20:15:23.370Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-09-03T01:56:08.305Z",
       "endedAt": "2026-09-03T01:57:23.826Z",
@@ -3631,6 +3635,14 @@
     {
       "startedAt": "2026-09-10T01:56:53.966Z",
       "endedAt": "2026-09-10T01:59:11.062Z",
+      "scannedCandidates": 7,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-10T10:12:16.124Z",
+      "endedAt": "2026-09-10T10:14:55.867Z",
       "scannedCandidates": 7,
       "viableCandidates": 0,
       "sentNotifications": 0,
