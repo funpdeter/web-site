@@ -3411,17 +3411,132 @@
       "sourceId": "gef-small-grants",
       "url": "https://sgp.undp.org/innovation-library/item/2738-undp-&amp;-the-gef-small-grants-program--30%20-years-of-local-action-for-global-impact.html",
       "viable": false
+    },
+    "h1a731185": {
+      "at": "2026-09-12T02:01:50.038Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10858560",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-12T02-01-50-025Z_secop-ii_apoyar-al-municipio-de-san-roque-con-el-suministro"
+    },
+    "hd3e95a89": {
+      "at": "2026-09-12T02:01:50.039Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10856647",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-12T02-01-50-039Z_secop-ii_apoyar-al-municipio-de-dabeiba-mediante-el-suminis"
+    },
+    "h53a3fc3d": {
+      "at": "2026-09-12T02:01:50.040Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10852544",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-12T02-01-50-039Z_secop-ii_apoyar-al-municipio-de-canasgordas-con-el-suminist"
+    },
+    "he4b75878": {
+      "at": "2026-09-12T02:01:50.040Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10843596",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hcd6f8d98": {
+      "at": "2026-09-12T02:01:50.041Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10869431",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-12T02-01-50-040Z_secop-ii_arrendamiento-de-un-bien-inmueble-para-el-funciona"
+    },
+    "h9c95d3fb": {
+      "at": "2026-09-12T02:01:50.042Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10791432",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-12T02-01-50-041Z_secop-ii_mejoramiento-y-adecuacion-de-escenarios-recreo-dep"
+    },
+    "hefc2f796": {
+      "at": "2026-09-12T02:01:50.042Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10861770",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hc41530c0": {
+      "at": "2026-09-12T02:01:50.042Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10860472",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-12T02-01-50-042Z_secop-ii_contratar-el-servicio-de-mantenimiento-del-sistema"
+    },
+    "h8a79fb7": {
+      "at": "2026-09-12T02:01:50.044Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10852674",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-12T02-01-50-042Z_secop-ii_obra-manifestacion-de-interes-menor-cuantia"
+    },
+    "he360b3dc": {
+      "at": "2026-09-12T02:01:50.044Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10866140",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "he4f40936": {
+      "at": "2026-09-12T02:01:50.045Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10863192",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-12T02-01-50-044Z_secop-ii_prestacion-de-servicios-de-seguridad-y-vigilancia-"
+    },
+    "h96f82c99": {
+      "at": "2026-09-12T02:01:50.045Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10868703",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "ha09fe5ea": {
+      "at": "2026-09-12T02:01:50.045Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10868944",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h7851abfe": {
+      "at": "2026-09-12T02:01:50.045Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10853986",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-12T02-01-50-045Z_secop-ii_mejoramiento-y-adecuacion-patinodromo-del-municipi"
+    },
+    "h2b6a856f": {
+      "at": "2026-09-12T02:01:50.046Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10838502",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-12T02-01-50-046Z_secop-ii_prestacion-de-los-servicios-de-toma-de-examenes-de"
+    },
+    "he606779": {
+      "at": "2026-09-12T02:01:50.046Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10730516",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-12T02-01-50-046Z_secop-ii_mejoramiento-y-adecuacion-de-centro-multiple-de-se"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-09-04T15:22:12.084Z",
-      "endedAt": "2026-09-04T15:24:42.748Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-09-04T20:00:06.762Z",
       "endedAt": "2026-09-04T20:01:52.801Z",
@@ -3651,6 +3766,14 @@
       "endedAt": "2026-09-11T20:12:20.908Z",
       "scannedCandidates": 6,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-12T01:59:51.572Z",
+      "endedAt": "2026-09-12T02:01:50.052Z",
+      "scannedCandidates": 22,
+      "viableCandidates": 11,
       "sentNotifications": 0,
       "transport": "console"
     }
