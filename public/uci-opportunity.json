@@ -1,24 +1,58 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-09-12T14:37:04.260Z",
+  "updatedAt": "2026-09-12T19:50:58.752Z",
   "opportunities": [
     {
-      "id": "h3e07c431",
-      "sourceId": "ted-europa",
-      "title": "Poland – Street-cleaning and sweeping services – Wykonanie oczyszczania parkingów, jezdni i chodników ulic krajowych, wojewódzkich, powiatowych, gminnych wewnętrznych oraz opróżnianie koszy ulicznych w Rzeszowie",
-      "source": "TED Europa",
-      "sourceTier": "internacional",
-      "region": "EUROPA",
+      "id": "hd61f25a6",
+      "sourceId": "secop-ii",
+      "title": "CONTRATAR LA ADQUISICIÓN LICENCIAS OFFICE Y DE EQUIPOS TECNOLÓGICOS Y PERIFÉRICOS PARA EL DESARROLLO EFICIENTE DE LAS ACTIVIDADES DE LA SECRETARÍA DE EDUCACIÓN DEL DISTRITO DE SANTIAGO DE CALI. (Prese",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-09-14T00:00:00.000Z",
+      "amount": 2823998491,
+      "currency": "COP",
+      "amountUsd": 705999.62275,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10820055",
+      "publicationNumber": null
+    },
+    {
+      "id": "h14ae5e76",
+      "sourceId": "secop-ii",
+      "title": "Adquisición de utensilios y menaje para servicio de alimentacion escolar PAE",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-09-14T00:00:00.000Z",
+      "amount": 48714461,
+      "currency": "COP",
+      "amountUsd": 12178.61525,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10873305",
+      "publicationNumber": null
+    },
+    {
+      "id": "h73f3c24b",
+      "sourceId": "secop-ii",
+      "title": "MANTENIMIENTO PREVENTIVO Y CORRECTIVO EQUIPOS AUDIOVISUALES; ADQUISICIÓN DE VIDEO CÁMARA; Y TELEVISOR; PARA LA OFICINA DE COMUNICACIONES ESTRATÉGICAS Y MANTENIMIENTDE UN VIDEOWAL INCLUIDO EL SUMINIST",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
       "deadline": "2026-09-14T00:00:00.000Z",
       "amount": null,
       "currency": "",
       "amountUsd": null,
-      "scoreTotal": 14,
-      "recommendation": "No aplicar",
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
       "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/560326-2026",
-      "publicationNumber": "560326-2026"
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10819632",
+      "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 0 | EUROPA: 1"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 3 | USA: 0 | EUROPA: 0"
 }

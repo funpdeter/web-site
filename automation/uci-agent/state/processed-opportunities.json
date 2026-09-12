@@ -3541,17 +3541,32 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/560326-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "hd7ddbc8a": {
+      "at": "2026-09-12T19:50:58.737Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10819632",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hbd9661bb": {
+      "at": "2026-09-12T19:50:58.751Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10820055",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-12T19-50-58-737Z_secop-ii_contratar-la-adquisicion-licencias-office-y-de-equ"
+    },
+    "h38191c4f": {
+      "at": "2026-09-12T19:50:58.752Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10873305",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-12T19-50-58-752Z_secop-ii_adquisicion-de-utensilios-y-menaje-para-servicio-d"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-09-05T09:36:29.206Z",
-      "endedAt": "2026-09-05T09:38:56.233Z",
-      "scannedCandidates": 24,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-09-05T14:09:34.847Z",
       "endedAt": "2026-09-05T14:12:20.235Z",
@@ -3781,6 +3796,14 @@
       "endedAt": "2026-09-12T14:37:04.264Z",
       "scannedCandidates": 23,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-12T19:49:48.224Z",
+      "endedAt": "2026-09-12T19:50:58.757Z",
+      "scannedCandidates": 22,
+      "viableCandidates": 2,
       "sentNotifications": 0,
       "transport": "console"
     }
