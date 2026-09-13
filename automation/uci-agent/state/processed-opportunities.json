@@ -3564,17 +3564,17 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-12T19-50-58-752Z_secop-ii_adquisicion-de-utensilios-y-menaje-para-servicio-d"
+    },
+    "h126292ca": {
+      "at": "2026-09-13T01:55:51.470Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10867493",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-13T01-55-51-459Z_secop-ii_mejoramiento-de-la-infraestructura-fisica-de-la-in"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-09-05T14:09:34.847Z",
-      "endedAt": "2026-09-05T14:12:20.235Z",
-      "scannedCandidates": 24,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-09-05T19:40:16.590Z",
       "endedAt": "2026-09-05T19:41:21.747Z",
@@ -3804,6 +3804,14 @@
       "endedAt": "2026-09-12T19:50:58.757Z",
       "scannedCandidates": 22,
       "viableCandidates": 2,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-13T01:54:15.308Z",
+      "endedAt": "2026-09-13T01:55:51.474Z",
+      "scannedCandidates": 23,
+      "viableCandidates": 1,
       "sentNotifications": 0,
       "transport": "console"
     }

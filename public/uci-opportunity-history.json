@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-09-12T19:50:58.753Z",
+  "updatedAt": "2026-09-13T01:55:51.471Z",
   "opportunities": [
+    {
+      "id": "h5a8c29cb",
+      "sourceId": "secop-ii",
+      "title": "MEJORAMIENTO DE LA INFRAESTRUCTURA FÍSICA DE LA INSTITUCIÓN EDUCATIVA TÉCNICA NACIONALIZADA PABLO VI SEDE BACHILLERATO EN EL MUNICIPIO DE CUBARÁ; BOYACÁ; VIGENCIA 2026 (Manifestación de interés (Menor",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-09-14T00:00:00.000Z",
+      "amount": 81183647,
+      "currency": "COP",
+      "amountUsd": 20295.91175,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10867493",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-09-13T01:55:51.471Z",
+      "lastSeenAt": "2026-09-13T01:55:51.471Z",
+      "lastPublishedAt": "2026-09-13T01:55:51.471Z",
+      "isArchived": false
+    },
     {
       "id": "hd61f25a6",
       "sourceId": "secop-ii",
@@ -21,7 +42,7 @@
       "firstSeenAt": "2026-09-12T19:50:58.753Z",
       "lastSeenAt": "2026-09-12T19:50:58.753Z",
       "lastPublishedAt": "2026-09-12T19:50:58.753Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h14ae5e76",
@@ -42,7 +63,7 @@
       "firstSeenAt": "2026-09-12T19:50:58.753Z",
       "lastSeenAt": "2026-09-12T19:50:58.753Z",
       "lastPublishedAt": "2026-09-12T19:50:58.753Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h73f3c24b",
@@ -63,7 +84,7 @@
       "firstSeenAt": "2026-09-12T19:50:58.753Z",
       "lastSeenAt": "2026-09-12T19:50:58.753Z",
       "lastPublishedAt": "2026-09-12T19:50:58.753Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h3e07c431",
@@ -5230,28 +5251,7 @@
       "lastSeenAt": "2026-07-12T18:50:15.581Z",
       "lastPublishedAt": "2026-07-12T18:50:15.581Z",
       "isArchived": true
-    },
-    {
-      "id": "h2f0a11d5",
-      "sourceId": "secop-ii",
-      "title": "EJECUCIÓN DE PROGRAMAS; PROYECTOS; ESTRATEGIAS Y ACTIVIDADES DE INTERÉS PÚBLICO PREVISTAS PLAN DE DESARROLLO MUNICIPAL 'JUNTOS PODEMOS 2024-2027'; ORIENTADAS AL FORTALECIMIENTO DE LOS SECTORES",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-07-13T00:00:00.000Z",
-      "amount": 128016000,
-      "currency": "COP",
-      "amountUsd": 32004,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10490637",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-07-12T01:31:43.365Z",
-      "lastSeenAt": "2026-07-12T18:50:15.581Z",
-      "lastPublishedAt": "2026-07-12T18:50:15.581Z",
-      "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 250 | Archivadas: 247"
+  "message": "Historico acumulado del agente UCI-F. Total: 250 | Archivadas: 249"
 }
