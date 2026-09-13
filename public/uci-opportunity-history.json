@@ -1,7 +1,91 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-09-13T15:16:02.194Z",
+  "updatedAt": "2026-09-13T20:00:24.965Z",
   "opportunities": [
+    {
+      "id": "h8bd23cde",
+      "sourceId": "secop-ii",
+      "title": "CONTRATAR SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE LA PLANTA ELECTRICA DEL CENTRO DE BIOTECNOLOGIA AGROPECUARIA- SENA MOSQUERA.",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-09-14T00:00:00.000Z",
+      "amount": 70782410,
+      "currency": "COP",
+      "amountUsd": 17695.6025,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10866646",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-09-13T20:00:24.965Z",
+      "lastSeenAt": "2026-09-13T20:00:24.965Z",
+      "lastPublishedAt": "2026-09-13T20:00:24.965Z",
+      "isArchived": false
+    },
+    {
+      "id": "h74363bd",
+      "sourceId": "secop-ii",
+      "title": "MANTENIMIENTO PREVENTIVO Y CORRECTIVO",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-09-14T00:00:00.000Z",
+      "amount": 64704000,
+      "currency": "COP",
+      "amountUsd": 16176,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10853733",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-09-13T20:00:24.965Z",
+      "lastSeenAt": "2026-09-13T20:00:24.965Z",
+      "lastPublishedAt": "2026-09-13T20:00:24.965Z",
+      "isArchived": false
+    },
+    {
+      "id": "hf7848c8a",
+      "sourceId": "secop-ii",
+      "title": "MEJORAMIENTO Y ADECUACIÓN DE ESCENARIOS RECREO - DEPORTIVOS EN EL MUNICIPIO DE AGUSTÍN CODAZZI - CESAR. (Manifestación de interés (Menor Cuantía)) (Presentación de oferta)",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-09-14T00:00:00.000Z",
+      "amount": 151006276,
+      "currency": "COP",
+      "amountUsd": 37751.569,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10882727",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-09-13T20:00:24.965Z",
+      "lastSeenAt": "2026-09-13T20:00:24.965Z",
+      "lastPublishedAt": "2026-09-13T20:00:24.965Z",
+      "isArchived": false
+    },
+    {
+      "id": "h91a0a05b",
+      "sourceId": "secop-ii",
+      "title": "APOYO LOGÍSTICO PARA LA PARTICIPACIÓN DE LOS ESTUDIANTES DEL MUNICIPIO DE SAN MARTÍN; CESAR; EN LA FASE DEPARTAMENTAL DE LOS JUEGOS INTERCOLEGIADOS 2026; VALLEDUPAR; CESAR",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-09-14T00:00:00.000Z",
+      "amount": 20120000,
+      "currency": "COP",
+      "amountUsd": 5030,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10875645",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-09-13T20:00:24.965Z",
+      "lastSeenAt": "2026-09-13T20:00:24.965Z",
+      "lastPublishedAt": "2026-09-13T20:00:24.965Z",
+      "isArchived": false
+    },
     {
       "id": "h5a8c29cb",
       "sourceId": "secop-ii",
@@ -21,7 +105,7 @@
       "firstSeenAt": "2026-09-13T01:55:51.471Z",
       "lastSeenAt": "2026-09-13T15:16:02.194Z",
       "lastPublishedAt": "2026-09-13T15:16:02.194Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd61f25a6",
@@ -42,7 +126,7 @@
       "firstSeenAt": "2026-09-12T19:50:58.753Z",
       "lastSeenAt": "2026-09-13T15:16:02.194Z",
       "lastPublishedAt": "2026-09-13T15:16:02.194Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h14ae5e76",
@@ -63,7 +147,7 @@
       "firstSeenAt": "2026-09-12T19:50:58.753Z",
       "lastSeenAt": "2026-09-13T15:16:02.194Z",
       "lastPublishedAt": "2026-09-13T15:16:02.194Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h73f3c24b",
@@ -84,7 +168,7 @@
       "firstSeenAt": "2026-09-12T19:50:58.753Z",
       "lastSeenAt": "2026-09-13T15:16:02.194Z",
       "lastPublishedAt": "2026-09-13T15:16:02.194Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h3e07c431",
@@ -105,7 +189,7 @@
       "firstSeenAt": "2026-09-12T14:37:04.260Z",
       "lastSeenAt": "2026-09-13T15:16:02.194Z",
       "lastPublishedAt": "2026-09-13T15:16:02.194Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he4c9b164",
@@ -126,7 +210,7 @@
       "firstSeenAt": "2026-09-12T02:01:50.048Z",
       "lastSeenAt": "2026-09-13T15:16:02.194Z",
       "lastPublishedAt": "2026-09-13T15:16:02.194Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hee7adc9a",
@@ -147,7 +231,7 @@
       "firstSeenAt": "2026-09-12T02:01:50.048Z",
       "lastSeenAt": "2026-09-13T15:16:02.194Z",
       "lastPublishedAt": "2026-09-13T15:16:02.194Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf03d41b2",
@@ -168,7 +252,7 @@
       "firstSeenAt": "2026-09-12T02:01:50.048Z",
       "lastSeenAt": "2026-09-13T15:16:02.194Z",
       "lastPublishedAt": "2026-09-13T15:16:02.194Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he242107",
@@ -189,7 +273,7 @@
       "firstSeenAt": "2026-09-12T02:01:50.048Z",
       "lastSeenAt": "2026-09-13T15:16:02.194Z",
       "lastPublishedAt": "2026-09-13T15:16:02.194Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hb333cacf",
@@ -210,7 +294,7 @@
       "firstSeenAt": "2026-09-12T02:01:50.048Z",
       "lastSeenAt": "2026-09-13T15:16:02.194Z",
       "lastPublishedAt": "2026-09-13T15:16:02.194Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h98be827d",
@@ -231,7 +315,7 @@
       "firstSeenAt": "2026-09-12T02:01:50.048Z",
       "lastSeenAt": "2026-09-13T15:16:02.194Z",
       "lastPublishedAt": "2026-09-13T15:16:02.194Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h6e4df027",
@@ -252,7 +336,7 @@
       "firstSeenAt": "2026-09-12T02:01:50.048Z",
       "lastSeenAt": "2026-09-13T15:16:02.194Z",
       "lastPublishedAt": "2026-09-13T15:16:02.194Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hee162f08",
@@ -273,7 +357,7 @@
       "firstSeenAt": "2026-09-12T02:01:50.048Z",
       "lastSeenAt": "2026-09-13T15:16:02.194Z",
       "lastPublishedAt": "2026-09-13T15:16:02.194Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hb20f1ef7",
@@ -294,7 +378,7 @@
       "firstSeenAt": "2026-09-12T02:01:50.048Z",
       "lastSeenAt": "2026-09-13T15:16:02.194Z",
       "lastPublishedAt": "2026-09-13T15:16:02.194Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h93bf7b48",
@@ -315,7 +399,7 @@
       "firstSeenAt": "2026-08-11T06:45:56.822Z",
       "lastSeenAt": "2026-09-13T15:16:02.194Z",
       "lastPublishedAt": "2026-09-13T15:16:02.194Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h5215eb0f",
@@ -336,7 +420,7 @@
       "firstSeenAt": "2026-08-06T23:48:44.308Z",
       "lastSeenAt": "2026-09-13T15:16:02.194Z",
       "lastPublishedAt": "2026-09-13T15:16:02.194Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h5115e97c",
@@ -357,7 +441,7 @@
       "firstSeenAt": "2026-08-06T23:48:44.308Z",
       "lastSeenAt": "2026-09-13T15:16:02.194Z",
       "lastPublishedAt": "2026-09-13T15:16:02.194Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h5715f2ee",
@@ -378,7 +462,7 @@
       "firstSeenAt": "2026-08-06T23:48:44.308Z",
       "lastSeenAt": "2026-09-13T15:16:02.194Z",
       "lastPublishedAt": "2026-09-13T15:16:02.194Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h1ad458ac",
@@ -399,7 +483,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-09-13T15:16:02.194Z",
       "lastPublishedAt": "2026-09-13T15:16:02.194Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he69c4641",
@@ -420,7 +504,7 @@
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
       "lastSeenAt": "2026-09-13T15:16:02.194Z",
       "lastPublishedAt": "2026-09-13T15:16:02.194Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hec520298",
@@ -5167,91 +5251,7 @@
       "lastSeenAt": "2026-07-15T18:54:50.847Z",
       "lastPublishedAt": "2026-07-15T18:54:50.847Z",
       "isArchived": true
-    },
-    {
-      "id": "h40b35418",
-      "sourceId": "usaid",
-      "title": "Improving Undergraduate STEM Education: Directorate for STEM Education",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-07-15T00:00:00.000Z",
-      "amount": 2000000,
-      "currency": "USD",
-      "amountUsd": 2000000,
-      "scoreTotal": 13,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/344124",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-07-14T13:05:14.461Z",
-      "lastPublishedAt": "2026-07-14T13:05:14.461Z",
-      "isArchived": true
-    },
-    {
-      "id": "hf895578f",
-      "sourceId": "secop-ii",
-      "title": "CONTRATAR EL SUMINISTRO DE ELEMENTOS DE ASEO Y CAFETERÍA; PARA LA CORRECTA ATENCIÓN DE LAS DIFERENTES PROCESOS DE LOS LUGARES DE DESARROLLO Y CENTROS TUTORIALES DEL INSTITUTO SUPERIOR DE EDUCACIÓN RUR",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-07-13T00:00:00.000Z",
-      "amount": 99992673,
-      "currency": "COP",
-      "amountUsd": 24998.16825,
-      "scoreTotal": 16,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10417003",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-07-12T01:31:43.365Z",
-      "lastSeenAt": "2026-07-12T18:50:15.581Z",
-      "lastPublishedAt": "2026-07-12T18:50:15.581Z",
-      "isArchived": true
-    },
-    {
-      "id": "hb199268d",
-      "sourceId": "secop-ii",
-      "title": "CONTRATAR EL SUMINISTRO; INSTALACIÓN; DEMARCACIÓN Y MANTENIMIENTO DE LA SEÑALIZACION VERTICAL Y HORIZONTAL EN VÍAS DEL MUNICIPIO DE EL ESPINAL (Manifestación de interés (Menor Cuantía))",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-07-13T00:00:00.000Z",
-      "amount": 285000000,
-      "currency": "COP",
-      "amountUsd": 71250,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10478590",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-07-12T01:31:43.365Z",
-      "lastSeenAt": "2026-07-12T18:50:15.581Z",
-      "lastPublishedAt": "2026-07-12T18:50:15.581Z",
-      "isArchived": true
-    },
-    {
-      "id": "h6103d7e3",
-      "sourceId": "secop-ii",
-      "title": "ELEMENTOS DE PROTECCIÓN PERSONAL Y SEGURIDAD INDUSTRIAL",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-07-13T00:00:00.000Z",
-      "amount": 163895921,
-      "currency": "COP",
-      "amountUsd": 40973.98025,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10408739",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-07-12T01:31:43.365Z",
-      "lastSeenAt": "2026-07-12T18:50:15.581Z",
-      "lastPublishedAt": "2026-07-12T18:50:15.581Z",
-      "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 250 | Archivadas: 230"
+  "message": "Historico acumulado del agente UCI-F. Total: 250 | Archivadas: 246"
 }
