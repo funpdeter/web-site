@@ -1062,6 +1062,12 @@
       "url": "https://www.grants.gov/search-results-detail/361169",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "hfaf7eaa1": {
+      "at": "2026-09-14T20:41:39.283Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/comunicaciones/noticias/fundacion-carolina-abrio-la-xxvi-convocatoria-de-becas-2026-2027-para",
+      "viable": false
     }
   },
   "scans": [
@@ -1110,6 +1116,14 @@
       "endedAt": "2026-09-14T20:37:26.462Z",
       "scannedCandidates": 12,
       "viableCandidates": 1,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-14T20:41:22.572Z",
+      "endedAt": "2026-09-14T20:42:45.715Z",
+      "scannedCandidates": 6,
+      "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
     }
