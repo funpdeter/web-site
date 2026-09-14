@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-09-14T11:11:21.642Z",
+  "updatedAt": "2026-09-14T17:13:52.372Z",
   "opportunities": [
+    {
+      "id": "h2188788e",
+      "sourceId": "ted-europa",
+      "title": "Poland – Construction works for power plants and heating plants – zaprojektowanie i wykonanie robót budowlanych dla zadania Budowa elektrociepłowni gazowej w oparciu o moduły silników gazowych do skojarzonego wytwarzania energii elektrycznej i ciepła w PEC Legionowo",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-09-29T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/566187-2026",
+      "publicationNumber": "566187-2026",
+      "firstSeenAt": "2026-09-14T02:13:32.497Z",
+      "lastSeenAt": "2026-09-14T17:13:52.372Z",
+      "lastPublishedAt": "2026-09-14T17:13:52.372Z",
+      "isArchived": false
+    },
     {
       "id": "h93bf7b48",
       "sourceId": "usaid",
@@ -19,8 +40,8 @@
       "url": "https://www.grants.gov/search-results-detail/362850",
       "publicationNumber": null,
       "firstSeenAt": "2026-08-11T06:45:56.822Z",
-      "lastSeenAt": "2026-09-14T11:11:21.642Z",
-      "lastPublishedAt": "2026-09-14T11:11:21.642Z",
+      "lastSeenAt": "2026-09-14T17:13:52.372Z",
+      "lastPublishedAt": "2026-09-14T17:13:52.372Z",
       "isArchived": false
     },
     {
@@ -40,8 +61,8 @@
       "url": "https://www.grants.gov/search-results-detail/363467",
       "publicationNumber": null,
       "firstSeenAt": "2026-08-06T23:48:44.308Z",
-      "lastSeenAt": "2026-09-14T11:11:21.642Z",
-      "lastPublishedAt": "2026-09-14T11:11:21.642Z",
+      "lastSeenAt": "2026-09-14T17:13:52.372Z",
+      "lastPublishedAt": "2026-09-14T17:13:52.372Z",
       "isArchived": false
     },
     {
@@ -61,8 +82,8 @@
       "url": "https://www.grants.gov/search-results-detail/363466",
       "publicationNumber": null,
       "firstSeenAt": "2026-08-06T23:48:44.308Z",
-      "lastSeenAt": "2026-09-14T11:11:21.642Z",
-      "lastPublishedAt": "2026-09-14T11:11:21.642Z",
+      "lastSeenAt": "2026-09-14T17:13:52.372Z",
+      "lastPublishedAt": "2026-09-14T17:13:52.372Z",
       "isArchived": false
     },
     {
@@ -82,8 +103,8 @@
       "url": "https://www.grants.gov/search-results-detail/363468",
       "publicationNumber": null,
       "firstSeenAt": "2026-08-06T23:48:44.308Z",
-      "lastSeenAt": "2026-09-14T11:11:21.642Z",
-      "lastPublishedAt": "2026-09-14T11:11:21.642Z",
+      "lastSeenAt": "2026-09-14T17:13:52.372Z",
+      "lastPublishedAt": "2026-09-14T17:13:52.372Z",
       "isArchived": false
     },
     {
@@ -103,8 +124,8 @@
       "url": "https://www.grants.gov/search-results-detail/355100",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-09-14T11:11:21.642Z",
-      "lastPublishedAt": "2026-09-14T11:11:21.642Z",
+      "lastSeenAt": "2026-09-14T17:13:52.372Z",
+      "lastPublishedAt": "2026-09-14T17:13:52.372Z",
       "isArchived": false
     },
     {
@@ -124,30 +145,9 @@
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null,
       "firstSeenAt": "2026-06-19T13:55:50.376Z",
-      "lastSeenAt": "2026-09-14T11:11:21.642Z",
-      "lastPublishedAt": "2026-09-14T11:11:21.642Z",
+      "lastSeenAt": "2026-09-14T17:13:52.372Z",
+      "lastPublishedAt": "2026-09-14T17:13:52.372Z",
       "isArchived": false
-    },
-    {
-      "id": "h2188788e",
-      "sourceId": "ted-europa",
-      "title": "Poland – Construction works for power plants and heating plants – zaprojektowanie i wykonanie robót budowlanych dla zadania Budowa elektrociepłowni gazowej w oparciu o moduły silników gazowych do skojarzonego wytwarzania energii elektrycznej i ciepła w PEC Legionowo",
-      "source": "TED Europa",
-      "sourceTier": "internacional",
-      "region": "EUROPA",
-      "deadline": "2026-09-29T00:00:00.000Z",
-      "amount": null,
-      "currency": "",
-      "amountUsd": null,
-      "scoreTotal": 13,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/566187-2026",
-      "publicationNumber": "566187-2026",
-      "firstSeenAt": "2026-09-14T02:13:32.497Z",
-      "lastSeenAt": "2026-09-14T02:13:32.497Z",
-      "lastPublishedAt": "2026-09-14T02:13:32.497Z",
-      "isArchived": true
     },
     {
       "id": "h8bd23cde",
@@ -5253,5 +5253,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 250 | Archivadas: 244"
+  "message": "Historico acumulado del agente UCI-F. Total: 250 | Archivadas: 243"
 }

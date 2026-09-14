@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-09-14T11:11:21.641Z",
+  "updatedAt": "2026-09-14T17:13:52.371Z",
   "opportunities": [
     {
       "id": "he69c4641",
@@ -18,6 +18,23 @@
       "isViable": true,
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null
+    },
+    {
+      "id": "h2188788e",
+      "sourceId": "ted-europa",
+      "title": "Poland – Construction works for power plants and heating plants – zaprojektowanie i wykonanie robót budowlanych dla zadania Budowa elektrociepłowni gazowej w oparciu o moduły silników gazowych do skojarzonego wytwarzania energii elektrycznej i ciepła w PEC Legionowo",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-09-29T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/566187-2026",
+      "publicationNumber": "566187-2026"
     },
     {
       "id": "h5215eb0f",
@@ -105,5 +122,5 @@
       "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 6 | EUROPA: 0"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 6 | EUROPA: 1"
 }
