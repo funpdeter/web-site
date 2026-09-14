@@ -1068,6 +1068,13 @@
       "sourceId": "apc-colombia",
       "url": "https://www.apccolombia.gov.co/comunicaciones/noticias/fundacion-carolina-abrio-la-xxvi-convocatoria-de-becas-2026-2027-para",
       "viable": false
+    },
+    "h9ed18f53": {
+      "at": "2026-09-14T21:10:50.293Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/566187-2026",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
@@ -1123,6 +1130,14 @@
       "startedAt": "2026-09-14T20:41:22.572Z",
       "endedAt": "2026-09-14T20:42:45.715Z",
       "scannedCandidates": 6,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-14T21:08:32.880Z",
+      "endedAt": "2026-09-14T21:10:50.312Z",
+      "scannedCandidates": 7,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
