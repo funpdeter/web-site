@@ -3610,17 +3610,16 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-13T20-00-24-964Z_secop-ii_contratar-servicio-de-mantenimiento-preventivo-y-c"
+    },
+    "h9ed18f53": {
+      "at": "2026-09-14T02:13:32.496Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/566187-2026",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-09-06T14:33:35.855Z",
-      "endedAt": "2026-09-06T14:35:28.095Z",
-      "scannedCandidates": 24,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-09-06T19:43:08.871Z",
       "endedAt": "2026-09-06T19:44:30.455Z",
@@ -3850,6 +3849,14 @@
       "endedAt": "2026-09-13T20:00:24.968Z",
       "scannedCandidates": 23,
       "viableCandidates": 4,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-14T02:11:52.857Z",
+      "endedAt": "2026-09-14T02:13:32.501Z",
+      "scannedCandidates": 7,
+      "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
     }

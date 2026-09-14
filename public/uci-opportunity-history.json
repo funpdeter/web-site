@@ -1,7 +1,28 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-09-13T20:00:24.965Z",
+  "updatedAt": "2026-09-14T02:13:32.497Z",
   "opportunities": [
+    {
+      "id": "h2188788e",
+      "sourceId": "ted-europa",
+      "title": "Poland – Construction works for power plants and heating plants – zaprojektowanie i wykonanie robót budowlanych dla zadania Budowa elektrociepłowni gazowej w oparciu o moduły silników gazowych do skojarzonego wytwarzania energii elektrycznej i ciepła w PEC Legionowo",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-09-29T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/566187-2026",
+      "publicationNumber": "566187-2026",
+      "firstSeenAt": "2026-09-14T02:13:32.497Z",
+      "lastSeenAt": "2026-09-14T02:13:32.497Z",
+      "lastPublishedAt": "2026-09-14T02:13:32.497Z",
+      "isArchived": false
+    },
     {
       "id": "h8bd23cde",
       "sourceId": "secop-ii",
@@ -21,7 +42,7 @@
       "firstSeenAt": "2026-09-13T20:00:24.965Z",
       "lastSeenAt": "2026-09-13T20:00:24.965Z",
       "lastPublishedAt": "2026-09-13T20:00:24.965Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h74363bd",
@@ -42,7 +63,7 @@
       "firstSeenAt": "2026-09-13T20:00:24.965Z",
       "lastSeenAt": "2026-09-13T20:00:24.965Z",
       "lastPublishedAt": "2026-09-13T20:00:24.965Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hf7848c8a",
@@ -63,7 +84,7 @@
       "firstSeenAt": "2026-09-13T20:00:24.965Z",
       "lastSeenAt": "2026-09-13T20:00:24.965Z",
       "lastPublishedAt": "2026-09-13T20:00:24.965Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h91a0a05b",
@@ -84,7 +105,7 @@
       "firstSeenAt": "2026-09-13T20:00:24.965Z",
       "lastSeenAt": "2026-09-13T20:00:24.965Z",
       "lastPublishedAt": "2026-09-13T20:00:24.965Z",
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h5a8c29cb",
@@ -5230,28 +5251,7 @@
       "lastSeenAt": "2026-07-15T18:54:50.847Z",
       "lastPublishedAt": "2026-07-15T18:54:50.847Z",
       "isArchived": true
-    },
-    {
-      "id": "hbaf3b5eb",
-      "sourceId": "ted-europa",
-      "title": "Italy – Social work services with accommodation – procedura aperta, ai sensi dell’art. 71 del D.Lgs. n. 36/2023, finalizzata alla selezione di più operatori economici, con cui concludere un accordo quadro triennale, per l'affidamento dei servizi di gestione di centri collettivi di accoglienza di cittadini stranieri richiedenti protezione internazionale, con capacità ricettiva massima di 50 posti",
-      "source": "TED Europa",
-      "sourceTier": "internacional",
-      "region": "EUROPA",
-      "deadline": "2026-07-29T00:00:00.000Z",
-      "amount": 28287116.95,
-      "currency": "EUR",
-      "amountUsd": 30550086.306,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/409177-2026",
-      "publicationNumber": "409177-2026",
-      "firstSeenAt": "2026-07-13T01:45:51.473Z",
-      "lastSeenAt": "2026-07-15T18:54:50.847Z",
-      "lastPublishedAt": "2026-07-15T18:54:50.847Z",
-      "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 250 | Archivadas: 246"
+  "message": "Historico acumulado del agente UCI-F. Total: 250 | Archivadas: 249"
 }
