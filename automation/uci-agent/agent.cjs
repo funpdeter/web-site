@@ -28,6 +28,7 @@ const MINCIENCIAS_ACTEI_PLAN_URL =
 const SNAPSHOT_TARGET_REGIONS = ["COLOMBIA", "USA", "EUROPA"];
 const MAX_PUBLISHED_OPPORTUNITIES = 10;
 const MAX_HISTORY_OPPORTUNITIES = 250;
+const PUBLICATION_TIME_ZONE = "America/Bogota";
 const MIN_REGION_QUOTAS = {
   COLOMBIA: 3,
   USA: 1,
@@ -639,7 +640,137 @@ function readPublicOpportunityHistory(filePath) {
   }
 }
 
-function buildPublicSnapshot(candidates) {
+function readPublicOpportunitySnapshot(filePath) {
+  try {
+    if (!fs.existsSync(filePath)) {
+      return null;
+    }
+    const raw = fs.readFileSync(filePath, "utf-8");
+    return JSON.parse(raw);
+  } catch (_error) {
+    return null;
+  }
+}
+
+function getPublicationDateKey(value) {
+  if (!value) {
+    return "";
+  }
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) {
+    return "";
+  }
+
+  try {
+    return new Intl.DateTimeFormat("en-CA", {
+      timeZone: PUBLICATION_TIME_ZONE,
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit",
+    }).format(date);
+  } catch (_error) {
+    return date.toISOString().slice(0, 10);
+  }
+}
+
+function getSafeTimestamp(value) {
+  if (!value) {
+    return 0;
+  }
+  const timestamp = new Date(value).getTime();
+  return Number.isFinite(timestamp) ? timestamp : 0;
+}
+
+function buildPublicationMemory(previousHistory, previousSnapshot) {
+  const memory = new Map();
+  const historyRecords = Array.isArray(previousHistory?.opportunities)
+    ? previousHistory.opportunities
+    : [];
+  const snapshotRecords = Array.isArray(previousSnapshot?.opportunities)
+    ? previousSnapshot.opportunities
+    : [];
+
+  for (const record of historyRecords) {
+    const key = getPublicOpportunityKey(record);
+    if (!key) {
+      continue;
+    }
+    memory.set(key, {
+      firstSeenAt: record.firstSeenAt || record.lastPublishedAt || record.lastSeenAt || null,
+      lastSeenAt: record.lastSeenAt || record.lastPublishedAt || null,
+      lastPublishedAt: record.lastPublishedAt || record.lastSeenAt || record.firstSeenAt || null,
+      publishCount: Number(record.publishCount || 0),
+    });
+  }
+
+  for (const record of snapshotRecords) {
+    const key = getPublicOpportunityKey(record);
+    if (!key) {
+      continue;
+    }
+    const publishedAt =
+      record.lastPublishedAt ||
+      previousSnapshot?.updatedAt ||
+      record.lastSeenAt ||
+      record.firstSeenAt ||
+      null;
+    const previous = memory.get(key);
+    memory.set(key, {
+      firstSeenAt: previous?.firstSeenAt || record.firstSeenAt || publishedAt,
+      lastSeenAt: record.lastSeenAt || previous?.lastSeenAt || publishedAt,
+      lastPublishedAt: publishedAt || previous?.lastPublishedAt || null,
+      publishCount: Math.max(Number(previous?.publishCount || 0), 1),
+    });
+  }
+
+  return memory;
+}
+
+function orderCandidatesForDailyPublication(candidates, historyFilePath, previousSnapshot, updatedAt) {
+  const previousHistory = readPublicOpportunityHistory(historyFilePath);
+  const publicationMemory = buildPublicationMemory(previousHistory, previousSnapshot);
+  const todayKey = getPublicationDateKey(updatedAt);
+
+  return rankSnapshotCandidates(candidates)
+    .map((candidate, rankIndex) => {
+      const record = toPublicOpportunityRecord(candidate);
+      const key = getPublicOpportunityKey(record);
+      const memory = publicationMemory.get(key);
+      const lastPublishedAt = memory?.lastPublishedAt || "";
+      const lastPublishedDate = getPublicationDateKey(lastPublishedAt);
+      const publishedToday = Boolean(lastPublishedDate && lastPublishedDate === todayKey);
+      const dailySeed = parseInt(hashString(`${todayKey}|${key || rankIndex}`).slice(1), 16);
+
+      return {
+        candidate,
+        key,
+        rankIndex,
+        publishedToday,
+        publishCount: Number(memory?.publishCount || 0),
+        lastPublishedAt,
+        lastPublishedTimestamp: getSafeTimestamp(lastPublishedAt),
+        dailySeed: Number.isFinite(dailySeed) ? dailySeed : rankIndex,
+      };
+    })
+    .sort((a, b) => {
+      if (a.publishedToday !== b.publishedToday) {
+        return a.publishedToday ? 1 : -1;
+      }
+      if (a.publishCount !== b.publishCount) {
+        return a.publishCount - b.publishCount;
+      }
+      if (a.lastPublishedTimestamp !== b.lastPublishedTimestamp) {
+        return a.lastPublishedTimestamp - b.lastPublishedTimestamp;
+      }
+      if (a.dailySeed !== b.dailySeed) {
+        return a.dailySeed - b.dailySeed;
+      }
+      return a.rankIndex - b.rankIndex;
+    })
+    .map((item) => item.candidate);
+}
+
+function buildPublicSnapshot(candidates, historyFilePath, previousSnapshot) {
   const updatedAt = new Date().toISOString();
   if (!Array.isArray(candidates) || !candidates.length) {
     return {
@@ -650,7 +781,12 @@ function buildPublicSnapshot(candidates) {
     };
   }
 
-  const ranked = rankSnapshotCandidates(candidates);
+  const ranked = orderCandidatesForDailyPublication(
+    candidates,
+    historyFilePath,
+    previousSnapshot,
+    updatedAt
+  );
   const selected = [];
   const usedIds = new Set();
   const selectedByRegion = {};
@@ -742,13 +878,22 @@ function buildPublicSnapshot(candidates) {
   };
 }
 
-function buildPublicHistory(candidates, historyFilePath) {
+function buildPublicHistory(candidates, historyFilePath, currentSnapshot, previousSnapshot) {
   const updatedAt = new Date().toISOString();
   const previousHistory = readPublicOpportunityHistory(historyFilePath);
   const previousRecords = Array.isArray(previousHistory?.opportunities)
     ? previousHistory.opportunities
     : [];
+  const currentRecords = Array.isArray(currentSnapshot?.opportunities)
+    ? currentSnapshot.opportunities
+    : [];
+  const previousSnapshotRecords = Array.isArray(previousSnapshot?.opportunities)
+    ? previousSnapshot.opportunities
+    : [];
   const merged = new Map();
+  const currentPublishedKeys = new Set(
+    currentRecords.map(getPublicOpportunityKey).filter(Boolean)
+  );
 
   for (const record of previousRecords) {
     const key = getPublicOpportunityKey(record);
@@ -762,11 +907,11 @@ function buildPublicHistory(candidates, historyFilePath) {
       firstSeenAt: record.firstSeenAt || record.lastSeenAt || record.updatedAt || updatedAt,
       lastSeenAt: record.lastSeenAt || record.updatedAt || updatedAt,
       lastPublishedAt: record.lastPublishedAt || record.lastSeenAt || record.updatedAt || updatedAt,
+      publishCount: Number(record.publishCount || 0),
       isArchived: record.isArchived !== undefined ? Boolean(record.isArchived) : true,
     });
   }
 
-  const currentKeys = new Set();
   const ranked = rankSnapshotCandidates(candidates);
 
   for (const candidate of ranked) {
@@ -775,14 +920,57 @@ function buildPublicHistory(candidates, historyFilePath) {
     if (!key) {
       continue;
     }
-    currentKeys.add(key);
     const previousRecord = merged.get(key);
     merged.set(key, {
       ...previousRecord,
       ...record,
       firstSeenAt: previousRecord?.firstSeenAt || updatedAt,
       lastSeenAt: updatedAt,
+      lastPublishedAt: previousRecord?.lastPublishedAt || null,
+      publishCount: Number(previousRecord?.publishCount || 0),
+      isArchived: true,
+    });
+  }
+
+  for (const record of previousSnapshotRecords) {
+    const key = getPublicOpportunityKey(record);
+    if (!key) {
+      continue;
+    }
+    const previousRecord = merged.get(key);
+    const snapshotPublishedAt =
+      record.lastPublishedAt ||
+      previousSnapshot?.updatedAt ||
+      previousRecord?.lastPublishedAt ||
+      updatedAt;
+    merged.set(key, {
+      ...previousRecord,
+      ...record,
+      title: repairText(record.title),
+      source: repairText(record.source),
+      firstSeenAt: previousRecord?.firstSeenAt || record.firstSeenAt || snapshotPublishedAt,
+      lastSeenAt: previousRecord?.lastSeenAt || record.lastSeenAt || snapshotPublishedAt,
+      lastPublishedAt: previousRecord?.lastPublishedAt || snapshotPublishedAt,
+      publishCount: Math.max(Number(previousRecord?.publishCount || 0), 1),
+      isArchived: true,
+    });
+  }
+
+  for (const record of currentRecords) {
+    const key = getPublicOpportunityKey(record);
+    if (!key) {
+      continue;
+    }
+    const previousRecord = merged.get(key);
+    merged.set(key, {
+      ...previousRecord,
+      ...record,
+      title: repairText(record.title),
+      source: repairText(record.source),
+      firstSeenAt: previousRecord?.firstSeenAt || record.firstSeenAt || updatedAt,
+      lastSeenAt: updatedAt,
       lastPublishedAt: updatedAt,
+      publishCount: Number(previousRecord?.publishCount || 0) + 1,
       isArchived: false,
     });
   }
@@ -792,7 +980,7 @@ function buildPublicHistory(candidates, historyFilePath) {
       const key = getPublicOpportunityKey(record);
       return {
         ...record,
-        isArchived: !currentKeys.has(key),
+        isArchived: !currentPublishedKeys.has(key),
       };
     })
     .sort((a, b) => {
@@ -1622,20 +1810,26 @@ async function runAgentCycle(config, logger) {
     }
   }
 
-  const snapshotCandidates = evaluatedCandidates.length
-    ? evaluatedCandidates
-    : allCandidates.map((opportunity) => {
-        const filters = evaluateFilters(opportunity, config);
-        const matrix = evaluateMatrix(opportunity);
-        return {
-          opportunity,
-          evaluation: { filters, matrix },
-          viable: isViable(filters, matrix),
-        };
-      });
+  const snapshotCandidates = allCandidates.map((opportunity) => {
+    const filters = evaluateFilters(opportunity, config);
+    const matrix = evaluateMatrix(opportunity);
+    return {
+      opportunity,
+      evaluation: { filters, matrix },
+      viable: isViable(filters, matrix),
+    };
+  });
+
+  const previousPublicSnapshot = readPublicOpportunitySnapshot(config.publicOpportunityFile);
+  let publicSnapshot = null;
 
   try {
-    writePublicOpportunitySnapshot(config.publicOpportunityFile, buildPublicSnapshot(snapshotCandidates));
+    publicSnapshot = buildPublicSnapshot(
+      snapshotCandidates,
+      config.publicOpportunityHistoryFile,
+      previousPublicSnapshot
+    );
+    writePublicOpportunitySnapshot(config.publicOpportunityFile, publicSnapshot);
   } catch (error) {
     logger.warn("No se pudo actualizar el snapshot publico de oportunidades.", {
       file: config.publicOpportunityFile,
@@ -1646,7 +1840,12 @@ async function runAgentCycle(config, logger) {
   try {
     writePublicOpportunityHistory(
       config.publicOpportunityHistoryFile,
-      buildPublicHistory(snapshotCandidates, config.publicOpportunityHistoryFile)
+      buildPublicHistory(
+        snapshotCandidates,
+        config.publicOpportunityHistoryFile,
+        publicSnapshot,
+        previousPublicSnapshot
+      )
     );
   } catch (error) {
     logger.warn("No se pudo actualizar el historico publico de oportunidades.", {

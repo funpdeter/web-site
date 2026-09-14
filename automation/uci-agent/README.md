@@ -56,6 +56,7 @@ Copiar `.env.uci-agent.example` y ajustar valores reales:
   - `03_prompt_publicacion_bilingue.md`
 - Estado y deduplicacion: `automation/uci-agent/state/processed-opportunities.json`
 - Snapshot para web: `public/uci-opportunity.json` (consumido por la seccion Gestion-UCI con cobertura regional minima: USA + Europa + varias de Colombia, y un maximo de 10 oportunidades)
+- Historico para web: `public/uci-opportunity-history.json`. El panel recomendado rota diariamente con memoria de publicaciones anteriores; las oportunidades que salen del panel recomendado se marcan como archivadas y pasan al historico visible.
 
 ## Nota
 

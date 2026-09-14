@@ -62,7 +62,13 @@ const QuienesSomos: React.FC = () => {
               </p>
             </div>
             <div className="mission-card empty-info-card">
-              <img src="/CEO.webp" alt="Equipo FUNDETER" loading="lazy" decoding="async" />
+              <img
+                className="ceo-original-image"
+                src="/CEO_original2.jpg"
+                alt="Equipo FUNDETER"
+                loading="lazy"
+                decoding="async"
+              />
             </div>
           </div>
         </div>

@@ -121,6 +121,10 @@
   border-radius: 10px;
 }
 
+.empty-info-card img.ceo-original-image {
+  object-position: center 38%;
+}
+
 .empty-info-copy {
   font-family: 'Fundeter Arimo', Arial, sans-serif;
   font-weight: 700;
