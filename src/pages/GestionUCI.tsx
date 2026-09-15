@@ -258,17 +258,7 @@ const GestionUCI: React.FC = () => {
 
   const opportunities = useMemo(() => {
     if (liveOpportunities.length) {
-      const output: OpportunityCardData[] = liveOpportunities.slice();
-      if (!output.some((item) => normalizeRegion(item.region) === 'Colombia')) {
-        output.unshift(fallbackColombia);
-      }
-      if (!output.some((item) => normalizeRegion(item.region) === 'USA')) {
-        output.push(fallbackUSA);
-      }
-      if (!output.some((item) => normalizeRegion(item.region) === 'Europa')) {
-        output.push(fallbackEurope);
-      }
-      return output;
+      return liveOpportunities;
     }
 
     return [fallbackColombia, fallbackUSA, fallbackEurope];

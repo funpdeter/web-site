@@ -770,8 +770,32 @@ function orderCandidatesForDailyPublication(candidates, historyFilePath, previou
     .map((item) => item.candidate);
 }
 
+function shouldReuseSnapshotForPublicationDay(previousSnapshot, updatedAt) {
+  const previousOpportunities = Array.isArray(previousSnapshot?.opportunities)
+    ? previousSnapshot.opportunities
+    : [];
+  if (!previousOpportunities.length) {
+    return false;
+  }
+
+  const previousDateKey = getPublicationDateKey(previousSnapshot?.updatedAt);
+  const currentDateKey = getPublicationDateKey(updatedAt);
+  return Boolean(previousDateKey && currentDateKey && previousDateKey === currentDateKey);
+}
+
 function buildPublicSnapshot(candidates, historyFilePath, previousSnapshot) {
   const updatedAt = new Date().toISOString();
+  if (shouldReuseSnapshotForPublicationDay(previousSnapshot, updatedAt)) {
+    return {
+      ...previousSnapshot,
+      updatedAt,
+      reusedForPublicationDay: true,
+      message:
+        previousSnapshot.message ||
+        "Oportunidades conservadas para mantener estable el panel diario.",
+    };
+  }
+
   if (!Array.isArray(candidates) || !candidates.length) {
     return {
       hasOpportunities: false,
