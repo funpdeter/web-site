@@ -1075,6 +1075,12 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/566187-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "h539705b3": {
+      "at": "2026-09-15T01:38:24.437Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/index.php/taxonomy/term/2160",
+      "viable": false
     }
   },
   "scans": [
@@ -1137,6 +1143,14 @@
     {
       "startedAt": "2026-09-14T21:08:32.880Z",
       "endedAt": "2026-09-14T21:10:50.312Z",
+      "scannedCandidates": 7,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-15T01:38:20.082Z",
+      "endedAt": "2026-09-15T01:39:47.405Z",
       "scannedCandidates": 7,
       "viableCandidates": 0,
       "sentNotifications": 0,
