@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-09-15T01:39:47.404Z",
+  "updatedAt": "2026-09-15T02:19:17.464Z",
   "opportunities": [
     {
       "id": "he69c4641",
@@ -19,8 +19,8 @@
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastPublishedAt": null,
+      "lastSeenAt": "2026-09-15T02:19:17.464Z",
+      "lastPublishedAt": "2026-09-15T01:39:47.404Z",
       "publishCount": 0,
       "isArchived": true
     },
@@ -41,30 +41,8 @@
       "url": "https://www.grants.gov/search-results-detail/355100",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastPublishedAt": null,
-      "publishCount": 0,
-      "isArchived": true
-    },
-    {
-      "id": "h2188788e",
-      "sourceId": "ted-europa",
-      "title": "Poland – Construction works for power plants and heating plants – zaprojektowanie i wykonanie robót budowlanych dla zadania Budowa elektrociepłowni gazowej w oparciu o moduły silników gazowych do skojarzonego wytwarzania energii elektrycznej i ciepła w PEC Legionowo",
-      "source": "TED Europa",
-      "sourceTier": "internacional",
-      "region": "EUROPA",
-      "deadline": "2026-09-29T00:00:00.000Z",
-      "amount": null,
-      "currency": "",
-      "amountUsd": null,
-      "scoreTotal": 13,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/566187-2026",
-      "publicationNumber": "566187-2026",
-      "firstSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastPublishedAt": null,
+      "lastSeenAt": "2026-09-15T02:19:17.464Z",
+      "lastPublishedAt": "2026-09-15T01:39:47.404Z",
       "publishCount": 0,
       "isArchived": true
     },
@@ -85,9 +63,9 @@
       "url": "https://apccolombia.gov.co/seccion/modalidades-de-cooperacion",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastPublishedAt": "2026-09-15T01:39:47.404Z",
-      "publishCount": 2,
+      "lastSeenAt": "2026-09-15T02:19:17.464Z",
+      "lastPublishedAt": "2026-09-15T02:19:17.464Z",
+      "publishCount": 3,
       "isArchived": false
     },
     {
@@ -107,9 +85,9 @@
       "url": "https://www.grants.gov/search-results-detail/363468",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastPublishedAt": "2026-09-15T01:39:47.404Z",
-      "publishCount": 2,
+      "lastSeenAt": "2026-09-15T02:19:17.464Z",
+      "lastPublishedAt": "2026-09-15T02:19:17.464Z",
+      "publishCount": 3,
       "isArchived": false
     },
     {
@@ -129,9 +107,9 @@
       "url": "https://www.grants.gov/search-results-detail/363467",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastPublishedAt": "2026-09-15T01:39:47.404Z",
-      "publishCount": 2,
+      "lastSeenAt": "2026-09-15T02:19:17.464Z",
+      "lastPublishedAt": "2026-09-15T02:19:17.464Z",
+      "publishCount": 3,
       "isArchived": false
     },
     {
@@ -151,9 +129,9 @@
       "url": "https://www.grants.gov/search-results-detail/357554",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastPublishedAt": "2026-09-15T01:39:47.404Z",
-      "publishCount": 2,
+      "lastSeenAt": "2026-09-15T02:19:17.464Z",
+      "lastPublishedAt": "2026-09-15T02:19:17.464Z",
+      "publishCount": 3,
       "isArchived": false
     },
     {
@@ -173,9 +151,9 @@
       "url": "https://www.grants.gov/search-results-detail/361169",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastPublishedAt": "2026-09-15T01:39:47.404Z",
-      "publishCount": 2,
+      "lastSeenAt": "2026-09-15T02:19:17.464Z",
+      "lastPublishedAt": "2026-09-15T02:19:17.464Z",
+      "publishCount": 3,
       "isArchived": false
     },
     {
@@ -195,9 +173,9 @@
       "url": "https://www.grants.gov/search-results-detail/363466",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastPublishedAt": "2026-09-15T01:39:47.404Z",
-      "publishCount": 2,
+      "lastSeenAt": "2026-09-15T02:19:17.464Z",
+      "lastPublishedAt": "2026-09-15T02:19:17.464Z",
+      "publishCount": 3,
       "isArchived": false
     },
     {
@@ -217,9 +195,9 @@
       "url": "https://www.grants.gov/search-results-detail/362850",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastPublishedAt": "2026-09-15T01:39:47.404Z",
-      "publishCount": 2,
+      "lastSeenAt": "2026-09-15T02:19:17.464Z",
+      "lastPublishedAt": "2026-09-15T02:19:17.464Z",
+      "publishCount": 3,
       "isArchived": false
     },
     {
@@ -239,9 +217,9 @@
       "url": "https://www.grants.gov/search-results-detail/351715",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastPublishedAt": "2026-09-15T01:39:47.404Z",
-      "publishCount": 2,
+      "lastSeenAt": "2026-09-15T02:19:17.464Z",
+      "lastPublishedAt": "2026-09-15T02:19:17.464Z",
+      "publishCount": 3,
       "isArchived": false
     },
     {
@@ -261,9 +239,9 @@
       "url": "https://www.grants.gov/search-results-detail/344608",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastPublishedAt": "2026-09-15T01:39:47.404Z",
-      "publishCount": 2,
+      "lastSeenAt": "2026-09-15T02:19:17.464Z",
+      "lastPublishedAt": "2026-09-15T02:19:17.464Z",
+      "publishCount": 3,
       "isArchived": false
     },
     {
@@ -283,10 +261,32 @@
       "url": "https://www.grants.gov/search-results-detail/363752",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
+      "lastSeenAt": "2026-09-15T02:19:17.464Z",
+      "lastPublishedAt": "2026-09-15T02:19:17.464Z",
+      "publishCount": 3,
+      "isArchived": false
+    },
+    {
+      "id": "h2188788e",
+      "sourceId": "ted-europa",
+      "title": "Poland – Construction works for power plants and heating plants – zaprojektowanie i wykonanie robót budowlanych dla zadania Budowa elektrociepłowni gazowej w oparciu o moduły silników gazowych do skojarzonego wytwarzania energii elektrycznej i ciepła w PEC Legionowo",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-09-29T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/566187-2026",
+      "publicationNumber": "566187-2026",
+      "firstSeenAt": "2026-09-15T01:39:47.404Z",
       "lastSeenAt": "2026-09-15T01:39:47.404Z",
       "lastPublishedAt": "2026-09-15T01:39:47.404Z",
-      "publishCount": 2,
-      "isArchived": false
+      "publishCount": 0,
+      "isArchived": true
     }
   ],
   "message": "Historico acumulado del agente UCI-F. Total: 13 | Archivadas: 3"
