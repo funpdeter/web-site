@@ -1,24 +1,7 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-09-16T02:13:39.081Z",
+  "updatedAt": "2026-09-16T10:27:11.509Z",
   "opportunities": [
-    {
-      "id": "he69c4641",
-      "sourceId": "usaid",
-      "title": "Tribal Colleges and Universities Program (TCUP)",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-10-14T00:00:00.000Z",
-      "amount": 3500000,
-      "currency": "USD",
-      "amountUsd": 3500000,
-      "scoreTotal": 16,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://www.grants.gov/search-results-detail/334326",
-      "publicationNumber": null
-    },
     {
       "id": "h1ad458ac",
       "sourceId": "usaid",
@@ -37,9 +20,26 @@
       "publicationNumber": null
     },
     {
-      "id": "h5215eb0f",
+      "id": "he69c4641",
       "sourceId": "usaid",
-      "title": "Institute of Education Sciences (IES): National Center for Special Education Research (NCSER): Research Training Programs in Special Education, Assistance Listing Number (ALN) 84.324B",
+      "title": "Tribal Colleges and Universities Program (TCUP)",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-10-14T00:00:00.000Z",
+      "amount": 3500000,
+      "currency": "USD",
+      "amountUsd": 3500000,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://www.grants.gov/search-results-detail/334326",
+      "publicationNumber": null
+    },
+    {
+      "id": "h5115e97c",
+      "sourceId": "usaid",
+      "title": "Institute of Education Sciences (IES): National Center for Education Research (NCER): Research Training Programs in The Education Sciences, Assistance Listing Number (ALN) 84.305B",
       "source": "USAID",
       "sourceTier": "internacional",
       "region": "USA",
@@ -47,10 +47,10 @@
       "amount": null,
       "currency": "USD",
       "amountUsd": null,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
       "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/363467",
+      "url": "https://www.grants.gov/search-results-detail/363466",
       "publicationNumber": null
     },
     {
@@ -88,9 +88,9 @@
       "publicationNumber": null
     },
     {
-      "id": "h5115e97c",
+      "id": "h5215eb0f",
       "sourceId": "usaid",
-      "title": "Institute of Education Sciences (IES): National Center for Education Research (NCER): Research Training Programs in The Education Sciences, Assistance Listing Number (ALN) 84.305B",
+      "title": "Institute of Education Sciences (IES): National Center for Special Education Research (NCSER): Research Training Programs in Special Education, Assistance Listing Number (ALN) 84.324B",
       "source": "USAID",
       "sourceTier": "internacional",
       "region": "USA",
@@ -98,13 +98,12 @@
       "amount": null,
       "currency": "USD",
       "amountUsd": null,
-      "scoreTotal": 14,
-      "recommendation": "No aplicar",
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
       "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/363466",
+      "url": "https://www.grants.gov/search-results-detail/363467",
       "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 6 | EUROPA: 0",
-  "reusedForPublicationDay": true
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 6 | EUROPA: 0"
 }
