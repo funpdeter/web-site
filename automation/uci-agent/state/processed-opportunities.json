@@ -1087,6 +1087,12 @@
       "sourceId": "apc-colombia",
       "url": "https://www.apccolombia.gov.co/modalidades-de-cooperacion/convocatorias/otras-convocatorias/convocatoria-para-el-acompanamiento",
       "viable": false
+    },
+    "hfbb6d7f1": {
+      "at": "2026-09-17T10:36:13.937Z",
+      "sourceId": "apc-colombia",
+      "url": "https://apccolombia.gov.co/index.php/modalidades-de-cooperacion/convocatorias/otras-convocatorias/convocatoria-para-el-acompanamiento",
+      "viable": false
     }
   },
   "scans": [
@@ -1229,6 +1235,14 @@
     {
       "startedAt": "2026-09-17T02:15:07.431Z",
       "endedAt": "2026-09-17T02:16:01.012Z",
+      "scannedCandidates": 6,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-17T10:36:09.985Z",
+      "endedAt": "2026-09-17T10:37:12.829Z",
       "scannedCandidates": 6,
       "viableCandidates": 0,
       "sentNotifications": 0,
