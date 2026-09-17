@@ -1093,6 +1093,48 @@
       "sourceId": "apc-colombia",
       "url": "https://apccolombia.gov.co/index.php/modalidades-de-cooperacion/convocatorias/otras-convocatorias/convocatoria-para-el-acompanamiento",
       "viable": false
+    },
+    "he652315d": {
+      "at": "2026-09-17T20:43:23.408Z",
+      "sourceId": "europeaid",
+      "url": "https://european-union.europa.eu/live-work-study/funding-grants-subsidies_es",
+      "viable": false
+    },
+    "h1b61eb71": {
+      "at": "2026-09-17T20:43:26.342Z",
+      "sourceId": "bid-lab",
+      "url": "https://bidlab.org/es/noticias/bid-lab-y-el-bid-anuncian-los-resultados-de-su-convocatoria-en-economia-plateada",
+      "viable": false
+    },
+    "hedb0cc42": {
+      "at": "2026-09-17T20:43:26.625Z",
+      "sourceId": "bid-lab",
+      "url": "https://bidlab.org/es/noticias/convocatoria-de-bid-lab-para-reducir-discriminacion-de-genero-con-inteligencia-artificial",
+      "viable": false
+    },
+    "h2b54aa06": {
+      "at": "2026-09-17T20:43:28.964Z",
+      "sourceId": "caf",
+      "url": "https://www.caf.com/es/trabaja-con-nosotros/convocatorias/concurso-de-arquitectura-educativa/",
+      "viable": false
+    },
+    "hc1fc52c0": {
+      "at": "2026-09-17T20:43:28.972Z",
+      "sourceId": "caf",
+      "url": "https://www.caf.com/es/trabaja-con-nosotros/convocatorias/solicitud-de-informacion-sobre-consultoria-para-la-estructuracion-de-un-fondo-de-impacto-en-america-latina-y-el-caribe/",
+      "viable": false
+    },
+    "h434df0e2": {
+      "at": "2026-09-17T20:43:28.979Z",
+      "sourceId": "caf",
+      "url": "https://www.caf.com/es/trabaja-con-nosotros/convocatorias/convocatoria-sistematizacion-y-analisis-de-las-actuaciones-de-caf-en-el-sector-educativo-y-desarrollo-de-herramientas-para-su-aplicacion-en-proyectos/",
+      "viable": false
+    },
+    "h6d19add5": {
+      "at": "2026-09-17T20:43:28.988Z",
+      "sourceId": "caf",
+      "url": "https://www.caf.com/es/trabaja-con-nosotros/convocatorias/solicitud-de-propuestas-consultoria-para-el-fortalecimiento-de-la-gobernanza-de-la-alianza-iberoamerica-500plus/",
+      "viable": false
     }
   },
   "scans": [
@@ -1251,6 +1293,14 @@
     {
       "startedAt": "2026-09-17T15:49:35.862Z",
       "endedAt": "2026-09-17T15:50:38.856Z",
+      "scannedCandidates": 6,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-17T20:42:18.723Z",
+      "endedAt": "2026-09-17T20:43:42.060Z",
       "scannedCandidates": 6,
       "viableCandidates": 0,
       "sentNotifications": 0,
