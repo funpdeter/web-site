@@ -1313,6 +1313,14 @@
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-18T10:12:11.191Z",
+      "endedAt": "2026-09-18T10:13:01.336Z",
+      "scannedCandidates": 6,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
     }
   ]
 }
