@@ -1135,6 +1135,155 @@
       "sourceId": "caf",
       "url": "https://www.caf.com/es/trabaja-con-nosotros/convocatorias/solicitud-de-propuestas-consultoria-para-el-fortalecimiento-de-la-gobernanza-de-la-alianza-iberoamerica-500plus/",
       "viable": false
+    },
+    "h8b78ba8a": {
+      "at": "2026-09-19T02:06:30.821Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-propertyvalue-133112.html",
+      "viable": false
+    },
+    "h468a6b30": {
+      "at": "2026-09-19T02:06:33.325Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-propertyvalue-111099.html",
+      "viable": false
+    },
+    "hbd0c31b": {
+      "at": "2026-09-19T02:06:34.116Z",
+      "sourceId": "mintic",
+      "url": "https://gestiondelconocimiento.mintic.gov.co/714/w3-article-326747.html",
+      "viable": false
+    },
+    "h6b44d4ca": {
+      "at": "2026-09-19T02:06:35.119Z",
+      "sourceId": "mintic",
+      "url": "https://gobiernodigital.mintic.gov.co/692/articles-107167_recurso_1.pdf",
+      "viable": false
+    },
+    "hef092fd0": {
+      "at": "2026-09-19T02:06:36.844Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-article-437041.html",
+      "viable": false
+    },
+    "hc967978f": {
+      "at": "2026-09-19T02:06:38.435Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-article-382083.html",
+      "viable": false
+    },
+    "hf2bc90bd": {
+      "at": "2026-09-19T02:06:39.710Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-article-437523.html",
+      "viable": false
+    },
+    "hfed3568": {
+      "at": "2026-09-19T02:06:41.164Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-article-400339.html",
+      "viable": false
+    },
+    "ha939ef30": {
+      "at": "2026-09-19T02:08:24.479Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10881820",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h8774dbe4": {
+      "at": "2026-09-19T02:08:24.493Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10863019",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-19T02-08-24-479Z_secop-ii_adquisicion-de-un-vehiculo-de-segunda-respuesta-ti"
+    },
+    "h25fc7da4": {
+      "at": "2026-09-19T02:08:24.494Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10901401",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-19T02-08-24-493Z_secop-ii_suministro-de-materiales-de-ferreteria-para-la-ade"
+    },
+    "h69ea7d14": {
+      "at": "2026-09-19T02:08:24.495Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10911930",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-19T02-08-24-494Z_secop-ii_ferias-2026-palmar"
+    },
+    "h550cb44a": {
+      "at": "2026-09-19T02:08:24.496Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10876147",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-19T02-08-24-495Z_secop-ii_iccu-lp-052-2026-fase-de-seleccion-presentacion-de"
+    },
+    "h9ed97b9c": {
+      "at": "2026-09-19T02:08:24.496Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10909214",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-19T02-08-24-496Z_secop-ii_servicio-de-transporte-para-las-actividades-de-sen"
+    },
+    "h62020797": {
+      "at": "2026-09-19T02:08:24.497Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10911496",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-19T02-08-24-496Z_secop-ii_sasi-001-2026-presentacion-de-oferta"
+    },
+    "h2ee2c01b": {
+      "at": "2026-09-19T02:08:24.497Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10905233",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h5897fadd": {
+      "at": "2026-09-19T02:08:24.498Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10878614",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-19T02-08-24-497Z_secop-ii_prestacion-de-servicios-especializados-bajo-esquem"
+    },
+    "hce6046d5": {
+      "at": "2026-09-19T02:08:24.498Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10869964",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h7ebbe294": {
+      "at": "2026-09-19T02:08:24.498Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10872703",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-19T02-08-24-498Z_secop-ii_dotacion"
+    },
+    "h8b436c52": {
+      "at": "2026-09-19T02:08:24.499Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10883565",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-19T02-08-24-499Z_secop-ii_bs-64-contratar-el-suministro-transporte-y-entrega"
+    },
+    "haaa4c187": {
+      "at": "2026-09-19T02:08:24.500Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10866512",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-19T02-08-24-499Z_secop-ii_seleccion-abreviada-de-menor-cuantia"
     }
   },
   "scans": [
@@ -1335,6 +1484,14 @@
       "endedAt": "2026-09-18T20:07:59.491Z",
       "scannedCandidates": 6,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-19T02:06:07.981Z",
+      "endedAt": "2026-09-19T02:08:24.510Z",
+      "scannedCandidates": 22,
+      "viableCandidates": 10,
       "sentNotifications": 0,
       "transport": "console"
     }
