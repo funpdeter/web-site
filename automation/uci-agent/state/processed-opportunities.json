@@ -1284,6 +1284,12 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-19T02-08-24-499Z_secop-ii_seleccion-abreviada-de-menor-cuantia"
+    },
+    "he6bd7da8": {
+      "at": "2026-09-19T19:44:09.248Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/sites/default/files/2026-09/TDR_Convocatoria_Fundraising_APC_2026.pdf",
+      "viable": false
     }
   },
   "scans": [
@@ -1506,6 +1512,14 @@
     {
       "startedAt": "2026-09-19T14:59:18.909Z",
       "endedAt": "2026-09-19T15:01:44.980Z",
+      "scannedCandidates": 22,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-19T19:44:06.267Z",
+      "endedAt": "2026-09-19T19:45:59.899Z",
       "scannedCandidates": 22,
       "viableCandidates": 0,
       "sentNotifications": 0,
