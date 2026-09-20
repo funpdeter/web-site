@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-09-20T02:12:35.963Z",
+  "updatedAt": "2026-09-20T10:15:57.967Z",
   "opportunities": [
     {
       "id": "h6143ebb6",
@@ -19,10 +19,10 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10869074",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-20T02:12:35.963Z",
-      "lastSeenAt": "2026-09-20T02:12:35.963Z",
-      "lastPublishedAt": null,
-      "publishCount": 0,
-      "isArchived": true
+      "lastSeenAt": "2026-09-20T10:15:57.967Z",
+      "lastPublishedAt": "2026-09-20T10:15:57.967Z",
+      "publishCount": 1,
+      "isArchived": false
     },
     {
       "id": "h3fc3feb3",
@@ -41,10 +41,10 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10711703",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-20T02:12:35.963Z",
-      "lastSeenAt": "2026-09-20T02:12:35.963Z",
-      "lastPublishedAt": null,
-      "publishCount": 0,
-      "isArchived": true
+      "lastSeenAt": "2026-09-20T10:15:57.967Z",
+      "lastPublishedAt": "2026-09-20T10:15:57.967Z",
+      "publishCount": 1,
+      "isArchived": false
     },
     {
       "id": "h8185dce0",
@@ -63,10 +63,10 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10884752",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-20T02:12:35.963Z",
-      "lastSeenAt": "2026-09-20T02:12:35.963Z",
-      "lastPublishedAt": null,
-      "publishCount": 0,
-      "isArchived": true
+      "lastSeenAt": "2026-09-20T10:15:57.967Z",
+      "lastPublishedAt": "2026-09-20T10:15:57.967Z",
+      "publishCount": 1,
+      "isArchived": false
     },
     {
       "id": "h1be371b7",
@@ -85,10 +85,10 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10894028",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-20T02:12:35.963Z",
-      "lastSeenAt": "2026-09-20T02:12:35.963Z",
-      "lastPublishedAt": null,
-      "publishCount": 0,
-      "isArchived": true
+      "lastSeenAt": "2026-09-20T10:15:57.967Z",
+      "lastPublishedAt": "2026-09-20T10:15:57.967Z",
+      "publishCount": 1,
+      "isArchived": false
     },
     {
       "id": "h69a89eae",
@@ -107,10 +107,10 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10889692",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-20T02:12:35.963Z",
-      "lastSeenAt": "2026-09-20T02:12:35.963Z",
-      "lastPublishedAt": null,
-      "publishCount": 0,
-      "isArchived": true
+      "lastSeenAt": "2026-09-20T10:15:57.967Z",
+      "lastPublishedAt": "2026-09-20T10:15:57.967Z",
+      "publishCount": 1,
+      "isArchived": false
     },
     {
       "id": "h713cc227",
@@ -129,10 +129,10 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10917431",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-20T02:12:35.963Z",
-      "lastSeenAt": "2026-09-20T02:12:35.963Z",
-      "lastPublishedAt": null,
-      "publishCount": 0,
-      "isArchived": true
+      "lastSeenAt": "2026-09-20T10:15:57.967Z",
+      "lastPublishedAt": "2026-09-20T10:15:57.967Z",
+      "publishCount": 1,
+      "isArchived": false
     },
     {
       "id": "hec07a71c",
@@ -151,32 +151,10 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10886017",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-20T02:12:35.963Z",
-      "lastSeenAt": "2026-09-20T02:12:35.963Z",
-      "lastPublishedAt": null,
-      "publishCount": 0,
-      "isArchived": true
-    },
-    {
-      "id": "h6049715d",
-      "sourceId": "ted-europa",
-      "title": "Poland – Natural gas – WYKONANIE KOMPLEKSOWEJ DOSTAWY GAZU ZIEMNEGO WYSOKOMETANOWEGO TYPU E NA POTRZEBY MIASTA TOMASZÓW LUBELSKI",
-      "source": "TED Europa",
-      "sourceTier": "internacional",
-      "region": "EUROPA",
-      "deadline": "2026-09-23T00:00:00.000Z",
-      "amount": null,
-      "currency": "",
-      "amountUsd": null,
-      "scoreTotal": 13,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/578240-2026",
-      "publicationNumber": "578240-2026",
-      "firstSeenAt": "2026-09-20T02:12:35.963Z",
-      "lastSeenAt": "2026-09-20T02:12:35.963Z",
-      "lastPublishedAt": null,
-      "publishCount": 0,
-      "isArchived": true
+      "lastSeenAt": "2026-09-20T10:15:57.967Z",
+      "lastPublishedAt": "2026-09-20T10:15:57.967Z",
+      "publishCount": 1,
+      "isArchived": false
     },
     {
       "id": "h51eb0c3c",
@@ -195,53 +173,9 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10878614",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-19T02:08:24.509Z",
-      "lastSeenAt": "2026-09-20T02:12:35.963Z",
-      "lastPublishedAt": "2026-09-20T02:12:35.963Z",
-      "publishCount": 4,
-      "isArchived": false
-    },
-    {
-      "id": "h4d8c119e",
-      "sourceId": "secop-ii",
-      "title": "SELECCION ABREVIADA DE MENOR CUANTIA",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-09-21T00:00:00.000Z",
-      "amount": 49999772,
-      "currency": "COP",
-      "amountUsd": 12499.943,
-      "scoreTotal": 16,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10866512",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-09-19T02:08:24.509Z",
-      "lastSeenAt": "2026-09-20T02:12:35.963Z",
-      "lastPublishedAt": "2026-09-20T02:12:35.963Z",
-      "publishCount": 4,
-      "isArchived": false
-    },
-    {
-      "id": "hdbb36ced",
-      "sourceId": "secop-ii",
-      "title": "SERVICIO DE TRANSPORTE PARA LAS ACTIVIDADES DE SENSIBILIZACIÓN Y ACERCAMIENTO A LA COMUNIDAD",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-09-21T00:00:00.000Z",
-      "amount": 36000000,
-      "currency": "COP",
-      "amountUsd": 9000,
-      "scoreTotal": 16,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10909214",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-09-19T02:08:24.509Z",
-      "lastSeenAt": "2026-09-20T02:12:35.963Z",
-      "lastPublishedAt": "2026-09-20T02:12:35.963Z",
-      "publishCount": 4,
+      "lastSeenAt": "2026-09-20T10:15:57.967Z",
+      "lastPublishedAt": "2026-09-20T10:15:57.967Z",
+      "publishCount": 5,
       "isArchived": false
     },
     {
@@ -261,10 +195,10 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10876147",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-19T02:08:24.509Z",
-      "lastSeenAt": "2026-09-20T02:12:35.963Z",
+      "lastSeenAt": "2026-09-20T10:15:57.967Z",
       "lastPublishedAt": "2026-09-20T02:12:35.963Z",
       "publishCount": 4,
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h6bca5dc9",
@@ -283,10 +217,10 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10863019",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-19T02:08:24.509Z",
-      "lastSeenAt": "2026-09-20T02:12:35.963Z",
+      "lastSeenAt": "2026-09-20T10:15:57.967Z",
       "lastPublishedAt": "2026-09-20T02:12:35.963Z",
       "publishCount": 4,
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h1097de19",
@@ -305,10 +239,10 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10911930",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-19T02:08:24.509Z",
-      "lastSeenAt": "2026-09-20T02:12:35.963Z",
+      "lastSeenAt": "2026-09-20T10:15:57.967Z",
       "lastPublishedAt": "2026-09-20T02:12:35.963Z",
       "publishCount": 8,
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h5f7ba607",
@@ -327,32 +261,10 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10883565",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-19T02:08:24.509Z",
-      "lastSeenAt": "2026-09-20T02:12:35.963Z",
+      "lastSeenAt": "2026-09-20T10:15:57.967Z",
       "lastPublishedAt": "2026-09-20T02:12:35.963Z",
       "publishCount": 4,
-      "isArchived": false
-    },
-    {
-      "id": "ha73e12e5",
-      "sourceId": "secop-ii",
-      "title": "SUMINISTRO DE MATERIALES DE FERRETERIA PARA LA ADECUACION DE LA CASETA COMUNAL EN LAS VEREDAS LLANO VERDE; MIRAVALLE; MUNDO NUEVO Y EL OASIS DEL MUNICIPIO VALLE DEL GUAMUEZ PUTUMAYO",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-09-21T00:00:00.000Z",
-      "amount": 45948567,
-      "currency": "COP",
-      "amountUsd": 11487.14175,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10901401",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-09-19T02:08:24.509Z",
-      "lastSeenAt": "2026-09-20T02:12:35.963Z",
-      "lastPublishedAt": "2026-09-20T02:12:35.963Z",
-      "publishCount": 4,
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd79f36d0",
@@ -371,10 +283,10 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10869964",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-19T02:08:24.509Z",
-      "lastSeenAt": "2026-09-20T02:12:35.963Z",
-      "lastPublishedAt": "2026-09-19T02:08:24.509Z",
-      "publishCount": 0,
-      "isArchived": true
+      "lastSeenAt": "2026-09-20T10:15:57.967Z",
+      "lastPublishedAt": "2026-09-20T10:15:57.967Z",
+      "publishCount": 1,
+      "isArchived": false
     },
     {
       "id": "he69c4641",
@@ -393,10 +305,10 @@
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastSeenAt": "2026-09-20T02:12:35.963Z",
+      "lastSeenAt": "2026-09-20T10:15:57.967Z",
       "lastPublishedAt": "2026-09-20T02:12:35.963Z",
       "publishCount": 20,
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h1ad458ac",
@@ -415,10 +327,10 @@
       "url": "https://www.grants.gov/search-results-detail/355100",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastSeenAt": "2026-09-20T02:12:35.963Z",
-      "lastPublishedAt": "2026-09-19T02:08:24.509Z",
-      "publishCount": 16,
-      "isArchived": true
+      "lastSeenAt": "2026-09-20T10:15:57.967Z",
+      "lastPublishedAt": "2026-09-20T10:15:57.967Z",
+      "publishCount": 17,
+      "isArchived": false
     },
     {
       "id": "h5715f2ee",
@@ -437,7 +349,7 @@
       "url": "https://www.grants.gov/search-results-detail/363468",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-09-20T02:12:35.963Z",
+      "lastSeenAt": "2026-09-20T10:15:57.967Z",
       "lastPublishedAt": "2026-09-19T02:08:24.509Z",
       "publishCount": 19,
       "isArchived": true
@@ -459,7 +371,7 @@
       "url": "https://www.grants.gov/search-results-detail/363467",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-09-20T02:12:35.963Z",
+      "lastSeenAt": "2026-09-20T10:15:57.967Z",
       "lastPublishedAt": "2026-09-19T02:08:24.509Z",
       "publishCount": 19,
       "isArchived": true
@@ -481,7 +393,7 @@
       "url": "https://www.grants.gov/search-results-detail/363466",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-09-20T02:12:35.963Z",
+      "lastSeenAt": "2026-09-20T10:15:57.967Z",
       "lastPublishedAt": "2026-09-19T02:08:24.509Z",
       "publishCount": 19,
       "isArchived": true
@@ -503,9 +415,97 @@
       "url": "https://www.grants.gov/search-results-detail/362850",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-09-20T02:12:35.963Z",
+      "lastSeenAt": "2026-09-20T10:15:57.967Z",
       "lastPublishedAt": "2026-09-19T02:08:24.509Z",
       "publishCount": 19,
+      "isArchived": true
+    },
+    {
+      "id": "h6049715d",
+      "sourceId": "ted-europa",
+      "title": "Poland – Natural gas – WYKONANIE KOMPLEKSOWEJ DOSTAWY GAZU ZIEMNEGO WYSOKOMETANOWEGO TYPU E NA POTRZEBY MIASTA TOMASZÓW LUBELSKI",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-09-23T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/578240-2026",
+      "publicationNumber": "578240-2026",
+      "firstSeenAt": "2026-09-20T02:12:35.963Z",
+      "lastSeenAt": "2026-09-20T02:12:35.963Z",
+      "lastPublishedAt": "2026-09-20T02:12:35.963Z",
+      "publishCount": 0,
+      "isArchived": true
+    },
+    {
+      "id": "h4d8c119e",
+      "sourceId": "secop-ii",
+      "title": "SELECCION ABREVIADA DE MENOR CUANTIA",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-09-21T00:00:00.000Z",
+      "amount": 49999772,
+      "currency": "COP",
+      "amountUsd": 12499.943,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10866512",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-09-19T02:08:24.509Z",
+      "lastSeenAt": "2026-09-20T02:12:35.963Z",
+      "lastPublishedAt": "2026-09-20T02:12:35.963Z",
+      "publishCount": 4,
+      "isArchived": true
+    },
+    {
+      "id": "hdbb36ced",
+      "sourceId": "secop-ii",
+      "title": "SERVICIO DE TRANSPORTE PARA LAS ACTIVIDADES DE SENSIBILIZACIÓN Y ACERCAMIENTO A LA COMUNIDAD",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-09-21T00:00:00.000Z",
+      "amount": 36000000,
+      "currency": "COP",
+      "amountUsd": 9000,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10909214",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-09-19T02:08:24.509Z",
+      "lastSeenAt": "2026-09-20T02:12:35.963Z",
+      "lastPublishedAt": "2026-09-20T02:12:35.963Z",
+      "publishCount": 4,
+      "isArchived": true
+    },
+    {
+      "id": "ha73e12e5",
+      "sourceId": "secop-ii",
+      "title": "SUMINISTRO DE MATERIALES DE FERRETERIA PARA LA ADECUACION DE LA CASETA COMUNAL EN LAS VEREDAS LLANO VERDE; MIRAVALLE; MUNDO NUEVO Y EL OASIS DEL MUNICIPIO VALLE DEL GUAMUEZ PUTUMAYO",
+      "source": "SECOP II",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-09-21T00:00:00.000Z",
+      "amount": 45948567,
+      "currency": "COP",
+      "amountUsd": 11487.14175,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10901401",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-09-19T02:08:24.509Z",
+      "lastSeenAt": "2026-09-20T02:12:35.963Z",
+      "lastPublishedAt": "2026-09-20T02:12:35.963Z",
+      "publishCount": 4,
       "isArchived": true
     },
     {
@@ -751,5 +751,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 34 | Archivadas: 25"
+  "message": "Historico acumulado del agente UCI-F. Total: 34 | Archivadas: 24"
 }
