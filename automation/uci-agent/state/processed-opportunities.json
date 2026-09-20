@@ -1290,6 +1290,84 @@
       "sourceId": "apc-colombia",
       "url": "https://www.apccolombia.gov.co/sites/default/files/2026-09/TDR_Convocatoria_Fundraising_APC_2026.pdf",
       "viable": false
+    },
+    "h41642cc6": {
+      "at": "2026-09-20T02:11:21.990Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/atencion-y-servicios-la-ciudadania/preguntas-frecuentes",
+      "viable": false
+    },
+    "h3681c28a": {
+      "at": "2026-09-20T02:11:22.242Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/sites/default/files/2026-04/TriNova_Guia%20para%20la%20Convocatoria%202026.pdf",
+      "viable": false
+    },
+    "h3f9dfe2c": {
+      "at": "2026-09-20T02:11:22.749Z",
+      "sourceId": "apc-colombia",
+      "url": "https://apccolombia.gov.co/sites/default/files/2026-05/PREGUNTAS%20FRECUENTES_Convocatoria_AECID_2026.pdf",
+      "viable": false
+    },
+    "h45ba20e2": {
+      "at": "2026-09-20T02:12:35.947Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10917431",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h364af919": {
+      "at": "2026-09-20T02:12:35.956Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10884752",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-20T02-12-35-947Z_secop-ii_suministro-de-mancornas-pisacorbatas-corbatas-corb"
+    },
+    "hd5a74011": {
+      "at": "2026-09-20T02:12:35.956Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10886017",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "ha6d9e906": {
+      "at": "2026-09-20T02:12:35.957Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10894028",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-20T02-12-35-956Z_secop-ii_aunar-esfuerzos-institucionales-tecnicos-operativo"
+    },
+    "h7600ddbf": {
+      "at": "2026-09-20T02:12:35.957Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10869074",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-20T02-12-35-957Z_secop-ii_fiducia-publica-pago-por-resultados-buena-paga-pre"
+    },
+    "h62976abb": {
+      "at": "2026-09-20T02:12:35.957Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10889692",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h49866c2a": {
+      "at": "2026-09-20T02:12:35.958Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10711703",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-20T02-12-35-957Z_secop-ii_construccion-del-salon-comunal-en-el-barrio-villa-"
+    },
+    "hb41b934": {
+      "at": "2026-09-20T02:12:35.958Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/578240-2026",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
@@ -1522,6 +1600,14 @@
       "endedAt": "2026-09-19T19:45:59.899Z",
       "scannedCandidates": 22,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-20T02:11:18.144Z",
+      "endedAt": "2026-09-20T02:12:35.964Z",
+      "scannedCandidates": 23,
+      "viableCandidates": 4,
       "sentNotifications": 0,
       "transport": "console"
     }
