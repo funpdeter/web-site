@@ -1387,17 +1387,15 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/581288-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "h4ebadc1d": {
+      "at": "2026-09-21T17:22:22.010Z",
+      "sourceId": "gef-small-grants",
+      "url": "https://sgp.undp.org/resources-155/our-stories/836-from-local-action-to-the-global-stage-the-gef-small-grants-program-at-unccd-cop17.html",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-09-14T20:32:55.452Z",
-      "endedAt": "2026-09-14T20:37:26.462Z",
-      "scannedCandidates": 12,
-      "viableCandidates": 1,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-09-14T20:41:22.572Z",
       "endedAt": "2026-09-14T20:42:45.715Z",
@@ -1626,6 +1624,14 @@
       "startedAt": "2026-09-21T11:20:44.570Z",
       "endedAt": "2026-09-21T11:22:03.273Z",
       "scannedCandidates": 6,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-21T17:20:56.575Z",
+      "endedAt": "2026-09-21T17:22:35.524Z",
+      "scannedCandidates": 7,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"

@@ -1,7 +1,29 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-09-21T11:22:03.272Z",
+  "updatedAt": "2026-09-21T17:22:35.523Z",
   "opportunities": [
+    {
+      "id": "h470cde89",
+      "sourceId": "ted-europa",
+      "title": "Poland – Pharmaceutical products – Dostawa leków",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-09-28T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/581288-2026",
+      "publicationNumber": "581288-2026",
+      "firstSeenAt": "2026-09-21T02:13:35.334Z",
+      "lastSeenAt": "2026-09-21T17:22:35.523Z",
+      "lastPublishedAt": "2026-09-21T02:13:35.334Z",
+      "publishCount": 0,
+      "isArchived": true
+    },
     {
       "id": "he69c4641",
       "sourceId": "usaid",
@@ -19,9 +41,9 @@
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastSeenAt": "2026-09-21T11:22:03.272Z",
-      "lastPublishedAt": "2026-09-21T11:22:03.272Z",
-      "publishCount": 21,
+      "lastSeenAt": "2026-09-21T17:22:35.523Z",
+      "lastPublishedAt": "2026-09-21T17:22:35.523Z",
+      "publishCount": 22,
       "isArchived": false
     },
     {
@@ -41,9 +63,9 @@
       "url": "https://www.grants.gov/search-results-detail/355100",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastSeenAt": "2026-09-21T11:22:03.272Z",
-      "lastPublishedAt": "2026-09-21T11:22:03.272Z",
-      "publishCount": 21,
+      "lastSeenAt": "2026-09-21T17:22:35.523Z",
+      "lastPublishedAt": "2026-09-21T17:22:35.523Z",
+      "publishCount": 22,
       "isArchived": false
     },
     {
@@ -63,9 +85,9 @@
       "url": "https://www.grants.gov/search-results-detail/363468",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-09-21T11:22:03.272Z",
-      "lastPublishedAt": "2026-09-21T11:22:03.272Z",
-      "publishCount": 20,
+      "lastSeenAt": "2026-09-21T17:22:35.523Z",
+      "lastPublishedAt": "2026-09-21T17:22:35.523Z",
+      "publishCount": 21,
       "isArchived": false
     },
     {
@@ -85,9 +107,9 @@
       "url": "https://www.grants.gov/search-results-detail/363467",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-09-21T11:22:03.272Z",
-      "lastPublishedAt": "2026-09-21T11:22:03.272Z",
-      "publishCount": 20,
+      "lastSeenAt": "2026-09-21T17:22:35.523Z",
+      "lastPublishedAt": "2026-09-21T17:22:35.523Z",
+      "publishCount": 21,
       "isArchived": false
     },
     {
@@ -107,9 +129,9 @@
       "url": "https://www.grants.gov/search-results-detail/363466",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-09-21T11:22:03.272Z",
-      "lastPublishedAt": "2026-09-21T11:22:03.272Z",
-      "publishCount": 20,
+      "lastSeenAt": "2026-09-21T17:22:35.523Z",
+      "lastPublishedAt": "2026-09-21T17:22:35.523Z",
+      "publishCount": 21,
       "isArchived": false
     },
     {
@@ -129,32 +151,10 @@
       "url": "https://www.grants.gov/search-results-detail/362850",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-09-21T11:22:03.272Z",
-      "lastPublishedAt": "2026-09-21T11:22:03.272Z",
-      "publishCount": 20,
+      "lastSeenAt": "2026-09-21T17:22:35.523Z",
+      "lastPublishedAt": "2026-09-21T17:22:35.523Z",
+      "publishCount": 21,
       "isArchived": false
-    },
-    {
-      "id": "h470cde89",
-      "sourceId": "ted-europa",
-      "title": "Poland – Pharmaceutical products – Dostawa leków",
-      "source": "TED Europa",
-      "sourceTier": "internacional",
-      "region": "EUROPA",
-      "deadline": "2026-09-28T00:00:00.000Z",
-      "amount": null,
-      "currency": "",
-      "amountUsd": null,
-      "scoreTotal": 13,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/581288-2026",
-      "publicationNumber": "581288-2026",
-      "firstSeenAt": "2026-09-21T02:13:35.334Z",
-      "lastSeenAt": "2026-09-21T02:13:35.334Z",
-      "lastPublishedAt": "2026-09-21T02:13:35.334Z",
-      "publishCount": 0,
-      "isArchived": true
     },
     {
       "id": "h6143ebb6",
