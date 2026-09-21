@@ -1368,17 +1368,28 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/578240-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "h704b1914": {
+      "at": "2026-09-21T02:11:44.183Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/",
+      "viable": false
+    },
+    "hb94d76b6": {
+      "at": "2026-09-21T02:11:44.538Z",
+      "sourceId": "apc-colombia",
+      "url": "https://apccolombia.gov.co/sites/default/files/2024-06/Matriz%20Registro%20de%20Convocatorias_V.20.06.2024.pdf",
+      "viable": false
+    },
+    "h72fd9c94": {
+      "at": "2026-09-21T02:13:35.318Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/581288-2026",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-06-19T14:40:15.109Z",
-      "endedAt": "2026-06-19T14:41:07.402Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-06-19T19:24:13.902Z",
       "endedAt": "2026-06-19T19:25:33.156Z",
@@ -1607,6 +1618,14 @@
       "startedAt": "2026-09-20T19:55:44.836Z",
       "endedAt": "2026-09-20T19:57:30.852Z",
       "scannedCandidates": 23,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-21T02:11:39.948Z",
+      "endedAt": "2026-09-21T02:13:35.336Z",
+      "scannedCandidates": 7,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
