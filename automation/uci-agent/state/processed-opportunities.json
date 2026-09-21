@@ -1393,17 +1393,15 @@
       "sourceId": "gef-small-grants",
       "url": "https://sgp.undp.org/resources-155/our-stories/836-from-local-action-to-the-global-stage-the-gef-small-grants-program-at-unccd-cop17.html",
       "viable": false
+    },
+    "h86bcdf5f": {
+      "at": "2026-09-21T21:20:58.994Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/comunicaciones/boletin-de-cooperacion-internacional",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-09-14T20:41:22.572Z",
-      "endedAt": "2026-09-14T20:42:45.715Z",
-      "scannedCandidates": 6,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-09-14T21:08:32.880Z",
       "endedAt": "2026-09-14T21:10:50.312Z",
@@ -1631,6 +1629,14 @@
     {
       "startedAt": "2026-09-21T17:20:56.575Z",
       "endedAt": "2026-09-21T17:22:35.524Z",
+      "scannedCandidates": 7,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-21T21:20:54.970Z",
+      "endedAt": "2026-09-21T21:22:57.108Z",
       "scannedCandidates": 7,
       "viableCandidates": 0,
       "sentNotifications": 0,
