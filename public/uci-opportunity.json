@@ -1,7 +1,41 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-09-22T02:18:02.226Z",
+  "updatedAt": "2026-09-22T10:31:53.901Z",
   "opportunities": [
+    {
+      "id": "h40b35418",
+      "sourceId": "usaid",
+      "title": "Improving Undergraduate STEM Education: Directorate for STEM Education (IUSE: EDU)",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2027-01-20T00:00:00.000Z",
+      "amount": 2000000,
+      "currency": "USD",
+      "amountUsd": 2000000,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/344124",
+      "publicationNumber": null
+    },
+    {
+      "id": "h5715f2ee",
+      "sourceId": "usaid",
+      "title": "Institute of Education Sciences (IES): National Center for Education Research (NCER): Statistical and Research Methodology in Education, Assistance Listing Number (ALN) 84.305D",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-10-01T00:00:00.000Z",
+      "amount": null,
+      "currency": "USD",
+      "amountUsd": null,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/363468",
+      "publicationNumber": null
+    },
     {
       "id": "h5215eb0f",
       "sourceId": "usaid",
@@ -54,23 +88,6 @@
       "publicationNumber": null
     },
     {
-      "id": "h5715f2ee",
-      "sourceId": "usaid",
-      "title": "Institute of Education Sciences (IES): National Center for Education Research (NCER): Statistical and Research Methodology in Education, Assistance Listing Number (ALN) 84.305D",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-10-01T00:00:00.000Z",
-      "amount": null,
-      "currency": "USD",
-      "amountUsd": null,
-      "scoreTotal": 14,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/363468",
-      "publicationNumber": null
-    },
-    {
       "id": "he69c4641",
       "sourceId": "usaid",
       "title": "Tribal Colleges and Universities Program (TCUP)",
@@ -105,6 +122,5 @@
       "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 6 | EUROPA: 0",
-  "reusedForPublicationDay": true
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 7 | EUROPA: 0"
 }
