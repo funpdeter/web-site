@@ -1,7 +1,24 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-09-23T02:17:52.443Z",
+  "updatedAt": "2026-09-23T10:26:15.497Z",
   "opportunities": [
+    {
+      "id": "h5bba99f",
+      "sourceId": "usaid",
+      "title": "Training-based Workforce Development for Advanced Cyberinfrastructure  (CyberTraining)",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2027-01-21T00:00:00.000Z",
+      "amount": 1000000,
+      "currency": "USD",
+      "amountUsd": 1000000,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/344608",
+      "publicationNumber": null
+    },
     {
       "id": "h40b35418",
       "sourceId": "usaid",
@@ -17,23 +34,6 @@
       "recommendation": "No aplicar",
       "isViable": false,
       "url": "https://www.grants.gov/search-results-detail/344124",
-      "publicationNumber": null
-    },
-    {
-      "id": "h5715f2ee",
-      "sourceId": "usaid",
-      "title": "Institute of Education Sciences (IES): National Center for Education Research (NCER): Statistical and Research Methodology in Education, Assistance Listing Number (ALN) 84.305D",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-10-01T00:00:00.000Z",
-      "amount": null,
-      "currency": "USD",
-      "amountUsd": null,
-      "scoreTotal": 14,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/363468",
       "publicationNumber": null
     },
     {
@@ -54,9 +54,9 @@
       "publicationNumber": null
     },
     {
-      "id": "h5115e97c",
+      "id": "h5715f2ee",
       "sourceId": "usaid",
-      "title": "Institute of Education Sciences (IES): National Center for Education Research (NCER): Research Training Programs in The Education Sciences, Assistance Listing Number (ALN) 84.305B",
+      "title": "Institute of Education Sciences (IES): National Center for Education Research (NCER): Statistical and Research Methodology in Education, Assistance Listing Number (ALN) 84.305D",
       "source": "USAID",
       "sourceTier": "internacional",
       "region": "USA",
@@ -67,7 +67,7 @@
       "scoreTotal": 14,
       "recommendation": "No aplicar",
       "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/363466",
+      "url": "https://www.grants.gov/search-results-detail/363468",
       "publicationNumber": null
     },
     {
@@ -85,6 +85,23 @@
       "recommendation": "No aplicar",
       "isViable": false,
       "url": "https://www.grants.gov/search-results-detail/362850",
+      "publicationNumber": null
+    },
+    {
+      "id": "h5115e97c",
+      "sourceId": "usaid",
+      "title": "Institute of Education Sciences (IES): National Center for Education Research (NCER): Research Training Programs in The Education Sciences, Assistance Listing Number (ALN) 84.305B",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-10-01T00:00:00.000Z",
+      "amount": null,
+      "currency": "USD",
+      "amountUsd": null,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/363466",
       "publicationNumber": null
     },
     {
@@ -122,6 +139,5 @@
       "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 7 | EUROPA: 0",
-  "reusedForPublicationDay": true
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 8 | EUROPA: 0"
 }
