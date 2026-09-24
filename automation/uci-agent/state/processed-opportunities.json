@@ -1399,17 +1399,16 @@
       "sourceId": "apc-colombia",
       "url": "https://www.apccolombia.gov.co/comunicaciones/boletin-de-cooperacion-internacional",
       "viable": false
+    },
+    "h38f19a3a": {
+      "at": "2026-09-24T20:56:00.892Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/584304-2026",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-09-17T10:36:09.985Z",
-      "endedAt": "2026-09-17T10:37:12.829Z",
-      "scannedCandidates": 6,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-09-17T15:49:35.862Z",
       "endedAt": "2026-09-17T15:50:38.856Z",
@@ -1638,6 +1637,14 @@
       "startedAt": "2026-09-24T16:04:40.395Z",
       "endedAt": "2026-09-24T16:06:32.319Z",
       "scannedCandidates": 8,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-24T20:54:03.443Z",
+      "endedAt": "2026-09-24T20:56:00.910Z",
+      "scannedCandidates": 9,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
