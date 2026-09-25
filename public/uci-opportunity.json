@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-09-25T02:22:07.681Z",
+  "updatedAt": "2026-09-25T10:46:58.504Z",
   "opportunities": [
     {
       "id": "h5bba99f",
@@ -54,20 +54,20 @@
       "publicationNumber": null
     },
     {
-      "id": "h5215eb0f",
+      "id": "h93bf7b48",
       "sourceId": "usaid",
-      "title": "Institute of Education Sciences (IES): National Center for Special Education Research (NCSER): Research Training Programs in Special Education, Assistance Listing Number (ALN) 84.324B",
+      "title": "DoW Rare Cancers Resource and Community Development Award",
       "source": "USAID",
       "sourceTier": "internacional",
       "region": "USA",
-      "deadline": "2026-10-01T00:00:00.000Z",
+      "deadline": "2026-11-18T00:00:00.000Z",
       "amount": null,
       "currency": "USD",
       "amountUsd": null,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
       "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/363467",
+      "url": "https://www.grants.gov/search-results-detail/362850",
       "publicationNumber": null
     },
     {
@@ -88,37 +88,20 @@
       "publicationNumber": null
     },
     {
-      "id": "h93bf7b48",
+      "id": "h5215eb0f",
       "sourceId": "usaid",
-      "title": "DoW Rare Cancers Resource and Community Development Award",
+      "title": "Institute of Education Sciences (IES): National Center for Special Education Research (NCSER): Research Training Programs in Special Education, Assistance Listing Number (ALN) 84.324B",
       "source": "USAID",
       "sourceTier": "internacional",
       "region": "USA",
-      "deadline": "2026-11-18T00:00:00.000Z",
+      "deadline": "2026-10-01T00:00:00.000Z",
       "amount": null,
       "currency": "USD",
       "amountUsd": null,
-      "scoreTotal": 14,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/362850",
-      "publicationNumber": null
-    },
-    {
-      "id": "he69c4641",
-      "sourceId": "usaid",
-      "title": "Tribal Colleges and Universities Program (TCUP)",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-10-14T00:00:00.000Z",
-      "amount": 3500000,
-      "currency": "USD",
-      "amountUsd": 3500000,
-      "scoreTotal": 16,
+      "scoreTotal": 15,
       "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://www.grants.gov/search-results-detail/334326",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/363467",
       "publicationNumber": null
     },
     {
@@ -137,8 +120,24 @@
       "isViable": false,
       "url": "https://www.grants.gov/search-results-detail/355100",
       "publicationNumber": null
+    },
+    {
+      "id": "he69c4641",
+      "sourceId": "usaid",
+      "title": "Tribal Colleges and Universities Program (TCUP)",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-10-14T00:00:00.000Z",
+      "amount": 3500000,
+      "currency": "USD",
+      "amountUsd": 3500000,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://www.grants.gov/search-results-detail/334326",
+      "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 8 | EUROPA: 0",
-  "reusedForPublicationDay": true
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 0 | USA: 8 | EUROPA: 0"
 }
