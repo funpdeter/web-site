@@ -1,29 +1,7 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-09-24T20:56:00.909Z",
+  "updatedAt": "2026-09-25T02:22:07.695Z",
   "opportunities": [
-    {
-      "id": "hbd1a2beb",
-      "sourceId": "ted-europa",
-      "title": "Poland – Firefighting vehicles – Zakup nowego średniego samochodu pożarniczego dla jednostki OSP Dobra – postępowanie II",
-      "source": "TED Europa",
-      "sourceTier": "internacional",
-      "region": "EUROPA",
-      "deadline": "2026-09-30T00:00:00.000Z",
-      "amount": null,
-      "currency": "",
-      "amountUsd": null,
-      "scoreTotal": 13,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/584304-2026",
-      "publicationNumber": "584304-2026",
-      "firstSeenAt": "2026-09-24T20:56:00.909Z",
-      "lastSeenAt": "2026-09-24T20:56:00.909Z",
-      "lastPublishedAt": null,
-      "publishCount": 0,
-      "isArchived": true
-    },
     {
       "id": "h40b35418",
       "sourceId": "usaid",
@@ -41,9 +19,9 @@
       "url": "https://www.grants.gov/search-results-detail/344124",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-22T02:18:02.240Z",
-      "lastSeenAt": "2026-09-24T20:56:00.909Z",
-      "lastPublishedAt": "2026-09-24T20:56:00.909Z",
-      "publishCount": 11,
+      "lastSeenAt": "2026-09-25T02:22:07.695Z",
+      "lastPublishedAt": "2026-09-25T02:22:07.695Z",
+      "publishCount": 12,
       "isArchived": false
     },
     {
@@ -63,9 +41,9 @@
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastSeenAt": "2026-09-24T20:56:00.909Z",
-      "lastPublishedAt": "2026-09-24T20:56:00.909Z",
-      "publishCount": 35,
+      "lastSeenAt": "2026-09-25T02:22:07.695Z",
+      "lastPublishedAt": "2026-09-25T02:22:07.695Z",
+      "publishCount": 36,
       "isArchived": false
     },
     {
@@ -85,9 +63,9 @@
       "url": "https://www.grants.gov/search-results-detail/355100",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastSeenAt": "2026-09-24T20:56:00.909Z",
-      "lastPublishedAt": "2026-09-24T20:56:00.909Z",
-      "publishCount": 35,
+      "lastSeenAt": "2026-09-25T02:22:07.695Z",
+      "lastPublishedAt": "2026-09-25T02:22:07.695Z",
+      "publishCount": 36,
       "isArchived": false
     },
     {
@@ -107,9 +85,9 @@
       "url": "https://www.grants.gov/search-results-detail/363468",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-09-24T20:56:00.909Z",
-      "lastPublishedAt": "2026-09-24T20:56:00.909Z",
-      "publishCount": 34,
+      "lastSeenAt": "2026-09-25T02:22:07.695Z",
+      "lastPublishedAt": "2026-09-25T02:22:07.695Z",
+      "publishCount": 35,
       "isArchived": false
     },
     {
@@ -129,9 +107,9 @@
       "url": "https://www.grants.gov/search-results-detail/363467",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-09-24T20:56:00.909Z",
-      "lastPublishedAt": "2026-09-24T20:56:00.909Z",
-      "publishCount": 34,
+      "lastSeenAt": "2026-09-25T02:22:07.695Z",
+      "lastPublishedAt": "2026-09-25T02:22:07.695Z",
+      "publishCount": 35,
       "isArchived": false
     },
     {
@@ -151,9 +129,9 @@
       "url": "https://www.grants.gov/search-results-detail/363466",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-09-24T20:56:00.909Z",
-      "lastPublishedAt": "2026-09-24T20:56:00.909Z",
-      "publishCount": 34,
+      "lastSeenAt": "2026-09-25T02:22:07.695Z",
+      "lastPublishedAt": "2026-09-25T02:22:07.695Z",
+      "publishCount": 35,
       "isArchived": false
     },
     {
@@ -173,9 +151,9 @@
       "url": "https://www.grants.gov/search-results-detail/362850",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-09-24T20:56:00.909Z",
-      "lastPublishedAt": "2026-09-24T20:56:00.909Z",
-      "publishCount": 34,
+      "lastSeenAt": "2026-09-25T02:22:07.695Z",
+      "lastPublishedAt": "2026-09-25T02:22:07.695Z",
+      "publishCount": 35,
       "isArchived": false
     },
     {
@@ -195,10 +173,32 @@
       "url": "https://www.grants.gov/search-results-detail/344608",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
+      "lastSeenAt": "2026-09-25T02:22:07.695Z",
+      "lastPublishedAt": "2026-09-25T02:22:07.695Z",
+      "publishCount": 11,
+      "isArchived": false
+    },
+    {
+      "id": "hbd1a2beb",
+      "sourceId": "ted-europa",
+      "title": "Poland – Firefighting vehicles – Zakup nowego średniego samochodu pożarniczego dla jednostki OSP Dobra – postępowanie II",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-09-30T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/584304-2026",
+      "publicationNumber": "584304-2026",
+      "firstSeenAt": "2026-09-24T20:56:00.909Z",
       "lastSeenAt": "2026-09-24T20:56:00.909Z",
       "lastPublishedAt": "2026-09-24T20:56:00.909Z",
-      "publishCount": 10,
-      "isArchived": false
+      "publishCount": 0,
+      "isArchived": true
     },
     {
       "id": "h470cde89",
