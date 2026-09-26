@@ -1418,17 +1418,132 @@
       "sourceId": "mintic",
       "url": "https://mintic.gov.co/portal/715/w3-article-437415.html",
       "viable": false
+    },
+    "hf2054b86": {
+      "at": "2026-09-26T02:26:48.782Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/STS/Users/Login/Index",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h75524739": {
+      "at": "2026-09-26T02:26:48.782Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10909976",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h346e1d6e": {
+      "at": "2026-09-26T02:26:48.797Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10811764",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-26T02-26-48-783Z_secop-ii_seleccionar-un-socio-estrategico-para-la-constituc"
+    },
+    "h10b57ada": {
+      "at": "2026-09-26T02:26:48.797Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10935718",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-26T02-26-48-797Z_secop-ii_produccion-de-centros"
+    },
+    "h1cf62a82": {
+      "at": "2026-09-26T02:26:48.798Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10941528",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-26T02-26-48-797Z_secop-ii_5-9101-440-contratar-la-adecuacion-de-la-planta-de"
+    },
+    "h762e483c": {
+      "at": "2026-09-26T02:26:48.798Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10949957",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-26T02-26-48-798Z_secop-ii_suministro-de-combustible-y-lubricantes-para-la-op"
+    },
+    "h5d662333": {
+      "at": "2026-09-26T02:26:48.798Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10929701",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hb54b41e3": {
+      "at": "2026-09-26T02:26:48.799Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10935335",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-26T02-26-48-798Z_secop-ii_concurso-de-meritos-abierto-presentacion-de-oferta"
+    },
+    "hb2c13f4e": {
+      "at": "2026-09-26T02:26:48.799Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10946640",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-26T02-26-48-799Z_secop-ii_adecuacion-de-infraestructura-complementaria-para-"
+    },
+    "h73b3eff1": {
+      "at": "2026-09-26T02:26:48.800Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10930349",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-26T02-26-48-799Z_secop-ii_mantenimiento-y-adecuacion-de-la-capa-de-rodadura-"
+    },
+    "he2f52a55": {
+      "at": "2026-09-26T02:26:48.800Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10930514",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-26T02-26-48-800Z_secop-ii_compra-de-consumibles-de-impresion-para-la-alcaldi"
+    },
+    "h81768a53": {
+      "at": "2026-09-26T02:26:48.800Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10948212",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "he08b25ca": {
+      "at": "2026-09-26T02:26:48.801Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10868355",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-26T02-26-48-800Z_secop-ii_mantenimiento-adecuacion-y-mejoramiento-funcional-"
+    },
+    "he4bb5163": {
+      "at": "2026-09-26T02:26:48.801Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10943622",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-26T02-26-48-801Z_secop-ii_prestar-los-servicios-como-operador-logistico-para"
+    },
+    "hbb28d3eb": {
+      "at": "2026-09-26T02:26:48.801Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10890203",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-26T02-26-48-801Z_secop-ii_suministro"
+    },
+    "hc07d3b3f": {
+      "at": "2026-09-26T02:26:48.802Z",
+      "sourceId": "minciencias",
+      "url": "https://minciencias.gov.co/node/9573",
+      "viable": false,
+      "reason": "Aplicar inmediatamente"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-09-18T15:22:56.501Z",
-      "endedAt": "2026-09-18T15:24:35.634Z",
-      "scannedCandidates": 6,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-09-18T20:06:57.089Z",
       "endedAt": "2026-09-18T20:07:59.491Z",
@@ -1658,6 +1773,14 @@
       "endedAt": "2026-09-25T20:53:12.916Z",
       "scannedCandidates": 8,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-26T02:25:17.855Z",
+      "endedAt": "2026-09-26T02:26:48.811Z",
+      "scannedCandidates": 25,
+      "viableCandidates": 11,
       "sentNotifications": 0,
       "transport": "console"
     }
