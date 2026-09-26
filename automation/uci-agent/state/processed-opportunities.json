@@ -1541,17 +1541,84 @@
       "url": "https://minciencias.gov.co/node/9573",
       "viable": false,
       "reason": "Aplicar inmediatamente"
+    },
+    "h238605cc": {
+      "at": "2026-09-26T20:21:01.960Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10951185",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h2db51b19": {
+      "at": "2026-09-26T20:21:01.971Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10920937",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-26T20-21-01-961Z_secop-ii_interventoria-cubierta-polideportivo-quince-letras"
+    },
+    "haea293e6": {
+      "at": "2026-09-26T20:21:01.971Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10923241",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-26T20-21-01-971Z_secop-ii_prestacion-de-servicios-especializados-para-la-eje"
+    },
+    "hb46e097c": {
+      "at": "2026-09-26T20:21:01.971Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10957011",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hd70eca2f": {
+      "at": "2026-09-26T20:21:01.972Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10895244",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-26T20-21-01-972Z_secop-ii_realizar-el-mejoramiento-y-adecuacion-de-la-via-y-"
+    },
+    "h54d994ea": {
+      "at": "2026-09-26T20:21:01.972Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10950904",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h50ccc2ab": {
+      "at": "2026-09-26T20:21:01.972Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10950972",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-26T20-21-01-972Z_secop-ii_adulto-mayor-formacion-mesa"
+    },
+    "h58d35384": {
+      "at": "2026-09-26T20:21:01.972Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10955611",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h8d59bce1": {
+      "at": "2026-09-26T20:21:01.973Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10955205",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hb6064b35": {
+      "at": "2026-09-26T20:21:01.973Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10871349",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-26T20-21-01-973Z_secop-ii_ampliacion-de-la-infraestructura-administrativa-mu"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-09-19T09:53:28.564Z",
-      "endedAt": "2026-09-19T09:55:02.596Z",
-      "scannedCandidates": 22,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-09-19T14:59:18.909Z",
       "endedAt": "2026-09-19T15:01:44.980Z",
@@ -1781,6 +1848,14 @@
       "endedAt": "2026-09-26T15:21:22.816Z",
       "scannedCandidates": 25,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-26T20:19:27.650Z",
+      "endedAt": "2026-09-26T20:21:01.982Z",
+      "scannedCandidates": 25,
+      "viableCandidates": 5,
       "sentNotifications": 0,
       "transport": "console"
     }
