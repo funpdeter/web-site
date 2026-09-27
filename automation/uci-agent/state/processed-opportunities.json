@@ -1616,17 +1616,50 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-26T20-21-01-973Z_secop-ii_ampliacion-de-la-infraestructura-administrativa-mu"
+    },
+    "hfb2afda8": {
+      "at": "2026-09-27T02:22:12.329Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/articles-162146_recurso_12.pdf",
+      "viable": false
+    },
+    "hce667a1b": {
+      "at": "2026-09-27T02:22:32.352Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/articles-162146_FTIC_CM_003_2026.pdf",
+      "viable": false
+    },
+    "h1d5daef": {
+      "at": "2026-09-27T02:22:36.987Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-article-428125.html",
+      "viable": false
+    },
+    "h7fb5a657": {
+      "at": "2026-09-27T02:23:25.326Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10920346",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hefcde93d": {
+      "at": "2026-09-27T02:23:25.341Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10947949",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-27T02-23-25-327Z_secop-ii_mantenimiento-escenario-deportivo-el-triunfo-en-el"
+    },
+    "h7519ef4e": {
+      "at": "2026-09-27T02:23:25.342Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10950229",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-27T02-23-25-342Z_secop-ii_prestacion-de-servicios-de-hospedaje-alimentacion-"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-09-19T14:59:18.909Z",
-      "endedAt": "2026-09-19T15:01:44.980Z",
-      "scannedCandidates": 22,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-09-19T19:44:06.267Z",
       "endedAt": "2026-09-19T19:45:59.899Z",
@@ -1856,6 +1889,14 @@
       "endedAt": "2026-09-26T20:21:01.982Z",
       "scannedCandidates": 25,
       "viableCandidates": 5,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-27T02:21:40.259Z",
+      "endedAt": "2026-09-27T02:23:25.353Z",
+      "scannedCandidates": 25,
+      "viableCandidates": 2,
       "sentNotifications": 0,
       "transport": "console"
     }
