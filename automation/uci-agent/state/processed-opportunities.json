@@ -1657,17 +1657,30 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-09-27T02-23-25-342Z_secop-ii_prestacion-de-servicios-de-hospedaje-alimentacion-"
+    },
+    "h140c17e2": {
+      "at": "2026-09-28T12:18:24.930Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/596444-2026",
+      "viable": false,
+      "reason": "No aplicar"
+    },
+    "hd2f1a784": {
+      "at": "2026-09-28T12:18:24.931Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/596482-2026",
+      "viable": false,
+      "reason": "No aplicar"
+    },
+    "h578c1968": {
+      "at": "2026-09-28T12:18:24.932Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/596529-2026",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-09-20T19:55:44.836Z",
-      "endedAt": "2026-09-20T19:57:30.852Z",
-      "scannedCandidates": 23,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-09-21T02:11:39.948Z",
       "endedAt": "2026-09-21T02:13:35.336Z",
@@ -1896,6 +1909,14 @@
       "startedAt": "2026-09-28T02:25:26.415Z",
       "endedAt": "2026-09-28T02:27:02.472Z",
       "scannedCandidates": 9,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-28T12:16:14.706Z",
+      "endedAt": "2026-09-28T12:18:24.959Z",
+      "scannedCandidates": 12,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
