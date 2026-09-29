@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-09-29T03:10:11.072Z",
+  "updatedAt": "2026-09-29T11:46:38.420Z",
   "opportunities": [
     {
       "id": "he62306d1",
@@ -9,7 +9,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-10-23T12:16:19.411Z",
+      "deadline": "2026-10-23T11:45:12.361Z",
       "amount": 2809479244400,
       "currency": "COP",
       "amountUsd": 702369811.1,
@@ -37,57 +37,6 @@
       "publicationNumber": null
     },
     {
-      "id": "hcd3bf1a1",
-      "sourceId": "ted-europa",
-      "title": "Poland – Electric accumulators – Wyposażenie w systemy magazynowania energii elektrycznej żłobków na terenie m.st. Warszawy – II procedura",
-      "source": "TED Europa",
-      "sourceTier": "internacional",
-      "region": "EUROPA",
-      "deadline": "2026-09-30T00:00:00.000Z",
-      "amount": null,
-      "currency": "",
-      "amountUsd": null,
-      "scoreTotal": 13,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/596482-2026",
-      "publicationNumber": "596482-2026"
-    },
-    {
-      "id": "hf030093f",
-      "sourceId": "ted-europa",
-      "title": "Poland – Refuse and waste related services – Odbiór i zagospodarowanie odpadów komunalnych z terenu Gminy Bystra-Sidzina w okresie od 01.01.2027r. do 31.12.2027r.",
-      "source": "TED Europa",
-      "sourceTier": "internacional",
-      "region": "EUROPA",
-      "deadline": "2026-10-06T00:00:00.000Z",
-      "amount": null,
-      "currency": "",
-      "amountUsd": null,
-      "scoreTotal": 13,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/596444-2026",
-      "publicationNumber": "596444-2026"
-    },
-    {
-      "id": "hb6417f81",
-      "sourceId": "ted-europa",
-      "title": "Poland – Memory storage media – Rozbudowa przestrzeni dyskowej Zamawiającego w oparciu o dostawę 16 dysków do modułów HPE D3940 Storage Module",
-      "source": "TED Europa",
-      "sourceTier": "internacional",
-      "region": "EUROPA",
-      "deadline": "2026-10-02T00:00:00.000Z",
-      "amount": null,
-      "currency": "",
-      "amountUsd": null,
-      "scoreTotal": 13,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/596529-2026",
-      "publicationNumber": "596529-2026"
-    },
-    {
       "id": "h40b35418",
       "sourceId": "usaid",
       "title": "Improving Undergraduate STEM Education: Directorate for STEM Education (IUSE: EDU)",
@@ -105,9 +54,43 @@
       "publicationNumber": null
     },
     {
-      "id": "h5715f2ee",
+      "id": "he69c4641",
       "sourceId": "usaid",
-      "title": "Institute of Education Sciences (IES): National Center for Education Research (NCER): Statistical and Research Methodology in Education, Assistance Listing Number (ALN) 84.305D",
+      "title": "Tribal Colleges and Universities Program (TCUP)",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-10-14T00:00:00.000Z",
+      "amount": 3500000,
+      "currency": "USD",
+      "amountUsd": 3500000,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://www.grants.gov/search-results-detail/334326",
+      "publicationNumber": null
+    },
+    {
+      "id": "h1ad458ac",
+      "sourceId": "usaid",
+      "title": "Advanced Technological Education",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-10-01T00:00:00.000Z",
+      "amount": 7500000,
+      "currency": "USD",
+      "amountUsd": 7500000,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/355100",
+      "publicationNumber": null
+    },
+    {
+      "id": "h5215eb0f",
+      "sourceId": "usaid",
+      "title": "Institute of Education Sciences (IES): National Center for Special Education Research (NCSER): Research Training Programs in Special Education, Assistance Listing Number (ALN) 84.324B",
       "source": "USAID",
       "sourceTier": "internacional",
       "region": "USA",
@@ -115,10 +98,10 @@
       "amount": null,
       "currency": "USD",
       "amountUsd": null,
-      "scoreTotal": 14,
-      "recommendation": "No aplicar",
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
       "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/363468",
+      "url": "https://www.grants.gov/search-results-detail/363467",
       "publicationNumber": null
     },
     {
@@ -156,9 +139,9 @@
       "publicationNumber": null
     },
     {
-      "id": "h5215eb0f",
+      "id": "h5715f2ee",
       "sourceId": "usaid",
-      "title": "Institute of Education Sciences (IES): National Center for Special Education Research (NCSER): Research Training Programs in Special Education, Assistance Listing Number (ALN) 84.324B",
+      "title": "Institute of Education Sciences (IES): National Center for Education Research (NCER): Statistical and Research Methodology in Education, Assistance Listing Number (ALN) 84.305D",
       "source": "USAID",
       "sourceTier": "internacional",
       "region": "USA",
@@ -166,13 +149,12 @@
       "amount": null,
       "currency": "USD",
       "amountUsd": null,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
       "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/363467",
+      "url": "https://www.grants.gov/search-results-detail/363468",
       "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 1 | USA: 6 | EUROPA: 3",
-  "reusedForPublicationDay": true
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 1 | USA: 8 | EUROPA: 0"
 }

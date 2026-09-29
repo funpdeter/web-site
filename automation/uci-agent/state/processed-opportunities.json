@@ -1678,17 +1678,15 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/596529-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "hca407885": {
+      "at": "2026-09-29T11:45:10.005Z",
+      "sourceId": "apc-colombia",
+      "url": "https://apccolombia.gov.co/index.php/buscador",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-09-21T17:20:56.575Z",
-      "endedAt": "2026-09-21T17:22:35.524Z",
-      "scannedCandidates": 7,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-09-21T21:20:54.970Z",
       "endedAt": "2026-09-21T21:22:57.108Z",
@@ -1916,6 +1914,14 @@
     {
       "startedAt": "2026-09-29T03:08:55.037Z",
       "endedAt": "2026-09-29T03:10:11.089Z",
+      "scannedCandidates": 9,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-29T11:45:06.038Z",
+      "endedAt": "2026-09-29T11:46:38.439Z",
       "scannedCandidates": 9,
       "viableCandidates": 0,
       "sentNotifications": 0,
