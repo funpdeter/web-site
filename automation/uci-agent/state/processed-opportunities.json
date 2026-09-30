@@ -1684,17 +1684,15 @@
       "sourceId": "apc-colombia",
       "url": "https://apccolombia.gov.co/index.php/buscador",
       "viable": false
+    },
+    "h2cad1df4": {
+      "at": "2026-09-30T21:38:16.662Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-article-433759.html",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-09-23T02:16:40.777Z",
-      "endedAt": "2026-09-23T02:17:52.457Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-09-23T10:25:14.668Z",
       "endedAt": "2026-09-23T10:26:15.511Z",
@@ -1922,6 +1920,14 @@
     {
       "startedAt": "2026-09-30T17:10:16.093Z",
       "endedAt": "2026-09-30T17:11:51.711Z",
+      "scannedCandidates": 9,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-09-30T21:37:55.175Z",
+      "endedAt": "2026-09-30T21:39:22.834Z",
       "scannedCandidates": 9,
       "viableCandidates": 0,
       "sentNotifications": 0,
