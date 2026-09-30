@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-09-30T02:52:23.352Z",
+  "updatedAt": "2026-09-30T11:43:19.078Z",
   "opportunities": [
     {
       "id": "he62306d1",
@@ -9,7 +9,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-10-23T11:45:12.361Z",
+      "deadline": "2026-10-23T11:32:12.475Z",
       "amount": 2809479244400,
       "currency": "COP",
       "amountUsd": 702369811.1,
@@ -88,9 +88,9 @@
       "publicationNumber": null
     },
     {
-      "id": "h5215eb0f",
+      "id": "h5715f2ee",
       "sourceId": "usaid",
-      "title": "Institute of Education Sciences (IES): National Center for Special Education Research (NCSER): Research Training Programs in Special Education, Assistance Listing Number (ALN) 84.324B",
+      "title": "Institute of Education Sciences (IES): National Center for Education Research (NCER): Statistical and Research Methodology in Education, Assistance Listing Number (ALN) 84.305D",
       "source": "USAID",
       "sourceTier": "internacional",
       "region": "USA",
@@ -98,10 +98,10 @@
       "amount": null,
       "currency": "USD",
       "amountUsd": null,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
       "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/363467",
+      "url": "https://www.grants.gov/search-results-detail/363468",
       "publicationNumber": null
     },
     {
@@ -122,6 +122,23 @@
       "publicationNumber": null
     },
     {
+      "id": "h5215eb0f",
+      "sourceId": "usaid",
+      "title": "Institute of Education Sciences (IES): National Center for Special Education Research (NCSER): Research Training Programs in Special Education, Assistance Listing Number (ALN) 84.324B",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-10-01T00:00:00.000Z",
+      "amount": null,
+      "currency": "USD",
+      "amountUsd": null,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/363467",
+      "publicationNumber": null
+    },
+    {
       "id": "h93bf7b48",
       "sourceId": "usaid",
       "title": "DoW Rare Cancers Resource and Community Development Award",
@@ -137,25 +154,7 @@
       "isViable": false,
       "url": "https://www.grants.gov/search-results-detail/362850",
       "publicationNumber": null
-    },
-    {
-      "id": "h5715f2ee",
-      "sourceId": "usaid",
-      "title": "Institute of Education Sciences (IES): National Center for Education Research (NCER): Statistical and Research Methodology in Education, Assistance Listing Number (ALN) 84.305D",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-10-01T00:00:00.000Z",
-      "amount": null,
-      "currency": "USD",
-      "amountUsd": null,
-      "scoreTotal": 14,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/363468",
-      "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 1 | USA: 8 | EUROPA: 0",
-  "reusedForPublicationDay": true
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 1 | USA: 8 | EUROPA: 0"
 }
