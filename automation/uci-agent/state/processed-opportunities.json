@@ -1690,17 +1690,15 @@
       "sourceId": "mintic",
       "url": "https://mintic.gov.co/portal/715/w3-article-433759.html",
       "viable": false
+    },
+    "he9efe828": {
+      "at": "2026-10-02T02:59:53.051Z",
+      "sourceId": "minambiente",
+      "url": "https://www.minambiente.gov.co/abierta-convocatoria-del-fondo-de-compensacion-ambiental-por-112-883-millones",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-09-24T02:03:32.122Z",
-      "endedAt": "2026-09-24T02:04:42.384Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-09-24T10:42:03.666Z",
       "endedAt": "2026-09-24T10:43:02.542Z",
@@ -1928,6 +1926,14 @@
     {
       "startedAt": "2026-10-01T18:09:39.978Z",
       "endedAt": "2026-10-01T18:12:19.227Z",
+      "scannedCandidates": 5,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-10-02T02:59:35.107Z",
+      "endedAt": "2026-10-02T03:00:39.181Z",
       "scannedCandidates": 5,
       "viableCandidates": 0,
       "sentNotifications": 0,
