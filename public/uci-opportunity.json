@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-10-02T03:00:39.165Z",
+  "updatedAt": "2026-10-02T11:33:26.399Z",
   "opportunities": [
     {
       "id": "he62306d1",
@@ -9,7 +9,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-10-23T12:00:05.057Z",
+      "deadline": "2026-10-23T11:31:48.749Z",
       "amount": 2809479244400,
       "currency": "COP",
       "amountUsd": 702369811.1,
@@ -18,6 +18,23 @@
       "isViable": false,
       "url": "https://minciencias.gov.co/node/9573",
       "publicationNumber": "53"
+    },
+    {
+      "id": "h54036d6f",
+      "sourceId": "usaid",
+      "title": "Security, Privacy, and Trust in Cyberspace (SaTC 2.0)",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2027-01-25T00:00:00.000Z",
+      "amount": 1200000,
+      "currency": "USD",
+      "amountUsd": 1200000,
+      "scoreTotal": 15,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://www.grants.gov/search-results-detail/357554",
+      "publicationNumber": null
     },
     {
       "id": "h5bba99f",
@@ -88,6 +105,5 @@
       "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 1 | USA: 4 | EUROPA: 0",
-  "reusedForPublicationDay": true
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 1 | USA: 5 | EUROPA: 0"
 }
