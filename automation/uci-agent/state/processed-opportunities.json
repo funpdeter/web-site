@@ -1696,17 +1696,27 @@
       "sourceId": "minambiente",
       "url": "https://www.minambiente.gov.co/abierta-convocatoria-del-fondo-de-compensacion-ambiental-por-112-883-millones",
       "viable": false
+    },
+    "h3912a45": {
+      "at": "2026-10-02T21:33:36.333Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/articles-327065_recurso_1.pdf",
+      "viable": false
+    },
+    "h7d15b73a": {
+      "at": "2026-10-02T21:33:37.719Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/micrositios/convocatoriastv2026/894/articles-425967_Borrador_de_Condiciones_de_Participacion_Territorios_al_Aire_2026.pdf",
+      "viable": false
+    },
+    "hb03381ca": {
+      "at": "2026-10-02T21:33:39.018Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/articles-162146_Aviso_de_convocatoria_concurso_de_meritos_FUTIC_CM_005_2024_Politica_de_Gobierno_Digital.pdf",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-09-24T20:54:03.443Z",
-      "endedAt": "2026-09-24T20:56:00.910Z",
-      "scannedCandidates": 9,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-09-25T02:20:34.441Z",
       "endedAt": "2026-09-25T02:22:07.696Z",
@@ -1934,6 +1944,14 @@
     {
       "startedAt": "2026-10-02T16:59:14.044Z",
       "endedAt": "2026-10-02T17:01:37.365Z",
+      "scannedCandidates": 6,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-10-02T21:33:13.401Z",
+      "endedAt": "2026-10-02T21:36:07.413Z",
       "scannedCandidates": 6,
       "viableCandidates": 0,
       "sentNotifications": 0,
