@@ -1714,17 +1714,122 @@
       "sourceId": "mintic",
       "url": "https://mintic.gov.co/portal/715/articles-162146_Aviso_de_convocatoria_concurso_de_meritos_FUTIC_CM_005_2024_Politica_de_Gobierno_Digital.pdf",
       "viable": false
+    },
+    "h42020996": {
+      "at": "2026-10-03T02:47:39.275Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10972333",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hc50f4d29": {
+      "at": "2026-10-03T02:47:39.275Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10921017",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hf10aca72": {
+      "at": "2026-10-03T02:47:39.275Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10971549",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "ha226b75": {
+      "at": "2026-10-03T02:47:39.285Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10973609",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-03T02-47-39-276Z_secop-ii_extintores"
+    },
+    "he58cf6ea": {
+      "at": "2026-10-03T02:47:39.286Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10981036",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-03T02-47-39-285Z_secop-ii_suministro-de-papeleria-y-cafeteria-para-la-person"
+    },
+    "hbf10fff3": {
+      "at": "2026-10-03T02:47:39.286Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10975652",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-03T02-47-39-286Z_secop-ii_elementos-de-seguridad-brigadas"
+    },
+    "hfad8544e": {
+      "at": "2026-10-03T02:47:39.286Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10979039",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-03T02-47-39-286Z_secop-ii_adecuacion-de-la-agencia-publica-de-empleo-del-sen"
+    },
+    "hca96a631": {
+      "at": "2026-10-03T02:47:39.286Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10925808",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "he5d1693": {
+      "at": "2026-10-03T02:47:39.287Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10977221",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h394d3c69": {
+      "at": "2026-10-03T02:47:39.287Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10884727",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-03T02-47-39-287Z_secop-ii_construccion-fase-1-de-la-planta-de-tratamiento-de"
+    },
+    "h2e5e766b": {
+      "at": "2026-10-03T02:47:39.287Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10974857",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h8811052d": {
+      "at": "2026-10-03T02:47:39.287Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10948360",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-03T02-47-39-287Z_secop-ii_adquirir-bienes-para-la-dotacion-requerida-en-la-l"
+    },
+    "hd80d9db8": {
+      "at": "2026-10-03T02:47:39.288Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10984763",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-03T02-47-39-288Z_secop-ii_convenio-de-asociacion-para-garantizar-la-atencion"
+    },
+    "h47c5c7a1": {
+      "at": "2026-10-03T02:47:39.288Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10939597",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-03T02-47-39-288Z_secop-ii_construccion-de-cancha-sintetica-e-instalacion-de-"
+    },
+    "hb3c943db": {
+      "at": "2026-10-03T02:47:39.288Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10795906",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-09-25T02:20:34.441Z",
-      "endedAt": "2026-09-25T02:22:07.696Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-09-25T10:45:37.064Z",
       "endedAt": "2026-09-25T10:46:58.521Z",
@@ -1954,6 +2059,14 @@
       "endedAt": "2026-10-02T21:36:07.413Z",
       "scannedCandidates": 6,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-10-03T02:46:02.951Z",
+      "endedAt": "2026-10-03T02:47:39.295Z",
+      "scannedCandidates": 22,
+      "viableCandidates": 8,
       "sentNotifications": 0,
       "transport": "console"
     }
