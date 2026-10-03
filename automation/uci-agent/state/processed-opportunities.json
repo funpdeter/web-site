@@ -1827,17 +1827,80 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10795906",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "hc00bdaa5": {
+      "at": "2026-10-03T10:49:18.651Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10988492",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-03T10-49-18-636Z_secop-ii_prestacion-del-servicio-de-mantenimiento-preventiv"
+    },
+    "h1e88b283": {
+      "at": "2026-10-03T10:49:18.651Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10969626",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-03T10-49-18-651Z_secop-ii_mejoramiento-vial-secundario-carmen-de-nazareth-en"
+    },
+    "hb1fb2519": {
+      "at": "2026-10-03T10:49:18.652Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10989572",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-03T10-49-18-651Z_secop-ii_programa-de-alimentacion-escolar-pae"
+    },
+    "hf1f2be74": {
+      "at": "2026-10-03T10:49:18.653Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10880562",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-03T10-49-18-652Z_secop-ii_prestacion-del-servicio-de-vigilancia-y-seguridad-"
+    },
+    "h10dc06f7": {
+      "at": "2026-10-03T10:49:18.654Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10982728",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-03T10-49-18-653Z_secop-ii_alcantarillado-manifestacion-de-interes-menor-cuan"
+    },
+    "h6550fe78": {
+      "at": "2026-10-03T10:49:18.654Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10933905",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-03T10-49-18-654Z_secop-ii_suministro-de-bonos-para-la-dotacion-de-calzado-y-"
+    },
+    "h16876a8d": {
+      "at": "2026-10-03T10:49:18.655Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10807296",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h667aadfd": {
+      "at": "2026-10-03T10:49:18.655Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10876069",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-03T10-49-18-655Z_secop-ii_mantenimiento-preventivo-y-correctivo-incluyendo-b"
+    },
+    "h262db8a7": {
+      "at": "2026-10-03T10:49:18.656Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10978013",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-03T10-49-18-655Z_secop-ii_ampliacion-de-servicio-s-a-s-manifestacion-de-inte"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-09-25T10:45:37.064Z",
-      "endedAt": "2026-09-25T10:46:58.521Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-09-25T16:05:12.488Z",
       "endedAt": "2026-09-25T16:06:21.200Z",
@@ -2065,6 +2128,14 @@
     {
       "startedAt": "2026-10-03T02:46:02.951Z",
       "endedAt": "2026-10-03T02:47:39.295Z",
+      "scannedCandidates": 22,
+      "viableCandidates": 8,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-10-03T10:47:20.060Z",
+      "endedAt": "2026-10-03T10:49:18.670Z",
       "scannedCandidates": 22,
       "viableCandidates": 8,
       "sentNotifications": 0,
