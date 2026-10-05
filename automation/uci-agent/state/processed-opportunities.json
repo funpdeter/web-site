@@ -1961,17 +1961,16 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-04T03-18-26-886Z_secop-ii_suministros-policia"
+    },
+    "h8f369836": {
+      "at": "2026-10-05T02:55:22.555Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/612643-2026",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-09-27T02:21:40.259Z",
-      "endedAt": "2026-09-27T02:23:25.353Z",
-      "scannedCandidates": 25,
-      "viableCandidates": 2,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-09-27T10:58:52.250Z",
       "endedAt": "2026-09-27T11:00:58.574Z",
@@ -2200,6 +2199,14 @@
       "startedAt": "2026-10-04T20:37:38.910Z",
       "endedAt": "2026-10-04T20:39:18.154Z",
       "scannedCandidates": 22,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-10-05T02:53:21.202Z",
+      "endedAt": "2026-10-05T02:55:22.575Z",
+      "scannedCandidates": 7,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
