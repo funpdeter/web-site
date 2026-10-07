@@ -1,7 +1,29 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-10-07T12:16:45.575Z",
+  "updatedAt": "2026-10-07T22:27:16.266Z",
   "opportunities": [
+    {
+      "id": "h6c68dd5f",
+      "sourceId": "ted-europa",
+      "title": "Poland – Credit granting services – Udzielenie Miastu Limanowa i obsługa długoterminowego kredytu w kwocie 15 500 000,00 złotych",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-10-14T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/616247-2026",
+      "publicationNumber": "616247-2026",
+      "firstSeenAt": "2026-10-07T22:27:16.266Z",
+      "lastSeenAt": "2026-10-07T22:27:16.266Z",
+      "lastPublishedAt": null,
+      "publishCount": 0,
+      "isArchived": true
+    },
     {
       "id": "he62306d1",
       "sourceId": "minciencias",
@@ -19,9 +41,9 @@
       "url": "https://minciencias.gov.co/node/9573",
       "publicationNumber": "53",
       "firstSeenAt": "2026-09-26T02:26:48.810Z",
-      "lastSeenAt": "2026-10-07T12:16:45.575Z",
-      "lastPublishedAt": "2026-10-07T12:16:45.575Z",
-      "publishCount": 41,
+      "lastSeenAt": "2026-10-07T22:27:16.266Z",
+      "lastPublishedAt": "2026-10-07T22:27:16.266Z",
+      "publishCount": 42,
       "isArchived": false
     },
     {
@@ -41,9 +63,9 @@
       "url": "https://www.grants.gov/search-results-detail/344124",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-22T02:18:02.240Z",
-      "lastSeenAt": "2026-10-07T12:16:45.575Z",
-      "lastPublishedAt": "2026-10-07T12:16:45.575Z",
-      "publishCount": 45,
+      "lastSeenAt": "2026-10-07T22:27:16.266Z",
+      "lastPublishedAt": "2026-10-07T22:27:16.266Z",
+      "publishCount": 46,
       "isArchived": false
     },
     {
@@ -63,9 +85,9 @@
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastSeenAt": "2026-10-07T12:16:45.575Z",
-      "lastPublishedAt": "2026-10-07T12:16:45.575Z",
-      "publishCount": 62,
+      "lastSeenAt": "2026-10-07T22:27:16.266Z",
+      "lastPublishedAt": "2026-10-07T22:27:16.266Z",
+      "publishCount": 63,
       "isArchived": false
     },
     {
@@ -85,9 +107,9 @@
       "url": "https://www.grants.gov/search-results-detail/362850",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-10-07T12:16:45.575Z",
-      "lastPublishedAt": "2026-10-07T12:16:45.575Z",
-      "publishCount": 64,
+      "lastSeenAt": "2026-10-07T22:27:16.266Z",
+      "lastPublishedAt": "2026-10-07T22:27:16.266Z",
+      "publishCount": 65,
       "isArchived": false
     },
     {
@@ -107,9 +129,9 @@
       "url": "https://www.grants.gov/search-results-detail/344608",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-10-07T12:16:45.575Z",
-      "lastPublishedAt": "2026-10-07T12:16:45.575Z",
-      "publishCount": 44,
+      "lastSeenAt": "2026-10-07T22:27:16.266Z",
+      "lastPublishedAt": "2026-10-07T22:27:16.266Z",
+      "publishCount": 45,
       "isArchived": false
     },
     {
@@ -129,9 +151,9 @@
       "url": "https://www.grants.gov/search-results-detail/357554",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-10-07T12:16:45.575Z",
-      "lastPublishedAt": "2026-10-07T12:16:45.575Z",
-      "publishCount": 22,
+      "lastSeenAt": "2026-10-07T22:27:16.266Z",
+      "lastPublishedAt": "2026-10-07T22:27:16.266Z",
+      "publishCount": 23,
       "isArchived": false
     },
     {
@@ -2247,5 +2269,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 102 | Archivadas: 96"
+  "message": "Historico acumulado del agente UCI-F. Total: 103 | Archivadas: 97"
 }

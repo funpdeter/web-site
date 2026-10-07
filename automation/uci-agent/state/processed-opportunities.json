@@ -1968,17 +1968,22 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/612643-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "h572007c0": {
+      "at": "2026-10-07T22:25:09.795Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/index.php/comunicaciones/noticias",
+      "viable": false
+    },
+    "hbedf95da": {
+      "at": "2026-10-07T22:27:16.248Z",
+      "sourceId": "ted-europa",
+      "url": "https://ted.europa.eu/en/notice/-/detail/616247-2026",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-09-29T11:45:06.038Z",
-      "endedAt": "2026-09-29T11:46:38.439Z",
-      "scannedCandidates": 9,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-09-29T17:12:12.200Z",
       "endedAt": "2026-09-29T17:13:08.769Z",
@@ -2207,6 +2212,14 @@
       "startedAt": "2026-10-07T12:15:42.509Z",
       "endedAt": "2026-10-07T12:16:45.577Z",
       "scannedCandidates": 6,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-10-07T22:25:06.186Z",
+      "endedAt": "2026-10-07T22:27:16.268Z",
+      "scannedCandidates": 7,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
