@@ -1981,17 +1981,15 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/616247-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "h4dfdfce5": {
+      "at": "2026-10-08T03:26:40.424Z",
+      "sourceId": "minambiente",
+      "url": "https://www.minambiente.gov.co/gobierno-fortalece-capacidad-de-respuesta-para-atender-enmallamientos-y-varamientos-de-mamiferos-marinos",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-09-29T17:12:12.200Z",
-      "endedAt": "2026-09-29T17:13:08.769Z",
-      "scannedCandidates": 9,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-09-29T21:37:08.756Z",
       "endedAt": "2026-09-29T21:38:20.284Z",
@@ -2219,6 +2217,14 @@
     {
       "startedAt": "2026-10-07T22:25:06.186Z",
       "endedAt": "2026-10-07T22:27:16.268Z",
+      "scannedCandidates": 7,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-10-08T03:26:19.372Z",
+      "endedAt": "2026-10-08T03:28:50.478Z",
       "scannedCandidates": 7,
       "viableCandidates": 0,
       "sentNotifications": 0,
