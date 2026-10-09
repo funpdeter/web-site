@@ -1,7 +1,24 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-10-09T03:33:24.481Z",
+  "updatedAt": "2026-10-09T12:15:50.415Z",
   "opportunities": [
+    {
+      "id": "ha25ea76c",
+      "sourceId": "minciencias",
+      "title": "CONVOCATORIA DE EMERGENCIA PARA LA RECUPERACIÓN Y GENERACIÓN DE CAPACIDADES TRANSFORMADORAS, EN EL MARCO DEL DECRETO 1414 DE 17 DE SEPTIEMBRE DE 2026",
+      "source": "Minciencias",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2026-11-03T12:14:51.742Z",
+      "amount": 700000000000,
+      "currency": "COP",
+      "amountUsd": 175000000,
+      "scoreTotal": 19,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://minciencias.gov.co/convocatorias/convocatoria-emergencia-para-la-recuperacion-y-generacion-capacidades-transformadoras",
+      "publicationNumber": "56"
+    },
     {
       "id": "he62306d1",
       "sourceId": "minciencias",
@@ -9,7 +26,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-10-23T12:25:54.915Z",
+      "deadline": "2026-10-23T12:14:53.172Z",
       "amount": 2809479244400,
       "currency": "COP",
       "amountUsd": 702369811.1,
@@ -105,6 +122,5 @@
       "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 1 | USA: 5 | EUROPA: 0",
-  "reusedForPublicationDay": true
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 2 | USA: 5 | EUROPA: 0"
 }
