@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-10-10T03:13:11.088Z",
+  "updatedAt": "2026-10-10T11:34:02.074Z",
   "opportunities": [
     {
       "id": "h59cc6186",
@@ -19,8 +19,8 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11000908",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastPublishedAt": null,
+      "lastSeenAt": "2026-10-10T11:34:02.074Z",
+      "lastPublishedAt": "2026-10-10T03:13:11.088Z",
       "publishCount": 0,
       "isArchived": true
     },
@@ -41,10 +41,10 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11014525",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastPublishedAt": null,
-      "publishCount": 0,
-      "isArchived": true
+      "lastSeenAt": "2026-10-10T11:34:02.074Z",
+      "lastPublishedAt": "2026-10-10T11:34:02.074Z",
+      "publishCount": 1,
+      "isArchived": false
     },
     {
       "id": "hf2f8bb17",
@@ -63,10 +63,10 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10832547",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastPublishedAt": null,
-      "publishCount": 0,
-      "isArchived": true
+      "lastSeenAt": "2026-10-10T11:34:02.074Z",
+      "lastPublishedAt": "2026-10-10T11:34:02.074Z",
+      "publishCount": 1,
+      "isArchived": false
     },
     {
       "id": "h58da6d9f",
@@ -85,10 +85,10 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10929302",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastPublishedAt": null,
-      "publishCount": 0,
-      "isArchived": true
+      "lastSeenAt": "2026-10-10T11:34:02.074Z",
+      "lastPublishedAt": "2026-10-10T11:34:02.074Z",
+      "publishCount": 1,
+      "isArchived": false
     },
     {
       "id": "hc5fa2ea2",
@@ -107,8 +107,8 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10993542",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastPublishedAt": null,
+      "lastSeenAt": "2026-10-10T11:34:02.074Z",
+      "lastPublishedAt": "2026-10-10T03:13:11.088Z",
       "publishCount": 0,
       "isArchived": true
     },
@@ -129,10 +129,10 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10955209",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastPublishedAt": null,
-      "publishCount": 0,
-      "isArchived": true
+      "lastSeenAt": "2026-10-10T11:34:02.074Z",
+      "lastPublishedAt": "2026-10-10T11:34:02.074Z",
+      "publishCount": 1,
+      "isArchived": false
     },
     {
       "id": "hc1a63154",
@@ -151,8 +151,8 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10963293",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastPublishedAt": null,
+      "lastSeenAt": "2026-10-10T11:34:02.074Z",
+      "lastPublishedAt": "2026-10-10T03:13:11.088Z",
       "publishCount": 0,
       "isArchived": true
     },
@@ -173,8 +173,8 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10986514",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastPublishedAt": null,
+      "lastSeenAt": "2026-10-10T11:34:02.074Z",
+      "lastPublishedAt": "2026-10-10T03:13:11.088Z",
       "publishCount": 0,
       "isArchived": true
     },
@@ -195,8 +195,8 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10953543",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastPublishedAt": null,
+      "lastSeenAt": "2026-10-10T11:34:02.074Z",
+      "lastPublishedAt": "2026-10-10T03:13:11.088Z",
       "publishCount": 0,
       "isArchived": true
     },
@@ -217,10 +217,10 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11032752",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastPublishedAt": null,
-      "publishCount": 0,
-      "isArchived": true
+      "lastSeenAt": "2026-10-10T11:34:02.074Z",
+      "lastPublishedAt": "2026-10-10T11:34:02.074Z",
+      "publishCount": 1,
+      "isArchived": false
     },
     {
       "id": "hc3453b7c",
@@ -239,10 +239,10 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11031340",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastPublishedAt": null,
-      "publishCount": 0,
-      "isArchived": true
+      "lastSeenAt": "2026-10-10T11:34:02.074Z",
+      "lastPublishedAt": "2026-10-10T11:34:02.074Z",
+      "publishCount": 1,
+      "isArchived": false
     },
     {
       "id": "h856f80d3",
@@ -261,8 +261,8 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11027517",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastPublishedAt": null,
+      "lastSeenAt": "2026-10-10T11:34:02.074Z",
+      "lastPublishedAt": "2026-10-10T03:13:11.088Z",
       "publishCount": 0,
       "isArchived": true
     },
@@ -283,10 +283,10 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11026698",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastPublishedAt": null,
-      "publishCount": 0,
-      "isArchived": true
+      "lastSeenAt": "2026-10-10T11:34:02.074Z",
+      "lastPublishedAt": "2026-10-10T11:34:02.074Z",
+      "publishCount": 1,
+      "isArchived": false
     },
     {
       "id": "h5524ee6f",
@@ -305,8 +305,8 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11027089",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastPublishedAt": null,
+      "lastSeenAt": "2026-10-10T11:34:02.074Z",
+      "lastPublishedAt": "2026-10-10T03:13:11.088Z",
       "publishCount": 0,
       "isArchived": true
     },
@@ -327,8 +327,8 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11018385",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastPublishedAt": null,
+      "lastSeenAt": "2026-10-10T11:34:02.074Z",
+      "lastPublishedAt": "2026-10-10T03:13:11.088Z",
       "publishCount": 0,
       "isArchived": true
     },
@@ -339,7 +339,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-11-03T12:14:51.742Z",
+      "deadline": "2026-11-03T11:32:52.495Z",
       "amount": 700000000000,
       "currency": "COP",
       "amountUsd": 175000000,
@@ -349,9 +349,9 @@
       "url": "https://minciencias.gov.co/convocatorias/convocatoria-emergencia-para-la-recuperacion-y-generacion-capacidades-transformadoras",
       "publicationNumber": "56",
       "firstSeenAt": "2026-10-09T03:33:24.494Z",
-      "lastSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastPublishedAt": "2026-10-10T03:13:11.088Z",
-      "publishCount": 3,
+      "lastSeenAt": "2026-10-10T11:34:02.074Z",
+      "lastPublishedAt": "2026-10-10T11:34:02.074Z",
+      "publishCount": 4,
       "isArchived": false
     },
     {
@@ -361,7 +361,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-10-23T12:14:53.172Z",
+      "deadline": "2026-10-23T11:32:54.098Z",
       "amount": 2809479244400,
       "currency": "COP",
       "amountUsd": 702369811.1,
@@ -371,9 +371,9 @@
       "url": "https://minciencias.gov.co/node/9573",
       "publicationNumber": "53",
       "firstSeenAt": "2026-09-26T02:26:48.810Z",
-      "lastSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastPublishedAt": "2026-10-10T03:13:11.088Z",
-      "publishCount": 49,
+      "lastSeenAt": "2026-10-10T11:34:02.074Z",
+      "lastPublishedAt": "2026-10-10T11:34:02.074Z",
+      "publishCount": 50,
       "isArchived": false
     },
     {
@@ -393,7 +393,7 @@
       "url": "https://community.secop.gov.co/STS/Users/Login/Index",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-26T02:26:48.810Z",
-      "lastSeenAt": "2026-10-10T03:13:11.088Z",
+      "lastSeenAt": "2026-10-10T11:34:02.074Z",
       "lastPublishedAt": "2026-09-27T02:23:25.351Z",
       "publishCount": 4,
       "isArchived": true
@@ -415,10 +415,10 @@
       "url": "https://www.grants.gov/search-results-detail/344124",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-22T02:18:02.240Z",
-      "lastSeenAt": "2026-10-10T03:13:11.088Z",
+      "lastSeenAt": "2026-10-10T11:34:02.074Z",
       "lastPublishedAt": "2026-10-10T03:13:11.088Z",
       "publishCount": 53,
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "he69c4641",
@@ -437,10 +437,10 @@
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastSeenAt": "2026-10-10T03:13:11.088Z",
+      "lastSeenAt": "2026-10-10T11:34:02.074Z",
       "lastPublishedAt": "2026-10-10T03:13:11.088Z",
       "publishCount": 70,
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h93bf7b48",
@@ -459,10 +459,10 @@
       "url": "https://www.grants.gov/search-results-detail/362850",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-10-10T03:13:11.088Z",
+      "lastSeenAt": "2026-10-10T11:34:02.074Z",
       "lastPublishedAt": "2026-10-10T03:13:11.088Z",
       "publishCount": 72,
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h5bba99f",
@@ -481,10 +481,10 @@
       "url": "https://www.grants.gov/search-results-detail/344608",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-10-10T03:13:11.088Z",
+      "lastSeenAt": "2026-10-10T11:34:02.074Z",
       "lastPublishedAt": "2026-10-10T03:13:11.088Z",
       "publishCount": 52,
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h54036d6f",
@@ -503,9 +503,9 @@
       "url": "https://www.grants.gov/search-results-detail/357554",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-10-10T03:13:11.088Z",
-      "lastPublishedAt": "2026-10-10T03:13:11.088Z",
-      "publishCount": 30,
+      "lastSeenAt": "2026-10-10T11:34:02.074Z",
+      "lastPublishedAt": "2026-10-10T11:34:02.074Z",
+      "publishCount": 31,
       "isArchived": false
     },
     {
@@ -2621,5 +2621,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 119 | Archivadas: 112"
+  "message": "Historico acumulado del agente UCI-F. Total: 119 | Archivadas: 109"
 }
