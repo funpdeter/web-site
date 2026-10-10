@@ -1994,17 +1994,124 @@
       "url": "https://minciencias.gov.co/convocatorias/convocatoria-emergencia-para-la-recuperacion-y-generacion-capacidades-transformadoras",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "hbb7eb78d": {
+      "at": "2026-10-10T03:13:11.056Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11031340",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hf30eb46a": {
+      "at": "2026-10-10T03:13:11.056Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11027517",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hfcfeb5b": {
+      "at": "2026-10-10T03:13:11.057Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11026698",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h8934783e": {
+      "at": "2026-10-10T03:13:11.072Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10832547",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-10T03-13-11-057Z_secop-ii_servicio-de-alojamiento-y-alimentacion-para-el-per"
+    },
+    "ha243eb3e": {
+      "at": "2026-10-10T03:13:11.072Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11027089",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h3f21b18e": {
+      "at": "2026-10-10T03:13:11.073Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10986514",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-10T03-13-11-072Z_secop-ii_realizar-encuesta-de-evaluacion-de-coberturas-de-v"
+    },
+    "h23e6fb2c": {
+      "at": "2026-10-10T03:13:11.074Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10953543",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-10T03-13-11-073Z_secop-ii_suministro-de-demarcacion-reductores-de-velocidad-"
+    },
+    "hdfd0ab19": {
+      "at": "2026-10-10T03:13:11.074Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10963293",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-10T03-13-11-074Z_secop-ii_adquisicion-de-camiones"
+    },
+    "h8959b695": {
+      "at": "2026-10-10T03:13:11.075Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10955209",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-10T03-13-11-074Z_secop-ii_interventoria-termoplastica"
+    },
+    "h1a008d32": {
+      "at": "2026-10-10T03:13:11.076Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10929302",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-10T03-13-11-075Z_secop-ii_adquisicion-de-ambulancias-terrestres-tab-4x4-a-di"
+    },
+    "h36a46c23": {
+      "at": "2026-10-10T03:13:11.076Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10993542",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-10T03-13-11-076Z_secop-ii_mantenimiento-de-la-via-secundaria-alto-mejue-tole"
+    },
+    "h70ec6f79": {
+      "at": "2026-10-10T03:13:11.077Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11014525",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-10T03-13-11-076Z_secop-ii_contratar-la-ejecucion-de-obras-de-mejoramiento-ad"
+    },
+    "hccaa766d": {
+      "at": "2026-10-10T03:13:11.077Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11018385",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h3b3c146b": {
+      "at": "2026-10-10T03:13:11.077Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11000908",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-10T03-13-11-077Z_secop-ii_contrato-interadministrativo-para-la-prestacion-de"
+    },
+    "hb1348c45": {
+      "at": "2026-10-10T03:13:11.078Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11032752",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-10T03-13-11-077Z_secop-ii_suministro-de-demarcacion-reductores-de-velocidad-"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-01T02:57:08.479Z",
-      "endedAt": "2026-10-01T02:58:03.871Z",
-      "scannedCandidates": 5,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-01T11:59:59.553Z",
       "endedAt": "2026-10-01T12:01:26.635Z",
@@ -2234,6 +2341,14 @@
       "endedAt": "2026-10-09T22:00:43.389Z",
       "scannedCandidates": 7,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-10-10T03:12:14.723Z",
+      "endedAt": "2026-10-10T03:13:11.091Z",
+      "scannedCandidates": 23,
+      "viableCandidates": 10,
       "sentNotifications": 0,
       "transport": "console"
     }
