@@ -2109,17 +2109,84 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-10T03-13-11-077Z_secop-ii_suministro-de-demarcacion-reductores-de-velocidad-"
+    },
+    "hd93287f": {
+      "at": "2026-10-10T20:52:00.971Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11040250",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hdfd653f9": {
+      "at": "2026-10-10T20:52:00.983Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11041130",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-10T20-52-00-972Z_secop-ii_convenio-interadministrativo"
+    },
+    "h840ccfa2": {
+      "at": "2026-10-10T20:52:00.983Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11035459",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-10T20-52-00-983Z_secop-ii_aunar-esfuerzos-para-fortalecer-unidades-productiv"
+    },
+    "hfac03c0b": {
+      "at": "2026-10-10T20:52:00.984Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11038275",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h27e1c235": {
+      "at": "2026-10-10T20:52:00.984Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11034800",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h2c5226cb": {
+      "at": "2026-10-10T20:52:00.984Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10971627",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-10T20-52-00-984Z_secop-ii_contratar-la-ejecucion-de-obras-de-mejoramiento-ad"
+    },
+    "h6fc7afff": {
+      "at": "2026-10-10T20:52:00.984Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11038240",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hf5ed4a5b": {
+      "at": "2026-10-10T20:52:00.985Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11026827",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-10T20-52-00-985Z_secop-ii_construccion-de-hornillas-ecoeficientes-moviles-y-"
+    },
+    "h5acc5e0f": {
+      "at": "2026-10-10T20:52:00.985Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10996390",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hff06cd2f": {
+      "at": "2026-10-10T20:52:00.985Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10975865",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-10T20-52-00-985Z_secop-ii_seleccion-abreviada-de-menor-cuantia"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-02T02:59:35.107Z",
-      "endedAt": "2026-10-02T03:00:39.181Z",
-      "scannedCandidates": 5,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-02T11:31:42.981Z",
       "endedAt": "2026-10-02T11:33:26.418Z",
@@ -2349,6 +2416,14 @@
       "endedAt": "2026-10-10T16:34:38.333Z",
       "scannedCandidates": 23,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-10-10T20:50:49.089Z",
+      "endedAt": "2026-10-10T20:52:00.994Z",
+      "scannedCandidates": 23,
+      "viableCandidates": 5,
       "sentNotifications": 0,
       "transport": "console"
     }
