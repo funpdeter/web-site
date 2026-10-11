@@ -2184,17 +2184,45 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-10T20-52-00-985Z_secop-ii_seleccion-abreviada-de-menor-cuantia"
+    },
+    "h8c54efc1": {
+      "at": "2026-10-11T02:44:53.485Z",
+      "sourceId": "gobernaciones",
+      "url": "https://bogota.gov.co/boletin-oferta-internacional/convocatoria-la-caixa-2026-para-proyectos-de-cooperacion-internacion",
+      "viable": false
+    },
+    "ha8741d1": {
+      "at": "2026-10-11T02:44:54.167Z",
+      "sourceId": "gobernaciones",
+      "url": "https://minciencias.gov.co/convocatorias/programa-y-proyectos-ctei/convocatoria-para-la-financiacion-proyectos-ctei-con-enfoque",
+      "viable": false
+    },
+    "hf6ca96b": {
+      "at": "2026-10-11T02:44:54.563Z",
+      "sourceId": "gobernaciones",
+      "url": "https://fuga.gov.co/convocatorias",
+      "viable": false
+    },
+    "h5bc99890": {
+      "at": "2026-10-11T02:44:55.211Z",
+      "sourceId": "gobernaciones",
+      "url": "https://www.cnsc.gov.co/convocatorias",
+      "viable": false
+    },
+    "he1a3eec": {
+      "at": "2026-10-11T02:44:55.306Z",
+      "sourceId": "gobernaciones",
+      "url": "https://www1.funcionpublica.gov.co/avisos-de-convocatoria-publica",
+      "viable": false
+    },
+    "hc11fda01": {
+      "at": "2026-10-11T02:44:55.835Z",
+      "sourceId": "gobernaciones",
+      "url": "https://www.procuraduria.gov.co/procuraduria/concurso/Pages/default1.aspx",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-02T11:31:42.981Z",
-      "endedAt": "2026-10-02T11:33:26.418Z",
-      "scannedCandidates": 6,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-02T16:59:14.044Z",
       "endedAt": "2026-10-02T17:01:37.365Z",
@@ -2424,6 +2452,14 @@
       "endedAt": "2026-10-10T20:52:00.994Z",
       "scannedCandidates": 23,
       "viableCandidates": 5,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-10-11T02:44:23.388Z",
+      "endedAt": "2026-10-11T02:45:35.038Z",
+      "scannedCandidates": 23,
+      "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
     }
