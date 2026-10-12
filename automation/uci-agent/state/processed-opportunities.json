@@ -2220,17 +2220,125 @@
       "sourceId": "gobernaciones",
       "url": "https://www.procuraduria.gov.co/procuraduria/concurso/Pages/default1.aspx",
       "viable": false
+    },
+    "hf730b844": {
+      "at": "2026-10-12T03:09:10.931Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10974571",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-12T03-09-10-922Z_secop-ii_fotobiorreactor"
+    },
+    "h5daf5cbc": {
+      "at": "2026-10-12T03:09:10.931Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11031097",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h3d914d55": {
+      "at": "2026-10-12T03:09:10.931Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11020452",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "he7632d97": {
+      "at": "2026-10-12T03:09:10.932Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11010848",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-12T03-09-10-931Z_secop-ii_realizar-la-implementacion-de-un-vivero-transitori"
+    },
+    "h555c637e": {
+      "at": "2026-10-12T03:09:10.932Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11018960",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hef6f188d": {
+      "at": "2026-10-12T03:09:10.932Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10944382",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-12T03-09-10-932Z_secop-ii_desarrollar-acciones-tecnicas-pedagogicas-y-de-art"
+    },
+    "hdbd43d2b": {
+      "at": "2026-10-12T03:09:10.933Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11023420",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-12T03-09-10-932Z_secop-ii_adquisicion-de-bloqueadores-vehiculares-tipo-cepo-"
+    },
+    "h5ea14867": {
+      "at": "2026-10-12T03:09:10.933Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10944911",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-12T03-09-10-933Z_secop-ii_adecuacion-y-construccion-de-la-infraestructura-cu"
+    },
+    "h1f792df": {
+      "at": "2026-10-12T03:09:10.933Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11033199",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-12T03-09-10-933Z_secop-ii_mc-039-2026"
+    },
+    "hd6c90ac1": {
+      "at": "2026-10-12T03:09:10.934Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10948816",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-12T03-09-10-933Z_secop-ii_suministrar-instalar-y-poner-en-funcionamiento-un-"
+    },
+    "hd3bbc9ed": {
+      "at": "2026-10-12T03:09:10.934Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11041673",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-12T03-09-10-934Z_secop-ii_arrendamiento-de-un-area-fisica-de-72-10-m-ubicada"
+    },
+    "h7e42ca21": {
+      "at": "2026-10-12T03:09:10.934Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11013069",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-12T03-09-10-934Z_secop-ii_dotacion-de-articulos-deportivos-para-la-practica-"
+    },
+    "hc74d1b70": {
+      "at": "2026-10-12T03:09:10.934Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10901867",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-12T03-09-10-934Z_secop-ii_mantenimiento-plataformas-ccoci"
+    },
+    "h392ad501": {
+      "at": "2026-10-12T03:09:10.935Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11032712",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-12T03-09-10-935Z_secop-ii_adecuacion-y-mantenimiento-de-la-infraestructura-d"
+    },
+    "hf5b2c588": {
+      "at": "2026-10-12T03:09:10.935Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11001854",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-03T10:47:20.060Z",
-      "endedAt": "2026-10-03T10:49:18.670Z",
-      "scannedCandidates": 22,
-      "viableCandidates": 8,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-03T15:22:56.568Z",
       "endedAt": "2026-10-03T15:24:45.146Z",
@@ -2460,6 +2568,14 @@
       "endedAt": "2026-10-11T21:13:24.761Z",
       "scannedCandidates": 23,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-10-12T03:07:44.357Z",
+      "endedAt": "2026-10-12T03:09:10.942Z",
+      "scannedCandidates": 23,
+      "viableCandidates": 11,
       "sentNotifications": 0,
       "transport": "console"
     }
