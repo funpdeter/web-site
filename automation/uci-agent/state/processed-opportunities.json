@@ -2336,17 +2336,80 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11001854",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "h4f4b15e6": {
+      "at": "2026-10-12T23:57:34.455Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11047443",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-12T23-57-34-446Z_secop-ii_construcion-rehabilitacion-mantenimiento-mejoramie"
+    },
+    "h9dda4f62": {
+      "at": "2026-10-12T23:57:34.455Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11023171",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-12T23-57-34-455Z_secop-ii_adquisicion-de-pabellones-banderines-empavesados-y"
+    },
+    "he1b6579d": {
+      "at": "2026-10-12T23:57:34.456Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10954800",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-12T23-57-34-456Z_secop-ii_matenimiento-ptar-ptap-estudios"
+    },
+    "hc4d9b50c": {
+      "at": "2026-10-12T23:57:34.456Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11040750",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h9c2ac1c9": {
+      "at": "2026-10-12T23:57:34.457Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11026542",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-12T23-57-34-456Z_secop-ii_adquisicion-materiales-de-formacion-joyeria"
+    },
+    "h5c9bf0c1": {
+      "at": "2026-10-12T23:57:34.457Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11003792",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-12T23-57-34-457Z_secop-ii_compra-de-mobiliario"
+    },
+    "hfc533cfb": {
+      "at": "2026-10-12T23:57:34.457Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11019384",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-12T23-57-34-457Z_secop-ii_adquisicion-de-equipos-de-medicion-e-instrumentaci"
+    },
+    "hc54e041d": {
+      "at": "2026-10-12T23:57:34.458Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11030480",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-12T23-57-34-457Z_secop-ii_adquisicion-de-elementos-y-recursos-de-apoyo-para-"
+    },
+    "h69f126d8": {
+      "at": "2026-10-12T23:57:34.458Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11043539",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-12T23-57-34-458Z_secop-ii_adquisicion-de-poliza-de-vida-para-los-ediles-del-"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-03T20:19:36.946Z",
-      "endedAt": "2026-10-03T20:22:07.341Z",
-      "scannedCandidates": 22,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-04T03:17:34.695Z",
       "endedAt": "2026-10-04T03:18:26.896Z",
@@ -2576,6 +2639,14 @@
       "endedAt": "2026-10-12T13:49:39.421Z",
       "scannedCandidates": 23,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-10-12T23:56:10.519Z",
+      "endedAt": "2026-10-12T23:57:34.466Z",
+      "scannedCandidates": 23,
+      "viableCandidates": 8,
       "sentNotifications": 0,
       "transport": "console"
     }
