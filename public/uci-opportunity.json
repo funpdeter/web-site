@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-10-14T02:35:41.303Z",
+  "updatedAt": "2026-10-14T10:49:30.391Z",
   "opportunities": [
     {
       "id": "ha25ea76c",
@@ -9,7 +9,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-11-03T13:08:06.582Z",
+      "deadline": "2026-11-03T10:48:30.928Z",
       "amount": 700000000000,
       "currency": "COP",
       "amountUsd": 175000000,
@@ -26,7 +26,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-10-23T13:08:08.367Z",
+      "deadline": "2026-10-23T10:48:32.442Z",
       "amount": 2809479244400,
       "currency": "COP",
       "amountUsd": 702369811.1,
@@ -88,23 +88,6 @@
       "publicationNumber": null
     },
     {
-      "id": "he69c4641",
-      "sourceId": "usaid",
-      "title": "Tribal Colleges and Universities Program (TCUP)",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-10-14T00:00:00.000Z",
-      "amount": 3500000,
-      "currency": "USD",
-      "amountUsd": 3500000,
-      "scoreTotal": 16,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://www.grants.gov/search-results-detail/334326",
-      "publicationNumber": null
-    },
-    {
       "id": "h93bf7b48",
       "sourceId": "usaid",
       "title": "DoW Rare Cancers Resource and Community Development Award",
@@ -122,6 +105,5 @@
       "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 2 | USA: 5 | EUROPA: 0",
-  "reusedForPublicationDay": true
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 2 | USA: 4 | EUROPA: 0"
 }
