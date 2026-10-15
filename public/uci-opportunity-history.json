@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-10-15T02:16:00.924Z",
+  "updatedAt": "2026-10-15T10:32:22.393Z",
   "opportunities": [
     {
       "id": "ha25ea76c",
@@ -9,7 +9,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-11-03T10:48:30.928Z",
+      "deadline": "2026-11-03T10:31:32.570Z",
       "amount": 700000000000,
       "currency": "COP",
       "amountUsd": 175000000,
@@ -19,9 +19,9 @@
       "url": "https://minciencias.gov.co/convocatorias/convocatoria-emergencia-para-la-recuperacion-y-generacion-capacidades-transformadoras",
       "publicationNumber": "56",
       "firstSeenAt": "2026-10-09T03:33:24.494Z",
-      "lastSeenAt": "2026-10-15T02:16:00.924Z",
-      "lastPublishedAt": "2026-10-15T02:16:00.924Z",
-      "publishCount": 21,
+      "lastSeenAt": "2026-10-15T10:32:22.393Z",
+      "lastPublishedAt": "2026-10-15T10:32:22.393Z",
+      "publishCount": 22,
       "isArchived": false
     },
     {
@@ -31,7 +31,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-10-23T10:48:32.442Z",
+      "deadline": "2026-10-23T10:31:33.814Z",
       "amount": 2809479244400,
       "currency": "COP",
       "amountUsd": 702369811.1,
@@ -41,9 +41,9 @@
       "url": "https://minciencias.gov.co/node/9573",
       "publicationNumber": "53",
       "firstSeenAt": "2026-09-26T02:26:48.810Z",
-      "lastSeenAt": "2026-10-15T02:16:00.924Z",
-      "lastPublishedAt": "2026-10-15T02:16:00.924Z",
-      "publishCount": 67,
+      "lastSeenAt": "2026-10-15T10:32:22.393Z",
+      "lastPublishedAt": "2026-10-15T10:32:22.393Z",
+      "publishCount": 68,
       "isArchived": false
     },
     {
@@ -63,9 +63,31 @@
       "url": "https://www.grants.gov/search-results-detail/344124",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-22T02:18:02.240Z",
-      "lastSeenAt": "2026-10-15T02:16:00.924Z",
-      "lastPublishedAt": "2026-10-15T02:16:00.924Z",
-      "publishCount": 60,
+      "lastSeenAt": "2026-10-15T10:32:22.393Z",
+      "lastPublishedAt": "2026-10-15T10:32:22.393Z",
+      "publishCount": 61,
+      "isArchived": false
+    },
+    {
+      "id": "he69c4641",
+      "sourceId": "usaid",
+      "title": "Tribal Colleges and Universities Program (TCUP)",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2027-01-11T00:00:00.000Z",
+      "amount": 3500000,
+      "currency": "USD",
+      "amountUsd": 3500000,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://www.grants.gov/search-results-detail/334326",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-09-15T01:39:47.404Z",
+      "lastSeenAt": "2026-10-15T10:32:22.393Z",
+      "lastPublishedAt": "2026-10-15T10:32:22.393Z",
+      "publishCount": 74,
       "isArchived": false
     },
     {
@@ -85,9 +107,9 @@
       "url": "https://www.grants.gov/search-results-detail/362850",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-10-15T02:16:00.924Z",
-      "lastPublishedAt": "2026-10-15T02:16:00.924Z",
-      "publishCount": 79,
+      "lastSeenAt": "2026-10-15T10:32:22.393Z",
+      "lastPublishedAt": "2026-10-15T10:32:22.393Z",
+      "publishCount": 80,
       "isArchived": false
     },
     {
@@ -107,9 +129,9 @@
       "url": "https://www.grants.gov/search-results-detail/344608",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-10-15T02:16:00.924Z",
-      "lastPublishedAt": "2026-10-15T02:16:00.924Z",
-      "publishCount": 59,
+      "lastSeenAt": "2026-10-15T10:32:22.393Z",
+      "lastPublishedAt": "2026-10-15T10:32:22.393Z",
+      "publishCount": 60,
       "isArchived": false
     },
     {
@@ -129,32 +151,10 @@
       "url": "https://www.grants.gov/search-results-detail/357554",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-10-15T02:16:00.924Z",
-      "lastPublishedAt": "2026-10-15T02:16:00.924Z",
-      "publishCount": 48,
+      "lastSeenAt": "2026-10-15T10:32:22.393Z",
+      "lastPublishedAt": "2026-10-15T10:32:22.393Z",
+      "publishCount": 49,
       "isArchived": false
-    },
-    {
-      "id": "he69c4641",
-      "sourceId": "usaid",
-      "title": "Tribal Colleges and Universities Program (TCUP)",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-10-14T00:00:00.000Z",
-      "amount": 3500000,
-      "currency": "USD",
-      "amountUsd": 3500000,
-      "scoreTotal": 16,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://www.grants.gov/search-results-detail/334326",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastSeenAt": "2026-10-14T02:35:41.317Z",
-      "lastPublishedAt": "2026-10-14T02:35:41.317Z",
-      "publishCount": 73,
-      "isArchived": true
     },
     {
       "id": "h3da71970",
@@ -3369,5 +3369,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 153 | Archivadas: 147"
+  "message": "Historico acumulado del agente UCI-F. Total: 153 | Archivadas: 146"
 }
