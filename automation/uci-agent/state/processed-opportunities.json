@@ -2413,17 +2413,16 @@
       "sourceId": "minambiente",
       "url": "https://www.minambiente.gov.co/patria-milagro-anunciara-nuevos-recursos-de-cooperacion-internacional-en-la-cop17-de-biodiversidad",
       "viable": false
+    },
+    "h4ffda285": {
+      "at": "2026-10-16T20:14:29.803Z",
+      "sourceId": "usaid",
+      "url": "https://www.grants.gov/search-results-detail/364087",
+      "viable": false,
+      "reason": "No aplicar"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-08T12:25:48.812Z",
-      "endedAt": "2026-10-08T12:27:23.831Z",
-      "scannedCandidates": 6,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-08T22:38:08.554Z",
       "endedAt": "2026-10-08T22:39:32.538Z",
@@ -2651,6 +2650,14 @@
     {
       "startedAt": "2026-10-16T15:44:22.317Z",
       "endedAt": "2026-10-16T15:45:35.866Z",
+      "scannedCandidates": 7,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-10-16T20:13:14.944Z",
+      "endedAt": "2026-10-16T20:14:29.820Z",
       "scannedCandidates": 7,
       "viableCandidates": 0,
       "sentNotifications": 0,
