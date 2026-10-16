@@ -2407,17 +2407,15 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-12T23-57-34-458Z_secop-ii_adquisicion-de-poliza-de-vida-para-los-ediles-del-"
+    },
+    "habbf40bb": {
+      "at": "2026-10-16T02:06:06.497Z",
+      "sourceId": "minambiente",
+      "url": "https://www.minambiente.gov.co/patria-milagro-anunciara-nuevos-recursos-de-cooperacion-internacional-en-la-cop17-de-biodiversidad",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-07T12:15:42.509Z",
-      "endedAt": "2026-10-07T12:16:45.577Z",
-      "scannedCandidates": 6,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-07T22:25:06.186Z",
       "endedAt": "2026-10-07T22:27:16.268Z",
@@ -2645,6 +2643,14 @@
     {
       "startedAt": "2026-10-15T20:45:58.521Z",
       "endedAt": "2026-10-15T20:47:03.416Z",
+      "scannedCandidates": 7,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-10-16T02:05:42.999Z",
+      "endedAt": "2026-10-16T02:07:04.750Z",
       "scannedCandidates": 7,
       "viableCandidates": 0,
       "sentNotifications": 0,
