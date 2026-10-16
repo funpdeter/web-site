@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-10-16T02:07:04.738Z",
+  "updatedAt": "2026-10-16T10:20:03.506Z",
   "opportunities": [
     {
       "id": "ha25ea76c",
@@ -9,7 +9,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-11-03T10:31:32.570Z",
+      "deadline": "2026-11-03T10:18:51.205Z",
       "amount": 700000000000,
       "currency": "COP",
       "amountUsd": 175000000,
@@ -26,7 +26,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-10-23T10:31:33.814Z",
+      "deadline": "2026-10-23T10:18:52.860Z",
       "amount": 2809479244400,
       "currency": "COP",
       "amountUsd": 702369811.1,
@@ -122,6 +122,5 @@
       "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 2 | USA: 5 | EUROPA: 0",
-  "reusedForPublicationDay": true
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 2 | USA: 5 | EUROPA: 0"
 }
