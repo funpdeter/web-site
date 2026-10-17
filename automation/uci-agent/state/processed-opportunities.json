@@ -2420,17 +2420,132 @@
       "url": "https://www.grants.gov/search-results-detail/364087",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "ha4b7b087": {
+      "at": "2026-10-17T02:01:19.889Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11062867",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h2b4c0744": {
+      "at": "2026-10-17T02:01:19.901Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10943267",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-17T02-01-19-890Z_secop-ii_mantenimiento-de-sede-paramillo"
+    },
+    "h9384ab2a": {
+      "at": "2026-10-17T02:01:19.902Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11062954",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-17T02-01-19-901Z_secop-ii_esal-006-2026"
+    },
+    "h9d919dcc": {
+      "at": "2026-10-17T02:01:19.902Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11058764",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-17T02-01-19-902Z_secop-ii_suministro-de-elementos-para-dotar-el-rancho-y-com"
+    },
+    "h2e24d422": {
+      "at": "2026-10-17T02:01:19.903Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11062781",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-17T02-01-19-902Z_secop-ii_prestacion-de-servicios-de-operador-logistico-oper"
+    },
+    "h4aeb3be5": {
+      "at": "2026-10-17T02:01:19.903Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11066649",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-17T02-01-19-903Z_secop-ii_mdc-dapt-mc-004-2026"
+    },
+    "hfaa3dcf7": {
+      "at": "2026-10-17T02:01:19.904Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11058000",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hb72d2374": {
+      "at": "2026-10-17T02:01:19.904Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11045919",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h255d42f4": {
+      "at": "2026-10-17T02:01:19.904Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11003328",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-17T02-01-19-904Z_secop-ii_prestacion-de-servicios-para-el-fortalecimiento-de"
+    },
+    "h198b35ad": {
+      "at": "2026-10-17T02:01:19.905Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10853468",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-17T02-01-19-904Z_secop-ii_obra-palacio-rionegro"
+    },
+    "hffa239a9": {
+      "at": "2026-10-17T02:01:19.905Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11045071",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h9f63d315": {
+      "at": "2026-10-17T02:01:19.905Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11062142",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-17T02-01-19-905Z_secop-ii_suministro-de-materiales-de-construccion-y-ferrete"
+    },
+    "ha1873e80": {
+      "at": "2026-10-17T02:01:19.906Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10978193",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-17T02-01-19-905Z_secop-ii_construccion-de-obras-de-arte-para-mejoramiento-de"
+    },
+    "h46a26907": {
+      "at": "2026-10-17T02:01:19.906Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10994907",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-17T02-01-19-906Z_secop-ii_inmueble-saravena"
+    },
+    "hbb97895b": {
+      "at": "2026-10-17T02:01:19.906Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10921608",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-17T02-01-19-906Z_secop-ii_prestacion-de-servicios-profesionales-especializad"
+    },
+    "h2ac50c11": {
+      "at": "2026-10-17T02:01:19.907Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/modalidades-de-cooperacion/cooperacion-triangular/convocatorias-cooperacion-triangular/29a",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-08T22:38:08.554Z",
-      "endedAt": "2026-10-08T22:39:32.538Z",
-      "scannedCandidates": 6,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-09T03:31:52.868Z",
       "endedAt": "2026-10-09T03:33:24.497Z",
@@ -2660,6 +2775,14 @@
       "endedAt": "2026-10-16T20:14:29.820Z",
       "scannedCandidates": 7,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-10-17T02:00:05.947Z",
+      "endedAt": "2026-10-17T02:01:19.918Z",
+      "scannedCandidates": 24,
+      "viableCandidates": 11,
       "sentNotifications": 0,
       "transport": "console"
     }
