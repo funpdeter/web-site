@@ -2543,17 +2543,79 @@
       "url": "https://www.apccolombia.gov.co/modalidades-de-cooperacion/cooperacion-triangular/convocatorias-cooperacion-triangular/29a",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "h6d12385b": {
+      "at": "2026-10-18T02:00:11.155Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11028443",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-18T02-00-11-144Z_secop-ii_los-servicios-para-implementar-acciones-integrales"
+    },
+    "h1336dd82": {
+      "at": "2026-10-18T02:00:11.156Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11020039",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h17c5afcd": {
+      "at": "2026-10-18T02:00:11.156Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11057645",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-18T02-00-11-156Z_secop-ii_adquisicion-herramientas-menores"
+    },
+    "haef4dbc1": {
+      "at": "2026-10-18T02:00:11.157Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11040155",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-18T02-00-11-156Z_secop-ii_prestar-el-servicio-de-vigilancia-privada-de-los-b"
+    },
+    "h150ea7e4": {
+      "at": "2026-10-18T02:00:11.158Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10932102",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-18T02-00-11-157Z_secop-ii_contratar-la-consultoria-integral-equipamento-livi"
+    },
+    "h5ec5f510": {
+      "at": "2026-10-18T02:00:11.158Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11044138",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-18T02-00-11-158Z_secop-ii_suministro-de-material-para-el-ejercito-nacional-p"
+    },
+    "hd6396e5": {
+      "at": "2026-10-18T02:00:11.158Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11063408",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hb6601d05": {
+      "at": "2026-10-18T02:00:11.158Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11069752",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-18T02-00-11-158Z_secop-ii_contrato-interadministrativo-008-mandato"
+    },
+    "h994f9712": {
+      "at": "2026-10-18T02:00:11.159Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11013594",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-18T02-00-11-159Z_secop-ii_prestacion-de-servicios-logisticos-y-de-distribuci"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-10T03:12:14.723Z",
-      "endedAt": "2026-10-10T03:13:11.091Z",
-      "scannedCandidates": 23,
-      "viableCandidates": 10,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-10T11:32:45.820Z",
       "endedAt": "2026-10-10T11:34:02.076Z",
@@ -2783,6 +2845,14 @@
       "endedAt": "2026-10-17T19:50:23.134Z",
       "scannedCandidates": 23,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-10-18T01:59:17.314Z",
+      "endedAt": "2026-10-18T02:00:11.168Z",
+      "scannedCandidates": 23,
+      "viableCandidates": 7,
       "sentNotifications": 0,
       "transport": "console"
     }
