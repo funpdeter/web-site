@@ -2613,17 +2613,15 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-18T02-00-11-159Z_secop-ii_prestacion-de-servicios-logisticos-y-de-distribuci"
+    },
+    "hcb2c1fd3": {
+      "at": "2026-10-20T20:59:46.050Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/modalidades-de-cooperacion/colombia-ensena-colombia-col-col",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-13T04:26:55.323Z",
-      "endedAt": "2026-10-13T04:28:24.444Z",
-      "scannedCandidates": 7,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-13T13:08:00.944Z",
       "endedAt": "2026-10-13T13:09:19.529Z",
@@ -2851,6 +2849,14 @@
     {
       "startedAt": "2026-10-20T15:59:32.119Z",
       "endedAt": "2026-10-20T16:11:05.733Z",
+      "scannedCandidates": 7,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-10-20T20:59:37.456Z",
+      "endedAt": "2026-10-20T21:01:10.962Z",
       "scannedCandidates": 7,
       "viableCandidates": 0,
       "sentNotifications": 0,
