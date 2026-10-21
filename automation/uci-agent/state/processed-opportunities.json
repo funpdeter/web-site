@@ -2625,17 +2625,21 @@
       "sourceId": "minambiente",
       "url": "https://regalias.minambiente.gov.co/convocatoria-erosion-costera",
       "viable": false
+    },
+    "h71e207e": {
+      "at": "2026-10-21T16:16:31.684Z",
+      "sourceId": "minambiente",
+      "url": "https://www.gov.co/",
+      "viable": false
+    },
+    "hf8c0ce9f": {
+      "at": "2026-10-21T16:16:33.101Z",
+      "sourceId": "minambiente",
+      "url": "https://www.minambiente.gov.co/",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-14T02:34:26.505Z",
-      "endedAt": "2026-10-14T02:35:41.320Z",
-      "scannedCandidates": 6,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-14T10:48:24.169Z",
       "endedAt": "2026-10-14T10:49:30.403Z",
@@ -2863,6 +2867,14 @@
     {
       "startedAt": "2026-10-21T10:47:33.957Z",
       "endedAt": "2026-10-21T10:48:55.862Z",
+      "scannedCandidates": 7,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-10-21T16:16:03.583Z",
+      "endedAt": "2026-10-21T16:17:35.065Z",
       "scannedCandidates": 7,
       "viableCandidates": 0,
       "sentNotifications": 0,
