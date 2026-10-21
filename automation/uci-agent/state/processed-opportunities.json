@@ -2619,17 +2619,15 @@
       "sourceId": "apc-colombia",
       "url": "https://www.apccolombia.gov.co/modalidades-de-cooperacion/colombia-ensena-colombia-col-col",
       "viable": false
+    },
+    "ha1a6ce04": {
+      "at": "2026-10-21T02:25:12.572Z",
+      "sourceId": "minambiente",
+      "url": "https://regalias.minambiente.gov.co/convocatoria-erosion-costera",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-13T13:08:00.944Z",
-      "endedAt": "2026-10-13T13:09:19.529Z",
-      "scannedCandidates": 7,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-13T22:04:09.934Z",
       "endedAt": "2026-10-13T22:05:20.586Z",
@@ -2857,6 +2855,14 @@
     {
       "startedAt": "2026-10-20T20:59:37.456Z",
       "endedAt": "2026-10-20T21:01:10.962Z",
+      "scannedCandidates": 7,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-10-21T02:24:44.425Z",
+      "endedAt": "2026-10-21T02:26:00.461Z",
       "scannedCandidates": 7,
       "viableCandidates": 0,
       "sentNotifications": 0,
