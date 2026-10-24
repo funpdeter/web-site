@@ -2723,17 +2723,23 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11090786",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "hcdf45f0b": {
+      "at": "2026-10-24T09:58:15.150Z",
+      "sourceId": "minciencias",
+      "url": "https://minciencias.gov.co/convocatorias/convocatoria-especial-para-la-financiacion-macroproyectos-nacionales-para-el",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hbdf8e62": {
+      "at": "2026-10-24T09:58:15.151Z",
+      "sourceId": "minciencias",
+      "url": "https://minciencias.gov.co/convocatorias/convocatoria-54-convocatoria-especial-para-la-financiacion-proyectos-para-el",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-16T20:13:14.944Z",
-      "endedAt": "2026-10-16T20:14:29.820Z",
-      "scannedCandidates": 7,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-17T02:00:05.947Z",
       "endedAt": "2026-10-17T02:01:19.918Z",
@@ -2963,6 +2969,14 @@
       "endedAt": "2026-10-24T02:23:37.270Z",
       "scannedCandidates": 22,
       "viableCandidates": 9,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-10-24T09:57:10.929Z",
+      "endedAt": "2026-10-24T09:58:15.174Z",
+      "scannedCandidates": 24,
+      "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
     }
