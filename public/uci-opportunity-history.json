@@ -1,29 +1,7 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-10-25T15:14:27.149Z",
+  "updatedAt": "2026-10-25T20:07:52.656Z",
   "opportunities": [
-    {
-      "id": "h5533c856",
-      "sourceId": "ted-europa",
-      "title": "Norway – Transport equipment and auxiliary products to transportation – 26222 Purchase of vehicles, framework agreement",
-      "source": "TED Europa",
-      "sourceTier": "internacional",
-      "region": "EUROPA",
-      "deadline": "2026-10-26T00:00:00.000Z",
-      "amount": null,
-      "currency": "",
-      "amountUsd": null,
-      "scoreTotal": 14,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://ted.europa.eu/en/notice/-/detail/657155-2026",
-      "publicationNumber": "657155-2026",
-      "firstSeenAt": "2026-10-25T15:14:27.149Z",
-      "lastSeenAt": "2026-10-25T15:14:27.149Z",
-      "lastPublishedAt": null,
-      "publishCount": 0,
-      "isArchived": true
-    },
     {
       "id": "h4025b2f2",
       "sourceId": "secop-ii",
@@ -41,7 +19,7 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10961828",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-25T02:10:31.660Z",
-      "lastSeenAt": "2026-10-25T15:14:27.149Z",
+      "lastSeenAt": "2026-10-25T20:07:52.656Z",
       "lastPublishedAt": "2026-10-25T02:10:31.660Z",
       "publishCount": 0,
       "isArchived": true
@@ -63,7 +41,7 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11107902",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-25T02:10:31.660Z",
-      "lastSeenAt": "2026-10-25T15:14:27.149Z",
+      "lastSeenAt": "2026-10-25T20:07:52.656Z",
       "lastPublishedAt": "2026-10-25T02:10:31.660Z",
       "publishCount": 0,
       "isArchived": true
@@ -85,9 +63,9 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11101285",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-25T02:10:31.660Z",
-      "lastSeenAt": "2026-10-25T15:14:27.149Z",
-      "lastPublishedAt": "2026-10-25T15:14:27.149Z",
-      "publishCount": 2,
+      "lastSeenAt": "2026-10-25T20:07:52.656Z",
+      "lastPublishedAt": "2026-10-25T20:07:52.656Z",
+      "publishCount": 3,
       "isArchived": false
     },
     {
@@ -107,9 +85,9 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11082055",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-25T02:10:31.660Z",
-      "lastSeenAt": "2026-10-25T15:14:27.149Z",
-      "lastPublishedAt": "2026-10-25T15:14:27.149Z",
-      "publishCount": 2,
+      "lastSeenAt": "2026-10-25T20:07:52.656Z",
+      "lastPublishedAt": "2026-10-25T20:07:52.656Z",
+      "publishCount": 3,
       "isArchived": false
     },
     {
@@ -129,7 +107,7 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11086336",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-25T02:10:31.660Z",
-      "lastSeenAt": "2026-10-25T15:14:27.149Z",
+      "lastSeenAt": "2026-10-25T20:07:52.656Z",
       "lastPublishedAt": "2026-10-25T02:10:31.660Z",
       "publishCount": 0,
       "isArchived": true
@@ -151,7 +129,7 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11091932",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-25T02:10:31.660Z",
-      "lastSeenAt": "2026-10-25T15:14:27.149Z",
+      "lastSeenAt": "2026-10-25T20:07:52.656Z",
       "lastPublishedAt": "2026-10-25T02:10:31.660Z",
       "publishCount": 0,
       "isArchived": true
@@ -173,7 +151,7 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11106308",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-25T02:10:31.660Z",
-      "lastSeenAt": "2026-10-25T15:14:27.149Z",
+      "lastSeenAt": "2026-10-25T20:07:52.656Z",
       "lastPublishedAt": "2026-10-25T02:10:31.660Z",
       "publishCount": 0,
       "isArchived": true
@@ -195,9 +173,9 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11103581",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-25T02:10:31.660Z",
-      "lastSeenAt": "2026-10-25T15:14:27.149Z",
-      "lastPublishedAt": "2026-10-25T15:14:27.149Z",
-      "publishCount": 2,
+      "lastSeenAt": "2026-10-25T20:07:52.656Z",
+      "lastPublishedAt": "2026-10-25T20:07:52.656Z",
+      "publishCount": 3,
       "isArchived": false
     },
     {
@@ -217,7 +195,7 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11102796",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-25T02:10:31.660Z",
-      "lastSeenAt": "2026-10-25T15:14:27.149Z",
+      "lastSeenAt": "2026-10-25T20:07:52.656Z",
       "lastPublishedAt": "2026-10-25T02:10:31.660Z",
       "publishCount": 0,
       "isArchived": true
@@ -239,9 +217,9 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11037912",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-25T02:10:31.660Z",
-      "lastSeenAt": "2026-10-25T15:14:27.149Z",
-      "lastPublishedAt": "2026-10-25T15:14:27.149Z",
-      "publishCount": 2,
+      "lastSeenAt": "2026-10-25T20:07:52.656Z",
+      "lastPublishedAt": "2026-10-25T20:07:52.656Z",
+      "publishCount": 3,
       "isArchived": false
     },
     {
@@ -261,7 +239,7 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11097030",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-25T02:10:31.660Z",
-      "lastSeenAt": "2026-10-25T15:14:27.149Z",
+      "lastSeenAt": "2026-10-25T20:07:52.656Z",
       "lastPublishedAt": "2026-10-25T02:10:31.660Z",
       "publishCount": 0,
       "isArchived": true
@@ -283,9 +261,9 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11100729",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-25T02:10:31.660Z",
-      "lastSeenAt": "2026-10-25T15:14:27.149Z",
-      "lastPublishedAt": "2026-10-25T15:14:27.149Z",
-      "publishCount": 2,
+      "lastSeenAt": "2026-10-25T20:07:52.656Z",
+      "lastPublishedAt": "2026-10-25T20:07:52.656Z",
+      "publishCount": 3,
       "isArchived": false
     },
     {
@@ -305,9 +283,9 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11089336",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-25T02:10:31.660Z",
-      "lastSeenAt": "2026-10-25T15:14:27.149Z",
-      "lastPublishedAt": "2026-10-25T15:14:27.149Z",
-      "publishCount": 2,
+      "lastSeenAt": "2026-10-25T20:07:52.656Z",
+      "lastPublishedAt": "2026-10-25T20:07:52.656Z",
+      "publishCount": 3,
       "isArchived": false
     },
     {
@@ -327,9 +305,9 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11101421",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-25T02:10:31.660Z",
-      "lastSeenAt": "2026-10-25T15:14:27.149Z",
-      "lastPublishedAt": "2026-10-25T15:14:27.149Z",
-      "publishCount": 2,
+      "lastSeenAt": "2026-10-25T20:07:52.656Z",
+      "lastPublishedAt": "2026-10-25T20:07:52.656Z",
+      "publishCount": 3,
       "isArchived": false
     },
     {
@@ -349,7 +327,7 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11093798",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-25T02:10:31.660Z",
-      "lastSeenAt": "2026-10-25T15:14:27.149Z",
+      "lastSeenAt": "2026-10-25T20:07:52.656Z",
       "lastPublishedAt": "2026-10-25T02:10:31.660Z",
       "publishCount": 0,
       "isArchived": true
@@ -371,9 +349,9 @@
       "url": "https://minciencias.gov.co/convocatorias/convocatoria-54-convocatoria-especial-para-la-financiacion-proyectos-para-el",
       "publicationNumber": "54",
       "firstSeenAt": "2026-10-24T09:58:15.171Z",
-      "lastSeenAt": "2026-10-25T15:14:27.149Z",
-      "lastPublishedAt": "2026-10-25T15:14:27.149Z",
-      "publishCount": 6,
+      "lastSeenAt": "2026-10-25T20:07:52.656Z",
+      "lastPublishedAt": "2026-10-25T20:07:52.656Z",
+      "publishCount": 7,
       "isArchived": false
     },
     {
@@ -393,9 +371,9 @@
       "url": "https://minciencias.gov.co/convocatorias/convocatoria-especial-para-la-financiacion-macroproyectos-nacionales-para-el",
       "publicationNumber": "55",
       "firstSeenAt": "2026-10-24T09:58:15.171Z",
-      "lastSeenAt": "2026-10-25T15:14:27.149Z",
-      "lastPublishedAt": "2026-10-25T15:14:27.149Z",
-      "publishCount": 6,
+      "lastSeenAt": "2026-10-25T20:07:52.656Z",
+      "lastPublishedAt": "2026-10-25T20:07:52.656Z",
+      "publishCount": 7,
       "isArchived": false
     },
     {
@@ -415,7 +393,7 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11063367",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-24T02:23:37.267Z",
-      "lastSeenAt": "2026-10-25T15:14:27.149Z",
+      "lastSeenAt": "2026-10-25T20:07:52.656Z",
       "lastPublishedAt": "2026-10-25T02:10:31.660Z",
       "publishCount": 4,
       "isArchived": true
@@ -437,9 +415,9 @@
       "url": "https://www.grants.gov/search-results-detail/364087",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-16T20:14:29.817Z",
-      "lastSeenAt": "2026-10-25T15:14:27.149Z",
-      "lastPublishedAt": "2026-10-25T15:14:27.149Z",
-      "publishCount": 34,
+      "lastSeenAt": "2026-10-25T20:07:52.656Z",
+      "lastPublishedAt": "2026-10-25T20:07:52.656Z",
+      "publishCount": 35,
       "isArchived": false
     },
     {
@@ -449,7 +427,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-11-03T15:12:24.478Z",
+      "deadline": "2026-11-03T20:06:51.973Z",
       "amount": 700000000000,
       "currency": "COP",
       "amountUsd": 175000000,
@@ -459,7 +437,7 @@
       "url": "https://minciencias.gov.co/convocatorias/convocatoria-emergencia-para-la-recuperacion-y-generacion-capacidades-transformadoras",
       "publicationNumber": "56",
       "firstSeenAt": "2026-10-09T03:33:24.494Z",
-      "lastSeenAt": "2026-10-25T15:14:27.149Z",
+      "lastSeenAt": "2026-10-25T20:07:52.656Z",
       "lastPublishedAt": "2026-10-24T02:23:37.267Z",
       "publishCount": 57,
       "isArchived": true
@@ -481,7 +459,7 @@
       "url": "https://www.grants.gov/search-results-detail/344124",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-22T02:18:02.240Z",
-      "lastSeenAt": "2026-10-25T15:14:27.149Z",
+      "lastSeenAt": "2026-10-25T20:07:52.656Z",
       "lastPublishedAt": "2026-10-24T02:23:37.267Z",
       "publishCount": 88,
       "isArchived": true
@@ -503,7 +481,7 @@
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastSeenAt": "2026-10-25T15:14:27.149Z",
+      "lastSeenAt": "2026-10-25T20:07:52.656Z",
       "lastPublishedAt": "2026-10-24T02:23:37.267Z",
       "publishCount": 101,
       "isArchived": true
@@ -525,7 +503,7 @@
       "url": "https://www.grants.gov/search-results-detail/362850",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-10-25T15:14:27.149Z",
+      "lastSeenAt": "2026-10-25T20:07:52.656Z",
       "lastPublishedAt": "2026-10-24T02:23:37.267Z",
       "publishCount": 107,
       "isArchived": true
@@ -547,9 +525,31 @@
       "url": "https://www.grants.gov/search-results-detail/344608",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-10-25T15:14:27.149Z",
+      "lastSeenAt": "2026-10-25T20:07:52.656Z",
       "lastPublishedAt": "2026-10-24T02:23:37.267Z",
       "publishCount": 87,
+      "isArchived": true
+    },
+    {
+      "id": "h5533c856",
+      "sourceId": "ted-europa",
+      "title": "Norway – Transport equipment and auxiliary products to transportation – 26222 Purchase of vehicles, framework agreement",
+      "source": "TED Europa",
+      "sourceTier": "internacional",
+      "region": "EUROPA",
+      "deadline": "2026-10-26T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://ted.europa.eu/en/notice/-/detail/657155-2026",
+      "publicationNumber": "657155-2026",
+      "firstSeenAt": "2026-10-25T15:14:27.149Z",
+      "lastSeenAt": "2026-10-25T15:14:27.149Z",
+      "lastPublishedAt": "2026-10-25T15:14:27.149Z",
+      "publishCount": 0,
       "isArchived": true
     },
     {
