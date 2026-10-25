@@ -2737,17 +2737,123 @@
       "url": "https://minciencias.gov.co/convocatorias/convocatoria-54-convocatoria-especial-para-la-financiacion-proyectos-para-el",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "hb09cf2fd": {
+      "at": "2026-10-25T02:10:31.643Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11089336",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hef86f497": {
+      "at": "2026-10-25T02:10:31.643Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11097030",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hccf247d0": {
+      "at": "2026-10-25T02:10:31.652Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11091932",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-25T02-10-31-644Z_secop-ii_suministro-a-monto-agotable-de-elementos-de-papele"
+    },
+    "hc9a51245": {
+      "at": "2026-10-25T02:10:31.653Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11101285",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-25T02-10-31-652Z_secop-ii_contratar-el-suministro-de-las-pruebas-poct-en-cum"
+    },
+    "h9fdaba29": {
+      "at": "2026-10-25T02:10:31.653Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11101421",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h4598baf8": {
+      "at": "2026-10-25T02:10:31.653Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11082055",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-25T02-10-31-653Z_secop-ii_suministro-de-productos-alimenticios-suplementos-n"
+    },
+    "hf186a891": {
+      "at": "2026-10-25T02:10:31.653Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11100729",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h6350b22e": {
+      "at": "2026-10-25T02:10:31.654Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11103581",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-25T02-10-31-653Z_secop-ii_adquisicion-de-motocicletas-destinadas-al-personal"
+    },
+    "h7acc228b": {
+      "at": "2026-10-25T02:10:31.654Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11107902",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-25T02-10-31-654Z_secop-ii_prestacion-de-servicios-para-el-desarrollo-de-las-"
+    },
+    "h25c8581a": {
+      "at": "2026-10-25T02:10:31.654Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11086336",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-25T02-10-31-654Z_secop-ii_fase-1-de-la-optimizacion-del-sistema-de-distribuc"
+    },
+    "h3e0870a5": {
+      "at": "2026-10-25T02:10:31.655Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11102796",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-25T02-10-31-654Z_secop-ii_cd-0274-2026"
+    },
+    "h946a5b2b": {
+      "at": "2026-10-25T02:10:31.655Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10961828",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-25T02-10-31-655Z_secop-ii_suministro-de-pasajes-aereos-nacionales-e-internac"
+    },
+    "h93ddb19c": {
+      "at": "2026-10-25T02:10:31.655Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11093798",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h67ffb9fe": {
+      "at": "2026-10-25T02:10:31.655Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11037912",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h7ff655c2": {
+      "at": "2026-10-25T02:10:31.655Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11106308",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-25T02-10-31-655Z_secop-ii_vestuario-y-calzado-de-labor-asi-como-elementos-de"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-17T14:36:05.863Z",
-      "endedAt": "2026-10-17T14:37:09.867Z",
-      "scannedCandidates": 23,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-17T19:49:09.316Z",
       "endedAt": "2026-10-17T19:50:23.134Z",
@@ -2977,6 +3083,14 @@
       "endedAt": "2026-10-24T19:58:21.860Z",
       "scannedCandidates": 24,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-10-25T02:09:31.560Z",
+      "endedAt": "2026-10-25T02:10:31.663Z",
+      "scannedCandidates": 24,
+      "viableCandidates": 9,
       "sentNotifications": 0,
       "transport": "console"
     }
