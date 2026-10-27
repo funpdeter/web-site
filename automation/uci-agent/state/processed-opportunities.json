@@ -2858,17 +2858,15 @@
       "url": "https://ted.europa.eu/en/notice/-/detail/657155-2026",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "h9c445e9b": {
+      "at": "2026-10-27T21:33:49.933Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-article-401090.html",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-20T10:35:35.874Z",
-      "endedAt": "2026-10-20T10:36:39.519Z",
-      "scannedCandidates": 7,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-20T15:59:32.119Z",
       "endedAt": "2026-10-20T16:11:05.733Z",
@@ -3096,6 +3094,14 @@
     {
       "startedAt": "2026-10-27T16:59:24.037Z",
       "endedAt": "2026-10-27T17:00:37.010Z",
+      "scannedCandidates": 8,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-10-27T21:33:29.591Z",
+      "endedAt": "2026-10-27T21:34:26.406Z",
       "scannedCandidates": 8,
       "viableCandidates": 0,
       "sentNotifications": 0,
