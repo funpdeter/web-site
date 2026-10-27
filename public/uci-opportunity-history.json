@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-10-27T02:48:38.274Z",
+  "updatedAt": "2026-10-27T11:14:07.163Z",
   "opportunities": [
     {
       "id": "hd48b831d",
@@ -9,7 +9,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-11-13T02:47:16.867Z",
+      "deadline": "2026-11-13T11:13:11.996Z",
       "amount": 927591817322,
       "currency": "COP",
       "amountUsd": 231897954.3305,
@@ -19,10 +19,10 @@
       "url": "https://minciencias.gov.co/convocatorias/convocatoria-54-convocatoria-especial-para-la-financiacion-proyectos-para-el",
       "publicationNumber": "54",
       "firstSeenAt": "2026-10-24T09:58:15.171Z",
-      "lastSeenAt": "2026-10-27T02:48:38.274Z",
-      "lastPublishedAt": "2026-10-26T02:11:25.147Z",
-      "publishCount": 8,
-      "isArchived": true
+      "lastSeenAt": "2026-10-27T11:14:07.163Z",
+      "lastPublishedAt": "2026-10-27T11:14:07.163Z",
+      "publishCount": 9,
+      "isArchived": false
     },
     {
       "id": "ha57b7967",
@@ -31,7 +31,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-11-13T02:47:15.930Z",
+      "deadline": "2026-11-13T11:13:11.096Z",
       "amount": 500000000000,
       "currency": "COP",
       "amountUsd": 125000000,
@@ -41,10 +41,10 @@
       "url": "https://minciencias.gov.co/convocatorias/convocatoria-especial-para-la-financiacion-macroproyectos-nacionales-para-el",
       "publicationNumber": "55",
       "firstSeenAt": "2026-10-24T09:58:15.171Z",
-      "lastSeenAt": "2026-10-27T02:48:38.274Z",
-      "lastPublishedAt": "2026-10-26T02:11:25.147Z",
-      "publishCount": 8,
-      "isArchived": true
+      "lastSeenAt": "2026-10-27T11:14:07.163Z",
+      "lastPublishedAt": "2026-10-27T11:14:07.163Z",
+      "publishCount": 9,
+      "isArchived": false
     },
     {
       "id": "h68603f42",
@@ -63,9 +63,9 @@
       "url": "https://www.grants.gov/search-results-detail/364087",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-16T20:14:29.817Z",
-      "lastSeenAt": "2026-10-27T02:48:38.274Z",
-      "lastPublishedAt": "2026-10-27T02:48:38.274Z",
-      "publishCount": 40,
+      "lastSeenAt": "2026-10-27T11:14:07.163Z",
+      "lastPublishedAt": "2026-10-27T11:14:07.163Z",
+      "publishCount": 41,
       "isArchived": false
     },
     {
@@ -75,7 +75,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-11-03T02:47:14.956Z",
+      "deadline": "2026-11-03T11:13:10.193Z",
       "amount": 700000000000,
       "currency": "COP",
       "amountUsd": 175000000,
@@ -85,10 +85,10 @@
       "url": "https://minciencias.gov.co/convocatorias/convocatoria-emergencia-para-la-recuperacion-y-generacion-capacidades-transformadoras",
       "publicationNumber": "56",
       "firstSeenAt": "2026-10-09T03:33:24.494Z",
-      "lastSeenAt": "2026-10-27T02:48:38.274Z",
-      "lastPublishedAt": "2026-10-24T02:23:37.267Z",
-      "publishCount": 57,
-      "isArchived": true
+      "lastSeenAt": "2026-10-27T11:14:07.163Z",
+      "lastPublishedAt": "2026-10-27T11:14:07.163Z",
+      "publishCount": 58,
+      "isArchived": false
     },
     {
       "id": "h40b35418",
@@ -107,9 +107,9 @@
       "url": "https://www.grants.gov/search-results-detail/344124",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-22T02:18:02.240Z",
-      "lastSeenAt": "2026-10-27T02:48:38.274Z",
-      "lastPublishedAt": "2026-10-27T02:48:38.274Z",
-      "publishCount": 92,
+      "lastSeenAt": "2026-10-27T11:14:07.163Z",
+      "lastPublishedAt": "2026-10-27T11:14:07.163Z",
+      "publishCount": 93,
       "isArchived": false
     },
     {
@@ -129,9 +129,9 @@
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastSeenAt": "2026-10-27T02:48:38.274Z",
-      "lastPublishedAt": "2026-10-27T02:48:38.274Z",
-      "publishCount": 105,
+      "lastSeenAt": "2026-10-27T11:14:07.163Z",
+      "lastPublishedAt": "2026-10-27T11:14:07.163Z",
+      "publishCount": 106,
       "isArchived": false
     },
     {
@@ -151,9 +151,9 @@
       "url": "https://www.grants.gov/search-results-detail/362850",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-10-27T02:48:38.274Z",
-      "lastPublishedAt": "2026-10-27T02:48:38.274Z",
-      "publishCount": 111,
+      "lastSeenAt": "2026-10-27T11:14:07.163Z",
+      "lastPublishedAt": "2026-10-27T11:14:07.163Z",
+      "publishCount": 112,
       "isArchived": false
     },
     {
@@ -173,9 +173,9 @@
       "url": "https://www.grants.gov/search-results-detail/344608",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-10-27T02:48:38.274Z",
-      "lastPublishedAt": "2026-10-27T02:48:38.274Z",
-      "publishCount": 91,
+      "lastSeenAt": "2026-10-27T11:14:07.163Z",
+      "lastPublishedAt": "2026-10-27T11:14:07.163Z",
+      "publishCount": 92,
       "isArchived": false
     },
     {
@@ -4579,5 +4579,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 208 | Archivadas: 203"
+  "message": "Historico acumulado del agente UCI-F. Total: 208 | Archivadas: 200"
 }
