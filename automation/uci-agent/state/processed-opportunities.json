@@ -2871,17 +2871,27 @@
       "url": "https://www.grants.gov/search-results-detail/364160",
       "viable": false,
       "reason": "No aplicar"
+    },
+    "h11bac813": {
+      "at": "2026-10-29T22:11:03.218Z",
+      "sourceId": "sgr",
+      "url": "https://www.minciencias.gov.co/convocatorias/convocatoria-54-convocatoria-especial-para-la-financiacion-proyectos-para-el",
+      "viable": false
+    },
+    "hac5a8256": {
+      "at": "2026-10-29T22:11:03.722Z",
+      "sourceId": "sgr",
+      "url": "https://www.minciencias.gov.co/convocatorias/convocatoria-especial-para-la-financiacion-macroproyectos-nacionales-para-el",
+      "viable": false
+    },
+    "hef26e184": {
+      "at": "2026-10-29T22:11:04.763Z",
+      "sourceId": "sgr",
+      "url": "https://www.minciencias.gov.co/node/9577",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-22T10:48:45.429Z",
-      "endedAt": "2026-10-22T10:50:00.446Z",
-      "scannedCandidates": 7,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-22T16:14:55.025Z",
       "endedAt": "2026-10-22T16:15:54.807Z",
@@ -3109,6 +3119,14 @@
     {
       "startedAt": "2026-10-29T17:45:25.117Z",
       "endedAt": "2026-10-29T17:46:35.726Z",
+      "scannedCandidates": 9,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-10-29T22:10:36.587Z",
+      "endedAt": "2026-10-29T22:11:45.158Z",
       "scannedCandidates": 9,
       "viableCandidates": 0,
       "sentNotifications": 0,
