@@ -2889,17 +2889,123 @@
       "sourceId": "sgr",
       "url": "https://www.minciencias.gov.co/node/9577",
       "viable": false
+    },
+    "hbfbce87f": {
+      "at": "2026-10-31T03:08:08.355Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11014668",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-31T03-08-08-341Z_secop-ii_contrato-de-obra-para-la-construccion-y-mejoramien"
+    },
+    "hf1cf5976": {
+      "at": "2026-10-31T03:08:08.355Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11131706",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-31T03-08-08-355Z_secop-ii_adquirir-la-licencia-y-derecho-de-uso-de-una-plata"
+    },
+    "h9d6d8f66": {
+      "at": "2026-10-31T03:08:08.356Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11107475",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h34ba2d96": {
+      "at": "2026-10-31T03:08:08.356Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11103398",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-31T03-08-08-356Z_secop-ii_fortalecimiento-de-la-capacidad-operativa-y-dotaci"
+    },
+    "h9bb673b2": {
+      "at": "2026-10-31T03:08:08.357Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11097510",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h8d24f93b": {
+      "at": "2026-10-31T03:08:08.358Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11115888",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-31T03-08-08-357Z_secop-ii_fortalecimiento-de-espacios-y-equipos-para-el-mane"
+    },
+    "h8af369c0": {
+      "at": "2026-10-31T03:08:08.358Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11093707",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-31T03-08-08-358Z_secop-ii_fortalecimiento-de-espacios-y-equipos-para-el-mane"
+    },
+    "h98bebb5b": {
+      "at": "2026-10-31T03:08:08.359Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11141218",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h4986f020": {
+      "at": "2026-10-31T03:08:08.359Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11144836",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hc294dbf4": {
+      "at": "2026-10-31T03:08:08.359Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11131498",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hfd0bc96a": {
+      "at": "2026-10-31T03:08:08.359Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11096607",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h7595940e": {
+      "at": "2026-10-31T03:08:08.360Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11058061",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-31T03-08-08-359Z_secop-ii_adquisicion-de-camion-doble-troque-reforzado-para-"
+    },
+    "h5a83e955": {
+      "at": "2026-10-31T03:08:08.360Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11116476",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-31T03-08-08-360Z_secop-ii_mantenimiento-de-motocicletas-y-expedicion-de-la-r"
+    },
+    "hfbe38aa9": {
+      "at": "2026-10-31T03:08:08.361Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11128723",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-31T03-08-08-361Z_secop-ii_adquisicion-de-camion-doble-troque-reforzado-para-"
+    },
+    "h588b84eb": {
+      "at": "2026-10-31T03:08:08.362Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11144855",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-31T03-08-08-361Z_secop-ii_cd-0247-2026"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-23T16:04:07.399Z",
-      "endedAt": "2026-10-23T16:05:17.411Z",
-      "scannedCandidates": 7,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-23T20:45:21.406Z",
       "endedAt": "2026-10-23T20:46:35.358Z",
@@ -3129,6 +3235,14 @@
       "endedAt": "2026-10-30T21:47:49.091Z",
       "scannedCandidates": 9,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-10-31T03:06:53.243Z",
+      "endedAt": "2026-10-31T03:08:08.378Z",
+      "scannedCandidates": 25,
+      "viableCandidates": 9,
       "sentNotifications": 0,
       "transport": "console"
     }
