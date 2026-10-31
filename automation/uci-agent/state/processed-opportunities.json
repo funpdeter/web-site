@@ -3003,17 +3003,15 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-31T03-08-08-361Z_secop-ii_cd-0247-2026"
+    },
+    "hf4b62d19": {
+      "at": "2026-10-31T11:23:28.874Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/articles-162146_FTIC_SAPMC_005_2026.pdf",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-23T20:45:21.406Z",
-      "endedAt": "2026-10-23T20:46:35.358Z",
-      "scannedCandidates": 7,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-24T02:22:21.633Z",
       "endedAt": "2026-10-24T02:23:37.270Z",
@@ -3243,6 +3241,14 @@
       "endedAt": "2026-10-31T03:08:08.378Z",
       "scannedCandidates": 25,
       "viableCandidates": 9,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-10-31T11:23:01.621Z",
+      "endedAt": "2026-10-31T11:24:28.745Z",
+      "scannedCandidates": 25,
+      "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
     }
