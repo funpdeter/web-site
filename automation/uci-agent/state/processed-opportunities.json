@@ -3009,17 +3009,85 @@
       "sourceId": "mintic",
       "url": "https://mintic.gov.co/portal/715/articles-162146_FTIC_SAPMC_005_2026.pdf",
       "viable": false
+    },
+    "h335c2599": {
+      "at": "2026-10-31T20:46:25.308Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11146833",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h41f45274": {
+      "at": "2026-10-31T20:46:25.319Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11149116",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-31T20-46-25-309Z_secop-ii_aunar-esfuerzos-tecnicos-administrativos-operativo"
+    },
+    "h82c2a2ce": {
+      "at": "2026-10-31T20:46:25.319Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11014890",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-31T20-46-25-319Z_secop-ii_construccion-de-pavimento-y-obras-complementarias-"
+    },
+    "h58c2532b": {
+      "at": "2026-10-31T20:46:25.319Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11104015",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-31T20-46-25-319Z_secop-ii_cd-0268-2026"
+    },
+    "hd7b6c59b": {
+      "at": "2026-10-31T20:46:25.320Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11141878",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h4db6668a": {
+      "at": "2026-10-31T20:46:25.320Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11135452",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h571c66b5": {
+      "at": "2026-10-31T20:46:25.320Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11132269",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-31T20-46-25-320Z_secop-ii_contratar-el-mantenimiento-preventivo-y-correctivo"
+    },
+    "haca75ee8": {
+      "at": "2026-10-31T20:46:25.320Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11024608",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-31T20-46-25-320Z_secop-ii_contrato-de-obra-para-el-mejoramiento-y-rehabilita"
+    },
+    "h6fbd75e1": {
+      "at": "2026-10-31T20:46:25.320Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11145667",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h5f7fd1be": {
+      "at": "2026-10-31T20:46:25.321Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11104746",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-31T20-46-25-321Z_secop-ii_mantenimiento-de-motocicletas-y-expedicion-de-la-r"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-24T09:57:10.929Z",
-      "endedAt": "2026-10-24T09:58:15.174Z",
-      "scannedCandidates": 24,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-24T15:01:04.257Z",
       "endedAt": "2026-10-24T15:02:25.425Z",
@@ -3249,6 +3317,14 @@
       "endedAt": "2026-10-31T16:29:27.170Z",
       "scannedCandidates": 25,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-10-31T20:45:35.726Z",
+      "endedAt": "2026-10-31T20:46:25.330Z",
+      "scannedCandidates": 25,
+      "viableCandidates": 6,
       "sentNotifications": 0,
       "transport": "console"
     }
