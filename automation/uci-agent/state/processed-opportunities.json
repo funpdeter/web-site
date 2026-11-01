@@ -3085,17 +3085,25 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-10-31T20-46-25-321Z_secop-ii_mantenimiento-de-motocicletas-y-expedicion-de-la-r"
+    },
+    "h9ada94ad": {
+      "at": "2026-11-01T03:02:53.524Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11103135",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-01T03-02-53-510Z_secop-ii_enajenacion-directa-a-traves-de-subasta-publica-de"
+    },
+    "h6e36d420": {
+      "at": "2026-11-01T03:02:53.525Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11077055",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-01T03-02-53-524Z_secop-ii_adquirir-la-licencia-y-derecho-de-uso-de-una-plata"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-24T15:01:04.257Z",
-      "endedAt": "2026-10-24T15:02:25.425Z",
-      "scannedCandidates": 24,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-24T19:56:59.841Z",
       "endedAt": "2026-10-24T19:58:21.860Z",
@@ -3325,6 +3333,14 @@
       "endedAt": "2026-10-31T20:46:25.330Z",
       "scannedCandidates": 25,
       "viableCandidates": 6,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-01T03:01:15.587Z",
+      "endedAt": "2026-11-01T03:02:53.538Z",
+      "scannedCandidates": 25,
+      "viableCandidates": 2,
       "sentNotifications": 0,
       "transport": "console"
     }
