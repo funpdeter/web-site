@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-11-01T12:15:35.638Z",
+  "updatedAt": "2026-11-01T21:28:56.989Z",
   "opportunities": [
     {
       "id": "h757013b3",
@@ -173,5 +173,6 @@
       "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 9 | USA: 1 | EUROPA: 0"
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 9 | USA: 1 | EUROPA: 0",
+  "reusedForPublicationDay": true
 }
