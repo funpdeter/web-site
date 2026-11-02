@@ -3226,17 +3226,57 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-02T03-13-21-694Z_secop-ii_contratar-servicios-logisticos-para-apoyar-a-la-ju"
+    },
+    "hcf0d487f": {
+      "at": "2026-11-02T14:06:09.699Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11094606",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-02T14-06-09-684Z_secop-ii_obras-de-construccion-adecuacion-y-mantenimiento-d"
+    },
+    "h3cdda188": {
+      "at": "2026-11-02T14:06:09.699Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11123484",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-02T14-06-09-699Z_secop-ii_prestacion-de-servicios-incluido-insumos-para-la-c"
+    },
+    "h3dfd81ae": {
+      "at": "2026-11-02T14:06:09.700Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11063892",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-02T14-06-09-700Z_secop-ii_adquisicion-e-instalacion-del-mobiliario-requerido"
+    },
+    "hec93e0b4": {
+      "at": "2026-11-02T14:06:09.701Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11134938",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-02T14-06-09-700Z_secop-ii_mejoramiento-de-la-via-que-conduce-de-la-vereda-na"
+    },
+    "hfa48a562": {
+      "at": "2026-11-02T14:06:09.702Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11137559",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-02T14-06-09-701Z_secop-ii_contratar-el-suministro-de-material-vivo-vegetal-e"
+    },
+    "h72fb8184": {
+      "at": "2026-11-02T14:06:09.702Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11146575",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-02T14-06-09-702Z_secop-ii_prestacion-de-servicios-manifestacion-de-interes-m"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-25T15:12:19.048Z",
-      "endedAt": "2026-10-25T15:14:27.157Z",
-      "scannedCandidates": 25,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-25T20:06:46.341Z",
       "endedAt": "2026-10-25T20:07:52.662Z",
@@ -3466,6 +3506,14 @@
       "endedAt": "2026-11-02T03:13:21.708Z",
       "scannedCandidates": 25,
       "viableCandidates": 13,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-02T14:04:55.174Z",
+      "endedAt": "2026-11-02T14:06:09.720Z",
+      "scannedCandidates": 25,
+      "viableCandidates": 6,
       "sentNotifications": 0,
       "transport": "console"
     }
