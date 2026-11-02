@@ -3101,17 +3101,134 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-01T03-02-53-524Z_secop-ii_adquirir-la-licencia-y-derecho-de-uso-de-una-plata"
+    },
+    "h15683de1": {
+      "at": "2026-11-02T03:13:21.688Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11094561",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-02T03-13-21-677Z_secop-ii_prestacion-de-servicios-integrales-para-la-toma-y-"
+    },
+    "h962fef9b": {
+      "at": "2026-11-02T03:13:21.688Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11139679",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h9d5d62cb": {
+      "at": "2026-11-02T03:13:21.689Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11147371",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hd07703b6": {
+      "at": "2026-11-02T03:13:21.689Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11123262",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-02T03-13-21-689Z_secop-ii_demarcacion-e-instalacion-de-senales-de-transito-e"
+    },
+    "h8a31c27": {
+      "at": "2026-11-02T03:13:21.690Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11123711",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-02T03-13-21-689Z_secop-ii_apoyo-logistico-para-el-desarrollo-de-la-feria-de-"
+    },
+    "h69bf587b": {
+      "at": "2026-11-02T03:13:21.690Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11133897",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-02T03-13-21-690Z_secop-ii_adquisicion-de-insumos-para-fortalecimiento-de-pro"
+    },
+    "h6f8d7e01": {
+      "at": "2026-11-02T03:13:21.691Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11135620",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-02T03-13-21-690Z_secop-ii_suministro-transporte-instalacion-y-construccion-d"
+    },
+    "h6e70da49": {
+      "at": "2026-11-02T03:13:21.691Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11070206",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-02T03-13-21-691Z_secop-ii_suministro-de-llantas-nuevas-de-diferentes-referen"
+    },
+    "h63cabd32": {
+      "at": "2026-11-02T03:13:21.691Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11034283",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-02T03-13-21-691Z_secop-ii_ejecucion-de-estudios-alquiler-de-maquinaria-y-sum"
+    },
+    "h107030f8": {
+      "at": "2026-11-02T03:13:21.692Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11126700",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h54875aec": {
+      "at": "2026-11-02T03:13:21.692Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11144713",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-02T03-13-21-692Z_secop-ii_suministro-e-instalacion-de-parques-infantiles-en-"
+    },
+    "h27563879": {
+      "at": "2026-11-02T03:13:21.692Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11134432",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-02T03-13-21-692Z_secop-ii_municipio-de-yarumal"
+    },
+    "h8359d5ff": {
+      "at": "2026-11-02T03:13:21.693Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11116210",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-02T03-13-21-693Z_secop-ii_suministro-de-materiales-de-construccion-para-el-m"
+    },
+    "h7d48836c": {
+      "at": "2026-11-02T03:13:21.693Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11116264",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-02T03-13-21-693Z_secop-ii_adquisicion-herramientas-tecnologicas-oap"
+    },
+    "hdb7922d5": {
+      "at": "2026-11-02T03:13:21.694Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11142352",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-02T03-13-21-693Z_secop-ii_suministro-de-combustible-para-el-parque-automotor"
+    },
+    "h59bc0f6f": {
+      "at": "2026-11-02T03:13:21.694Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11141812",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-02T03-13-21-694Z_secop-ii_contratar-servicios-logisticos-para-apoyar-a-la-ju"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-25T10:19:55.929Z",
-      "endedAt": "2026-10-25T10:20:48.972Z",
-      "scannedCandidates": 24,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-25T15:12:19.048Z",
       "endedAt": "2026-10-25T15:14:27.157Z",
@@ -3341,6 +3458,14 @@
       "endedAt": "2026-11-01T21:28:57.002Z",
       "scannedCandidates": 25,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-02T03:12:03.847Z",
+      "endedAt": "2026-11-02T03:13:21.708Z",
+      "scannedCandidates": 25,
+      "viableCandidates": 13,
       "sentNotifications": 0,
       "transport": "console"
     }
