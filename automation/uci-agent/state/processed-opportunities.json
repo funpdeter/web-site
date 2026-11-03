@@ -3274,17 +3274,27 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-02T14-06-09-702Z_secop-ii_prestacion-de-servicios-manifestacion-de-interes-m"
+    },
+    "h62f1ffad": {
+      "at": "2026-11-03T13:12:06.414Z",
+      "sourceId": "apc-colombia",
+      "url": "https://apccolombia.gov.co/sites/default/files/2026-10/Resultados%20convocatoria%20de%20OSC%202026.pdf",
+      "viable": false
+    },
+    "h2c6bac1b": {
+      "at": "2026-11-03T13:12:06.668Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/index.php/comunicaciones/noticias/conozca-los-ganadores-de-la-convocatoria-de-recaudacion-de-fondos-para",
+      "viable": false
+    },
+    "h44c2b888": {
+      "at": "2026-11-03T13:12:06.892Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/node/5039",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-26T02:10:09.346Z",
-      "endedAt": "2026-10-26T02:11:25.150Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-26T11:48:00.002Z",
       "endedAt": "2026-10-26T11:49:02.176Z",
@@ -3512,6 +3522,14 @@
     {
       "startedAt": "2026-11-03T00:09:18.644Z",
       "endedAt": "2026-11-03T00:10:15.558Z",
+      "scannedCandidates": 9,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-03T13:12:01.874Z",
+      "endedAt": "2026-11-03T13:13:13.781Z",
       "scannedCandidates": 9,
       "viableCandidates": 0,
       "sentNotifications": 0,
