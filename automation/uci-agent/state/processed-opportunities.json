@@ -3292,17 +3292,15 @@
       "sourceId": "apc-colombia",
       "url": "https://www.apccolombia.gov.co/node/5039",
       "viable": false
+    },
+    "h8b77ae13": {
+      "at": "2026-11-03T22:40:50.535Z",
+      "sourceId": "gef-small-grants",
+      "url": "https://undp-nature.exposure.co/categories/gef-small-grants-programme",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-26T11:48:00.002Z",
-      "endedAt": "2026-10-26T11:49:02.176Z",
-      "scannedCandidates": 5,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-26T17:49:44.919Z",
       "endedAt": "2026-10-26T17:50:43.925Z",
@@ -3530,6 +3528,14 @@
     {
       "startedAt": "2026-11-03T13:12:01.874Z",
       "endedAt": "2026-11-03T13:13:13.781Z",
+      "scannedCandidates": 9,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-03T22:40:09.425Z",
+      "endedAt": "2026-11-03T22:41:01.857Z",
       "scannedCandidates": 9,
       "viableCandidates": 0,
       "sentNotifications": 0,
