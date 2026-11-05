@@ -1,7 +1,24 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-11-05T04:05:29.754Z",
+  "updatedAt": "2026-11-05T13:41:23.012Z",
   "opportunities": [
+    {
+      "id": "hf346e3ec",
+      "sourceId": "apc-colombia",
+      "title": "Convocatoria 2026 del Programa de Cooperación Triangular para América Latina y El Caribe de la Agencia Española de Cooperación Internacional para el Desarrollo (AECID) | Agencia Presidencial de Cooperación Internacional",
+      "source": "APC Colombia",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2027-02-01T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 17,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://www.apccolombia.gov.co/modalidades-de-cooperacion/convocatorias/otras-convocatorias/convocatoria-2026-del-programa-de",
+      "publicationNumber": null
+    },
     {
       "id": "ha57b7967",
       "sourceId": "minciencias",
@@ -9,7 +26,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-11-13T13:26:12.647Z",
+      "deadline": "2026-11-13T13:40:28.354Z",
       "amount": 500000000000,
       "currency": "COP",
       "amountUsd": 125000000,
@@ -26,7 +43,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-11-13T13:26:13.416Z",
+      "deadline": "2026-11-13T13:40:29.238Z",
       "amount": 927591817322,
       "currency": "COP",
       "amountUsd": 231897954.3305,
@@ -139,6 +156,5 @@
       "publicationNumber": null
     }
   ],
-  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 2 | USA: 6 | EUROPA: 0",
-  "reusedForPublicationDay": true
+  "message": "Oportunidades detectadas por el agente UCI-F y evaluadas con matriz de elegibilidad. COLOMBIA: 3 | USA: 6 | EUROPA: 0"
 }

@@ -1,7 +1,29 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-11-05T04:05:29.764Z",
+  "updatedAt": "2026-11-05T13:41:23.029Z",
   "opportunities": [
+    {
+      "id": "hf346e3ec",
+      "sourceId": "apc-colombia",
+      "title": "Convocatoria 2026 del Programa de Cooperación Triangular para América Latina y El Caribe de la Agencia Española de Cooperación Internacional para el Desarrollo (AECID) | Agencia Presidencial de Cooperación Internacional",
+      "source": "APC Colombia",
+      "sourceTier": "nacional",
+      "region": "COLOMBIA",
+      "deadline": "2027-02-01T00:00:00.000Z",
+      "amount": null,
+      "currency": "",
+      "amountUsd": null,
+      "scoreTotal": 17,
+      "recommendation": "Aplicar con alianza",
+      "isViable": false,
+      "url": "https://www.apccolombia.gov.co/modalidades-de-cooperacion/convocatorias/otras-convocatorias/convocatoria-2026-del-programa-de",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-11-05T13:41:23.029Z",
+      "lastSeenAt": "2026-11-05T13:41:23.029Z",
+      "lastPublishedAt": "2026-11-05T13:41:23.029Z",
+      "publishCount": 1,
+      "isArchived": false
+    },
     {
       "id": "h78c3aa06",
       "sourceId": "usaid",
@@ -19,9 +41,9 @@
       "url": "https://www.grants.gov/search-results-detail/364160",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-28T02:56:59.346Z",
-      "lastSeenAt": "2026-11-05T04:05:29.764Z",
-      "lastPublishedAt": "2026-11-05T04:05:29.764Z",
-      "publishCount": 27,
+      "lastSeenAt": "2026-11-05T13:41:23.029Z",
+      "lastPublishedAt": "2026-11-05T13:41:23.029Z",
+      "publishCount": 28,
       "isArchived": false
     },
     {
@@ -31,7 +53,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-11-13T13:26:13.416Z",
+      "deadline": "2026-11-13T13:40:29.238Z",
       "amount": 927591817322,
       "currency": "COP",
       "amountUsd": 231897954.3305,
@@ -41,9 +63,9 @@
       "url": "https://minciencias.gov.co/convocatorias/convocatoria-54-convocatoria-especial-para-la-financiacion-proyectos-para-el",
       "publicationNumber": "54",
       "firstSeenAt": "2026-10-24T09:58:15.171Z",
-      "lastSeenAt": "2026-11-05T04:05:29.764Z",
-      "lastPublishedAt": "2026-11-05T04:05:29.764Z",
-      "publishCount": 39,
+      "lastSeenAt": "2026-11-05T13:41:23.029Z",
+      "lastPublishedAt": "2026-11-05T13:41:23.029Z",
+      "publishCount": 40,
       "isArchived": false
     },
     {
@@ -53,7 +75,7 @@
       "source": "Minciencias",
       "sourceTier": "nacional",
       "region": "COLOMBIA",
-      "deadline": "2026-11-13T13:26:12.647Z",
+      "deadline": "2026-11-13T13:40:28.354Z",
       "amount": 500000000000,
       "currency": "COP",
       "amountUsd": 125000000,
@@ -63,9 +85,9 @@
       "url": "https://minciencias.gov.co/convocatorias/convocatoria-especial-para-la-financiacion-macroproyectos-nacionales-para-el",
       "publicationNumber": "55",
       "firstSeenAt": "2026-10-24T09:58:15.171Z",
-      "lastSeenAt": "2026-11-05T04:05:29.764Z",
-      "lastPublishedAt": "2026-11-05T04:05:29.764Z",
-      "publishCount": 39,
+      "lastSeenAt": "2026-11-05T13:41:23.029Z",
+      "lastPublishedAt": "2026-11-05T13:41:23.029Z",
+      "publishCount": 40,
       "isArchived": false
     },
     {
@@ -85,9 +107,9 @@
       "url": "https://www.grants.gov/search-results-detail/364087",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-16T20:14:29.817Z",
-      "lastSeenAt": "2026-11-05T04:05:29.764Z",
-      "lastPublishedAt": "2026-11-05T04:05:29.764Z",
-      "publishCount": 62,
+      "lastSeenAt": "2026-11-05T13:41:23.029Z",
+      "lastPublishedAt": "2026-11-05T13:41:23.029Z",
+      "publishCount": 63,
       "isArchived": false
     },
     {
@@ -107,9 +129,9 @@
       "url": "https://www.grants.gov/search-results-detail/344124",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-22T02:18:02.240Z",
-      "lastSeenAt": "2026-11-05T04:05:29.764Z",
-      "lastPublishedAt": "2026-11-05T04:05:29.764Z",
-      "publishCount": 114,
+      "lastSeenAt": "2026-11-05T13:41:23.029Z",
+      "lastPublishedAt": "2026-11-05T13:41:23.029Z",
+      "publishCount": 115,
       "isArchived": false
     },
     {
@@ -129,9 +151,9 @@
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastSeenAt": "2026-11-05T04:05:29.764Z",
-      "lastPublishedAt": "2026-11-05T04:05:29.764Z",
-      "publishCount": 127,
+      "lastSeenAt": "2026-11-05T13:41:23.029Z",
+      "lastPublishedAt": "2026-11-05T13:41:23.029Z",
+      "publishCount": 128,
       "isArchived": false
     },
     {
@@ -151,9 +173,9 @@
       "url": "https://www.grants.gov/search-results-detail/362850",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-11-05T04:05:29.764Z",
-      "lastPublishedAt": "2026-11-05T04:05:29.764Z",
-      "publishCount": 133,
+      "lastSeenAt": "2026-11-05T13:41:23.029Z",
+      "lastPublishedAt": "2026-11-05T13:41:23.029Z",
+      "publishCount": 134,
       "isArchived": false
     },
     {
@@ -173,9 +195,9 @@
       "url": "https://www.grants.gov/search-results-detail/344608",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-11-05T04:05:29.764Z",
-      "lastPublishedAt": "2026-11-05T04:05:29.764Z",
-      "publishCount": 113,
+      "lastSeenAt": "2026-11-05T13:41:23.029Z",
+      "lastPublishedAt": "2026-11-05T13:41:23.029Z",
+      "publishCount": 114,
       "isArchived": false
     },
     {
@@ -5479,29 +5501,7 @@
       "lastPublishedAt": "2026-09-20T02:12:35.963Z",
       "publishCount": 4,
       "isArchived": true
-    },
-    {
-      "id": "hc1cb70ca",
-      "sourceId": "secop-ii",
-      "title": "SASI-001-2026 (Presentación de oferta)",
-      "source": "SECOP II",
-      "sourceTier": "nacional",
-      "region": "COLOMBIA",
-      "deadline": "2026-09-21T00:00:00.000Z",
-      "amount": 436893379,
-      "currency": "COP",
-      "amountUsd": 109223.34475,
-      "scoreTotal": 15,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10911496",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-09-19T02:08:24.509Z",
-      "lastSeenAt": "2026-09-19T19:45:59.898Z",
-      "lastPublishedAt": "2026-09-19T02:08:24.509Z",
-      "publishCount": 0,
-      "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 250 | Archivadas: 242"
+  "message": "Historico acumulado del agente UCI-F. Total: 250 | Archivadas: 241"
 }
