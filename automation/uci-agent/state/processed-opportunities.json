@@ -3311,17 +3311,15 @@
       "url": "https://www.apccolombia.gov.co/modalidades-de-cooperacion/convocatorias/otras-convocatorias/convocatoria-2026-del-programa-de",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "ha5deb1ac": {
+      "at": "2026-11-06T04:01:37.651Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/eventos/convocatoria-aft-somos-bosques",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-28T02:55:21.258Z",
-      "endedAt": "2026-10-28T02:56:59.349Z",
-      "scannedCandidates": 9,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-28T11:47:27.071Z",
       "endedAt": "2026-10-28T11:48:41.274Z",
@@ -3550,6 +3548,14 @@
       "startedAt": "2026-11-05T22:59:55.035Z",
       "endedAt": "2026-11-05T23:01:08.013Z",
       "scannedCandidates": 8,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-06T04:01:33.631Z",
+      "endedAt": "2026-11-06T04:02:45.654Z",
+      "scannedCandidates": 6,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
