@@ -3426,17 +3426,15 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-07T03-38-48-263Z_secop-ii_prestar-servicios-de-mantenimiento-preventivo-y-co"
+    },
+    "h750d0346": {
+      "at": "2026-11-07T12:02:15.571Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/portal/715/w3-article-327065.html",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-29T03:20:24.262Z",
-      "endedAt": "2026-10-29T03:21:48.863Z",
-      "scannedCandidates": 9,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-29T11:55:37.172Z",
       "endedAt": "2026-10-29T11:56:54.789Z",
@@ -3666,6 +3664,14 @@
       "endedAt": "2026-11-07T03:38:48.275Z",
       "scannedCandidates": 22,
       "viableCandidates": 11,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-07T12:01:56.515Z",
+      "endedAt": "2026-11-07T12:02:53.625Z",
+      "scannedCandidates": 24,
+      "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
     }
