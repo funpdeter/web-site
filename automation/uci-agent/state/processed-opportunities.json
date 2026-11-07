@@ -3317,17 +3317,118 @@
       "sourceId": "apc-colombia",
       "url": "https://www.apccolombia.gov.co/eventos/convocatoria-aft-somos-bosques",
       "viable": false
+    },
+    "h9d90fbc2": {
+      "at": "2026-11-07T03:38:48.243Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11178208",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h98b952bf": {
+      "at": "2026-11-07T03:38:48.257Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11162297",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-07T03-38-48-243Z_secop-ii_consultoria-para-la-actualizacion-del-plan-de-sane"
+    },
+    "h25733d4d": {
+      "at": "2026-11-07T03:38:48.257Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11175084",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hf9025a5f": {
+      "at": "2026-11-07T03:38:48.258Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11174935",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h8fc65a63": {
+      "at": "2026-11-07T03:38:48.259Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11164255",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-07T03-38-48-258Z_secop-ii_prestacion-de-servicios-de-maquinaria-amarilla-par"
+    },
+    "h74a4ab13": {
+      "at": "2026-11-07T03:38:48.259Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11167175",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-07T03-38-48-259Z_secop-ii_cuartos-frios-manifestacion-de-interes-menor-cuant"
+    },
+    "ha7118bbc": {
+      "at": "2026-11-07T03:38:48.260Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11166007",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-07T03-38-48-259Z_secop-ii_renovacion-de-licenciamiento-de-seguridad-perimetr"
+    },
+    "h25e2a8f0": {
+      "at": "2026-11-07T03:38:48.260Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11156035",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-07T03-38-48-260Z_secop-ii_consultoria-en-la-modalidad-de-estudios-previos-pa"
+    },
+    "h22f9646e": {
+      "at": "2026-11-07T03:38:48.261Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11075950",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-07T03-38-48-260Z_secop-ii_adquisicion-de-solucion-de-pantallas-interactivas-"
+    },
+    "h1c5bcc27": {
+      "at": "2026-11-07T03:38:48.261Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11128439",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-07T03-38-48-261Z_secop-ii_contratar-el-servicio-de-mantenimiento-preventivo-"
+    },
+    "h52a61cac": {
+      "at": "2026-11-07T03:38:48.262Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11163075",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-07T03-38-48-261Z_secop-ii_suministro-de-elementos-de-dotacion-espacio-afroan"
+    },
+    "h17e97b2": {
+      "at": "2026-11-07T03:38:48.262Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11125066",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-07T03-38-48-262Z_secop-ii_mejoramiento-de-la-infraestructura-educativa-rural"
+    },
+    "hf50fdfd3": {
+      "at": "2026-11-07T03:38:48.263Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11076350",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-07T03-38-48-262Z_secop-ii_samc-036-2026"
+    },
+    "h7f5af100": {
+      "at": "2026-11-07T03:38:48.263Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11121473",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-07T03-38-48-263Z_secop-ii_prestar-servicios-de-mantenimiento-preventivo-y-co"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-28T21:58:35.149Z",
-      "endedAt": "2026-10-28T21:59:45.132Z",
-      "scannedCandidates": 9,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-29T03:20:24.262Z",
       "endedAt": "2026-10-29T03:21:48.863Z",
@@ -3557,6 +3658,14 @@
       "endedAt": "2026-11-06T22:30:55.110Z",
       "scannedCandidates": 8,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-07T03:37:59.324Z",
+      "endedAt": "2026-11-07T03:38:48.275Z",
+      "scannedCandidates": 22,
+      "viableCandidates": 11,
       "sentNotifications": 0,
       "transport": "console"
     }
