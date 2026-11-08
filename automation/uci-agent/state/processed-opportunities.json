@@ -3542,17 +3542,55 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-08T03-10-51-243Z_secop-ii_servicio-de-mantenimiento-preventivo-y-correctivo-"
+    },
+    "h70f596bc": {
+      "at": "2026-11-08T21:28:07.345Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11190529",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-08T21-28-07-336Z_secop-ii_combustible-municipios-manifestacion-de-interes-me"
+    },
+    "h5694f027": {
+      "at": "2026-11-08T21:28:07.345Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11186493",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-08T21-28-07-345Z_secop-ii_suministro-e-instalacion-de-un-tanque-de-almacenam"
+    },
+    "h6878f583": {
+      "at": "2026-11-08T21:28:07.345Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11169331",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-08T21-28-07-345Z_secop-ii_mantenimiento-de-los-semaforos-del-municipio-de-fo"
+    },
+    "hd501e5ca": {
+      "at": "2026-11-08T21:28:07.346Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11156860",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-08T21-28-07-345Z_secop-ii_realizar-el-mantenimiento-y-recuperacion-de-andene"
+    },
+    "hf4757a8f": {
+      "at": "2026-11-08T21:28:07.346Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11178562",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h4cdee5a3": {
+      "at": "2026-11-08T21:28:07.346Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11166297",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-30T03:22:16.023Z",
-      "endedAt": "2026-10-30T03:23:20.942Z",
-      "scannedCandidates": 9,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-30T11:49:13.522Z",
       "endedAt": "2026-10-30T11:50:26.300Z",
@@ -3782,6 +3820,14 @@
       "endedAt": "2026-11-08T12:24:15.718Z",
       "scannedCandidates": 24,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-08T21:27:02.088Z",
+      "endedAt": "2026-11-08T21:28:07.354Z",
+      "scannedCandidates": 24,
+      "viableCandidates": 4,
       "sentNotifications": 0,
       "transport": "console"
     }
