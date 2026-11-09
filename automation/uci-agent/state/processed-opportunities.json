@@ -3588,17 +3588,15 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11166297",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "hce31a6a4": {
+      "at": "2026-11-09T14:37:46.643Z",
+      "sourceId": "apc-colombia",
+      "url": "https://www.apccolombia.gov.co/comunicaciones/noticias/conozca-los-ganadores-de-la-convocatoria-de-recaudacion-de-fondos-para",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-10-30T17:24:40.625Z",
-      "endedAt": "2026-10-30T17:25:57.028Z",
-      "scannedCandidates": 9,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-10-30T21:46:00.850Z",
       "endedAt": "2026-10-30T21:47:49.091Z",
@@ -3826,6 +3824,14 @@
     {
       "startedAt": "2026-11-09T03:31:17.985Z",
       "endedAt": "2026-11-09T03:32:23.344Z",
+      "scannedCandidates": 8,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-09T14:37:37.988Z",
+      "endedAt": "2026-11-09T14:38:58.230Z",
       "scannedCandidates": 8,
       "viableCandidates": 0,
       "sentNotifications": 0,
