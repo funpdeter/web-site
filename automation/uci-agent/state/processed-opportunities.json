@@ -3594,17 +3594,15 @@
       "sourceId": "apc-colombia",
       "url": "https://www.apccolombia.gov.co/comunicaciones/noticias/conozca-los-ganadores-de-la-convocatoria-de-recaudacion-de-fondos-para",
       "viable": false
+    },
+    "h95f41cc2": {
+      "at": "2026-11-13T22:59:32.774Z",
+      "sourceId": "minambiente",
+      "url": "https://www.minambiente.gov.co/cop31-colombia-concreta-avances-en-financiacion-ambiental-y-cooperacion-internacional",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-11-03T13:12:01.874Z",
-      "endedAt": "2026-11-03T13:13:13.781Z",
-      "scannedCandidates": 9,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-11-03T22:40:09.425Z",
       "endedAt": "2026-11-03T22:41:01.857Z",
@@ -3833,6 +3831,14 @@
       "startedAt": "2026-11-13T13:35:07.869Z",
       "endedAt": "2026-11-13T13:36:21.457Z",
       "scannedCandidates": 8,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-13T22:59:12.616Z",
+      "endedAt": "2026-11-13T23:00:35.823Z",
+      "scannedCandidates": 6,
       "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
