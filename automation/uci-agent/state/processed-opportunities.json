@@ -3709,17 +3709,31 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-14T03-57-58-374Z_secop-ii_parque-altoviento-manifestacion-de-interes-menor-c"
+    },
+    "h43bfc5f1": {
+      "at": "2026-11-14T12:41:18.201Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11181946",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hd78f5a4c": {
+      "at": "2026-11-14T12:41:18.201Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11139119",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hb8854973": {
+      "at": "2026-11-14T12:41:18.213Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11202856",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-14T12-41-18-201Z_secop-ii_mejoramiento-y-reparacion-de-areas-locativas-manif"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-11-04T03:46:23.421Z",
-      "endedAt": "2026-11-04T03:47:16.178Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-11-04T13:26:08.087Z",
       "endedAt": "2026-11-04T13:27:18.185Z",
@@ -3949,6 +3963,14 @@
       "endedAt": "2026-11-14T03:57:58.384Z",
       "scannedCandidates": 22,
       "viableCandidates": 11,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-14T12:40:17.232Z",
+      "endedAt": "2026-11-14T12:41:18.224Z",
+      "scannedCandidates": 22,
+      "viableCandidates": 1,
       "sentNotifications": 0,
       "transport": "console"
     }
