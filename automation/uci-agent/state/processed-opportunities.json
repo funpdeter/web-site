@@ -3600,17 +3600,118 @@
       "sourceId": "minambiente",
       "url": "https://www.minambiente.gov.co/cop31-colombia-concreta-avances-en-financiacion-ambiental-y-cooperacion-internacional",
       "viable": false
+    },
+    "hb3cc88a6": {
+      "at": "2026-11-14T03:57:58.369Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11156969",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-14T03-57-58-358Z_secop-ii_c-m-003-de-2026"
+    },
+    "h7f17f346": {
+      "at": "2026-11-14T03:57:58.370Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11167763",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-14T03-57-58-369Z_secop-ii_fortalecimiento-para-el-bienestar-integral"
+    },
+    "h27914591": {
+      "at": "2026-11-14T03:57:58.370Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11119680",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-14T03-57-58-370Z_secop-ii_parque-altoviento"
+    },
+    "h5dfdfa7b": {
+      "at": "2026-11-14T03:57:58.370Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11201484",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hb9b5e47f": {
+      "at": "2026-11-14T03:57:58.371Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10918950",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h7c6bd702": {
+      "at": "2026-11-14T03:57:58.371Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11078283",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-14T03-57-58-371Z_secop-ii_prestacion-de-servicios-para-el-desarrollo-de-camp"
+    },
+    "h8b444b2c": {
+      "at": "2026-11-14T03:57:58.372Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11209805",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-14T03-57-58-371Z_secop-ii_mercados-adulto-mayor-presentacion-de-oferta"
+    },
+    "hd7c00e0e": {
+      "at": "2026-11-14T03:57:58.372Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11162579",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-14T03-57-58-372Z_secop-ii_prestacion-de-servicios-para-el-desarrollo-de-camp"
+    },
+    "h2c3b6380": {
+      "at": "2026-11-14T03:57:58.372Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11211156",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-14T03-57-58-372Z_secop-ii_fortalecimiento-para-el-bienestar-integral-present"
+    },
+    "hb76af545": {
+      "at": "2026-11-14T03:57:58.373Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11188031",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-14T03-57-58-373Z_secop-ii_optimizacion-mejoramiento-y-construccion-de-tanque"
+    },
+    "h2cd99a62": {
+      "at": "2026-11-14T03:57:58.373Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11147211",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-14T03-57-58-373Z_secop-ii_sa-mc-016-2026"
+    },
+    "h3eb0b388": {
+      "at": "2026-11-14T03:57:58.374Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11181923",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-14T03-57-58-373Z_secop-ii_canal-el-sol"
+    },
+    "h5c8e5a4b": {
+      "at": "2026-11-14T03:57:58.374Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.10995441",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h73370ee3": {
+      "at": "2026-11-14T03:57:58.374Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11193455",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-14T03-57-58-374Z_secop-ii_parque-altoviento-manifestacion-de-interes-menor-c"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-11-03T22:40:09.425Z",
-      "endedAt": "2026-11-03T22:41:01.857Z",
-      "scannedCandidates": 9,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-11-04T03:46:23.421Z",
       "endedAt": "2026-11-04T03:47:16.178Z",
@@ -3840,6 +3941,14 @@
       "endedAt": "2026-11-13T23:00:35.823Z",
       "scannedCandidates": 6,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-14T03:56:15.811Z",
+      "endedAt": "2026-11-14T03:57:58.384Z",
+      "scannedCandidates": 22,
+      "viableCandidates": 11,
       "sentNotifications": 0,
       "transport": "console"
     }
