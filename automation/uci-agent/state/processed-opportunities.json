@@ -3737,17 +3737,41 @@
       "sourceId": "minambiente",
       "url": "https://www.minambiente.gov.co/cop31-colombia-gestiona-cooperacion-y-financiamiento-internacional-para-impulsar-los-mercados-de-carbono-y-proteger-la-biodiversidad",
       "viable": false
+    },
+    "h8d28314c": {
+      "at": "2026-11-15T03:41:39.084Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11035844",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-15T03-41-39-074Z_secop-ii_licitacion-publica"
+    },
+    "h83d0b867": {
+      "at": "2026-11-15T03:41:39.085Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11220618",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-15T03-41-39-085Z_secop-ii_optimizacion-mejoramiento-y-construccion-de-tanque"
+    },
+    "hbc8a490d": {
+      "at": "2026-11-15T03:41:39.085Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11219946",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-15T03-41-39-085Z_secop-ii_mejoramiento-y-reparacion-de-areas-locativas-manif"
+    },
+    "hd399066f": {
+      "at": "2026-11-15T03:41:39.086Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11146949",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-15T03-41-39-085Z_secop-ii_mejoramiento-y-reparacion-de-areas-locativas"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-11-04T22:58:32.434Z",
-      "endedAt": "2026-11-04T22:59:55.641Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-11-05T04:04:05.116Z",
       "endedAt": "2026-11-05T04:05:29.766Z",
@@ -3977,6 +4001,14 @@
       "endedAt": "2026-11-14T21:48:01.985Z",
       "scannedCandidates": 22,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-15T03:40:04.995Z",
+      "endedAt": "2026-11-15T03:41:39.094Z",
+      "scannedCandidates": 22,
+      "viableCandidates": 4,
       "sentNotifications": 0,
       "transport": "console"
     }
