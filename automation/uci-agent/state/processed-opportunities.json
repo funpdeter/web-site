@@ -3769,17 +3769,62 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-15T03-41-39-085Z_secop-ii_mejoramiento-y-reparacion-de-areas-locativas"
+    },
+    "hd2b2a0d2": {
+      "at": "2026-11-16T14:14:10.010Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11215734",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hde374c3b": {
+      "at": "2026-11-16T14:14:10.010Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11221594",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hd5c1b015": {
+      "at": "2026-11-16T14:14:10.011Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11215793",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h80e39a21": {
+      "at": "2026-11-16T14:14:10.026Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11224182",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-16T14-14-10-011Z_secop-ii_convocatoria-publica-07-2026"
+    },
+    "hd9980016": {
+      "at": "2026-11-16T14:14:10.027Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11216911",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-16T14-14-10-026Z_secop-ii_contrato-de-colaboracion-con-una-entidad-sin-animo"
+    },
+    "h3df52179": {
+      "at": "2026-11-16T14:14:10.028Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11219850",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-16T14-14-10-027Z_secop-ii_adquisicion-y-suministro-de-gallinas-ponedoras-y-a"
+    },
+    "h3df0f7f": {
+      "at": "2026-11-16T14:14:10.028Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11222090",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-16T14-14-10-028Z_secop-ii_interventoria-integral-al-proyecto-denominado-ampl"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-11-05T22:59:55.035Z",
-      "endedAt": "2026-11-05T23:01:08.013Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-11-06T04:01:33.631Z",
       "endedAt": "2026-11-06T04:02:45.654Z",
@@ -4009,6 +4054,14 @@
       "endedAt": "2026-11-15T22:15:57.985Z",
       "scannedCandidates": 6,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-16T14:13:13.391Z",
+      "endedAt": "2026-11-16T14:14:10.044Z",
+      "scannedCandidates": 22,
+      "viableCandidates": 4,
       "sentNotifications": 0,
       "transport": "console"
     }
