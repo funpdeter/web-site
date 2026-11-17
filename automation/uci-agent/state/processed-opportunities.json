@@ -3822,17 +3822,102 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-16T14-14-10-028Z_secop-ii_interventoria-integral-al-proyecto-denominado-ampl"
+    },
+    "h41a352c": {
+      "at": "2026-11-17T01:16:13.361Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11119126",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-17T01-16-13-352Z_secop-ii_contrato-de-obra-para-realizar-los-mantenimientos-"
+    },
+    "h61b38faa": {
+      "at": "2026-11-17T01:16:13.362Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11228819",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-17T01-16-13-361Z_secop-ii_parque-san-nicolas-1-manifestacion-de-interes-meno"
+    },
+    "ha37e7370": {
+      "at": "2026-11-17T01:16:13.362Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11161507",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-17T01-16-13-362Z_secop-ii_adecuaciones-adulto-mayor"
+    },
+    "hae3e36e6": {
+      "at": "2026-11-17T01:16:13.363Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11161268",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-17T01-16-13-362Z_secop-ii_parque-san-nicolas-1"
+    },
+    "h1a301191": {
+      "at": "2026-11-17T01:16:13.363Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11209882",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-17T01-16-13-363Z_secop-ii_obras-muro-tierra-linda-la-virgen-manifestacion-de"
+    },
+    "hfdc6577d": {
+      "at": "2026-11-17T01:16:13.364Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11218691",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "he76cf086": {
+      "at": "2026-11-17T01:16:13.364Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11208512",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-17T01-16-13-364Z_secop-ii_parque-san-nicolas-1-manifestacion-de-interes-meno"
+    },
+    "h16b36139": {
+      "at": "2026-11-17T01:16:13.364Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11220331",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h4531fcee": {
+      "at": "2026-11-17T01:16:13.364Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11228998",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h8f48cea6": {
+      "at": "2026-11-17T01:16:13.365Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11209865",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-17T01-16-13-364Z_secop-ii_se-sa-174-2026-presentacion-de-oferta"
+    },
+    "h2fbb1d1b": {
+      "at": "2026-11-17T01:16:13.365Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11208601",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-17T01-16-13-365Z_secop-ii_adecuaciones-adulto-mayor-manifestacion-de-interes"
+    },
+    "ha535e0cb": {
+      "at": "2026-11-17T01:16:13.365Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11180288",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-17T01-16-13-365Z_secop-ii_interventoria-tecnica-administrativa-financiera-le"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-11-06T04:01:33.631Z",
-      "endedAt": "2026-11-06T04:02:45.654Z",
-      "scannedCandidates": 6,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-11-06T13:24:21.248Z",
       "endedAt": "2026-11-06T13:25:43.586Z",
@@ -4062,6 +4147,14 @@
       "endedAt": "2026-11-16T14:14:10.044Z",
       "scannedCandidates": 22,
       "viableCandidates": 4,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-17T01:15:04.342Z",
+      "endedAt": "2026-11-17T01:16:13.373Z",
+      "scannedCandidates": 22,
+      "viableCandidates": 9,
       "sentNotifications": 0,
       "transport": "console"
     }
