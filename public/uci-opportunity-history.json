@@ -1,6 +1,6 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-11-18T14:45:38.944Z",
+  "updatedAt": "2026-11-18T23:41:51.961Z",
   "opportunities": [
     {
       "id": "h78c3aa06",
@@ -19,9 +19,9 @@
       "url": "https://www.grants.gov/search-results-detail/364160",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-28T02:56:59.346Z",
-      "lastSeenAt": "2026-11-18T14:45:38.944Z",
-      "lastPublishedAt": "2026-11-18T14:45:38.944Z",
-      "publishCount": 63,
+      "lastSeenAt": "2026-11-18T23:41:51.961Z",
+      "lastPublishedAt": "2026-11-18T23:41:51.961Z",
+      "publishCount": 64,
       "isArchived": false
     },
     {
@@ -41,9 +41,9 @@
       "url": "https://www.grants.gov/search-results-detail/364087",
       "publicationNumber": null,
       "firstSeenAt": "2026-10-16T20:14:29.817Z",
-      "lastSeenAt": "2026-11-18T14:45:38.944Z",
-      "lastPublishedAt": "2026-11-18T14:45:38.944Z",
-      "publishCount": 87,
+      "lastSeenAt": "2026-11-18T23:41:51.961Z",
+      "lastPublishedAt": "2026-11-18T23:41:51.961Z",
+      "publishCount": 88,
       "isArchived": false
     },
     {
@@ -63,9 +63,9 @@
       "url": "https://www.grants.gov/search-results-detail/344124",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-22T02:18:02.240Z",
-      "lastSeenAt": "2026-11-18T14:45:38.944Z",
-      "lastPublishedAt": "2026-11-18T14:45:38.944Z",
-      "publishCount": 139,
+      "lastSeenAt": "2026-11-18T23:41:51.961Z",
+      "lastPublishedAt": "2026-11-18T23:41:51.961Z",
+      "publishCount": 140,
       "isArchived": false
     },
     {
@@ -85,9 +85,9 @@
       "url": "https://www.grants.gov/search-results-detail/334326",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastSeenAt": "2026-11-18T14:45:38.944Z",
-      "lastPublishedAt": "2026-11-18T14:45:38.944Z",
-      "publishCount": 152,
+      "lastSeenAt": "2026-11-18T23:41:51.961Z",
+      "lastPublishedAt": "2026-11-18T23:41:51.961Z",
+      "publishCount": 153,
       "isArchived": false
     },
     {
@@ -107,9 +107,9 @@
       "url": "https://www.grants.gov/search-results-detail/344608",
       "publicationNumber": null,
       "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-11-18T14:45:38.944Z",
-      "lastPublishedAt": "2026-11-18T14:45:38.944Z",
-      "publishCount": 138,
+      "lastSeenAt": "2026-11-18T23:41:51.961Z",
+      "lastPublishedAt": "2026-11-18T23:41:51.961Z",
+      "publishCount": 139,
       "isArchived": false
     },
     {

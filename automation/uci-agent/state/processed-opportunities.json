@@ -4038,17 +4038,15 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-18T00-10-38-428Z_secop-ii_fortalecimiento-del-consejo-territorial-de-planeac"
+    },
+    "h87d62019": {
+      "at": "2026-11-18T23:40:46.731Z",
+      "sourceId": "apc-colombia",
+      "url": "https://apccolombia.gov.co/index.php/eventos/convocatoria-para-becas-de-la-fundacion-carolina",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-11-07T12:01:56.515Z",
-      "endedAt": "2026-11-07T12:02:53.625Z",
-      "scannedCandidates": 24,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-11-07T21:11:37.605Z",
       "endedAt": "2026-11-07T21:12:53.746Z",
@@ -4276,6 +4274,14 @@
     {
       "startedAt": "2026-11-18T14:44:36.968Z",
       "endedAt": "2026-11-18T14:45:38.947Z",
+      "scannedCandidates": 5,
+      "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-18T23:40:42.414Z",
+      "endedAt": "2026-11-18T23:41:51.964Z",
       "scannedCandidates": 5,
       "viableCandidates": 0,
       "sentNotifications": 0,
