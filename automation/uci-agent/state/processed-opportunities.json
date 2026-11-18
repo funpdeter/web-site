@@ -3915,17 +3915,132 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-17T01-16-13-365Z_secop-ii_interventoria-tecnica-administrativa-financiera-le"
+    },
+    "hce10efd2": {
+      "at": "2026-11-18T00:10:38.410Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11217552",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "ha16b63d6": {
+      "at": "2026-11-18T00:10:38.411Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11217343",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h621e8421": {
+      "at": "2026-11-18T00:10:38.411Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11221534",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hf794cb0a": {
+      "at": "2026-11-18T00:10:38.411Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11223498",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h1673bd04": {
+      "at": "2026-11-18T00:10:38.411Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11221173",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "ha7278b6d": {
+      "at": "2026-11-18T00:10:38.423Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11197480",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-18T00-10-38-412Z_secop-ii_objeto-a-contratar-adquisicion-instalacion-y-puest"
+    },
+    "h72bd3ecc": {
+      "at": "2026-11-18T00:10:38.424Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11216544",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-18T00-10-38-423Z_secop-ii_prestacion-de-servicios-logisticos-para-la-realiza"
+    },
+    "hf139cf81": {
+      "at": "2026-11-18T00:10:38.424Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11167201",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-18T00-10-38-424Z_secop-ii_prestacion-de-servicios-para-la-realizacion-de-act"
+    },
+    "hab13d09f": {
+      "at": "2026-11-18T00:10:38.425Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11166033",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-18T00-10-38-424Z_secop-ii_ss-sa-176-2026"
+    },
+    "h18d04933": {
+      "at": "2026-11-18T00:10:38.425Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11184341",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-18T00-10-38-425Z_secop-ii_objeto-a-contratar-adquisicion-instalacion-y-puest"
+    },
+    "h420f9113": {
+      "at": "2026-11-18T00:10:38.426Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11227101",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-18T00-10-38-425Z_secop-ii_prestacion-de-servicios-para-la-realizacion-de-act"
+    },
+    "hc6ee2839": {
+      "at": "2026-11-18T00:10:38.426Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11128877",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-18T00-10-38-426Z_secop-ii_adquisicion-de-elementos-como-fortalecimiento-a-lo"
+    },
+    "he230ad4a": {
+      "at": "2026-11-18T00:10:38.427Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11216735",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-18T00-10-38-426Z_secop-ii_adquisicion-de-equipos-y-elementos-industriales-pa"
+    },
+    "h2fd490a3": {
+      "at": "2026-11-18T00:10:38.427Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11125421",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-18T00-10-38-427Z_secop-ii_objeto-a-contratar-adquisicion-instalacion-y-puest"
+    },
+    "h8f3c92f1": {
+      "at": "2026-11-18T00:10:38.427Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11216279",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-18T00-10-38-427Z_secop-ii_prestacion-de-servicios-para-la-realizacion-de-act"
+    },
+    "hb3bfa761": {
+      "at": "2026-11-18T00:10:38.428Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11222584",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-18T00-10-38-428Z_secop-ii_fortalecimiento-del-consejo-territorial-de-planeac"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-11-06T22:29:39.780Z",
-      "endedAt": "2026-11-06T22:30:55.110Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-11-07T03:37:59.324Z",
       "endedAt": "2026-11-07T03:38:48.275Z",
@@ -4155,6 +4270,14 @@
       "endedAt": "2026-11-17T15:07:14.653Z",
       "scannedCandidates": 6,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-18T00:09:09.498Z",
+      "endedAt": "2026-11-18T00:10:38.438Z",
+      "scannedCandidates": 21,
+      "viableCandidates": 11,
       "sentNotifications": 0,
       "transport": "console"
     }
