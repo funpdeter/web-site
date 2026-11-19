@@ -4044,17 +4044,137 @@
       "sourceId": "apc-colombia",
       "url": "https://apccolombia.gov.co/index.php/eventos/convocatoria-para-becas-de-la-fundacion-carolina",
       "viable": false
+    },
+    "hf2a33ebb": {
+      "at": "2026-11-19T04:56:00.490Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11174768",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-19T04-56-00-481Z_secop-ii_ampliacion-de-la-cobertura-del-servicio-de-energia"
+    },
+    "h38bf44a": {
+      "at": "2026-11-19T04:56:00.491Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11167198",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-19T04-56-00-491Z_secop-ii_dotacion"
+    },
+    "ha86bb8b7": {
+      "at": "2026-11-19T04:56:00.491Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11215359",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-19T04-56-00-491Z_secop-ii_suministro-de-elementos-que-hacen-parte-de-la-dota"
+    },
+    "hc04f32e8": {
+      "at": "2026-11-19T04:56:00.492Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11215839",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-19T04-56-00-491Z_secop-ii_dotacion-presentacion-de-oferta"
+    },
+    "hb73e7ce8": {
+      "at": "2026-11-19T04:56:00.492Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11211141",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-19T04-56-00-492Z_secop-ii_prestacion-del-servicio-de-vigilancia-y-seguridad-"
+    },
+    "hbe0097d1": {
+      "at": "2026-11-19T04:56:00.492Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11192652",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-19T04-56-00-492Z_secop-ii_elementos-de-aseo-adulto-mayor"
+    },
+    "h12e3a44a": {
+      "at": "2026-11-19T04:56:00.493Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11222075",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-19T04-56-00-493Z_secop-ii_contratar-los-servicios-especializados-para-la-adm"
+    },
+    "h97e56743": {
+      "at": "2026-11-19T04:56:00.493Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11223071",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-19T04-56-00-493Z_secop-ii_ss-sa-176-2026-presentacion-de-oferta"
+    },
+    "h84848acb": {
+      "at": "2026-11-19T04:56:00.493Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11215562",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-19T04-56-00-493Z_secop-ii_prestacion-de-servicios-logisticos"
+    },
+    "h4c6fad1d": {
+      "at": "2026-11-19T04:56:00.494Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11201796",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-19T04-56-00-493Z_secop-ii_contrato-de-obra-para-realizar-los-mantenimientos-"
+    },
+    "hf602a318": {
+      "at": "2026-11-19T04:56:00.494Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11176583",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-19T04-56-00-494Z_secop-ii_suministro-de-elementos-que-hacen-parte-de-la-dota"
+    },
+    "h5a886683": {
+      "at": "2026-11-19T04:56:00.494Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11116416",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-19T04-56-00-494Z_secop-ii_cromatografo-y-drones"
+    },
+    "h50ab0fc7": {
+      "at": "2026-11-19T04:56:00.494Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11226094",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-19T04-56-00-494Z_secop-ii_mejoramiento-y-mantenimiento-de-la-via-ubicada-en-"
+    },
+    "h3b4c3708": {
+      "at": "2026-11-19T04:56:00.495Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11183305",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-19T04-56-00-494Z_secop-ii_mejoramiento-y-mantenimiento-de-la-via-ubicada-en-"
+    },
+    "hb5a547e0": {
+      "at": "2026-11-19T04:56:00.495Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11116619",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-19T04-56-00-495Z_secop-ii_prestacion-del-servicio-de-vigilancia-y-seguridad-"
+    },
+    "he0b835d5": {
+      "at": "2026-11-19T04:56:00.495Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11115385",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-19T04-56-00-495Z_secop-ii_prestacion-de-servicios-de-personal-de-aseo-y-cafe"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-11-07T21:11:37.605Z",
-      "endedAt": "2026-11-07T21:12:53.746Z",
-      "scannedCandidates": 24,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-11-08T03:09:33.597Z",
       "endedAt": "2026-11-08T03:10:51.256Z",
@@ -4284,6 +4404,14 @@
       "endedAt": "2026-11-18T23:41:51.964Z",
       "scannedCandidates": 5,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-19T04:54:54.615Z",
+      "endedAt": "2026-11-19T04:56:00.503Z",
+      "scannedCandidates": 21,
+      "viableCandidates": 16,
       "sentNotifications": 0,
       "transport": "console"
     }
