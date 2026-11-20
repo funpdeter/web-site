@@ -4172,17 +4172,133 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-19T04-56-00-495Z_secop-ii_prestacion-de-servicios-de-personal-de-aseo-y-cafe"
+    },
+    "he63ac34": {
+      "at": "2026-11-20T05:57:11.947Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11206448",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h25e0ec4e": {
+      "at": "2026-11-20T05:57:11.957Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11222880",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-20T05-57-11-947Z_secop-ii_adquisicion-de-elementos-como-fortalecimiento-a-lo"
+    },
+    "hed1ac293": {
+      "at": "2026-11-20T05:57:11.957Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11225598",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h5f71a525": {
+      "at": "2026-11-20T05:57:11.958Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11234037",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-20T05-57-11-957Z_secop-ii_adquisicion-de-asfaltita-natural-para-el-mejoramie"
+    },
+    "h55ee71de": {
+      "at": "2026-11-20T05:57:11.958Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11233969",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-20T05-57-11-958Z_secop-ii_estudios-ambientales-gestion-tramites-y-solicitude"
+    },
+    "h8f38aec6": {
+      "at": "2026-11-20T05:57:11.959Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11197416",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-20T05-57-11-958Z_secop-ii_apoyo-logistico-cultura"
+    },
+    "hf4987713": {
+      "at": "2026-11-20T05:57:11.959Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11228566",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-20T05-57-11-959Z_secop-ii_adecuaciones-adulto-mayor-manifestacion-de-interes"
+    },
+    "hd3b0c621": {
+      "at": "2026-11-20T05:57:11.959Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11240377",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-20T05-57-11-959Z_secop-ii_realizar-entrega-de-elementos-para-el-fortalecimie"
+    },
+    "hd74a067": {
+      "at": "2026-11-20T05:57:11.960Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11163621",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-20T05-57-11-959Z_secop-ii_modernizacion-y-mejoramiento-integral-de-los-espac"
+    },
+    "h1409c3f5": {
+      "at": "2026-11-20T05:57:11.960Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11234446",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hce417d69": {
+      "at": "2026-11-20T05:57:11.960Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11235104",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-20T05-57-11-960Z_secop-ii_construccion-de-graderias-en-concreto-en-el-polide"
+    },
+    "h747d6a16": {
+      "at": "2026-11-20T05:57:11.960Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11228594",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-20T05-57-11-960Z_secop-ii_adquisicion-de-chalecos-de-proteccion-balistica-co"
+    },
+    "h731fe8a2": {
+      "at": "2026-11-20T05:57:11.961Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11215679",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-20T05-57-11-960Z_secop-ii_modernizacion-y-mejoramiento-integral-de-los-espac"
+    },
+    "h494097c5": {
+      "at": "2026-11-20T05:57:11.961Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11216886",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-20T05-57-11-961Z_secop-ii_prestacion-de-servicios-de-personal-de-aseo-y-cafe"
+    },
+    "h17c565be": {
+      "at": "2026-11-20T05:57:11.961Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11239376",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hec1ac100": {
+      "at": "2026-11-20T05:57:11.961Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11225599",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-20T05-57-11-961Z_secop-ii_adquisicion-de-elementos-para-el-fortalecimiento-d"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-11-08T21:27:02.088Z",
-      "endedAt": "2026-11-08T21:28:07.354Z",
-      "scannedCandidates": 24,
-      "viableCandidates": 4,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-11-09T03:31:17.985Z",
       "endedAt": "2026-11-09T03:32:23.344Z",
@@ -4412,6 +4528,14 @@
       "endedAt": "2026-11-20T00:01:08.786Z",
       "scannedCandidates": 5,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-20T05:56:07.294Z",
+      "endedAt": "2026-11-20T05:57:11.972Z",
+      "scannedCandidates": 21,
+      "viableCandidates": 12,
       "sentNotifications": 0,
       "transport": "console"
     }
