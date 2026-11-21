@@ -4405,17 +4405,107 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-21T04-41-49-227Z_secop-ii_concurso-de-meritos-abierto"
+    },
+    "h7f444b9b": {
+      "at": "2026-11-21T13:52:12.661Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11101618",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h31bfcf76": {
+      "at": "2026-11-21T13:52:12.670Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11201850",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-21T13-52-12-662Z_secop-ii_estudios-y-disenos-3-en-1"
+    },
+    "hab737fac": {
+      "at": "2026-11-21T13:52:12.671Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11193072",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-21T13-52-12-671Z_secop-ii_mantenimiento-mantenimiento-rutinario-y-periodico-"
+    },
+    "hb6e315ca": {
+      "at": "2026-11-21T13:52:12.671Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11239408",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-21T13-52-12-671Z_secop-ii_aunar-esfuerzos-tecnicos-administrativos-y-financi"
+    },
+    "hb1891bca": {
+      "at": "2026-11-21T13:52:12.672Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11205784",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-21T13-52-12-671Z_secop-ii_dotacion-mobiliario"
+    },
+    "h7d952dc1": {
+      "at": "2026-11-21T13:52:12.672Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11245301",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hb4178d93": {
+      "at": "2026-11-21T13:52:12.672Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11244458",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hbbde918c": {
+      "at": "2026-11-21T13:52:12.672Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11247807",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-21T13-52-12-672Z_secop-ii_promover-la-practica-del-deporte-la-recreacion-y-e"
+    },
+    "h87ed4012": {
+      "at": "2026-11-21T13:52:12.673Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11247298",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-21T13-52-12-672Z_secop-ii_promover-la-practica-del-deporte-la-recreacion-y-e"
+    },
+    "h7aef6a32": {
+      "at": "2026-11-21T13:52:12.673Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11247287",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-21T13-52-12-673Z_secop-ii_promover-la-practica-del-deporte-la-recreacion-y-e"
+    },
+    "h24c6ebee": {
+      "at": "2026-11-21T13:52:12.673Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11246899",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h8cb85171": {
+      "at": "2026-11-21T13:52:12.673Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11246300",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h44abbce4": {
+      "at": "2026-11-21T13:52:12.673Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11229564",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-11-10T13:55:19.204Z",
-      "endedAt": "2026-11-10T13:56:31.573Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-11-10T22:38:10.655Z",
       "endedAt": "2026-11-10T22:39:34.299Z",
@@ -4645,6 +4735,14 @@
       "endedAt": "2026-11-21T04:41:49.236Z",
       "scannedCandidates": 21,
       "viableCandidates": 11,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-21T13:51:15.375Z",
+      "endedAt": "2026-11-21T13:52:12.683Z",
+      "scannedCandidates": 21,
+      "viableCandidates": 7,
       "sentNotifications": 0,
       "transport": "console"
     }
