@@ -4503,17 +4503,71 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11229564",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "hc46a5e7d": {
+      "at": "2026-11-21T22:34:43.838Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11247651",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h881be05c": {
+      "at": "2026-11-21T22:34:43.852Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11237255",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-21T22-34-43-838Z_secop-ii_construccion-de-3-viveros-comunitarios-para-la-pro"
+    },
+    "h28a65d68": {
+      "at": "2026-11-21T22:34:43.852Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11172543",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h1e553db1": {
+      "at": "2026-11-21T22:34:43.853Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11240889",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-21T22-34-43-852Z_secop-ii_sumiinistro-de-ayudas-tecnicas-dispositivos-de-apo"
+    },
+    "h8ec664b5": {
+      "at": "2026-11-21T22:34:43.853Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11177873",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-21T22-34-43-853Z_secop-ii_fortalecimiento-tecnico-y-productivo-de-las-unidad"
+    },
+    "h45cb05c1": {
+      "at": "2026-11-21T22:34:43.854Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11246090",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-21T22-34-43-853Z_secop-ii_prestacion-de-servicios-y-suministro-de-filtros-lu"
+    },
+    "h73dad550": {
+      "at": "2026-11-21T22:34:43.854Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11217709",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-21T22-34-43-854Z_secop-ii_cromatografo-y-drones-presentacion-de-oferta"
+    },
+    "he156ed1a": {
+      "at": "2026-11-21T22:34:43.855Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11208871",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-21T22-34-43-854Z_secop-ii_prestacion-de-servicios-y-suministro-de-filtros-lu"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-11-10T22:38:10.655Z",
-      "endedAt": "2026-11-10T22:39:34.299Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-11-11T03:38:11.751Z",
       "endedAt": "2026-11-11T03:39:19.506Z",
@@ -4743,6 +4797,14 @@
       "endedAt": "2026-11-21T13:52:12.683Z",
       "scannedCandidates": 21,
       "viableCandidates": 7,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-21T22:33:06.432Z",
+      "endedAt": "2026-11-21T22:34:43.867Z",
+      "scannedCandidates": 21,
+      "viableCandidates": 6,
       "sentNotifications": 0,
       "transport": "console"
     }
