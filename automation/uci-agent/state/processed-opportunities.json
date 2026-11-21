@@ -4296,17 +4296,118 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-20T05-57-11-961Z_secop-ii_adquisicion-de-elementos-para-el-fortalecimiento-d"
+    },
+    "h528d2102": {
+      "at": "2026-11-21T04:41:49.223Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11244769",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-21T04-41-49-214Z_secop-ii_prestacion-de-servicios-para-la-organizacion-apoyo"
+    },
+    "h6362be37": {
+      "at": "2026-11-21T04:41:49.224Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11240511",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-21T04-41-49-223Z_secop-ii_prestacion-de-servicios-para-la-organizacion-apoyo"
+    },
+    "h335d3490": {
+      "at": "2026-11-21T04:41:49.224Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11223179",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-21T04-41-49-224Z_secop-ii_senalizacion-vial-y-dispositivos-de-control-en-las"
+    },
+    "h657f0e52": {
+      "at": "2026-11-21T04:41:49.225Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11137256",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-21T04-41-49-224Z_secop-ii_senalizacion-vial-y-dispositivos-de-control-en-las"
+    },
+    "h90d41daf": {
+      "at": "2026-11-21T04:41:49.225Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11217094",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-21T04-41-49-225Z_secop-ii_l-p-005-de-2026-fase-de-seleccion-presentacion-de-"
+    },
+    "he5efa5af": {
+      "at": "2026-11-21T04:41:49.226Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11230822",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-21T04-41-49-225Z_secop-ii_el-contratista-se-obliga-con-el-municipio-a-realiz"
+    },
+    "hbb755dc6": {
+      "at": "2026-11-21T04:41:49.226Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11183273",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-21T04-41-49-226Z_secop-ii_el-contratista-se-obliga-con-el-municipio-a-realiz"
+    },
+    "hd3d96258": {
+      "at": "2026-11-21T04:41:49.226Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11211718",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-21T04-41-49-226Z_secop-ii_proyecto-integral-de-aislamiento-de-un-predio-medi"
+    },
+    "hcb37bb97": {
+      "at": "2026-11-21T04:41:49.227Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11242830",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-21T04-41-49-226Z_secop-ii_invitacion-especial-004-2026"
+    },
+    "h52c582eb": {
+      "at": "2026-11-21T04:41:49.227Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11237579",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h5d344291": {
+      "at": "2026-11-21T04:41:49.227Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11221581",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hda1bdb92": {
+      "at": "2026-11-21T04:41:49.227Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11212803",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hdb9a41d3": {
+      "at": "2026-11-21T04:41:49.227Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11216927",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-21T04-41-49-227Z_secop-ii_contratar-el-alumbrado-navideno-para-el-fortalecim"
+    },
+    "h15c26a30": {
+      "at": "2026-11-21T04:41:49.228Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11220394",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-21T04-41-49-227Z_secop-ii_concurso-de-meritos-abierto"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-11-10T00:57:22.680Z",
-      "endedAt": "2026-11-10T00:58:40.007Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-11-10T13:55:19.204Z",
       "endedAt": "2026-11-10T13:56:31.573Z",
@@ -4536,6 +4637,14 @@
       "endedAt": "2026-11-20T23:29:37.971Z",
       "scannedCandidates": 5,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-21T04:40:24.385Z",
+      "endedAt": "2026-11-21T04:41:49.236Z",
+      "scannedCandidates": 21,
+      "viableCandidates": 11,
       "sentNotifications": 0,
       "transport": "console"
     }
