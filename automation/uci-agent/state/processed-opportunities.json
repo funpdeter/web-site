@@ -4565,17 +4565,24 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-21T22-34-43-854Z_secop-ii_prestacion-de-servicios-y-suministro-de-filtros-lu"
+    },
+    "hd8740834": {
+      "at": "2026-11-22T13:45:38.315Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11246673",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hced84885": {
+      "at": "2026-11-22T13:45:38.326Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11201477",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-22T13-45-38-315Z_secop-ii_dotacion-escuelas"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-11-11T13:07:54.403Z",
-      "endedAt": "2026-11-11T13:08:53.116Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-11-11T23:48:24.362Z",
       "endedAt": "2026-11-11T23:50:41.945Z",
@@ -4805,6 +4812,14 @@
       "endedAt": "2026-11-22T03:56:06.372Z",
       "scannedCandidates": 21,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-22T13:44:28.434Z",
+      "endedAt": "2026-11-22T13:45:38.339Z",
+      "scannedCandidates": 21,
+      "viableCandidates": 1,
       "sentNotifications": 0,
       "transport": "console"
     }
