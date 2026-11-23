@@ -4610,17 +4610,65 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11256615",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "h6c597d6e": {
+      "at": "2026-11-23T04:36:36.261Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11228662",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-23T04-36-36-247Z_secop-ii_adquisicion-de-una-poliza-que-ampare-los-bienes-mu"
+    },
+    "h2961ac92": {
+      "at": "2026-11-23T04:36:36.261Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11217383",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-23T04-36-36-261Z_secop-ii_prestar-los-servicios-operativos-para-el-desarroll"
+    },
+    "h37f76895": {
+      "at": "2026-11-23T04:36:36.262Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11239489",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-23T04-36-36-262Z_secop-ii_adquisicion-de-elementos-para-el-fortalecimiento-d"
+    },
+    "h625fe04c": {
+      "at": "2026-11-23T04:36:36.263Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11187064",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-23T04-36-36-262Z_secop-ii_compra-de-insumos-y-equipos-para-control-vectorial"
+    },
+    "hf6660c1b": {
+      "at": "2026-11-23T04:36:36.264Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11196856",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-23T04-36-36-263Z_secop-ii_realizar-la-interventoria-financiera-juridica-ambi"
+    },
+    "h7d4ac203": {
+      "at": "2026-11-23T04:36:36.264Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11116272",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-23T04-36-36-264Z_secop-ii_prestar-los-servicios-operativos-para-el-desarroll"
+    },
+    "hf968e1d": {
+      "at": "2026-11-23T04:36:36.265Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11227583",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-23T04-36-36-264Z_secop-ii_mantenimiento-impresoras-3d-y-cortadoras-laser"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-11-12T04:46:18.018Z",
-      "endedAt": "2026-11-12T04:47:23.539Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-11-12T14:10:39.247Z",
       "endedAt": "2026-11-12T14:11:53.577Z",
@@ -4850,6 +4898,14 @@
       "endedAt": "2026-11-22T22:56:44.837Z",
       "scannedCandidates": 21,
       "viableCandidates": 2,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-23T04:35:33.246Z",
+      "endedAt": "2026-11-23T04:36:36.276Z",
+      "scannedCandidates": 21,
+      "viableCandidates": 7,
       "sentNotifications": 0,
       "transport": "console"
     }
