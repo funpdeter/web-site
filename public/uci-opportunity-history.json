@@ -1,7 +1,117 @@
 {
   "hasOpportunities": true,
-  "updatedAt": "2026-11-23T04:36:36.271Z",
+  "updatedAt": "2026-11-23T16:46:36.314Z",
   "opportunities": [
+    {
+      "id": "h78c3aa06",
+      "sourceId": "usaid",
+      "title": "Climate Program Office FY 2027 - Super Intelligence/Machine Learning Innovation to Advance NOAA's Earth System Science and Support Hazard Resilience",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2027-02-09T00:00:00.000Z",
+      "amount": 750000,
+      "currency": "USD",
+      "amountUsd": 750000,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/364160",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-10-28T02:56:59.346Z",
+      "lastSeenAt": "2026-11-23T16:46:36.314Z",
+      "lastPublishedAt": "2026-11-23T16:46:36.314Z",
+      "publishCount": 78,
+      "isArchived": false
+    },
+    {
+      "id": "h68603f42",
+      "sourceId": "usaid",
+      "title": "Institute of Education Sciences (IES): National Center for Special Education Research (NCSER): Transformative Research in Special Education, Assistance Listing Number (ALN) 84.324T",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2026-12-11T00:00:00.000Z",
+      "amount": 3750000,
+      "currency": "USD",
+      "amountUsd": 3750000,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/364087",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-10-16T20:14:29.817Z",
+      "lastSeenAt": "2026-11-23T16:46:36.314Z",
+      "lastPublishedAt": "2026-11-23T16:46:36.314Z",
+      "publishCount": 92,
+      "isArchived": false
+    },
+    {
+      "id": "h40b35418",
+      "sourceId": "usaid",
+      "title": "Improving Undergraduate STEM Education: Directorate for STEM Education (IUSE: EDU)",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2027-01-20T00:00:00.000Z",
+      "amount": 2000000,
+      "currency": "USD",
+      "amountUsd": 2000000,
+      "scoreTotal": 13,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/344124",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-09-22T02:18:02.240Z",
+      "lastSeenAt": "2026-11-23T16:46:36.314Z",
+      "lastPublishedAt": "2026-11-23T16:46:36.314Z",
+      "publishCount": 144,
+      "isArchived": false
+    },
+    {
+      "id": "he69c4641",
+      "sourceId": "usaid",
+      "title": "Tribal Colleges and Universities Program (TCUP)",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2027-01-11T00:00:00.000Z",
+      "amount": 3500000,
+      "currency": "USD",
+      "amountUsd": 3500000,
+      "scoreTotal": 16,
+      "recommendation": "Aplicar con alianza",
+      "isViable": true,
+      "url": "https://www.grants.gov/search-results-detail/334326",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-09-15T01:39:47.404Z",
+      "lastSeenAt": "2026-11-23T16:46:36.314Z",
+      "lastPublishedAt": "2026-11-23T16:46:36.314Z",
+      "publishCount": 157,
+      "isArchived": false
+    },
+    {
+      "id": "h5bba99f",
+      "sourceId": "usaid",
+      "title": "Training-based Workforce Development for Advanced Cyberinfrastructure",
+      "source": "USAID",
+      "sourceTier": "internacional",
+      "region": "USA",
+      "deadline": "2027-01-21T00:00:00.000Z",
+      "amount": 1000000,
+      "currency": "USD",
+      "amountUsd": 1000000,
+      "scoreTotal": 14,
+      "recommendation": "No aplicar",
+      "isViable": false,
+      "url": "https://www.grants.gov/search-results-detail/344608",
+      "publicationNumber": null,
+      "firstSeenAt": "2026-09-15T01:36:43.505Z",
+      "lastSeenAt": "2026-11-23T16:46:36.314Z",
+      "lastPublishedAt": "2026-11-23T16:46:36.314Z",
+      "publishCount": 143,
+      "isArchived": false
+    },
     {
       "id": "he2e1b734",
       "sourceId": "secop-ii",
@@ -20,7 +130,7 @@
       "publicationNumber": null,
       "firstSeenAt": "2026-11-23T04:36:36.271Z",
       "lastSeenAt": "2026-11-23T04:36:36.271Z",
-      "lastPublishedAt": null,
+      "lastPublishedAt": "2026-11-23T04:36:36.271Z",
       "publishCount": 0,
       "isArchived": true
     },
@@ -42,7 +152,7 @@
       "publicationNumber": null,
       "firstSeenAt": "2026-11-23T04:36:36.271Z",
       "lastSeenAt": "2026-11-23T04:36:36.271Z",
-      "lastPublishedAt": null,
+      "lastPublishedAt": "2026-11-23T04:36:36.271Z",
       "publishCount": 0,
       "isArchived": true
     },
@@ -64,7 +174,7 @@
       "publicationNumber": null,
       "firstSeenAt": "2026-11-23T04:36:36.271Z",
       "lastSeenAt": "2026-11-23T04:36:36.271Z",
-      "lastPublishedAt": null,
+      "lastPublishedAt": "2026-11-23T04:36:36.271Z",
       "publishCount": 0,
       "isArchived": true
     },
@@ -86,7 +196,7 @@
       "publicationNumber": null,
       "firstSeenAt": "2026-11-23T04:36:36.271Z",
       "lastSeenAt": "2026-11-23T04:36:36.271Z",
-      "lastPublishedAt": null,
+      "lastPublishedAt": "2026-11-23T04:36:36.271Z",
       "publishCount": 0,
       "isArchived": true
     },
@@ -108,7 +218,7 @@
       "publicationNumber": null,
       "firstSeenAt": "2026-11-23T04:36:36.271Z",
       "lastSeenAt": "2026-11-23T04:36:36.271Z",
-      "lastPublishedAt": null,
+      "lastPublishedAt": "2026-11-23T04:36:36.271Z",
       "publishCount": 0,
       "isArchived": true
     },
@@ -130,7 +240,7 @@
       "publicationNumber": null,
       "firstSeenAt": "2026-11-23T04:36:36.271Z",
       "lastSeenAt": "2026-11-23T04:36:36.271Z",
-      "lastPublishedAt": null,
+      "lastPublishedAt": "2026-11-23T04:36:36.271Z",
       "publishCount": 0,
       "isArchived": true
     },
@@ -152,7 +262,7 @@
       "publicationNumber": null,
       "firstSeenAt": "2026-11-23T04:36:36.271Z",
       "lastSeenAt": "2026-11-23T04:36:36.271Z",
-      "lastPublishedAt": null,
+      "lastPublishedAt": "2026-11-23T04:36:36.271Z",
       "publishCount": 0,
       "isArchived": true
     },
@@ -198,7 +308,7 @@
       "lastSeenAt": "2026-11-23T04:36:36.271Z",
       "lastPublishedAt": "2026-11-23T04:36:36.271Z",
       "publishCount": 3,
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hd9462719",
@@ -220,7 +330,7 @@
       "lastSeenAt": "2026-11-23T04:36:36.271Z",
       "lastPublishedAt": "2026-11-23T04:36:36.271Z",
       "publishCount": 3,
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hbfd05a8",
@@ -242,7 +352,7 @@
       "lastSeenAt": "2026-11-23T04:36:36.271Z",
       "lastPublishedAt": "2026-11-23T04:36:36.271Z",
       "publishCount": 3,
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hb16ea87f",
@@ -264,7 +374,7 @@
       "lastSeenAt": "2026-11-23T04:36:36.271Z",
       "lastPublishedAt": "2026-11-23T04:36:36.271Z",
       "publishCount": 3,
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hccae7624",
@@ -286,7 +396,7 @@
       "lastSeenAt": "2026-11-23T04:36:36.271Z",
       "lastPublishedAt": "2026-11-23T04:36:36.271Z",
       "publishCount": 3,
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "h924efd54",
@@ -308,7 +418,7 @@
       "lastSeenAt": "2026-11-23T04:36:36.271Z",
       "lastPublishedAt": "2026-11-23T04:36:36.271Z",
       "publishCount": 3,
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hec961395",
@@ -330,7 +440,7 @@
       "lastSeenAt": "2026-11-23T04:36:36.271Z",
       "lastPublishedAt": "2026-11-23T04:36:36.271Z",
       "publishCount": 3,
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "ha8828121",
@@ -396,7 +506,7 @@
       "lastSeenAt": "2026-11-23T04:36:36.271Z",
       "lastPublishedAt": "2026-11-23T04:36:36.271Z",
       "publishCount": 3,
-      "isArchived": false
+      "isArchived": true
     },
     {
       "id": "hb37b11bd",
@@ -418,116 +528,6 @@
       "lastSeenAt": "2026-11-23T04:36:36.271Z",
       "lastPublishedAt": "2026-11-23T04:36:36.271Z",
       "publishCount": 3,
-      "isArchived": false
-    },
-    {
-      "id": "h78c3aa06",
-      "sourceId": "usaid",
-      "title": "Climate Program Office FY 2027 - Super Intelligence/Machine Learning Innovation to Advance NOAA's Earth System Science and Support Hazard Resilience",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2027-02-09T00:00:00.000Z",
-      "amount": 750000,
-      "currency": "USD",
-      "amountUsd": 750000,
-      "scoreTotal": 14,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/364160",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-10-28T02:56:59.346Z",
-      "lastSeenAt": "2026-11-23T04:36:36.271Z",
-      "lastPublishedAt": "2026-11-23T04:36:36.271Z",
-      "publishCount": 77,
-      "isArchived": false
-    },
-    {
-      "id": "h68603f42",
-      "sourceId": "usaid",
-      "title": "Institute of Education Sciences (IES): National Center for Special Education Research (NCSER): Transformative Research in Special Education, Assistance Listing Number (ALN) 84.324T",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2026-12-11T00:00:00.000Z",
-      "amount": 3750000,
-      "currency": "USD",
-      "amountUsd": 3750000,
-      "scoreTotal": 13,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/364087",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-10-16T20:14:29.817Z",
-      "lastSeenAt": "2026-11-23T04:36:36.271Z",
-      "lastPublishedAt": "2026-11-20T00:01:08.781Z",
-      "publishCount": 91,
-      "isArchived": true
-    },
-    {
-      "id": "h40b35418",
-      "sourceId": "usaid",
-      "title": "Improving Undergraduate STEM Education: Directorate for STEM Education (IUSE: EDU)",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2027-01-20T00:00:00.000Z",
-      "amount": 2000000,
-      "currency": "USD",
-      "amountUsd": 2000000,
-      "scoreTotal": 13,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/344124",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-09-22T02:18:02.240Z",
-      "lastSeenAt": "2026-11-23T04:36:36.271Z",
-      "lastPublishedAt": "2026-11-20T00:01:08.781Z",
-      "publishCount": 143,
-      "isArchived": true
-    },
-    {
-      "id": "he69c4641",
-      "sourceId": "usaid",
-      "title": "Tribal Colleges and Universities Program (TCUP)",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2027-01-11T00:00:00.000Z",
-      "amount": 3500000,
-      "currency": "USD",
-      "amountUsd": 3500000,
-      "scoreTotal": 16,
-      "recommendation": "Aplicar con alianza",
-      "isViable": true,
-      "url": "https://www.grants.gov/search-results-detail/334326",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-09-15T01:39:47.404Z",
-      "lastSeenAt": "2026-11-23T04:36:36.271Z",
-      "lastPublishedAt": "2026-11-20T00:01:08.781Z",
-      "publishCount": 156,
-      "isArchived": true
-    },
-    {
-      "id": "h5bba99f",
-      "sourceId": "usaid",
-      "title": "Training-based Workforce Development for Advanced Cyberinfrastructure",
-      "source": "USAID",
-      "sourceTier": "internacional",
-      "region": "USA",
-      "deadline": "2027-01-21T00:00:00.000Z",
-      "amount": 1000000,
-      "currency": "USD",
-      "amountUsd": 1000000,
-      "scoreTotal": 14,
-      "recommendation": "No aplicar",
-      "isViable": false,
-      "url": "https://www.grants.gov/search-results-detail/344608",
-      "publicationNumber": null,
-      "firstSeenAt": "2026-09-15T01:36:43.505Z",
-      "lastSeenAt": "2026-11-23T04:36:36.271Z",
-      "lastPublishedAt": "2026-11-20T00:01:08.781Z",
-      "publishCount": 142,
       "isArchived": true
     },
     {
@@ -5503,5 +5503,5 @@
       "isArchived": true
     }
   ],
-  "message": "Historico acumulado del agente UCI-F. Total: 250 | Archivadas: 240"
+  "message": "Historico acumulado del agente UCI-F. Total: 250 | Archivadas: 245"
 }
