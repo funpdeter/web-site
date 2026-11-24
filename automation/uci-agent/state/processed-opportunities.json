@@ -4666,17 +4666,127 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-23T04-36-36-264Z_secop-ii_mantenimiento-impresoras-3d-y-cortadoras-laser"
+    },
+    "hd491440": {
+      "at": "2026-11-24T03:35:19.302Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11247326",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-24T03-35-19-292Z_secop-ii_suministro-de-tiquetes-aereos-en-rutas-nacionales-"
+    },
+    "hd9e364c0": {
+      "at": "2026-11-24T03:35:19.302Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11259619",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-24T03-35-19-302Z_secop-ii_adquisicion-de-mobiliario-para-la-adeucacion-para-"
+    },
+    "hd77406a1": {
+      "at": "2026-11-24T03:35:19.303Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11246674",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-24T03-35-19-303Z_secop-ii_elementos-de-aseo-adulto-mayor-presentacion-de-ofe"
+    },
+    "h79371855": {
+      "at": "2026-11-24T03:35:19.303Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11193453",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-24T03-35-19-303Z_secop-ii_compraventa"
+    },
+    "h74ef60c0": {
+      "at": "2026-11-24T03:35:19.304Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11247281",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-24T03-35-19-303Z_secop-ii_aunar-esfuerzos-tecnicos-logisticos-administrativo"
+    },
+    "he53fbc8d": {
+      "at": "2026-11-24T03:35:19.304Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11216752",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-24T03-35-19-304Z_secop-ii_seleccion-abreviada-de-menor-cuantia"
+    },
+    "hdfc7bd7e": {
+      "at": "2026-11-24T03:35:19.304Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11203795",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-24T03-35-19-304Z_secop-ii_inpec-2026"
+    },
+    "hd8793cb5": {
+      "at": "2026-11-24T03:35:19.304Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11240580",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-24T03-35-19-304Z_secop-ii_seleccion-abreviada-de-menor-cuantia-manifestacion"
+    },
+    "h9aa8515": {
+      "at": "2026-11-24T03:35:19.305Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11254220",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-24T03-35-19-304Z_secop-ii_implementar-acciones-estrategicas-para-el-fortalec"
+    },
+    "hd9992e7a": {
+      "at": "2026-11-24T03:35:19.305Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11244790",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-24T03-35-19-305Z_secop-ii_compraventa-presentacion-de-oferta"
+    },
+    "hbd90613f": {
+      "at": "2026-11-24T03:35:19.305Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11261226",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-24T03-35-19-305Z_secop-ii_seleccion-abreviada-de-menor-cuantia-manifestacion"
+    },
+    "h27abe3d5": {
+      "at": "2026-11-24T03:35:19.305Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11241257",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hdb3a4709": {
+      "at": "2026-11-24T03:35:19.305Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11242595",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hd6afcd61": {
+      "at": "2026-11-24T03:35:19.306Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11245572",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-24T03-35-19-305Z_secop-ii_adquisicion-de-bienes-de-consumo-para-contribuir-a"
+    },
+    "hd81c7cb9": {
+      "at": "2026-11-24T03:35:19.306Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11246537",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-24T03-35-19-306Z_secop-ii_suministro-de-elementos-e-insumos-para-la-adecuaci"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-11-12T22:57:02.888Z",
-      "endedAt": "2026-11-12T22:57:59.821Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-11-13T03:57:39.436Z",
       "endedAt": "2026-11-13T03:58:36.002Z",
@@ -4906,6 +5016,14 @@
       "endedAt": "2026-11-23T16:46:36.318Z",
       "scannedCandidates": 5,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-24T03:34:32.753Z",
+      "endedAt": "2026-11-24T03:35:19.314Z",
+      "scannedCandidates": 21,
+      "viableCandidates": 13,
       "sentNotifications": 0,
       "transport": "console"
     }
