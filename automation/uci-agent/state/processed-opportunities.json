@@ -4784,17 +4784,27 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-24T03-35-19-306Z_secop-ii_suministro-de-elementos-e-insumos-para-la-adecuaci"
+    },
+    "h54c708ff": {
+      "at": "2026-11-24T16:40:33.119Z",
+      "sourceId": "mintic",
+      "url": "https://mintic.gov.co/micrositios/convocatoriastv2026/894/articles-439330_Resolucion_FuTIC_00251_del_2026.pdf",
+      "viable": false
+    },
+    "h542c5576": {
+      "at": "2026-11-24T16:40:33.445Z",
+      "sourceId": "mintic",
+      "url": "https://normograma.mintic.gov.co/mintic/compilacion/docs/circular_procuraduria_0009_2025.htm",
+      "viable": false
+    },
+    "heeb045e7": {
+      "at": "2026-11-24T16:40:36.286Z",
+      "sourceId": "minambiente",
+      "url": "https://www.minambiente.gov.co/minambiente-convoca-a-zoologicos-y-bioparques-del-pais-a-encontrar-espacios-para-los-hipopotamos-invasores",
+      "viable": false
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-11-13T03:57:39.436Z",
-      "endedAt": "2026-11-13T03:58:36.002Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-11-13T13:35:07.869Z",
       "endedAt": "2026-11-13T13:36:21.457Z",
@@ -5024,6 +5034,14 @@
       "endedAt": "2026-11-24T03:35:19.314Z",
       "scannedCandidates": 21,
       "viableCandidates": 13,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-24T16:40:07.405Z",
+      "endedAt": "2026-11-24T16:41:14.874Z",
+      "scannedCandidates": 5,
+      "viableCandidates": 0,
       "sentNotifications": 0,
       "transport": "console"
     }
