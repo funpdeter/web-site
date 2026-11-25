@@ -4802,17 +4802,135 @@
       "sourceId": "minambiente",
       "url": "https://www.minambiente.gov.co/minambiente-convoca-a-zoologicos-y-bioparques-del-pais-a-encontrar-espacios-para-los-hipopotamos-invasores",
       "viable": false
+    },
+    "hfb3f872b": {
+      "at": "2026-11-25T01:44:05.425Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11222155",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-25T01-44-05-415Z_secop-ii_adquisicion-de-equipos-tecnologicos-de-procesamien"
+    },
+    "heae065f": {
+      "at": "2026-11-25T01:44:05.426Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11210288",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-25T01-44-05-425Z_secop-ii_adquisicion-de-equipos-de-tecnologia-insumos-de-im"
+    },
+    "h986b0cbb": {
+      "at": "2026-11-25T01:44:05.426Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11246922",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-25T01-44-05-426Z_secop-ii_mantenimiento-de-vehiculos-infraestructura-present"
+    },
+    "h3dc62d6d": {
+      "at": "2026-11-25T01:44:05.426Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11147290",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-25T01-44-05-426Z_secop-ii_construccion-de-la-escuela-gabriela-mistral-sede-b"
+    },
+    "hf0dbfd5f": {
+      "at": "2026-11-25T01:44:05.427Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11156311",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-25T01-44-05-427Z_secop-ii_mantenimiento-de-vehiculos-infraestructura"
+    },
+    "hdad48192": {
+      "at": "2026-11-25T01:44:05.427Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11203768",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-25T01-44-05-427Z_secop-ii_salon-comunal-rio-frio"
+    },
+    "hf6b98e60": {
+      "at": "2026-11-25T01:44:05.427Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11253424",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-25T01-44-05-427Z_secop-ii_adquisicion-de-equipos-de-tecnologia-insumos-de-im"
+    },
+    "h65a615e7": {
+      "at": "2026-11-25T01:44:05.428Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11250594",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-25T01-44-05-427Z_secop-ii_compraventa-presentacion-de-oferta"
+    },
+    "h1c0ab0a5": {
+      "at": "2026-11-25T01:44:05.428Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11210332",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-25T01-44-05-428Z_secop-ii_suministro-de-elementos-de-proteccion-personal-par"
+    },
+    "h3437f50f": {
+      "at": "2026-11-25T01:44:05.428Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11245475",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-25T01-44-05-428Z_secop-ii_salon-comunal-rio-frio-manifestacion-de-interes-me"
+    },
+    "he04b9809": {
+      "at": "2026-11-25T01:44:05.429Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11242528",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-25T01-44-05-428Z_secop-ii_construccion-de-la-escuela-gabriela-mistral-sede-b"
+    },
+    "hdc86aae9": {
+      "at": "2026-11-25T01:44:05.429Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11204320",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-25T01-44-05-429Z_secop-ii_compraventa"
+    },
+    "hab1f22ca": {
+      "at": "2026-11-25T01:44:05.429Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11258351",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h82883080": {
+      "at": "2026-11-25T01:44:05.429Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11197267",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-25T01-44-05-429Z_secop-ii_convites"
+    },
+    "h16643ba3": {
+      "at": "2026-11-25T01:44:05.429Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11240825",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h878e712f": {
+      "at": "2026-11-25T01:44:05.429Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11210253",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-25T01-44-05-429Z_secop-ii_construccion-de-alcantarillado-y-sistemas-de-trata"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-11-13T13:35:07.869Z",
-      "endedAt": "2026-11-13T13:36:21.457Z",
-      "scannedCandidates": 8,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-11-13T22:59:12.616Z",
       "endedAt": "2026-11-13T23:00:35.823Z",
@@ -5042,6 +5160,14 @@
       "endedAt": "2026-11-24T16:41:14.874Z",
       "scannedCandidates": 5,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-25T01:43:20.806Z",
+      "endedAt": "2026-11-25T01:44:05.437Z",
+      "scannedCandidates": 21,
+      "viableCandidates": 14,
       "sentNotifications": 0,
       "transport": "console"
     }
