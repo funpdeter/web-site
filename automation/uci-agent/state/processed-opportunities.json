@@ -4928,17 +4928,102 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-25T01-44-05-429Z_secop-ii_construccion-de-alcantarillado-y-sistemas-de-trata"
+    },
+    "h9efa02b4": {
+      "at": "2026-11-26T01:17:56.466Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11255453",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h56d16512": {
+      "at": "2026-11-26T01:17:56.476Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11227744",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-26T01-17-56-467Z_secop-ii_sasi-006-de-2026"
+    },
+    "hb7387f12": {
+      "at": "2026-11-26T01:17:56.477Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11210449",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-26T01-17-56-476Z_secop-ii_rehabilitacion-vial-la-concepcion"
+    },
+    "hdfee500e": {
+      "at": "2026-11-26T01:17:56.477Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11260280",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-26T01-17-56-477Z_secop-ii_inpec-2026-presentacion-de-oferta"
+    },
+    "hd5c387d5": {
+      "at": "2026-11-26T01:17:56.478Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11252446",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-26T01-17-56-477Z_secop-ii_rehabilitacion-vial-la-concepcion-manifestacion-de"
+    },
+    "h95c85bc0": {
+      "at": "2026-11-26T01:17:56.478Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11247542",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-26T01-17-56-478Z_secop-ii_licitacion-aseo-2026-presentacion-de-oferta"
+    },
+    "h2f57697": {
+      "at": "2026-11-26T01:17:56.479Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11260764",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-26T01-17-56-478Z_secop-ii_suministro-de-elementos-para-dar-cumplimiento-al-c"
+    },
+    "hfed6cb33": {
+      "at": "2026-11-26T01:17:56.479Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11223509",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hc7331b2d": {
+      "at": "2026-11-26T01:17:56.479Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11266463",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-26T01-17-56-479Z_secop-ii_contratar-el-mantenimiento-preventivo-y-correctivo"
+    },
+    "hd61b4cf0": {
+      "at": "2026-11-26T01:17:56.479Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11258021",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hd8a8f58b": {
+      "at": "2026-11-26T01:17:56.480Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11258767",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-26T01-17-56-479Z_secop-ii_servicio-de-alimentacion-hidratacion-y-alojamiento"
+    },
+    "hab5d5a4f": {
+      "at": "2026-11-26T01:17:56.480Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11261176",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-26T01-17-56-480Z_secop-ii_contratar-la-prestacion-de-servicios-de-examenes-o"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-11-14T03:56:15.811Z",
-      "endedAt": "2026-11-14T03:57:58.384Z",
-      "scannedCandidates": 22,
-      "viableCandidates": 11,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-11-14T12:40:17.232Z",
       "endedAt": "2026-11-14T12:41:18.224Z",
@@ -5168,6 +5253,14 @@
       "endedAt": "2026-11-25T16:24:18.034Z",
       "scannedCandidates": 5,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-26T01:16:45.950Z",
+      "endedAt": "2026-11-26T01:17:56.487Z",
+      "scannedCandidates": 21,
+      "viableCandidates": 9,
       "sentNotifications": 0,
       "transport": "console"
     }
