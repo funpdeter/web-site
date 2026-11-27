@@ -5021,17 +5021,135 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-26T01-17-56-480Z_secop-ii_contratar-la-prestacion-de-servicios-de-examenes-o"
+    },
+    "h83997018": {
+      "at": "2026-11-27T01:16:14.345Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11272331",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-27T01-16-14-332Z_secop-ii_dotacion-de-elementos-tecnologico-y-mobiliario-par"
+    },
+    "h4ee31190": {
+      "at": "2026-11-27T01:16:14.346Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11238759",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-27T01-16-14-345Z_secop-ii_tarjetas-de-incentivo-manifestacion-de-interes-men"
+    },
+    "h76716f99": {
+      "at": "2026-11-27T01:16:14.346Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11218026",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-27T01-16-14-346Z_secop-ii_tarjetas-de-incentivo-manifestacion-de-interes-men"
+    },
+    "h5508590c": {
+      "at": "2026-11-27T01:16:14.346Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11257631",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h43c8c404": {
+      "at": "2026-11-27T01:16:14.347Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11246084",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-27T01-16-14-347Z_secop-ii_recuperacion-ecologica-de-ecosistemas-en-areas-deg"
+    },
+    "hf791578b": {
+      "at": "2026-11-27T01:16:14.347Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11219702",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "he8491225": {
+      "at": "2026-11-27T01:16:14.348Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11183405",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-27T01-16-14-347Z_secop-ii_lic-obra-004-de-2026"
+    },
+    "h5d42dffc": {
+      "at": "2026-11-27T01:16:14.348Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11269186",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-27T01-16-14-348Z_secop-ii_aunar-esfuerzos-tecnicos-financieros-y-logisticos-"
+    },
+    "h3cfc2f02": {
+      "at": "2026-11-27T01:16:14.348Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11259110",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-27T01-16-14-348Z_secop-ii_rehabilitacion-vial-algarra-ii-manifestacion-de-in"
+    },
+    "h6d6f2b85": {
+      "at": "2026-11-27T01:16:14.349Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11217438",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-27T01-16-14-348Z_secop-ii_rehabilitacion-vial-san-pablo"
+    },
+    "hfe4d5403": {
+      "at": "2026-11-27T01:16:14.349Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11217177",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-27T01-16-14-349Z_secop-ii_rehabilitacion-vial-algarra-ii"
+    },
+    "hcbd6a99": {
+      "at": "2026-11-27T01:16:14.349Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11252370",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-27T01-16-14-349Z_secop-ii_servicios-medico-veterinarios-y-logisticos-centro-"
+    },
+    "h48c773c9": {
+      "at": "2026-11-27T01:16:14.350Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11271874",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-27T01-16-14-349Z_secop-ii_plaza-de-mercado"
+    },
+    "h890dc28d": {
+      "at": "2026-11-27T01:16:14.350Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11235320",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-27T01-16-14-350Z_secop-ii_sasi-007-de-2026"
+    },
+    "h2bd458f7": {
+      "at": "2026-11-27T01:16:14.350Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11253146",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-27T01-16-14-350Z_secop-ii_lic-obra-004-de-2026-fase-de-seleccion-presentacio"
+    },
+    "h50a7109b": {
+      "at": "2026-11-27T01:16:14.350Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11268579",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-27T01-16-14-350Z_secop-ii_prestacion-de-servicios-para-el-mejoramiento-de-la"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-11-14T21:46:41.658Z",
-      "endedAt": "2026-11-14T21:48:01.985Z",
-      "scannedCandidates": 22,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-11-15T03:40:04.995Z",
       "endedAt": "2026-11-15T03:41:39.094Z",
@@ -5261,6 +5379,14 @@
       "endedAt": "2026-11-26T15:59:04.266Z",
       "scannedCandidates": 5,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-27T01:15:01.639Z",
+      "endedAt": "2026-11-27T01:16:14.361Z",
+      "scannedCandidates": 21,
+      "viableCandidates": 14,
       "sentNotifications": 0,
       "transport": "console"
     }
