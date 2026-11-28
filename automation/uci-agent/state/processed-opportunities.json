@@ -5147,17 +5147,130 @@
       "viable": true,
       "emailMode": "console",
       "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-27T01-16-14-350Z_secop-ii_prestacion-de-servicios-para-el-mejoramiento-de-la"
+    },
+    "ha4cf520d": {
+      "at": "2026-11-28T00:48:47.685Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11231139",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-28T00-48-47-671Z_secop-ii_interventoria-tecnica-administrativa-financiera-ju"
+    },
+    "hf5d426f4": {
+      "at": "2026-11-28T00:48:47.686Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11275701",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-28T00-48-47-686Z_secop-ii_interventoria-tecnica-administrativa-financiera-ju"
+    },
+    "h53f6ee6c": {
+      "at": "2026-11-28T00:48:47.687Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11247087",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-28T00-48-47-686Z_secop-ii_adquisicion-de-insumos-criticos-para-el-fortalecim"
+    },
+    "h4addd2c3": {
+      "at": "2026-11-28T00:48:47.688Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11203828",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-28T00-48-47-687Z_secop-ii_prestacion-de-servicios-para-la-organizacion-admin"
+    },
+    "h96b8bf07": {
+      "at": "2026-11-28T00:48:47.689Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11240951",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-28T00-48-47-688Z_secop-ii_prestacion-del-servicio-para-el-alquiler-y-operaci"
+    },
+    "hdd11a95d": {
+      "at": "2026-11-28T00:48:47.690Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11254619",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-28T00-48-47-689Z_secop-ii_prestar-los-servicios-de-vigilancia-y-seguridad-pr"
+    },
+    "h92ff9d6": {
+      "at": "2026-11-28T00:48:47.690Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11273846",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h1604d68f": {
+      "at": "2026-11-28T00:48:47.690Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11212686",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h364c88a1": {
+      "at": "2026-11-28T00:48:47.690Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11273054",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hd00a82b3": {
+      "at": "2026-11-28T00:48:47.690Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11212871",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "he6a1715c": {
+      "at": "2026-11-28T00:48:47.691Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11271068",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h3b325bb9": {
+      "at": "2026-11-28T00:48:47.691Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11242814",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-28T00-48-47-691Z_secop-ii_estudios-y-disenos-para-el-mejoramiento-de-vias-se"
+    },
+    "hd1da62f5": {
+      "at": "2026-11-28T00:48:47.692Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11255797",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-28T00-48-47-691Z_secop-ii_interventoria-estudios-y-disenos-consultorias-mejo"
+    },
+    "h21c5ba92": {
+      "at": "2026-11-28T00:48:47.692Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11258526",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h306ce543": {
+      "at": "2026-11-28T00:48:47.692Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11242702",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-28T00-48-47-692Z_secop-ii_contrato-interadministrativo-de-mandato-sin-repres"
+    },
+    "h553a0e9": {
+      "at": "2026-11-28T00:48:47.692Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11272541",
+      "viable": false,
+      "reason": "Aplicar con alianza"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-11-15T13:06:14.436Z",
-      "endedAt": "2026-11-15T13:07:10.927Z",
-      "scannedCandidates": 6,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-11-15T22:14:52.362Z",
       "endedAt": "2026-11-15T22:15:57.985Z",
@@ -5387,6 +5500,14 @@
       "endedAt": "2026-11-27T15:47:08.675Z",
       "scannedCandidates": 5,
       "viableCandidates": 0,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-28T00:47:52.523Z",
+      "endedAt": "2026-11-28T00:48:47.704Z",
+      "scannedCandidates": 21,
+      "viableCandidates": 9,
       "sentNotifications": 0,
       "transport": "console"
     }
