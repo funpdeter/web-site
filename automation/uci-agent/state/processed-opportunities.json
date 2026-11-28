@@ -5268,17 +5268,91 @@
       "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11272541",
       "viable": false,
       "reason": "Aplicar con alianza"
+    },
+    "h37231feb": {
+      "at": "2026-11-28T14:43:21.546Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11283231",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-28T14-43-21-536Z_secop-ii_adquisicion-de-un-minicargador-bocato-para-la-aten"
+    },
+    "hdca8ba83": {
+      "at": "2026-11-28T14:43:21.546Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11280564",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h7ba79692": {
+      "at": "2026-11-28T14:43:21.547Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11282680",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-28T14-43-21-546Z_secop-ii_estudios-y-disenos-para-el-mejoramiento-de-vias-se"
+    },
+    "h822288b3": {
+      "at": "2026-11-28T14:43:21.547Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11282827",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-28T14-43-21-547Z_secop-ii_insumos-agropecuarios-presentacion-de-oferta"
+    },
+    "h82835985": {
+      "at": "2026-11-28T14:43:21.547Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11278338",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "ha12b2c34": {
+      "at": "2026-11-28T14:43:21.547Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11280147",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hd381693d": {
+      "at": "2026-11-28T14:43:21.547Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11280870",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h1a4ff3c3": {
+      "at": "2026-11-28T14:43:21.547Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11279890",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "hb96ecd76": {
+      "at": "2026-11-28T14:43:21.548Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11269764",
+      "viable": false,
+      "reason": "Aplicar con alianza"
+    },
+    "h41a0361a": {
+      "at": "2026-11-28T14:43:21.548Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11252128",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-28T14-43-21-548Z_secop-ii_la-adquisicion-de-sistema-de-proteccion-antifragme"
+    },
+    "h76d2f9a7": {
+      "at": "2026-11-28T14:43:21.548Z",
+      "sourceId": "secop-ii",
+      "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11240461",
+      "viable": true,
+      "emailMode": "console",
+      "packageDir": "/home/runner/work/web-site/web-site/automation/uci-agent/output/2026/2026-11-28T14-43-21-548Z_secop-ii_insumos-agricolas"
     }
   },
   "scans": [
-    {
-      "startedAt": "2026-11-15T22:14:52.362Z",
-      "endedAt": "2026-11-15T22:15:57.985Z",
-      "scannedCandidates": 6,
-      "viableCandidates": 0,
-      "sentNotifications": 0,
-      "transport": "console"
-    },
     {
       "startedAt": "2026-11-16T14:13:13.391Z",
       "endedAt": "2026-11-16T14:14:10.044Z",
@@ -5508,6 +5582,14 @@
       "endedAt": "2026-11-28T00:48:47.704Z",
       "scannedCandidates": 21,
       "viableCandidates": 9,
+      "sentNotifications": 0,
+      "transport": "console"
+    },
+    {
+      "startedAt": "2026-11-28T14:42:14.250Z",
+      "endedAt": "2026-11-28T14:43:21.558Z",
+      "scannedCandidates": 21,
+      "viableCandidates": 5,
       "sentNotifications": 0,
       "transport": "console"
     }
